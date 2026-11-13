@@ -1,0 +1,53 @@
+{
+  "date": "2026-01-30",
+  "generated": "2026-11-13T21:20:20+00:00",
+  "picks": [
+    {
+      "time": "13:20",
+      "meeting": "Ffos Las",
+      "race": "tigerbet.co.uk Price Boosts Maiden Hurdle (GBB Race)",
+      "horse": "Tommy Pickles",
+      "stars": 4,
+      "odds": "9/2",
+      "dec": 5.5,
+      "res": "PLACE",
+      "pos": 2,
+      "score1": 186.81,
+      "score2": 77.0
+    }
+  ],
+  "combos": [
+    {
+      "size": 1,
+      "legs": [
+        {
+          "horse": "Tommy Pickles",
+          "odds": "9/2",
+          "res": "PLACE"
+        }
+      ],
+      "dec": 5.5,
+      "res": "LOSE",
+      "ret": 0.0
+    }
+  ],
+  "score": {
+    "picks": 1,
+    "lines": 1,
+    "won": 0,
+    "lost": 1,
+    "pending": 0
+  },
+  "units": {
+    "staked": 1,
+    "returned": 0.0
+  },
+  "by_size": {
+    "1": {
+      "n": 1,
+      "won": 0,
+      "lines": 1,
+      "returned": 0.0
+    }
+  }
+}

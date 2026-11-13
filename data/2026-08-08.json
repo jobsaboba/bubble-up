@@ -1,0 +1,103 @@
+{
+  "date": "2026-08-08",
+  "generated": "2026-11-13T21:20:20+00:00",
+  "picks": [
+    {
+      "time": "17:00",
+      "meeting": "Ayr",
+      "race": "Sunday Roast At Western House Hotel Handicap",
+      "horse": "Harb",
+      "stars": 3,
+      "odds": "4/1",
+      "dec": 5.0,
+      "res": "LOSE",
+      "pos": 5,
+      "score1": 98.0,
+      "score2": 33
+    },
+    {
+      "time": "19:00",
+      "meeting": "Ayr",
+      "race": "Book The Ladbrokes Ayr Gold Cup Handicap",
+      "horse": "Runninsonofagun",
+      "stars": 4,
+      "odds": "4/1",
+      "dec": 5.0,
+      "res": "PLACE",
+      "pos": 2,
+      "score1": 85.0,
+      "score2": 33
+    }
+  ],
+  "combos": [
+    {
+      "size": 1,
+      "legs": [
+        {
+          "horse": "Harb",
+          "odds": "4/1",
+          "res": "LOSE"
+        }
+      ],
+      "dec": 5.0,
+      "res": "LOSE",
+      "ret": 0.0
+    },
+    {
+      "size": 1,
+      "legs": [
+        {
+          "horse": "Runninsonofagun",
+          "odds": "4/1",
+          "res": "PLACE"
+        }
+      ],
+      "dec": 5.0,
+      "res": "LOSE",
+      "ret": 0.0
+    },
+    {
+      "size": 2,
+      "legs": [
+        {
+          "horse": "Harb",
+          "odds": "4/1",
+          "res": "LOSE"
+        },
+        {
+          "horse": "Runninsonofagun",
+          "odds": "4/1",
+          "res": "PLACE"
+        }
+      ],
+      "dec": 25.0,
+      "res": "LOSE",
+      "ret": 0.0
+    }
+  ],
+  "score": {
+    "picks": 2,
+    "lines": 3,
+    "won": 0,
+    "lost": 3,
+    "pending": 0
+  },
+  "units": {
+    "staked": 3,
+    "returned": 0.0
+  },
+  "by_size": {
+    "1": {
+      "n": 2,
+      "won": 0,
+      "lines": 2,
+      "returned": 0.0
+    },
+    "2": {
+      "n": 1,
+      "won": 0,
+      "lines": 1,
+      "returned": 0.0
+    }
+  }
+}

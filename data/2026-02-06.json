@@ -1,0 +1,46 @@
+{
+  "date": "2026-02-06",
+  "generated": "2026-11-13T21:20:20+00:00",
+  "picks": [
+    {
+      "time": "14:57",
+      "meeting": "Bangor-on-Dee",
+      "race": "HRS Cladding Maiden Hurdle (GBB Race)",
+      "horse": "Big Cadillac",
+      "stars": 5,
+      "odds": "7/4",
+      "dec": 2.75,
+      "res": null,
+      "pos": 0,
+      "score1": 140.78,
+      "score2": 65.69
+    }
+  ],
+  "combos": [
+    {
+      "size": 1,
+      "legs": [
+        {
+          "horse": "Big Cadillac",
+          "odds": "7/4",
+          "res": "?"
+        }
+      ],
+      "dec": 2.75,
+      "res": "PENDING",
+      "ret": null
+    }
+  ],
+  "score": {
+    "picks": 1,
+    "lines": 1,
+    "won": 0,
+    "lost": 0,
+    "pending": 1
+  },
+  "units": {
+    "staked": 0,
+    "returned": 0
+  },
+  "by_size": {}
+}

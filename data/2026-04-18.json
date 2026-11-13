@@ -1,0 +1,194 @@
+{
+  "date": "2026-04-18",
+  "generated": "2026-11-13T21:20:20+00:00",
+  "picks": [
+    {
+      "time": "12:17",
+      "meeting": "Bangor-on-Dee",
+      "race": "Broxton Gates Novices' Hurdle (GBB Race)",
+      "horse": "Senator",
+      "stars": 5,
+      "odds": "1/1",
+      "dec": 2.0,
+      "res": "PLACE",
+      "pos": 2,
+      "score1": 198.81,
+      "score2": 67.34
+    },
+    {
+      "time": "12:52",
+      "meeting": "Bangor-on-Dee",
+      "race": "Gieves & Hawkes Novices' Handicap Chase",
+      "horse": "Streamsforth Lad",
+      "stars": 5,
+      "odds": "13/8",
+      "dec": 2.625,
+      "res": "PLACE",
+      "pos": 3,
+      "score1": 96.81,
+      "score2": 42
+    },
+    {
+      "time": "15:42",
+      "meeting": "Bangor-on-Dee",
+      "race": "Overton Handicap Hurdle",
+      "horse": "Dwight K Schrute",
+      "stars": 5,
+      "odds": "3/1",
+      "dec": 4.0,
+      "res": "LOSE",
+      "pos": 5,
+      "score1": 176.81,
+      "score2": 53.54
+    }
+  ],
+  "combos": [
+    {
+      "size": 1,
+      "legs": [
+        {
+          "horse": "Senator",
+          "odds": "1/1",
+          "res": "PLACE"
+        }
+      ],
+      "dec": 2.0,
+      "res": "LOSE",
+      "ret": 0.0
+    },
+    {
+      "size": 1,
+      "legs": [
+        {
+          "horse": "Streamsforth Lad",
+          "odds": "13/8",
+          "res": "PLACE"
+        }
+      ],
+      "dec": 2.62,
+      "res": "LOSE",
+      "ret": 0.0
+    },
+    {
+      "size": 1,
+      "legs": [
+        {
+          "horse": "Dwight K Schrute",
+          "odds": "3/1",
+          "res": "LOSE"
+        }
+      ],
+      "dec": 4.0,
+      "res": "LOSE",
+      "ret": 0.0
+    },
+    {
+      "size": 2,
+      "legs": [
+        {
+          "horse": "Senator",
+          "odds": "1/1",
+          "res": "PLACE"
+        },
+        {
+          "horse": "Streamsforth Lad",
+          "odds": "13/8",
+          "res": "PLACE"
+        }
+      ],
+      "dec": 5.25,
+      "res": "LOSE",
+      "ret": 0.0
+    },
+    {
+      "size": 2,
+      "legs": [
+        {
+          "horse": "Senator",
+          "odds": "1/1",
+          "res": "PLACE"
+        },
+        {
+          "horse": "Dwight K Schrute",
+          "odds": "3/1",
+          "res": "LOSE"
+        }
+      ],
+      "dec": 8.0,
+      "res": "LOSE",
+      "ret": 0.0
+    },
+    {
+      "size": 2,
+      "legs": [
+        {
+          "horse": "Streamsforth Lad",
+          "odds": "13/8",
+          "res": "PLACE"
+        },
+        {
+          "horse": "Dwight K Schrute",
+          "odds": "3/1",
+          "res": "LOSE"
+        }
+      ],
+      "dec": 10.5,
+      "res": "LOSE",
+      "ret": 0.0
+    },
+    {
+      "size": 3,
+      "legs": [
+        {
+          "horse": "Senator",
+          "odds": "1/1",
+          "res": "PLACE"
+        },
+        {
+          "horse": "Streamsforth Lad",
+          "odds": "13/8",
+          "res": "PLACE"
+        },
+        {
+          "horse": "Dwight K Schrute",
+          "odds": "3/1",
+          "res": "LOSE"
+        }
+      ],
+      "dec": 21.0,
+      "res": "LOSE",
+      "ret": 0.0
+    }
+  ],
+  "score": {
+    "picks": 3,
+    "lines": 7,
+    "won": 0,
+    "lost": 7,
+    "pending": 0
+  },
+  "units": {
+    "staked": 7,
+    "returned": 0.0
+  },
+  "by_size": {
+    "1": {
+      "n": 3,
+      "won": 0,
+      "lines": 3,
+      "returned": 0.0
+    },
+    "2": {
+      "n": 3,
+      "won": 0,
+      "lines": 3,
+      "returned": 0.0
+    },
+    "3": {
+      "n": 1,
+      "won": 0,
+      "lines": 1,
+      "returned": 0.0
+    }
+  }
+}

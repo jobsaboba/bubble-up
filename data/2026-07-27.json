@@ -1,0 +1,53 @@
+{
+  "date": "2026-07-27",
+  "generated": "2026-11-13T21:20:20+00:00",
+  "picks": [
+    {
+      "time": "14:45",
+      "meeting": "Ayr",
+      "race": "Ladbrokes 'Get More With Ladbucks' Handicap",
+      "horse": "Runninsonofagun",
+      "stars": 5,
+      "odds": "8/15",
+      "dec": 1.5333333333333332,
+      "res": "PLACE",
+      "pos": 2,
+      "score1": 92.0,
+      "score2": 35
+    }
+  ],
+  "combos": [
+    {
+      "size": 1,
+      "legs": [
+        {
+          "horse": "Runninsonofagun",
+          "odds": "8/15",
+          "res": "PLACE"
+        }
+      ],
+      "dec": 1.53,
+      "res": "LOSE",
+      "ret": 0.0
+    }
+  ],
+  "score": {
+    "picks": 1,
+    "lines": 1,
+    "won": 0,
+    "lost": 1,
+    "pending": 0
+  },
+  "units": {
+    "staked": 1,
+    "returned": 0.0
+  },
+  "by_size": {
+    "1": {
+      "n": 1,
+      "won": 0,
+      "lines": 1,
+      "returned": 0.0
+    }
+  }
+}

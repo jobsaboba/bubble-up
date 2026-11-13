@@ -1,0 +1,103 @@
+{
+  "date": "2026-06-30",
+  "generated": "2026-11-13T21:20:20+00:00",
+  "picks": [
+    {
+      "time": "17:39",
+      "meeting": "Ffos Las",
+      "race": "West Wales Properties Pembrokeshire Maiden Stakes (GBB Race)",
+      "horse": "Dark Whisper",
+      "stars": 4,
+      "odds": "7/4",
+      "dec": 2.75,
+      "res": "WIN",
+      "pos": 1,
+      "score1": 53,
+      "score2": 17
+    },
+    {
+      "time": "18:09",
+      "meeting": "Ffos Las",
+      "race": "West Wales Properties Mayfair Classified Stakes",
+      "horse": "King of The Dance",
+      "stars": 4,
+      "odds": "6/4",
+      "dec": 2.5,
+      "res": "PLACE",
+      "pos": 2,
+      "score1": 46,
+      "score2": 22
+    }
+  ],
+  "combos": [
+    {
+      "size": 1,
+      "legs": [
+        {
+          "horse": "Dark Whisper",
+          "odds": "7/4",
+          "res": "WIN"
+        }
+      ],
+      "dec": 2.75,
+      "res": "WIN",
+      "ret": 2.75
+    },
+    {
+      "size": 1,
+      "legs": [
+        {
+          "horse": "King of The Dance",
+          "odds": "6/4",
+          "res": "PLACE"
+        }
+      ],
+      "dec": 2.5,
+      "res": "LOSE",
+      "ret": 0.0
+    },
+    {
+      "size": 2,
+      "legs": [
+        {
+          "horse": "Dark Whisper",
+          "odds": "7/4",
+          "res": "WIN"
+        },
+        {
+          "horse": "King of The Dance",
+          "odds": "6/4",
+          "res": "PLACE"
+        }
+      ],
+      "dec": 6.88,
+      "res": "LOSE",
+      "ret": 0.0
+    }
+  ],
+  "score": {
+    "picks": 2,
+    "lines": 3,
+    "won": 1,
+    "lost": 2,
+    "pending": 0
+  },
+  "units": {
+    "staked": 3,
+    "returned": 2.75
+  },
+  "by_size": {
+    "1": {
+      "n": 2,
+      "won": 1,
+      "lines": 2,
+      "returned": 2.75
+    },
+    "2": {
+      "n": 1,
+      "won": 0,
+      "lines": 1,
+      "returned": 0.0
+    }
+  }
+}

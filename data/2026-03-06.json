@@ -1,0 +1,46 @@
+{
+  "date": "2026-03-06",
+  "generated": "2026-11-13T21:20:20+00:00",
+  "picks": [
+    {
+      "time": "16:20",
+      "meeting": "Ayr",
+      "race": "Albert Bartlett Triple Crown Series Handicap Hurdle",
+      "horse": "Gege Ville",
+      "stars": 4,
+      "odds": "17/2",
+      "dec": 9.5,
+      "res": null,
+      "pos": 0,
+      "score1": 117.07,
+      "score2": 57
+    }
+  ],
+  "combos": [
+    {
+      "size": 1,
+      "legs": [
+        {
+          "horse": "Gege Ville",
+          "odds": "17/2",
+          "res": "?"
+        }
+      ],
+      "dec": 9.5,
+      "res": "PENDING",
+      "ret": null
+    }
+  ],
+  "score": {
+    "picks": 1,
+    "lines": 1,
+    "won": 0,
+    "lost": 0,
+    "pending": 1
+  },
+  "units": {
+    "staked": 0,
+    "returned": 0
+  },
+  "by_size": {}
+}

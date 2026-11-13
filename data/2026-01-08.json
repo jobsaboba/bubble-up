@@ -1,0 +1,103 @@
+{
+  "date": "2026-01-08",
+  "generated": "2026-11-13T21:20:20+00:00",
+  "picks": [
+    {
+      "time": "12:40",
+      "meeting": "Ffos Las",
+      "race": "BOG On British Racing At DragonBet Novices' Hurdle (GBB Race)",
+      "horse": "Bossman Jack",
+      "stars": 5,
+      "odds": "10/11",
+      "dec": 1.9090909090909092,
+      "res": "WIN",
+      "pos": 1,
+      "score1": 174.78,
+      "score2": 73.67
+    },
+    {
+      "time": "13:10",
+      "meeting": "Ffos Las",
+      "race": "Watch All UK Racing On DragonBet Maiden Hurdle (GBB Race)",
+      "horse": "Giantsgrave",
+      "stars": 5,
+      "odds": "11/10",
+      "dec": 2.1,
+      "res": "LOSE",
+      "pos": 5,
+      "score1": 135.78,
+      "score2": 50.0
+    }
+  ],
+  "combos": [
+    {
+      "size": 1,
+      "legs": [
+        {
+          "horse": "Bossman Jack",
+          "odds": "10/11",
+          "res": "WIN"
+        }
+      ],
+      "dec": 1.91,
+      "res": "WIN",
+      "ret": 1.91
+    },
+    {
+      "size": 1,
+      "legs": [
+        {
+          "horse": "Giantsgrave",
+          "odds": "11/10",
+          "res": "LOSE"
+        }
+      ],
+      "dec": 2.1,
+      "res": "LOSE",
+      "ret": 0.0
+    },
+    {
+      "size": 2,
+      "legs": [
+        {
+          "horse": "Bossman Jack",
+          "odds": "10/11",
+          "res": "WIN"
+        },
+        {
+          "horse": "Giantsgrave",
+          "odds": "11/10",
+          "res": "LOSE"
+        }
+      ],
+      "dec": 4.01,
+      "res": "LOSE",
+      "ret": 0.0
+    }
+  ],
+  "score": {
+    "picks": 2,
+    "lines": 3,
+    "won": 1,
+    "lost": 2,
+    "pending": 0
+  },
+  "units": {
+    "staked": 3,
+    "returned": 1.91
+  },
+  "by_size": {
+    "1": {
+      "n": 2,
+      "won": 1,
+      "lines": 2,
+      "returned": 1.91
+    },
+    "2": {
+      "n": 1,
+      "won": 0,
+      "lines": 1,
+      "returned": 0.0
+    }
+  }
+}

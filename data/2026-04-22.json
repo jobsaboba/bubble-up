@@ -1,0 +1,53 @@
+{
+  "date": "2026-04-22",
+  "generated": "2026-11-13T21:20:20+00:00",
+  "picks": [
+    {
+      "time": "15:40",
+      "meeting": "Perth",
+      "race": "Equine Products Best Turned Out Amateur Jockeys' Handicap Hurdle (Div 1)",
+      "horse": "Bollin Matilda",
+      "stars": 5,
+      "odds": "2/1",
+      "dec": 3.0,
+      "res": "PLACE",
+      "pos": 2,
+      "score1": 58,
+      "score2": 28
+    }
+  ],
+  "combos": [
+    {
+      "size": 1,
+      "legs": [
+        {
+          "horse": "Bollin Matilda",
+          "odds": "2/1",
+          "res": "PLACE"
+        }
+      ],
+      "dec": 3.0,
+      "res": "LOSE",
+      "ret": 0.0
+    }
+  ],
+  "score": {
+    "picks": 1,
+    "lines": 1,
+    "won": 0,
+    "lost": 1,
+    "pending": 0
+  },
+  "units": {
+    "staked": 1,
+    "returned": 0.0
+  },
+  "by_size": {
+    "1": {
+      "n": 1,
+      "won": 0,
+      "lines": 1,
+      "returned": 0.0
+    }
+  }
+}

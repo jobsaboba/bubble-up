@@ -1,0 +1,1599 @@
+{
+  "date": "2026-11-11",
+  "generated": "2026-11-13T21:20:20+00:00",
+  "picks": [
+    {
+      "time": "14:13",
+      "meeting": "Ayr",
+      "race": "Coral 'Daily Rewards Shaker' Handicap Hurdle",
+      "horse": "Rickety Gate",
+      "stars": 3,
+      "odds": "10/3",
+      "dec": 4.333333333333334,
+      "res": "WIN",
+      "pos": 1,
+      "score1": 126.64,
+      "score2": 33.0
+    },
+    {
+      "time": "14:30",
+      "meeting": "Dundalk",
+      "race": "Christmas Party Nights At Dundalk Stadium Handicap",
+      "horse": "Jordan Breeze",
+      "stars": 4,
+      "odds": "7/2",
+      "dec": 4.5,
+      "res": "LOSE",
+      "pos": 7,
+      "score1": 219.46,
+      "score2": 53.13
+    },
+    {
+      "time": "14:43",
+      "meeting": "Ayr",
+      "race": "'Play Coral Racing-Super-Series For Free' Handicap Hurdle",
+      "horse": "Ballynoe Boy",
+      "stars": 3,
+      "odds": "9/4",
+      "dec": 3.25,
+      "res": "WIN",
+      "pos": 1,
+      "score1": 155.64,
+      "score2": 74.33
+    },
+    {
+      "time": "16:02",
+      "meeting": "Dundalk",
+      "race": "Bet On The Best Night Out At Dundalk Stadium Maiden",
+      "horse": "Resurgence",
+      "stars": 4,
+      "odds": "11/4",
+      "dec": 3.75,
+      "res": "PLACE",
+      "pos": 2,
+      "score1": 50.31,
+      "score2": 20.0
+    },
+    {
+      "time": "17:02",
+      "meeting": "Dundalk",
+      "race": "Celebrate Your Special Occasion At Dundalk Stadium Handicap",
+      "horse": "Carrigans Grove",
+      "stars": 3,
+      "odds": "6/1",
+      "dec": 7.0,
+      "res": "LOSE",
+      "pos": 5,
+      "score1": 212.46,
+      "score2": 62.32
+    },
+    {
+      "time": "17:32",
+      "meeting": "Dundalk",
+      "race": "Now Racing Every Wednesday At Dundalk Handicap",
+      "horse": "Speckled Meadow",
+      "stars": 4,
+      "odds": "8/1",
+      "dec": 9.0,
+      "res": "LOSE",
+      "pos": 10,
+      "score1": 144.46,
+      "score2": 62.0
+    }
+  ],
+  "combos": [
+    {
+      "size": 1,
+      "legs": [
+        {
+          "horse": "Rickety Gate",
+          "odds": "10/3",
+          "res": "WIN"
+        }
+      ],
+      "dec": 4.33,
+      "res": "WIN",
+      "ret": 4.33
+    },
+    {
+      "size": 1,
+      "legs": [
+        {
+          "horse": "Jordan Breeze",
+          "odds": "7/2",
+          "res": "LOSE"
+        }
+      ],
+      "dec": 4.5,
+      "res": "LOSE",
+      "ret": 0.0
+    },
+    {
+      "size": 1,
+      "legs": [
+        {
+          "horse": "Ballynoe Boy",
+          "odds": "9/4",
+          "res": "WIN"
+        }
+      ],
+      "dec": 3.25,
+      "res": "WIN",
+      "ret": 3.25
+    },
+    {
+      "size": 1,
+      "legs": [
+        {
+          "horse": "Resurgence",
+          "odds": "11/4",
+          "res": "PLACE"
+        }
+      ],
+      "dec": 3.75,
+      "res": "LOSE",
+      "ret": 0.0
+    },
+    {
+      "size": 1,
+      "legs": [
+        {
+          "horse": "Carrigans Grove",
+          "odds": "6/1",
+          "res": "LOSE"
+        }
+      ],
+      "dec": 7.0,
+      "res": "LOSE",
+      "ret": 0.0
+    },
+    {
+      "size": 1,
+      "legs": [
+        {
+          "horse": "Speckled Meadow",
+          "odds": "8/1",
+          "res": "LOSE"
+        }
+      ],
+      "dec": 9.0,
+      "res": "LOSE",
+      "ret": 0.0
+    },
+    {
+      "size": 2,
+      "legs": [
+        {
+          "horse": "Rickety Gate",
+          "odds": "10/3",
+          "res": "WIN"
+        },
+        {
+          "horse": "Jordan Breeze",
+          "odds": "7/2",
+          "res": "LOSE"
+        }
+      ],
+      "dec": 19.5,
+      "res": "LOSE",
+      "ret": 0.0
+    },
+    {
+      "size": 2,
+      "legs": [
+        {
+          "horse": "Rickety Gate",
+          "odds": "10/3",
+          "res": "WIN"
+        },
+        {
+          "horse": "Ballynoe Boy",
+          "odds": "9/4",
+          "res": "WIN"
+        }
+      ],
+      "dec": 14.08,
+      "res": "WIN",
+      "ret": 14.08
+    },
+    {
+      "size": 2,
+      "legs": [
+        {
+          "horse": "Rickety Gate",
+          "odds": "10/3",
+          "res": "WIN"
+        },
+        {
+          "horse": "Resurgence",
+          "odds": "11/4",
+          "res": "PLACE"
+        }
+      ],
+      "dec": 16.25,
+      "res": "LOSE",
+      "ret": 0.0
+    },
+    {
+      "size": 2,
+      "legs": [
+        {
+          "horse": "Rickety Gate",
+          "odds": "10/3",
+          "res": "WIN"
+        },
+        {
+          "horse": "Carrigans Grove",
+          "odds": "6/1",
+          "res": "LOSE"
+        }
+      ],
+      "dec": 30.33,
+      "res": "LOSE",
+      "ret": 0.0
+    },
+    {
+      "size": 2,
+      "legs": [
+        {
+          "horse": "Rickety Gate",
+          "odds": "10/3",
+          "res": "WIN"
+        },
+        {
+          "horse": "Speckled Meadow",
+          "odds": "8/1",
+          "res": "LOSE"
+        }
+      ],
+      "dec": 39.0,
+      "res": "LOSE",
+      "ret": 0.0
+    },
+    {
+      "size": 2,
+      "legs": [
+        {
+          "horse": "Jordan Breeze",
+          "odds": "7/2",
+          "res": "LOSE"
+        },
+        {
+          "horse": "Ballynoe Boy",
+          "odds": "9/4",
+          "res": "WIN"
+        }
+      ],
+      "dec": 14.62,
+      "res": "LOSE",
+      "ret": 0.0
+    },
+    {
+      "size": 2,
+      "legs": [
+        {
+          "horse": "Jordan Breeze",
+          "odds": "7/2",
+          "res": "LOSE"
+        },
+        {
+          "horse": "Resurgence",
+          "odds": "11/4",
+          "res": "PLACE"
+        }
+      ],
+      "dec": 16.88,
+      "res": "LOSE",
+      "ret": 0.0
+    },
+    {
+      "size": 2,
+      "legs": [
+        {
+          "horse": "Jordan Breeze",
+          "odds": "7/2",
+          "res": "LOSE"
+        },
+        {
+          "horse": "Carrigans Grove",
+          "odds": "6/1",
+          "res": "LOSE"
+        }
+      ],
+      "dec": 31.5,
+      "res": "LOSE",
+      "ret": 0.0
+    },
+    {
+      "size": 2,
+      "legs": [
+        {
+          "horse": "Jordan Breeze",
+          "odds": "7/2",
+          "res": "LOSE"
+        },
+        {
+          "horse": "Speckled Meadow",
+          "odds": "8/1",
+          "res": "LOSE"
+        }
+      ],
+      "dec": 40.5,
+      "res": "LOSE",
+      "ret": 0.0
+    },
+    {
+      "size": 2,
+      "legs": [
+        {
+          "horse": "Ballynoe Boy",
+          "odds": "9/4",
+          "res": "WIN"
+        },
+        {
+          "horse": "Resurgence",
+          "odds": "11/4",
+          "res": "PLACE"
+        }
+      ],
+      "dec": 12.19,
+      "res": "LOSE",
+      "ret": 0.0
+    },
+    {
+      "size": 2,
+      "legs": [
+        {
+          "horse": "Ballynoe Boy",
+          "odds": "9/4",
+          "res": "WIN"
+        },
+        {
+          "horse": "Carrigans Grove",
+          "odds": "6/1",
+          "res": "LOSE"
+        }
+      ],
+      "dec": 22.75,
+      "res": "LOSE",
+      "ret": 0.0
+    },
+    {
+      "size": 2,
+      "legs": [
+        {
+          "horse": "Ballynoe Boy",
+          "odds": "9/4",
+          "res": "WIN"
+        },
+        {
+          "horse": "Speckled Meadow",
+          "odds": "8/1",
+          "res": "LOSE"
+        }
+      ],
+      "dec": 29.25,
+      "res": "LOSE",
+      "ret": 0.0
+    },
+    {
+      "size": 2,
+      "legs": [
+        {
+          "horse": "Resurgence",
+          "odds": "11/4",
+          "res": "PLACE"
+        },
+        {
+          "horse": "Carrigans Grove",
+          "odds": "6/1",
+          "res": "LOSE"
+        }
+      ],
+      "dec": 26.25,
+      "res": "LOSE",
+      "ret": 0.0
+    },
+    {
+      "size": 2,
+      "legs": [
+        {
+          "horse": "Resurgence",
+          "odds": "11/4",
+          "res": "PLACE"
+        },
+        {
+          "horse": "Speckled Meadow",
+          "odds": "8/1",
+          "res": "LOSE"
+        }
+      ],
+      "dec": 33.75,
+      "res": "LOSE",
+      "ret": 0.0
+    },
+    {
+      "size": 2,
+      "legs": [
+        {
+          "horse": "Carrigans Grove",
+          "odds": "6/1",
+          "res": "LOSE"
+        },
+        {
+          "horse": "Speckled Meadow",
+          "odds": "8/1",
+          "res": "LOSE"
+        }
+      ],
+      "dec": 63.0,
+      "res": "LOSE",
+      "ret": 0.0
+    },
+    {
+      "size": 3,
+      "legs": [
+        {
+          "horse": "Rickety Gate",
+          "odds": "10/3",
+          "res": "WIN"
+        },
+        {
+          "horse": "Jordan Breeze",
+          "odds": "7/2",
+          "res": "LOSE"
+        },
+        {
+          "horse": "Ballynoe Boy",
+          "odds": "9/4",
+          "res": "WIN"
+        }
+      ],
+      "dec": 63.38,
+      "res": "LOSE",
+      "ret": 0.0
+    },
+    {
+      "size": 3,
+      "legs": [
+        {
+          "horse": "Rickety Gate",
+          "odds": "10/3",
+          "res": "WIN"
+        },
+        {
+          "horse": "Jordan Breeze",
+          "odds": "7/2",
+          "res": "LOSE"
+        },
+        {
+          "horse": "Resurgence",
+          "odds": "11/4",
+          "res": "PLACE"
+        }
+      ],
+      "dec": 73.13,
+      "res": "LOSE",
+      "ret": 0.0
+    },
+    {
+      "size": 3,
+      "legs": [
+        {
+          "horse": "Rickety Gate",
+          "odds": "10/3",
+          "res": "WIN"
+        },
+        {
+          "horse": "Jordan Breeze",
+          "odds": "7/2",
+          "res": "LOSE"
+        },
+        {
+          "horse": "Carrigans Grove",
+          "odds": "6/1",
+          "res": "LOSE"
+        }
+      ],
+      "dec": 136.5,
+      "res": "LOSE",
+      "ret": 0.0
+    },
+    {
+      "size": 3,
+      "legs": [
+        {
+          "horse": "Rickety Gate",
+          "odds": "10/3",
+          "res": "WIN"
+        },
+        {
+          "horse": "Jordan Breeze",
+          "odds": "7/2",
+          "res": "LOSE"
+        },
+        {
+          "horse": "Speckled Meadow",
+          "odds": "8/1",
+          "res": "LOSE"
+        }
+      ],
+      "dec": 175.5,
+      "res": "LOSE",
+      "ret": 0.0
+    },
+    {
+      "size": 3,
+      "legs": [
+        {
+          "horse": "Rickety Gate",
+          "odds": "10/3",
+          "res": "WIN"
+        },
+        {
+          "horse": "Ballynoe Boy",
+          "odds": "9/4",
+          "res": "WIN"
+        },
+        {
+          "horse": "Resurgence",
+          "odds": "11/4",
+          "res": "PLACE"
+        }
+      ],
+      "dec": 52.81,
+      "res": "LOSE",
+      "ret": 0.0
+    },
+    {
+      "size": 3,
+      "legs": [
+        {
+          "horse": "Rickety Gate",
+          "odds": "10/3",
+          "res": "WIN"
+        },
+        {
+          "horse": "Ballynoe Boy",
+          "odds": "9/4",
+          "res": "WIN"
+        },
+        {
+          "horse": "Carrigans Grove",
+          "odds": "6/1",
+          "res": "LOSE"
+        }
+      ],
+      "dec": 98.58,
+      "res": "LOSE",
+      "ret": 0.0
+    },
+    {
+      "size": 3,
+      "legs": [
+        {
+          "horse": "Rickety Gate",
+          "odds": "10/3",
+          "res": "WIN"
+        },
+        {
+          "horse": "Ballynoe Boy",
+          "odds": "9/4",
+          "res": "WIN"
+        },
+        {
+          "horse": "Speckled Meadow",
+          "odds": "8/1",
+          "res": "LOSE"
+        }
+      ],
+      "dec": 126.75,
+      "res": "LOSE",
+      "ret": 0.0
+    },
+    {
+      "size": 3,
+      "legs": [
+        {
+          "horse": "Rickety Gate",
+          "odds": "10/3",
+          "res": "WIN"
+        },
+        {
+          "horse": "Resurgence",
+          "odds": "11/4",
+          "res": "PLACE"
+        },
+        {
+          "horse": "Carrigans Grove",
+          "odds": "6/1",
+          "res": "LOSE"
+        }
+      ],
+      "dec": 113.75,
+      "res": "LOSE",
+      "ret": 0.0
+    },
+    {
+      "size": 3,
+      "legs": [
+        {
+          "horse": "Rickety Gate",
+          "odds": "10/3",
+          "res": "WIN"
+        },
+        {
+          "horse": "Resurgence",
+          "odds": "11/4",
+          "res": "PLACE"
+        },
+        {
+          "horse": "Speckled Meadow",
+          "odds": "8/1",
+          "res": "LOSE"
+        }
+      ],
+      "dec": 146.25,
+      "res": "LOSE",
+      "ret": 0.0
+    },
+    {
+      "size": 3,
+      "legs": [
+        {
+          "horse": "Rickety Gate",
+          "odds": "10/3",
+          "res": "WIN"
+        },
+        {
+          "horse": "Carrigans Grove",
+          "odds": "6/1",
+          "res": "LOSE"
+        },
+        {
+          "horse": "Speckled Meadow",
+          "odds": "8/1",
+          "res": "LOSE"
+        }
+      ],
+      "dec": 273.0,
+      "res": "LOSE",
+      "ret": 0.0
+    },
+    {
+      "size": 3,
+      "legs": [
+        {
+          "horse": "Jordan Breeze",
+          "odds": "7/2",
+          "res": "LOSE"
+        },
+        {
+          "horse": "Ballynoe Boy",
+          "odds": "9/4",
+          "res": "WIN"
+        },
+        {
+          "horse": "Resurgence",
+          "odds": "11/4",
+          "res": "PLACE"
+        }
+      ],
+      "dec": 54.84,
+      "res": "LOSE",
+      "ret": 0.0
+    },
+    {
+      "size": 3,
+      "legs": [
+        {
+          "horse": "Jordan Breeze",
+          "odds": "7/2",
+          "res": "LOSE"
+        },
+        {
+          "horse": "Ballynoe Boy",
+          "odds": "9/4",
+          "res": "WIN"
+        },
+        {
+          "horse": "Carrigans Grove",
+          "odds": "6/1",
+          "res": "LOSE"
+        }
+      ],
+      "dec": 102.38,
+      "res": "LOSE",
+      "ret": 0.0
+    },
+    {
+      "size": 3,
+      "legs": [
+        {
+          "horse": "Jordan Breeze",
+          "odds": "7/2",
+          "res": "LOSE"
+        },
+        {
+          "horse": "Ballynoe Boy",
+          "odds": "9/4",
+          "res": "WIN"
+        },
+        {
+          "horse": "Speckled Meadow",
+          "odds": "8/1",
+          "res": "LOSE"
+        }
+      ],
+      "dec": 131.62,
+      "res": "LOSE",
+      "ret": 0.0
+    },
+    {
+      "size": 3,
+      "legs": [
+        {
+          "horse": "Jordan Breeze",
+          "odds": "7/2",
+          "res": "LOSE"
+        },
+        {
+          "horse": "Resurgence",
+          "odds": "11/4",
+          "res": "PLACE"
+        },
+        {
+          "horse": "Carrigans Grove",
+          "odds": "6/1",
+          "res": "LOSE"
+        }
+      ],
+      "dec": 118.12,
+      "res": "LOSE",
+      "ret": 0.0
+    },
+    {
+      "size": 3,
+      "legs": [
+        {
+          "horse": "Jordan Breeze",
+          "odds": "7/2",
+          "res": "LOSE"
+        },
+        {
+          "horse": "Resurgence",
+          "odds": "11/4",
+          "res": "PLACE"
+        },
+        {
+          "horse": "Speckled Meadow",
+          "odds": "8/1",
+          "res": "LOSE"
+        }
+      ],
+      "dec": 151.88,
+      "res": "LOSE",
+      "ret": 0.0
+    },
+    {
+      "size": 3,
+      "legs": [
+        {
+          "horse": "Jordan Breeze",
+          "odds": "7/2",
+          "res": "LOSE"
+        },
+        {
+          "horse": "Carrigans Grove",
+          "odds": "6/1",
+          "res": "LOSE"
+        },
+        {
+          "horse": "Speckled Meadow",
+          "odds": "8/1",
+          "res": "LOSE"
+        }
+      ],
+      "dec": 283.5,
+      "res": "LOSE",
+      "ret": 0.0
+    },
+    {
+      "size": 3,
+      "legs": [
+        {
+          "horse": "Ballynoe Boy",
+          "odds": "9/4",
+          "res": "WIN"
+        },
+        {
+          "horse": "Resurgence",
+          "odds": "11/4",
+          "res": "PLACE"
+        },
+        {
+          "horse": "Carrigans Grove",
+          "odds": "6/1",
+          "res": "LOSE"
+        }
+      ],
+      "dec": 85.31,
+      "res": "LOSE",
+      "ret": 0.0
+    },
+    {
+      "size": 3,
+      "legs": [
+        {
+          "horse": "Ballynoe Boy",
+          "odds": "9/4",
+          "res": "WIN"
+        },
+        {
+          "horse": "Resurgence",
+          "odds": "11/4",
+          "res": "PLACE"
+        },
+        {
+          "horse": "Speckled Meadow",
+          "odds": "8/1",
+          "res": "LOSE"
+        }
+      ],
+      "dec": 109.69,
+      "res": "LOSE",
+      "ret": 0.0
+    },
+    {
+      "size": 3,
+      "legs": [
+        {
+          "horse": "Ballynoe Boy",
+          "odds": "9/4",
+          "res": "WIN"
+        },
+        {
+          "horse": "Carrigans Grove",
+          "odds": "6/1",
+          "res": "LOSE"
+        },
+        {
+          "horse": "Speckled Meadow",
+          "odds": "8/1",
+          "res": "LOSE"
+        }
+      ],
+      "dec": 204.75,
+      "res": "LOSE",
+      "ret": 0.0
+    },
+    {
+      "size": 3,
+      "legs": [
+        {
+          "horse": "Resurgence",
+          "odds": "11/4",
+          "res": "PLACE"
+        },
+        {
+          "horse": "Carrigans Grove",
+          "odds": "6/1",
+          "res": "LOSE"
+        },
+        {
+          "horse": "Speckled Meadow",
+          "odds": "8/1",
+          "res": "LOSE"
+        }
+      ],
+      "dec": 236.25,
+      "res": "LOSE",
+      "ret": 0.0
+    },
+    {
+      "size": 4,
+      "legs": [
+        {
+          "horse": "Rickety Gate",
+          "odds": "10/3",
+          "res": "WIN"
+        },
+        {
+          "horse": "Jordan Breeze",
+          "odds": "7/2",
+          "res": "LOSE"
+        },
+        {
+          "horse": "Ballynoe Boy",
+          "odds": "9/4",
+          "res": "WIN"
+        },
+        {
+          "horse": "Resurgence",
+          "odds": "11/4",
+          "res": "PLACE"
+        }
+      ],
+      "dec": 237.66,
+      "res": "LOSE",
+      "ret": 0.0
+    },
+    {
+      "size": 4,
+      "legs": [
+        {
+          "horse": "Rickety Gate",
+          "odds": "10/3",
+          "res": "WIN"
+        },
+        {
+          "horse": "Jordan Breeze",
+          "odds": "7/2",
+          "res": "LOSE"
+        },
+        {
+          "horse": "Ballynoe Boy",
+          "odds": "9/4",
+          "res": "WIN"
+        },
+        {
+          "horse": "Carrigans Grove",
+          "odds": "6/1",
+          "res": "LOSE"
+        }
+      ],
+      "dec": 443.63,
+      "res": "LOSE",
+      "ret": 0.0
+    },
+    {
+      "size": 4,
+      "legs": [
+        {
+          "horse": "Rickety Gate",
+          "odds": "10/3",
+          "res": "WIN"
+        },
+        {
+          "horse": "Jordan Breeze",
+          "odds": "7/2",
+          "res": "LOSE"
+        },
+        {
+          "horse": "Ballynoe Boy",
+          "odds": "9/4",
+          "res": "WIN"
+        },
+        {
+          "horse": "Speckled Meadow",
+          "odds": "8/1",
+          "res": "LOSE"
+        }
+      ],
+      "dec": 570.38,
+      "res": "LOSE",
+      "ret": 0.0
+    },
+    {
+      "size": 4,
+      "legs": [
+        {
+          "horse": "Rickety Gate",
+          "odds": "10/3",
+          "res": "WIN"
+        },
+        {
+          "horse": "Jordan Breeze",
+          "odds": "7/2",
+          "res": "LOSE"
+        },
+        {
+          "horse": "Resurgence",
+          "odds": "11/4",
+          "res": "PLACE"
+        },
+        {
+          "horse": "Carrigans Grove",
+          "odds": "6/1",
+          "res": "LOSE"
+        }
+      ],
+      "dec": 511.88,
+      "res": "LOSE",
+      "ret": 0.0
+    },
+    {
+      "size": 4,
+      "legs": [
+        {
+          "horse": "Rickety Gate",
+          "odds": "10/3",
+          "res": "WIN"
+        },
+        {
+          "horse": "Jordan Breeze",
+          "odds": "7/2",
+          "res": "LOSE"
+        },
+        {
+          "horse": "Resurgence",
+          "odds": "11/4",
+          "res": "PLACE"
+        },
+        {
+          "horse": "Speckled Meadow",
+          "odds": "8/1",
+          "res": "LOSE"
+        }
+      ],
+      "dec": 658.13,
+      "res": "LOSE",
+      "ret": 0.0
+    },
+    {
+      "size": 4,
+      "legs": [
+        {
+          "horse": "Rickety Gate",
+          "odds": "10/3",
+          "res": "WIN"
+        },
+        {
+          "horse": "Jordan Breeze",
+          "odds": "7/2",
+          "res": "LOSE"
+        },
+        {
+          "horse": "Carrigans Grove",
+          "odds": "6/1",
+          "res": "LOSE"
+        },
+        {
+          "horse": "Speckled Meadow",
+          "odds": "8/1",
+          "res": "LOSE"
+        }
+      ],
+      "dec": 1228.5,
+      "res": "LOSE",
+      "ret": 0.0
+    },
+    {
+      "size": 4,
+      "legs": [
+        {
+          "horse": "Rickety Gate",
+          "odds": "10/3",
+          "res": "WIN"
+        },
+        {
+          "horse": "Ballynoe Boy",
+          "odds": "9/4",
+          "res": "WIN"
+        },
+        {
+          "horse": "Resurgence",
+          "odds": "11/4",
+          "res": "PLACE"
+        },
+        {
+          "horse": "Carrigans Grove",
+          "odds": "6/1",
+          "res": "LOSE"
+        }
+      ],
+      "dec": 369.69,
+      "res": "LOSE",
+      "ret": 0.0
+    },
+    {
+      "size": 4,
+      "legs": [
+        {
+          "horse": "Rickety Gate",
+          "odds": "10/3",
+          "res": "WIN"
+        },
+        {
+          "horse": "Ballynoe Boy",
+          "odds": "9/4",
+          "res": "WIN"
+        },
+        {
+          "horse": "Resurgence",
+          "odds": "11/4",
+          "res": "PLACE"
+        },
+        {
+          "horse": "Speckled Meadow",
+          "odds": "8/1",
+          "res": "LOSE"
+        }
+      ],
+      "dec": 475.31,
+      "res": "LOSE",
+      "ret": 0.0
+    },
+    {
+      "size": 4,
+      "legs": [
+        {
+          "horse": "Rickety Gate",
+          "odds": "10/3",
+          "res": "WIN"
+        },
+        {
+          "horse": "Ballynoe Boy",
+          "odds": "9/4",
+          "res": "WIN"
+        },
+        {
+          "horse": "Carrigans Grove",
+          "odds": "6/1",
+          "res": "LOSE"
+        },
+        {
+          "horse": "Speckled Meadow",
+          "odds": "8/1",
+          "res": "LOSE"
+        }
+      ],
+      "dec": 887.25,
+      "res": "LOSE",
+      "ret": 0.0
+    },
+    {
+      "size": 4,
+      "legs": [
+        {
+          "horse": "Rickety Gate",
+          "odds": "10/3",
+          "res": "WIN"
+        },
+        {
+          "horse": "Resurgence",
+          "odds": "11/4",
+          "res": "PLACE"
+        },
+        {
+          "horse": "Carrigans Grove",
+          "odds": "6/1",
+          "res": "LOSE"
+        },
+        {
+          "horse": "Speckled Meadow",
+          "odds": "8/1",
+          "res": "LOSE"
+        }
+      ],
+      "dec": 1023.75,
+      "res": "LOSE",
+      "ret": 0.0
+    },
+    {
+      "size": 4,
+      "legs": [
+        {
+          "horse": "Jordan Breeze",
+          "odds": "7/2",
+          "res": "LOSE"
+        },
+        {
+          "horse": "Ballynoe Boy",
+          "odds": "9/4",
+          "res": "WIN"
+        },
+        {
+          "horse": "Resurgence",
+          "odds": "11/4",
+          "res": "PLACE"
+        },
+        {
+          "horse": "Carrigans Grove",
+          "odds": "6/1",
+          "res": "LOSE"
+        }
+      ],
+      "dec": 383.91,
+      "res": "LOSE",
+      "ret": 0.0
+    },
+    {
+      "size": 4,
+      "legs": [
+        {
+          "horse": "Jordan Breeze",
+          "odds": "7/2",
+          "res": "LOSE"
+        },
+        {
+          "horse": "Ballynoe Boy",
+          "odds": "9/4",
+          "res": "WIN"
+        },
+        {
+          "horse": "Resurgence",
+          "odds": "11/4",
+          "res": "PLACE"
+        },
+        {
+          "horse": "Speckled Meadow",
+          "odds": "8/1",
+          "res": "LOSE"
+        }
+      ],
+      "dec": 493.59,
+      "res": "LOSE",
+      "ret": 0.0
+    },
+    {
+      "size": 4,
+      "legs": [
+        {
+          "horse": "Jordan Breeze",
+          "odds": "7/2",
+          "res": "LOSE"
+        },
+        {
+          "horse": "Ballynoe Boy",
+          "odds": "9/4",
+          "res": "WIN"
+        },
+        {
+          "horse": "Carrigans Grove",
+          "odds": "6/1",
+          "res": "LOSE"
+        },
+        {
+          "horse": "Speckled Meadow",
+          "odds": "8/1",
+          "res": "LOSE"
+        }
+      ],
+      "dec": 921.38,
+      "res": "LOSE",
+      "ret": 0.0
+    },
+    {
+      "size": 4,
+      "legs": [
+        {
+          "horse": "Jordan Breeze",
+          "odds": "7/2",
+          "res": "LOSE"
+        },
+        {
+          "horse": "Resurgence",
+          "odds": "11/4",
+          "res": "PLACE"
+        },
+        {
+          "horse": "Carrigans Grove",
+          "odds": "6/1",
+          "res": "LOSE"
+        },
+        {
+          "horse": "Speckled Meadow",
+          "odds": "8/1",
+          "res": "LOSE"
+        }
+      ],
+      "dec": 1063.12,
+      "res": "LOSE",
+      "ret": 0.0
+    },
+    {
+      "size": 4,
+      "legs": [
+        {
+          "horse": "Ballynoe Boy",
+          "odds": "9/4",
+          "res": "WIN"
+        },
+        {
+          "horse": "Resurgence",
+          "odds": "11/4",
+          "res": "PLACE"
+        },
+        {
+          "horse": "Carrigans Grove",
+          "odds": "6/1",
+          "res": "LOSE"
+        },
+        {
+          "horse": "Speckled Meadow",
+          "odds": "8/1",
+          "res": "LOSE"
+        }
+      ],
+      "dec": 767.81,
+      "res": "LOSE",
+      "ret": 0.0
+    },
+    {
+      "size": 5,
+      "legs": [
+        {
+          "horse": "Rickety Gate",
+          "odds": "10/3",
+          "res": "WIN"
+        },
+        {
+          "horse": "Jordan Breeze",
+          "odds": "7/2",
+          "res": "LOSE"
+        },
+        {
+          "horse": "Ballynoe Boy",
+          "odds": "9/4",
+          "res": "WIN"
+        },
+        {
+          "horse": "Resurgence",
+          "odds": "11/4",
+          "res": "PLACE"
+        },
+        {
+          "horse": "Carrigans Grove",
+          "odds": "6/1",
+          "res": "LOSE"
+        }
+      ],
+      "dec": 1663.59,
+      "res": "LOSE",
+      "ret": 0.0
+    },
+    {
+      "size": 5,
+      "legs": [
+        {
+          "horse": "Rickety Gate",
+          "odds": "10/3",
+          "res": "WIN"
+        },
+        {
+          "horse": "Jordan Breeze",
+          "odds": "7/2",
+          "res": "LOSE"
+        },
+        {
+          "horse": "Ballynoe Boy",
+          "odds": "9/4",
+          "res": "WIN"
+        },
+        {
+          "horse": "Resurgence",
+          "odds": "11/4",
+          "res": "PLACE"
+        },
+        {
+          "horse": "Speckled Meadow",
+          "odds": "8/1",
+          "res": "LOSE"
+        }
+      ],
+      "dec": 2138.91,
+      "res": "LOSE",
+      "ret": 0.0
+    },
+    {
+      "size": 5,
+      "legs": [
+        {
+          "horse": "Rickety Gate",
+          "odds": "10/3",
+          "res": "WIN"
+        },
+        {
+          "horse": "Jordan Breeze",
+          "odds": "7/2",
+          "res": "LOSE"
+        },
+        {
+          "horse": "Ballynoe Boy",
+          "odds": "9/4",
+          "res": "WIN"
+        },
+        {
+          "horse": "Carrigans Grove",
+          "odds": "6/1",
+          "res": "LOSE"
+        },
+        {
+          "horse": "Speckled Meadow",
+          "odds": "8/1",
+          "res": "LOSE"
+        }
+      ],
+      "dec": 3992.63,
+      "res": "LOSE",
+      "ret": 0.0
+    },
+    {
+      "size": 5,
+      "legs": [
+        {
+          "horse": "Rickety Gate",
+          "odds": "10/3",
+          "res": "WIN"
+        },
+        {
+          "horse": "Jordan Breeze",
+          "odds": "7/2",
+          "res": "LOSE"
+        },
+        {
+          "horse": "Resurgence",
+          "odds": "11/4",
+          "res": "PLACE"
+        },
+        {
+          "horse": "Carrigans Grove",
+          "odds": "6/1",
+          "res": "LOSE"
+        },
+        {
+          "horse": "Speckled Meadow",
+          "odds": "8/1",
+          "res": "LOSE"
+        }
+      ],
+      "dec": 4606.88,
+      "res": "LOSE",
+      "ret": 0.0
+    },
+    {
+      "size": 5,
+      "legs": [
+        {
+          "horse": "Rickety Gate",
+          "odds": "10/3",
+          "res": "WIN"
+        },
+        {
+          "horse": "Ballynoe Boy",
+          "odds": "9/4",
+          "res": "WIN"
+        },
+        {
+          "horse": "Resurgence",
+          "odds": "11/4",
+          "res": "PLACE"
+        },
+        {
+          "horse": "Carrigans Grove",
+          "odds": "6/1",
+          "res": "LOSE"
+        },
+        {
+          "horse": "Speckled Meadow",
+          "odds": "8/1",
+          "res": "LOSE"
+        }
+      ],
+      "dec": 3327.19,
+      "res": "LOSE",
+      "ret": 0.0
+    },
+    {
+      "size": 5,
+      "legs": [
+        {
+          "horse": "Jordan Breeze",
+          "odds": "7/2",
+          "res": "LOSE"
+        },
+        {
+          "horse": "Ballynoe Boy",
+          "odds": "9/4",
+          "res": "WIN"
+        },
+        {
+          "horse": "Resurgence",
+          "odds": "11/4",
+          "res": "PLACE"
+        },
+        {
+          "horse": "Carrigans Grove",
+          "odds": "6/1",
+          "res": "LOSE"
+        },
+        {
+          "horse": "Speckled Meadow",
+          "odds": "8/1",
+          "res": "LOSE"
+        }
+      ],
+      "dec": 3455.16,
+      "res": "LOSE",
+      "ret": 0.0
+    },
+    {
+      "size": 6,
+      "legs": [
+        {
+          "horse": "Rickety Gate",
+          "odds": "10/3",
+          "res": "WIN"
+        },
+        {
+          "horse": "Jordan Breeze",
+          "odds": "7/2",
+          "res": "LOSE"
+        },
+        {
+          "horse": "Ballynoe Boy",
+          "odds": "9/4",
+          "res": "WIN"
+        },
+        {
+          "horse": "Resurgence",
+          "odds": "11/4",
+          "res": "PLACE"
+        },
+        {
+          "horse": "Carrigans Grove",
+          "odds": "6/1",
+          "res": "LOSE"
+        },
+        {
+          "horse": "Speckled Meadow",
+          "odds": "8/1",
+          "res": "LOSE"
+        }
+      ],
+      "dec": 14972.34,
+      "res": "LOSE",
+      "ret": 0.0
+    }
+  ],
+  "score": {
+    "picks": 6,
+    "lines": 63,
+    "won": 3,
+    "lost": 60,
+    "pending": 0
+  },
+  "units": {
+    "staked": 63,
+    "returned": 21.66
+  },
+  "by_size": {
+    "1": {
+      "n": 6,
+      "won": 2,
+      "lines": 6,
+      "returned": 7.58
+    },
+    "2": {
+      "n": 15,
+      "won": 1,
+      "lines": 15,
+      "returned": 14.08
+    },
+    "3": {
+      "n": 20,
+      "won": 0,
+      "lines": 20,
+      "returned": 0.0
+    },
+    "4": {
+      "n": 15,
+      "won": 0,
+      "lines": 15,
+      "returned": 0.0
+    },
+    "5": {
+      "n": 6,
+      "won": 0,
+      "lines": 6,
+      "returned": 0.0
+    },
+    "6": {
+      "n": 1,
+      "won": 0,
+      "lines": 1,
+      "returned": 0.0
+    }
+  }
+}

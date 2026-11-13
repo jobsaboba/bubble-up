@@ -1,0 +1,103 @@
+{
+  "date": "2026-02-21",
+  "generated": "2026-11-13T21:20:20+00:00",
+  "picks": [
+    {
+      "time": "16:48",
+      "meeting": "Chepstow",
+      "race": "Pertemps Network EMEA Novices' Limited Handicap Hurdle",
+      "horse": "Thorgath",
+      "stars": 5,
+      "odds": "11/5",
+      "dec": 3.2,
+      "res": "LOSE",
+      "pos": 4,
+      "score1": 70.0,
+      "score2": 27.0
+    },
+    {
+      "time": "17:18",
+      "meeting": "Chepstow",
+      "race": "Pertemps Network Maiden NH Flat Race (Conditional/Amateurs) (GBB Race)",
+      "horse": "Bande Organisee",
+      "stars": 5,
+      "odds": "8/13",
+      "dec": 1.6153846153846154,
+      "res": "WIN",
+      "pos": 1,
+      "score1": 93.53,
+      "score2": 33.33
+    }
+  ],
+  "combos": [
+    {
+      "size": 1,
+      "legs": [
+        {
+          "horse": "Thorgath",
+          "odds": "11/5",
+          "res": "LOSE"
+        }
+      ],
+      "dec": 3.2,
+      "res": "LOSE",
+      "ret": 0.0
+    },
+    {
+      "size": 1,
+      "legs": [
+        {
+          "horse": "Bande Organisee",
+          "odds": "8/13",
+          "res": "WIN"
+        }
+      ],
+      "dec": 1.62,
+      "res": "WIN",
+      "ret": 1.62
+    },
+    {
+      "size": 2,
+      "legs": [
+        {
+          "horse": "Thorgath",
+          "odds": "11/5",
+          "res": "LOSE"
+        },
+        {
+          "horse": "Bande Organisee",
+          "odds": "8/13",
+          "res": "WIN"
+        }
+      ],
+      "dec": 5.17,
+      "res": "LOSE",
+      "ret": 0.0
+    }
+  ],
+  "score": {
+    "picks": 2,
+    "lines": 3,
+    "won": 1,
+    "lost": 2,
+    "pending": 0
+  },
+  "units": {
+    "staked": 3,
+    "returned": 1.62
+  },
+  "by_size": {
+    "1": {
+      "n": 2,
+      "won": 1,
+      "lines": 2,
+      "returned": 1.62
+    },
+    "2": {
+      "n": 1,
+      "won": 0,
+      "lines": 1,
+      "returned": 0.0
+    }
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "date": "2026-03-21",
+  "generated": "2026-11-13T21:20:20+00:00",
+  "picks": [
+    {
+      "time": "13:00",
+      "meeting": "Kelso",
+      "race": "BetWright Beeswing Mares' Hurdle (Listed) (GBB Race)",
+      "horse": "Hollygrove Cha Cha",
+      "stars": 4,
+      "odds": "13/8",
+      "dec": 2.625,
+      "res": "LOSE",
+      "pos": 8,
+      "score1": 226.81,
+      "score2": 98.07
+    },
+    {
+      "time": "13:07",
+      "meeting": "Bangor-on-Dee",
+      "race": "Alfa Aggregates Products Maiden Hurdle (GBB Race)",
+      "horse": "Tommy Pickles",
+      "stars": 4,
+      "odds": "6/4",
+      "dec": 2.5,
+      "res": "WIN",
+      "pos": 1,
+      "score1": 161.67,
+      "score2": 37
+    },
+    {
+      "time": "16:23",
+      "meeting": "Kelso",
+      "race": "Racing Post+ Jodami Open NH Flat Race (GBB Race)",
+      "horse": "King Kubala",
+      "stars": 3,
+      "odds": "5/2",
+      "dec": 3.5,
+      "res": "WIN",
+      "pos": 1,
+      "score1": 111.07,
+      "score2": 43.22
+    }
+  ],
+  "combos": [
+    {
+      "size": 1,
+      "legs": [
+        {
+          "horse": "Hollygrove Cha Cha",
+          "odds": "13/8",
+          "res": "LOSE"
+        }
+      ],
+      "dec": 2.62,
+      "res": "LOSE",
+      "ret": 0.0
+    },
+    {
+      "size": 1,
+      "legs": [
+        {
+          "horse": "Tommy Pickles",
+          "odds": "6/4",
+          "res": "WIN"
+        }
+      ],
+      "dec": 2.5,
+      "res": "WIN",
+      "ret": 2.5
+    },
+    {
+      "size": 1,
+      "legs": [
+        {
+          "horse": "King Kubala",
+          "odds": "5/2",
+          "res": "WIN"
+        }
+      ],
+      "dec": 3.5,
+      "res": "WIN",
+      "ret": 3.5
+    },
+    {
+      "size": 2,
+      "legs": [
+        {
+          "horse": "Hollygrove Cha Cha",
+          "odds": "13/8",
+          "res": "LOSE"
+        },
+        {
+          "horse": "Tommy Pickles",
+          "odds": "6/4",
+          "res": "WIN"
+        }
+      ],
+      "dec": 6.56,
+      "res": "LOSE",
+      "ret": 0.0
+    },
+    {
+      "size": 2,
+      "legs": [
+        {
+          "horse": "Hollygrove Cha Cha",
+          "odds": "13/8",
+          "res": "LOSE"
+        },
+        {
+          "horse": "King Kubala",
+          "odds": "5/2",
+          "res": "WIN"
+        }
+      ],
+      "dec": 9.19,
+      "res": "LOSE",
+      "ret": 0.0
+    },
+    {
+      "size": 2,
+      "legs": [
+        {
+          "horse": "Tommy Pickles",
+          "odds": "6/4",
+          "res": "WIN"
+        },
+        {
+          "horse": "King Kubala",
+          "odds": "5/2",
+          "res": "WIN"
+        }
+      ],
+      "dec": 8.75,
+      "res": "WIN",
+      "ret": 8.75
+    },
+    {
+      "size": 3,
+      "legs": [
+        {
+          "horse": "Hollygrove Cha Cha",
+          "odds": "13/8",
+          "res": "LOSE"
+        },
+        {
+          "horse": "Tommy Pickles",
+          "odds": "6/4",
+          "res": "WIN"
+        },
+        {
+          "horse": "King Kubala",
+          "odds": "5/2",
+          "res": "WIN"
+        }
+      ],
+      "dec": 22.97,
+      "res": "LOSE",
+      "ret": 0.0
+    }
+  ],
+  "score": {
+    "picks": 3,
+    "lines": 7,
+    "won": 3,
+    "lost": 4,
+    "pending": 0
+  },
+  "units": {
+    "staked": 7,
+    "returned": 14.75
+  },
+  "by_size": {
+    "1": {
+      "n": 3,
+      "won": 2,
+      "lines": 3,
+      "returned": 6.0
+    },
+    "2": {
+      "n": 3,
+      "won": 1,
+      "lines": 3,
+      "returned": 8.75
+    },
+    "3": {
+      "n": 1,
+      "won": 0,
+      "lines": 1,
+      "returned": 0.0
+    }
+  }
+}

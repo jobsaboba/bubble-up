@@ -1,0 +1,53 @@
+{
+  "date": "2026-05-05",
+  "generated": "2026-11-13T21:20:20+00:00",
+  "picks": [
+    {
+      "time": "13:30",
+      "meeting": "Ayr",
+      "race": "Half Price Brunch/Lunch At westernhousehotel Handicap",
+      "horse": "Harb",
+      "stars": 3,
+      "odds": "5/2",
+      "dec": 3.5,
+      "res": "LOSE",
+      "pos": 8,
+      "score1": 98.0,
+      "score2": 40
+    }
+  ],
+  "combos": [
+    {
+      "size": 1,
+      "legs": [
+        {
+          "horse": "Harb",
+          "odds": "5/2",
+          "res": "LOSE"
+        }
+      ],
+      "dec": 3.5,
+      "res": "LOSE",
+      "ret": 0.0
+    }
+  ],
+  "score": {
+    "picks": 1,
+    "lines": 1,
+    "won": 0,
+    "lost": 1,
+    "pending": 0
+  },
+  "units": {
+    "staked": 1,
+    "returned": 0.0
+  },
+  "by_size": {
+    "1": {
+      "n": 1,
+      "won": 0,
+      "lines": 1,
+      "returned": 0.0
+    }
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "date": "2026-03-31",
+  "generated": "2026-11-13T21:20:20+00:00",
+  "picks": [
+    {
+      "time": "13:45",
+      "meeting": "Bangor-on-Dee",
+      "race": "Xenon Workplace Handicap Hurdle",
+      "horse": "Coumeenoole",
+      "stars": 4,
+      "odds": "15/8",
+      "dec": 2.875,
+      "res": "WIN",
+      "pos": 1,
+      "score1": 119.45,
+      "score2": 32.0
+    }
+  ],
+  "combos": [
+    {
+      "size": 1,
+      "legs": [
+        {
+          "horse": "Coumeenoole",
+          "odds": "15/8",
+          "res": "WIN"
+        }
+      ],
+      "dec": 2.88,
+      "res": "WIN",
+      "ret": 2.88
+    }
+  ],
+  "score": {
+    "picks": 1,
+    "lines": 1,
+    "won": 1,
+    "lost": 0,
+    "pending": 0
+  },
+  "units": {
+    "staked": 1,
+    "returned": 2.88
+  },
+  "by_size": {
+    "1": {
+      "n": 1,
+      "won": 1,
+      "lines": 1,
+      "returned": 2.88
+    }
+  }
+}

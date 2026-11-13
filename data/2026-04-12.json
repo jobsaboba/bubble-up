@@ -1,0 +1,53 @@
+{
+  "date": "2026-04-12",
+  "generated": "2026-11-13T21:20:20+00:00",
+  "picks": [
+    {
+      "time": "14:13",
+      "meeting": "Ffos Las",
+      "race": "Paned At 3A's Novices' Hurdle (GBB Race)",
+      "horse": "Cinquenta",
+      "stars": 5,
+      "odds": "4/9",
+      "dec": 1.4444444444444444,
+      "res": "WIN",
+      "pos": 1,
+      "score1": 190.81,
+      "score2": 61.0
+    }
+  ],
+  "combos": [
+    {
+      "size": 1,
+      "legs": [
+        {
+          "horse": "Cinquenta",
+          "odds": "4/9",
+          "res": "WIN"
+        }
+      ],
+      "dec": 1.44,
+      "res": "WIN",
+      "ret": 1.44
+    }
+  ],
+  "score": {
+    "picks": 1,
+    "lines": 1,
+    "won": 1,
+    "lost": 0,
+    "pending": 0
+  },
+  "units": {
+    "staked": 1,
+    "returned": 1.44
+  },
+  "by_size": {
+    "1": {
+      "n": 1,
+      "won": 1,
+      "lines": 1,
+      "returned": 1.44
+    }
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "date": "2026-06-04",
+  "generated": "2026-11-13T21:20:20+00:00",
+  "picks": [
+    {
+      "time": "14:21",
+      "meeting": "Hamilton",
+      "race": "Weatherbys Global Stallions Handicap",
+      "horse": "Pearl Eye",
+      "stars": 5,
+      "odds": "16/5",
+      "dec": 4.2,
+      "res": "WIN",
+      "pos": 1,
+      "score1": 53,
+      "score2": 24
+    }
+  ],
+  "combos": [
+    {
+      "size": 1,
+      "legs": [
+        {
+          "horse": "Pearl Eye",
+          "odds": "16/5",
+          "res": "WIN"
+        }
+      ],
+      "dec": 4.2,
+      "res": "WIN",
+      "ret": 4.2
+    }
+  ],
+  "score": {
+    "picks": 1,
+    "lines": 1,
+    "won": 1,
+    "lost": 0,
+    "pending": 0
+  },
+  "units": {
+    "staked": 1,
+    "returned": 4.2
+  },
+  "by_size": {
+    "1": {
+      "n": 1,
+      "won": 1,
+      "lines": 1,
+      "returned": 4.2
+    }
+  }
+}

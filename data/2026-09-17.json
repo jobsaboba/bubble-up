@@ -1,0 +1,103 @@
+{
+  "date": "2026-09-17",
+  "generated": "2026-11-13T21:20:20+00:00",
+  "picks": [
+    {
+      "time": "13:00",
+      "meeting": "Ayr",
+      "race": "Brandinghub For Signs & Graphics Handicap",
+      "horse": "Oriental Prince",
+      "stars": 5,
+      "odds": "9/2",
+      "dec": 5.5,
+      "res": "PLACE",
+      "pos": 4,
+      "score1": 60,
+      "score2": 30
+    },
+    {
+      "time": "14:00",
+      "meeting": "Ayr",
+      "race": "Ladbrokes 'Bet 5 Get 30 New Customer Offer' Kilkerran Handicap (GBBPlus Race)",
+      "horse": "Wild Thoughts",
+      "stars": 4,
+      "odds": "11/4",
+      "dec": 3.75,
+      "res": "WIN",
+      "pos": 1,
+      "score1": 69,
+      "score2": 34
+    }
+  ],
+  "combos": [
+    {
+      "size": 1,
+      "legs": [
+        {
+          "horse": "Oriental Prince",
+          "odds": "9/2",
+          "res": "PLACE"
+        }
+      ],
+      "dec": 5.5,
+      "res": "LOSE",
+      "ret": 0.0
+    },
+    {
+      "size": 1,
+      "legs": [
+        {
+          "horse": "Wild Thoughts",
+          "odds": "11/4",
+          "res": "WIN"
+        }
+      ],
+      "dec": 3.75,
+      "res": "WIN",
+      "ret": 3.75
+    },
+    {
+      "size": 2,
+      "legs": [
+        {
+          "horse": "Oriental Prince",
+          "odds": "9/2",
+          "res": "PLACE"
+        },
+        {
+          "horse": "Wild Thoughts",
+          "odds": "11/4",
+          "res": "WIN"
+        }
+      ],
+      "dec": 20.62,
+      "res": "LOSE",
+      "ret": 0.0
+    }
+  ],
+  "score": {
+    "picks": 2,
+    "lines": 3,
+    "won": 1,
+    "lost": 2,
+    "pending": 0
+  },
+  "units": {
+    "staked": 3,
+    "returned": 3.75
+  },
+  "by_size": {
+    "1": {
+      "n": 2,
+      "won": 1,
+      "lines": 2,
+      "returned": 3.75
+    },
+    "2": {
+      "n": 1,
+      "won": 0,
+      "lines": 1,
+      "returned": 0.0
+    }
+  }
+}

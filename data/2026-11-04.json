@@ -1,0 +1,194 @@
+{
+  "date": "2026-11-04",
+  "generated": "2026-11-13T21:20:20+00:00",
+  "picks": [
+    {
+      "time": "13:58",
+      "meeting": "Chepstow",
+      "race": "LSL Racing 'National Hunt' Maiden Hurdle (GBB Race) (Div 2)",
+      "horse": "A Sight To Sea",
+      "stars": 5,
+      "odds": "4/7",
+      "dec": 1.5714285714285714,
+      "res": "WIN",
+      "pos": 1,
+      "score1": 207.45,
+      "score2": 66.88
+    },
+    {
+      "time": "15:40",
+      "meeting": "Chepstow",
+      "race": "Floyds Turfcare & Weed Solutions Handicap Hurdle",
+      "horse": "I Heard A Rumour",
+      "stars": 4,
+      "odds": "7/2",
+      "dec": 4.5,
+      "res": "WIN",
+      "pos": 1,
+      "score1": 127.45,
+      "score2": 61.0
+    },
+    {
+      "time": "16:10",
+      "meeting": "Chepstow",
+      "race": "Dunraven Open NH Flat Race (GBB Race)",
+      "horse": "Don't Panic",
+      "stars": 5,
+      "odds": "5/2",
+      "dec": 3.5,
+      "res": "WIN",
+      "pos": 1,
+      "score1": 176.05,
+      "score2": 74.45
+    }
+  ],
+  "combos": [
+    {
+      "size": 1,
+      "legs": [
+        {
+          "horse": "A Sight To Sea",
+          "odds": "4/7",
+          "res": "WIN"
+        }
+      ],
+      "dec": 1.57,
+      "res": "WIN",
+      "ret": 1.57
+    },
+    {
+      "size": 1,
+      "legs": [
+        {
+          "horse": "I Heard A Rumour",
+          "odds": "7/2",
+          "res": "WIN"
+        }
+      ],
+      "dec": 4.5,
+      "res": "WIN",
+      "ret": 4.5
+    },
+    {
+      "size": 1,
+      "legs": [
+        {
+          "horse": "Don't Panic",
+          "odds": "5/2",
+          "res": "WIN"
+        }
+      ],
+      "dec": 3.5,
+      "res": "WIN",
+      "ret": 3.5
+    },
+    {
+      "size": 2,
+      "legs": [
+        {
+          "horse": "A Sight To Sea",
+          "odds": "4/7",
+          "res": "WIN"
+        },
+        {
+          "horse": "I Heard A Rumour",
+          "odds": "7/2",
+          "res": "WIN"
+        }
+      ],
+      "dec": 7.07,
+      "res": "WIN",
+      "ret": 7.07
+    },
+    {
+      "size": 2,
+      "legs": [
+        {
+          "horse": "A Sight To Sea",
+          "odds": "4/7",
+          "res": "WIN"
+        },
+        {
+          "horse": "Don't Panic",
+          "odds": "5/2",
+          "res": "WIN"
+        }
+      ],
+      "dec": 5.5,
+      "res": "WIN",
+      "ret": 5.5
+    },
+    {
+      "size": 2,
+      "legs": [
+        {
+          "horse": "I Heard A Rumour",
+          "odds": "7/2",
+          "res": "WIN"
+        },
+        {
+          "horse": "Don't Panic",
+          "odds": "5/2",
+          "res": "WIN"
+        }
+      ],
+      "dec": 15.75,
+      "res": "WIN",
+      "ret": 15.75
+    },
+    {
+      "size": 3,
+      "legs": [
+        {
+          "horse": "A Sight To Sea",
+          "odds": "4/7",
+          "res": "WIN"
+        },
+        {
+          "horse": "I Heard A Rumour",
+          "odds": "7/2",
+          "res": "WIN"
+        },
+        {
+          "horse": "Don't Panic",
+          "odds": "5/2",
+          "res": "WIN"
+        }
+      ],
+      "dec": 24.75,
+      "res": "WIN",
+      "ret": 24.75
+    }
+  ],
+  "score": {
+    "picks": 3,
+    "lines": 7,
+    "won": 7,
+    "lost": 0,
+    "pending": 0
+  },
+  "units": {
+    "staked": 7,
+    "returned": 62.64
+  },
+  "by_size": {
+    "1": {
+      "n": 3,
+      "won": 3,
+      "lines": 3,
+      "returned": 9.57
+    },
+    "2": {
+      "n": 3,
+      "won": 3,
+      "lines": 3,
+      "returned": 28.32
+    },
+    "3": {
+      "n": 1,
+      "won": 1,
+      "lines": 1,
+      "returned": 24.75
+    }
+  }
+}

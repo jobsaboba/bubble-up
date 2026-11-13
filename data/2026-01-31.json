@@ -1,0 +1,53 @@
+{
+  "date": "2026-01-31",
+  "generated": "2026-11-13T21:20:20+00:00",
+  "picks": [
+    {
+      "time": "14:20",
+      "meeting": "Musselburgh",
+      "race": "bet365 Scottish Champion Chase (For The Bowes-Lyon Trophy) (Handicap) (GBB Race)",
+      "horse": "The Kalooki Kid",
+      "stars": 5,
+      "odds": "10/3",
+      "dec": 4.333333333333334,
+      "res": "LOSE",
+      "pos": 6,
+      "score1": 141.07,
+      "score2": 62.75
+    }
+  ],
+  "combos": [
+    {
+      "size": 1,
+      "legs": [
+        {
+          "horse": "The Kalooki Kid",
+          "odds": "10/3",
+          "res": "LOSE"
+        }
+      ],
+      "dec": 4.33,
+      "res": "LOSE",
+      "ret": 0.0
+    }
+  ],
+  "score": {
+    "picks": 1,
+    "lines": 1,
+    "won": 0,
+    "lost": 1,
+    "pending": 0
+  },
+  "units": {
+    "staked": 1,
+    "returned": 0.0
+  },
+  "by_size": {
+    "1": {
+      "n": 1,
+      "won": 0,
+      "lines": 1,
+      "returned": 0.0
+    }
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "date": "2026-11-13",
+  "generated": "2026-11-13T21:20:20+00:00",
+  "picks": [
+    {
+      "time": "12:20",
+      "meeting": "Southwell",
+      "race": "DBS And Willmott Dixon Building Together Handicap Chase",
+      "horse": "Golly Gosh",
+      "stars": 5,
+      "odds": "8/11",
+      "dec": 1.7272727272727273,
+      "res": "WIN",
+      "pos": 1,
+      "score1": 136.69,
+      "score2": 62.74
+    },
+    {
+      "time": "20:30",
+      "meeting": "Dundalk",
+      "race": "Now Racing Every Wednesday At Dundalk Handicap",
+      "horse": "Mothel Abbey",
+      "stars": 2,
+      "odds": "25/1",
+      "dec": 26.0,
+      "res": "LOSE",
+      "pos": 8,
+      "score1": 105.25,
+      "score2": 45.33
+    }
+  ],
+  "combos": [
+    {
+      "size": 1,
+      "legs": [
+        {
+          "horse": "Golly Gosh",
+          "odds": "8/11",
+          "res": "WIN"
+        }
+      ],
+      "dec": 1.73,
+      "res": "WIN",
+      "ret": 1.73
+    },
+    {
+      "size": 1,
+      "legs": [
+        {
+          "horse": "Mothel Abbey",
+          "odds": "25/1",
+          "res": "LOSE"
+        }
+      ],
+      "dec": 26.0,
+      "res": "LOSE",
+      "ret": 0.0
+    },
+    {
+      "size": 2,
+      "legs": [
+        {
+          "horse": "Golly Gosh",
+          "odds": "8/11",
+          "res": "WIN"
+        },
+        {
+          "horse": "Mothel Abbey",
+          "odds": "25/1",
+          "res": "LOSE"
+        }
+      ],
+      "dec": 44.91,
+      "res": "LOSE",
+      "ret": 0.0
+    }
+  ],
+  "score": {
+    "picks": 2,
+    "lines": 3,
+    "won": 1,
+    "lost": 2,
+    "pending": 0
+  },
+  "units": {
+    "staked": 3,
+    "returned": 1.73
+  },
+  "by_size": {
+    "1": {
+      "n": 2,
+      "won": 1,
+      "lines": 2,
+      "returned": 1.73
+    },
+    "2": {
+      "n": 1,
+      "won": 0,
+      "lines": 1,
+      "returned": 0.0
+    }
+  }
+}

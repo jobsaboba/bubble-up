@@ -1,0 +1,53 @@
+{
+  "date": "2026-07-08",
+  "generated": "2026-11-13T21:20:20+00:00",
+  "picks": [
+    {
+      "time": "18:36",
+      "meeting": "Chepstow",
+      "race": "Each Way Extra At bet365 Handicap",
+      "horse": "Mr Tony",
+      "stars": 5,
+      "odds": "6/5",
+      "dec": 2.2,
+      "res": "WIN",
+      "pos": 1,
+      "score1": 53,
+      "score2": 23
+    }
+  ],
+  "combos": [
+    {
+      "size": 1,
+      "legs": [
+        {
+          "horse": "Mr Tony",
+          "odds": "6/5",
+          "res": "WIN"
+        }
+      ],
+      "dec": 2.2,
+      "res": "WIN",
+      "ret": 2.2
+    }
+  ],
+  "score": {
+    "picks": 1,
+    "lines": 1,
+    "won": 1,
+    "lost": 0,
+    "pending": 0
+  },
+  "units": {
+    "staked": 1,
+    "returned": 2.2
+  },
+  "by_size": {
+    "1": {
+      "n": 1,
+      "won": 1,
+      "lines": 1,
+      "returned": 2.2
+    }
+  }
+}

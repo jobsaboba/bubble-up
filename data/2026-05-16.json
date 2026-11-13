@@ -1,0 +1,53 @@
+{
+  "date": "2026-05-16",
+  "generated": "2026-11-13T21:20:20+00:00",
+  "picks": [
+    {
+      "time": "13:45",
+      "meeting": "Bangor-on-Dee",
+      "race": "Wigan Beer Company Novices' Limited Handicap Hurdle",
+      "horse": "Dream's Ka",
+      "stars": 5,
+      "odds": "5/2",
+      "dec": 3.5,
+      "res": "WIN",
+      "pos": 1,
+      "score1": 132.45,
+      "score2": 62.07
+    }
+  ],
+  "combos": [
+    {
+      "size": 1,
+      "legs": [
+        {
+          "horse": "Dream's Ka",
+          "odds": "5/2",
+          "res": "WIN"
+        }
+      ],
+      "dec": 3.5,
+      "res": "WIN",
+      "ret": 3.5
+    }
+  ],
+  "score": {
+    "picks": 1,
+    "lines": 1,
+    "won": 1,
+    "lost": 0,
+    "pending": 0
+  },
+  "units": {
+    "staked": 1,
+    "returned": 3.5
+  },
+  "by_size": {
+    "1": {
+      "n": 1,
+      "won": 1,
+      "lines": 1,
+      "returned": 3.5
+    }
+  }
+}

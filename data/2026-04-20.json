@@ -1,0 +1,53 @@
+{
+  "date": "2026-04-20",
+  "generated": "2026-11-13T21:20:20+00:00",
+  "picks": [
+    {
+      "time": "16:00",
+      "meeting": "Kelso",
+      "race": "Church House Investments Buccleuch Cup (Maiden Hunters' Chase)",
+      "horse": "Boley Bob",
+      "stars": 5,
+      "odds": "4/11",
+      "dec": 1.3636363636363638,
+      "res": "WIN",
+      "pos": 1,
+      "score1": 133,
+      "score2": 44
+    }
+  ],
+  "combos": [
+    {
+      "size": 1,
+      "legs": [
+        {
+          "horse": "Boley Bob",
+          "odds": "4/11",
+          "res": "WIN"
+        }
+      ],
+      "dec": 1.36,
+      "res": "WIN",
+      "ret": 1.36
+    }
+  ],
+  "score": {
+    "picks": 1,
+    "lines": 1,
+    "won": 1,
+    "lost": 0,
+    "pending": 0
+  },
+  "units": {
+    "staked": 1,
+    "returned": 1.36
+  },
+  "by_size": {
+    "1": {
+      "n": 1,
+      "won": 1,
+      "lines": 1,
+      "returned": 1.36
+    }
+  }
+}

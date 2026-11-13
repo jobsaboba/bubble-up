@@ -1,0 +1,103 @@
+{
+  "date": "2026-05-23",
+  "generated": "2026-11-13T21:20:20+00:00",
+  "picks": [
+    {
+      "time": "12:50",
+      "meeting": "Bangor-on-Dee",
+      "race": "Bangor-On-Dee Ladies Day Maiden Hurdle  (GBB Race)",
+      "horse": "Ladies Day",
+      "stars": 5,
+      "odds": "4/7",
+      "dec": 1.5714285714285714,
+      "res": "WIN",
+      "pos": 1,
+      "score1": 60.69,
+      "score2": 21.34
+    },
+    {
+      "time": "16:20",
+      "meeting": "Bangor-on-Dee",
+      "race": "Wrexham Evening On Friday 26th June Mares' Open NH Flat Race (GBB Race)",
+      "horse": "Lady Coco",
+      "stars": 3,
+      "odds": "15/8",
+      "dec": 2.875,
+      "res": "WIN",
+      "pos": 1,
+      "score1": 176.05,
+      "score2": 52.53
+    }
+  ],
+  "combos": [
+    {
+      "size": 1,
+      "legs": [
+        {
+          "horse": "Ladies Day",
+          "odds": "4/7",
+          "res": "WIN"
+        }
+      ],
+      "dec": 1.57,
+      "res": "WIN",
+      "ret": 1.57
+    },
+    {
+      "size": 1,
+      "legs": [
+        {
+          "horse": "Lady Coco",
+          "odds": "15/8",
+          "res": "WIN"
+        }
+      ],
+      "dec": 2.88,
+      "res": "WIN",
+      "ret": 2.88
+    },
+    {
+      "size": 2,
+      "legs": [
+        {
+          "horse": "Ladies Day",
+          "odds": "4/7",
+          "res": "WIN"
+        },
+        {
+          "horse": "Lady Coco",
+          "odds": "15/8",
+          "res": "WIN"
+        }
+      ],
+      "dec": 4.52,
+      "res": "WIN",
+      "ret": 4.52
+    }
+  ],
+  "score": {
+    "picks": 2,
+    "lines": 3,
+    "won": 3,
+    "lost": 0,
+    "pending": 0
+  },
+  "units": {
+    "staked": 3,
+    "returned": 8.97
+  },
+  "by_size": {
+    "1": {
+      "n": 2,
+      "won": 2,
+      "lines": 2,
+      "returned": 4.45
+    },
+    "2": {
+      "n": 1,
+      "won": 1,
+      "lines": 1,
+      "returned": 4.52
+    }
+  }
+}

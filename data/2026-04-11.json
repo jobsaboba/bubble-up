@@ -1,0 +1,53 @@
+{
+  "date": "2026-04-11",
+  "generated": "2026-11-13T21:20:20+00:00",
+  "picks": [
+    {
+      "time": "13:50",
+      "meeting": "Chepstow",
+      "race": "Tiptop Lavish Latrine Handicap Chase (GBB Race)",
+      "horse": "The Boola Boss",
+      "stars": 5,
+      "odds": "15/8",
+      "dec": 2.875,
+      "res": "WIN",
+      "pos": 1,
+      "score1": 90.05,
+      "score2": 44.11
+    }
+  ],
+  "combos": [
+    {
+      "size": 1,
+      "legs": [
+        {
+          "horse": "The Boola Boss",
+          "odds": "15/8",
+          "res": "WIN"
+        }
+      ],
+      "dec": 2.88,
+      "res": "WIN",
+      "ret": 2.88
+    }
+  ],
+  "score": {
+    "picks": 1,
+    "lines": 1,
+    "won": 1,
+    "lost": 0,
+    "pending": 0
+  },
+  "units": {
+    "staked": 1,
+    "returned": 2.88
+  },
+  "by_size": {
+    "1": {
+      "n": 1,
+      "won": 1,
+      "lines": 1,
+      "returned": 2.88
+    }
+  }
+}

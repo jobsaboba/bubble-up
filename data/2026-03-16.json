@@ -1,0 +1,53 @@
+{
+  "date": "2026-03-16",
+  "generated": "2026-11-13T21:20:20+00:00",
+  "picks": [
+    {
+      "time": "16:30",
+      "meeting": "Ffos Las",
+      "race": "Blackmores Handicap Hurdle",
+      "horse": "Double Click",
+      "stars": 3,
+      "odds": "11/1",
+      "dec": 12.0,
+      "res": "PLACE",
+      "pos": 3,
+      "score1": 167.81,
+      "score2": 83.0
+    }
+  ],
+  "combos": [
+    {
+      "size": 1,
+      "legs": [
+        {
+          "horse": "Double Click",
+          "odds": "11/1",
+          "res": "PLACE"
+        }
+      ],
+      "dec": 12.0,
+      "res": "LOSE",
+      "ret": 0.0
+    }
+  ],
+  "score": {
+    "picks": 1,
+    "lines": 1,
+    "won": 0,
+    "lost": 1,
+    "pending": 0
+  },
+  "units": {
+    "staked": 1,
+    "returned": 0.0
+  },
+  "by_size": {
+    "1": {
+      "n": 1,
+      "won": 0,
+      "lines": 1,
+      "returned": 0.0
+    }
+  }
+}

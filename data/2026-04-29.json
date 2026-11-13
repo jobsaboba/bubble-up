@@ -1,0 +1,53 @@
+{
+  "date": "2026-04-29",
+  "generated": "2026-11-13T21:20:20+00:00",
+  "picks": [
+    {
+      "time": "13:40",
+      "meeting": "Musselburgh",
+      "race": "Edinburgh Rugby Handicap",
+      "horse": "As Fast As Wind",
+      "stars": 5,
+      "odds": "4/7",
+      "dec": 1.5714285714285714,
+      "res": "WIN",
+      "pos": 1,
+      "score1": 82.0,
+      "score2": 40
+    }
+  ],
+  "combos": [
+    {
+      "size": 1,
+      "legs": [
+        {
+          "horse": "As Fast As Wind",
+          "odds": "4/7",
+          "res": "WIN"
+        }
+      ],
+      "dec": 1.57,
+      "res": "WIN",
+      "ret": 1.57
+    }
+  ],
+  "score": {
+    "picks": 1,
+    "lines": 1,
+    "won": 1,
+    "lost": 0,
+    "pending": 0
+  },
+  "units": {
+    "staked": 1,
+    "returned": 1.57
+  },
+  "by_size": {
+    "1": {
+      "n": 1,
+      "won": 1,
+      "lines": 1,
+      "returned": 1.57
+    }
+  }
+}

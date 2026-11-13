@@ -1,0 +1,460 @@
+{
+  "generated": "2026-11-13T21:20:20+00:00",
+  "unit": 0.1,
+  "season": {
+    "days": 74,
+    "lines": 294,
+    "won": 144,
+    "lost": 150,
+    "staked": 294,
+    "returned": 5063.66,
+    "roi": 1622.3
+  },
+  "by_size": [
+    {
+      "size": "Singles",
+      "key": 1,
+      "n": 111,
+      "won": 66,
+      "lines": 111,
+      "returned": 193.26,
+      "roi": 74.1
+    },
+    {
+      "size": "Doubles",
+      "key": 2,
+      "n": 76,
+      "won": 32,
+      "lines": 76,
+      "returned": 301.97,
+      "roi": 297.3
+    },
+    {
+      "size": "Trebles",
+      "key": 3,
+      "n": 57,
+      "won": 24,
+      "lines": 57,
+      "returned": 748.67,
+      "roi": 1213.5
+    },
+    {
+      "size": "4-folds",
+      "key": 4,
+      "n": 35,
+      "won": 15,
+      "lines": 35,
+      "returned": 1474.83,
+      "roi": 4113.8
+    },
+    {
+      "size": "5-folds",
+      "key": 5,
+      "n": 13,
+      "won": 6,
+      "lines": 13,
+      "returned": 1628.89,
+      "roi": 12429.9
+    },
+    {
+      "size": "6-folds",
+      "key": 6,
+      "n": 2,
+      "won": 1,
+      "lines": 2,
+      "returned": 716.04,
+      "roi": 35702.0
+    }
+  ],
+  "monthly": {
+    "2026-01": -2.34,
+    "2026-02": -1.03,
+    "2026-03": 8.63,
+    "2026-04": 11.15,
+    "2026-05": 19.47,
+    "2026-06": 7.2,
+    "2026-07": 3.2,
+    "2026-08": 3.16,
+    "2026-09": 2.5,
+    "2026-10": 1.44,
+    "2026-11": 4716.28
+  },
+  "best_day": {
+    "date": "2026-11-09",
+    "returned": 4683.53,
+    "staked": 63,
+    "lines": 63
+  },
+  "per_day": {
+    "2026-01-02": {
+      "staked": 3,
+      "returned": 3.75,
+      "lines": 3
+    },
+    "2026-01-06": {
+      "staked": 0,
+      "returned": 0,
+      "lines": 1
+    },
+    "2026-01-08": {
+      "staked": 3,
+      "returned": 1.91,
+      "lines": 3
+    },
+    "2026-01-11": {
+      "staked": 0,
+      "returned": 0,
+      "lines": 7
+    },
+    "2026-01-30": {
+      "staked": 1,
+      "returned": 0.0,
+      "lines": 1
+    },
+    "2026-01-31": {
+      "staked": 1,
+      "returned": 0.0,
+      "lines": 1
+    },
+    "2026-02-06": {
+      "staked": 0,
+      "returned": 0,
+      "lines": 1
+    },
+    "2026-02-10": {
+      "staked": 0,
+      "returned": 0,
+      "lines": 3
+    },
+    "2026-02-13": {
+      "staked": 1,
+      "returned": 2.25,
+      "lines": 1
+    },
+    "2026-02-21": {
+      "staked": 3,
+      "returned": 1.62,
+      "lines": 3
+    },
+    "2026-02-23": {
+      "staked": 1,
+      "returned": 0.0,
+      "lines": 1
+    },
+    "2026-02-28": {
+      "staked": 1,
+      "returned": 1.1,
+      "lines": 1
+    },
+    "2026-03-06": {
+      "staked": 0,
+      "returned": 0,
+      "lines": 1
+    },
+    "2026-03-16": {
+      "staked": 1,
+      "returned": 0.0,
+      "lines": 1
+    },
+    "2026-03-20": {
+      "staked": 0,
+      "returned": 0,
+      "lines": 1
+    },
+    "2026-03-21": {
+      "staked": 7,
+      "returned": 14.75,
+      "lines": 7
+    },
+    "2026-03-31": {
+      "staked": 1,
+      "returned": 2.88,
+      "lines": 1
+    },
+    "2026-04-02": {
+      "staked": 3,
+      "returned": 2.2,
+      "lines": 3
+    },
+    "2026-04-11": {
+      "staked": 1,
+      "returned": 2.88,
+      "lines": 1
+    },
+    "2026-04-12": {
+      "staked": 1,
+      "returned": 1.44,
+      "lines": 1
+    },
+    "2026-04-18": {
+      "staked": 7,
+      "returned": 0.0,
+      "lines": 7
+    },
+    "2026-04-20": {
+      "staked": 1,
+      "returned": 1.36,
+      "lines": 1
+    },
+    "2026-04-22": {
+      "staked": 1,
+      "returned": 0.0,
+      "lines": 1
+    },
+    "2026-04-24": {
+      "staked": 3,
+      "returned": 19.7,
+      "lines": 3
+    },
+    "2026-04-29": {
+      "staked": 1,
+      "returned": 1.57,
+      "lines": 1
+    },
+    "2026-05-03": {
+      "staked": 1,
+      "returned": 0.0,
+      "lines": 1
+    },
+    "2026-05-05": {
+      "staked": 1,
+      "returned": 0.0,
+      "lines": 1
+    },
+    "2026-05-06": {
+      "staked": 3,
+      "returned": 19.0,
+      "lines": 3
+    },
+    "2026-05-16": {
+      "staked": 1,
+      "returned": 3.5,
+      "lines": 1
+    },
+    "2026-05-20": {
+      "staked": 1,
+      "returned": 0.0,
+      "lines": 1
+    },
+    "2026-05-21": {
+      "staked": 1,
+      "returned": 0.0,
+      "lines": 1
+    },
+    "2026-05-23": {
+      "staked": 3,
+      "returned": 8.97,
+      "lines": 3
+    },
+    "2026-05-24": {
+      "staked": 1,
+      "returned": 0.0,
+      "lines": 1
+    },
+    "2026-06-04": {
+      "staked": 1,
+      "returned": 4.2,
+      "lines": 1
+    },
+    "2026-06-06": {
+      "staked": 3,
+      "returned": 3.25,
+      "lines": 3
+    },
+    "2026-06-15": {
+      "staked": 1,
+      "returned": 3.0,
+      "lines": 1
+    },
+    "2026-06-23": {
+      "staked": 3,
+      "returned": 1.67,
+      "lines": 3
+    },
+    "2026-06-26": {
+      "staked": 1,
+      "returned": 4.33,
+      "lines": 1
+    },
+    "2026-06-30": {
+      "staked": 3,
+      "returned": 2.75,
+      "lines": 3
+    },
+    "2026-07-06": {
+      "staked": 3,
+      "returned": 5.0,
+      "lines": 3
+    },
+    "2026-07-08": {
+      "staked": 1,
+      "returned": 2.2,
+      "lines": 1
+    },
+    "2026-07-13": {
+      "staked": 7,
+      "returned": 3.0,
+      "lines": 7
+    },
+    "2026-07-14": {
+      "staked": 1,
+      "returned": 3.0,
+      "lines": 1
+    },
+    "2026-07-16": {
+      "staked": 1,
+      "returned": 2.0,
+      "lines": 1
+    },
+    "2026-07-20": {
+      "staked": 1,
+      "returned": 0.0,
+      "lines": 1
+    },
+    "2026-07-24": {
+      "staked": 1,
+      "returned": 0.0,
+      "lines": 1
+    },
+    "2026-07-27": {
+      "staked": 1,
+      "returned": 0.0,
+      "lines": 1
+    },
+    "2026-07-28": {
+      "staked": 1,
+      "returned": 5.0,
+      "lines": 1
+    },
+    "2026-08-04": {
+      "staked": 3,
+      "returned": 1.91,
+      "lines": 3
+    },
+    "2026-08-07": {
+      "staked": 1,
+      "returned": 0.0,
+      "lines": 1
+    },
+    "2026-08-08": {
+      "staked": 3,
+      "returned": 0.0,
+      "lines": 3
+    },
+    "2026-08-10": {
+      "staked": 1,
+      "returned": 3.5,
+      "lines": 1
+    },
+    "2026-08-11": {
+      "staked": 1,
+      "returned": 6.5,
+      "lines": 1
+    },
+    "2026-08-24": {
+      "staked": 1,
+      "returned": 3.25,
+      "lines": 1
+    },
+    "2026-08-25": {
+      "staked": 1,
+      "returned": 0.0,
+      "lines": 1
+    },
+    "2026-08-29": {
+      "staked": 1,
+      "returned": 0.0,
+      "lines": 1
+    },
+    "2026-09-17": {
+      "staked": 3,
+      "returned": 3.75,
+      "lines": 3
+    },
+    "2026-09-20": {
+      "staked": 1,
+      "returned": 3.5,
+      "lines": 1
+    },
+    "2026-09-23": {
+      "staked": 1,
+      "returned": 2.25,
+      "lines": 1
+    },
+    "2026-09-24": {
+      "staked": 1,
+      "returned": 0.0,
+      "lines": 1
+    },
+    "2026-09-28": {
+      "staked": 1,
+      "returned": 0.0,
+      "lines": 1
+    },
+    "2026-10-08": {
+      "staked": 1,
+      "returned": 3.0,
+      "lines": 1
+    },
+    "2026-10-09": {
+      "staked": 1,
+      "returned": 2.0,
+      "lines": 1
+    },
+    "2026-10-10": {
+      "staked": 1,
+      "returned": 2.75,
+      "lines": 1
+    },
+    "2026-10-11": {
+      "staked": 1,
+      "returned": 3.0,
+      "lines": 1
+    },
+    "2026-10-22": {
+      "staked": 1,
+      "returned": 1.29,
+      "lines": 1
+    },
+    "2026-10-27": {
+      "staked": 7,
+      "returned": 1.4,
+      "lines": 7
+    },
+    "2026-11-04": {
+      "staked": 7,
+      "returned": 62.64,
+      "lines": 7
+    },
+    "2026-11-06": {
+      "staked": 7,
+      "returned": 48.19,
+      "lines": 7
+    },
+    "2026-11-07": {
+      "staked": 31,
+      "returned": 39.73,
+      "lines": 31
+    },
+    "2026-11-08": {
+      "staked": 7,
+      "returned": 39.8,
+      "lines": 7
+    },
+    "2026-11-09": {
+      "staked": 63,
+      "returned": 4683.53,
+      "lines": 63
+    },
+    "2026-11-11": {
+      "staked": 63,
+      "returned": 21.66,
+      "lines": 63
+    },
+    "2026-11-13": {
+      "staked": 3,
+      "returned": 1.73,
+      "lines": 3
+    }
+  }
+}

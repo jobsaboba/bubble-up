@@ -1,0 +1,53 @@
+{
+  "date": "2026-10-09",
+  "generated": "2026-11-13T21:20:20+00:00",
+  "picks": [
+    {
+      "time": "12:22",
+      "meeting": "Chepstow",
+      "race": "Wasdell Group Novices' Hurdle (GBB Race) (Div 1)",
+      "horse": "Cooltobecareless",
+      "stars": 5,
+      "odds": "1/1",
+      "dec": 2.0,
+      "res": "WIN",
+      "pos": 1,
+      "score1": 152.45,
+      "score2": 64.85
+    }
+  ],
+  "combos": [
+    {
+      "size": 1,
+      "legs": [
+        {
+          "horse": "Cooltobecareless",
+          "odds": "1/1",
+          "res": "WIN"
+        }
+      ],
+      "dec": 2.0,
+      "res": "WIN",
+      "ret": 2.0
+    }
+  ],
+  "score": {
+    "picks": 1,
+    "lines": 1,
+    "won": 1,
+    "lost": 0,
+    "pending": 0
+  },
+  "units": {
+    "staked": 1,
+    "returned": 2.0
+  },
+  "by_size": {
+    "1": {
+      "n": 1,
+      "won": 1,
+      "lines": 1,
+      "returned": 2.0
+    }
+  }
+}

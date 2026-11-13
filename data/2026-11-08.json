@@ -1,0 +1,194 @@
+{
+  "date": "2026-11-08",
+  "generated": "2026-11-13T21:20:20+00:00",
+  "picks": [
+    {
+      "time": "15:02",
+      "meeting": "Ffos Las",
+      "race": "Fedwen Tentage Open NH Flat Race (GBB Race)",
+      "horse": "Little Patience",
+      "stars": 5,
+      "odds": "1/1",
+      "dec": 2.0,
+      "res": "WIN",
+      "pos": 1,
+      "score1": 207.45,
+      "score2": 67.0
+    },
+    {
+      "time": "15:25",
+      "meeting": "Sandown",
+      "race": "Oddschecker Bet Builder Novices' Handicap Hurdle (GBB Race)",
+      "horse": "Port Station",
+      "stars": 5,
+      "odds": "9/4",
+      "dec": 3.25,
+      "res": "WIN",
+      "pos": 1,
+      "score1": 144.51,
+      "score2": 56.44
+    },
+    {
+      "time": "15:48",
+      "meeting": "Naas",
+      "race": "Bet With Tote On Racing & Sports Irish EBF Mares (Pro/Am) Flat Race",
+      "horse": "Ballydonagh Girl",
+      "stars": 5,
+      "odds": "6/5",
+      "dec": 2.2,
+      "res": "WIN",
+      "pos": 1,
+      "score1": 133,
+      "score2": 17
+    }
+  ],
+  "combos": [
+    {
+      "size": 1,
+      "legs": [
+        {
+          "horse": "Little Patience",
+          "odds": "1/1",
+          "res": "WIN"
+        }
+      ],
+      "dec": 2.0,
+      "res": "WIN",
+      "ret": 2.0
+    },
+    {
+      "size": 1,
+      "legs": [
+        {
+          "horse": "Port Station",
+          "odds": "9/4",
+          "res": "WIN"
+        }
+      ],
+      "dec": 3.25,
+      "res": "WIN",
+      "ret": 3.25
+    },
+    {
+      "size": 1,
+      "legs": [
+        {
+          "horse": "Ballydonagh Girl",
+          "odds": "6/5",
+          "res": "WIN"
+        }
+      ],
+      "dec": 2.2,
+      "res": "WIN",
+      "ret": 2.2
+    },
+    {
+      "size": 2,
+      "legs": [
+        {
+          "horse": "Little Patience",
+          "odds": "1/1",
+          "res": "WIN"
+        },
+        {
+          "horse": "Port Station",
+          "odds": "9/4",
+          "res": "WIN"
+        }
+      ],
+      "dec": 6.5,
+      "res": "WIN",
+      "ret": 6.5
+    },
+    {
+      "size": 2,
+      "legs": [
+        {
+          "horse": "Little Patience",
+          "odds": "1/1",
+          "res": "WIN"
+        },
+        {
+          "horse": "Ballydonagh Girl",
+          "odds": "6/5",
+          "res": "WIN"
+        }
+      ],
+      "dec": 4.4,
+      "res": "WIN",
+      "ret": 4.4
+    },
+    {
+      "size": 2,
+      "legs": [
+        {
+          "horse": "Port Station",
+          "odds": "9/4",
+          "res": "WIN"
+        },
+        {
+          "horse": "Ballydonagh Girl",
+          "odds": "6/5",
+          "res": "WIN"
+        }
+      ],
+      "dec": 7.15,
+      "res": "WIN",
+      "ret": 7.15
+    },
+    {
+      "size": 3,
+      "legs": [
+        {
+          "horse": "Little Patience",
+          "odds": "1/1",
+          "res": "WIN"
+        },
+        {
+          "horse": "Port Station",
+          "odds": "9/4",
+          "res": "WIN"
+        },
+        {
+          "horse": "Ballydonagh Girl",
+          "odds": "6/5",
+          "res": "WIN"
+        }
+      ],
+      "dec": 14.3,
+      "res": "WIN",
+      "ret": 14.3
+    }
+  ],
+  "score": {
+    "picks": 3,
+    "lines": 7,
+    "won": 7,
+    "lost": 0,
+    "pending": 0
+  },
+  "units": {
+    "staked": 7,
+    "returned": 39.8
+  },
+  "by_size": {
+    "1": {
+      "n": 3,
+      "won": 3,
+      "lines": 3,
+      "returned": 7.45
+    },
+    "2": {
+      "n": 3,
+      "won": 3,
+      "lines": 3,
+      "returned": 18.05
+    },
+    "3": {
+      "n": 1,
+      "won": 1,
+      "lines": 1,
+      "returned": 14.3
+    }
+  }
+}

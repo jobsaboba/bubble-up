@@ -1,0 +1,764 @@
+{
+  "date": "2026-11-07",
+  "generated": "2026-11-13T21:20:20+00:00",
+  "picks": [
+    {
+      "time": "13:50",
+      "meeting": "Gowran Park",
+      "race": "PRL Group Maiden Hurdle",
+      "horse": "Huntin Boots",
+      "stars": 4,
+      "odds": "2/1",
+      "dec": 3.0,
+      "res": "WIN",
+      "pos": 1,
+      "score1": 93.51,
+      "score2": 39.53
+    },
+    {
+      "time": "14:40",
+      "meeting": "Southwell",
+      "race": "AWC Finals Day At Newcastle 26th March Novice Stakes (GBB/GBBPlus Race)",
+      "horse": "Highland Ranger",
+      "stars": 4,
+      "odds": "6/4",
+      "dec": 2.5,
+      "res": "WIN",
+      "pos": 1,
+      "score1": 133,
+      "score2": 46.85
+    },
+    {
+      "time": "15:00",
+      "meeting": "Aintree",
+      "race": "Pertemps Network Handicap Hurdle (GBB Race)",
+      "horse": "Our Guide",
+      "stars": 5,
+      "odds": "10/3",
+      "dec": 4.333333333333334,
+      "res": "LOSE",
+      "pos": 6,
+      "score1": 172.85,
+      "score2": 79.79
+    },
+    {
+      "time": "15:30",
+      "meeting": "Gowran Park",
+      "race": "Pat Carroll's Pub Kilkenny Mares Handicap Hurdle (0-100) (Div 1)",
+      "horse": "A Snow White Park",
+      "stars": 4,
+      "odds": "4/5",
+      "dec": 1.8,
+      "res": "PLACE",
+      "pos": 2,
+      "score1": 98.5,
+      "score2": 48.51
+    },
+    {
+      "time": "15:40",
+      "meeting": "Uttoxeter",
+      "race": "Download The Matchbook App Mares' Open NH Flat Race (GBB Race)",
+      "horse": "Chicks For Free",
+      "stars": 4,
+      "odds": "10/11",
+      "dec": 1.9090909090909092,
+      "res": "WIN",
+      "pos": 1,
+      "score1": 271.56,
+      "score2": 72
+    }
+  ],
+  "combos": [
+    {
+      "size": 1,
+      "legs": [
+        {
+          "horse": "Huntin Boots",
+          "odds": "2/1",
+          "res": "WIN"
+        }
+      ],
+      "dec": 3.0,
+      "res": "WIN",
+      "ret": 3.0
+    },
+    {
+      "size": 1,
+      "legs": [
+        {
+          "horse": "Highland Ranger",
+          "odds": "6/4",
+          "res": "WIN"
+        }
+      ],
+      "dec": 2.5,
+      "res": "WIN",
+      "ret": 2.5
+    },
+    {
+      "size": 1,
+      "legs": [
+        {
+          "horse": "Our Guide",
+          "odds": "10/3",
+          "res": "LOSE"
+        }
+      ],
+      "dec": 4.33,
+      "res": "LOSE",
+      "ret": 0.0
+    },
+    {
+      "size": 1,
+      "legs": [
+        {
+          "horse": "A Snow White Park",
+          "odds": "4/5",
+          "res": "PLACE"
+        }
+      ],
+      "dec": 1.8,
+      "res": "LOSE",
+      "ret": 0.0
+    },
+    {
+      "size": 1,
+      "legs": [
+        {
+          "horse": "Chicks For Free",
+          "odds": "10/11",
+          "res": "WIN"
+        }
+      ],
+      "dec": 1.91,
+      "res": "WIN",
+      "ret": 1.91
+    },
+    {
+      "size": 2,
+      "legs": [
+        {
+          "horse": "Huntin Boots",
+          "odds": "2/1",
+          "res": "WIN"
+        },
+        {
+          "horse": "Highland Ranger",
+          "odds": "6/4",
+          "res": "WIN"
+        }
+      ],
+      "dec": 7.5,
+      "res": "WIN",
+      "ret": 7.5
+    },
+    {
+      "size": 2,
+      "legs": [
+        {
+          "horse": "Huntin Boots",
+          "odds": "2/1",
+          "res": "WIN"
+        },
+        {
+          "horse": "Our Guide",
+          "odds": "10/3",
+          "res": "LOSE"
+        }
+      ],
+      "dec": 13.0,
+      "res": "LOSE",
+      "ret": 0.0
+    },
+    {
+      "size": 2,
+      "legs": [
+        {
+          "horse": "Huntin Boots",
+          "odds": "2/1",
+          "res": "WIN"
+        },
+        {
+          "horse": "A Snow White Park",
+          "odds": "4/5",
+          "res": "PLACE"
+        }
+      ],
+      "dec": 5.4,
+      "res": "LOSE",
+      "ret": 0.0
+    },
+    {
+      "size": 2,
+      "legs": [
+        {
+          "horse": "Huntin Boots",
+          "odds": "2/1",
+          "res": "WIN"
+        },
+        {
+          "horse": "Chicks For Free",
+          "odds": "10/11",
+          "res": "WIN"
+        }
+      ],
+      "dec": 5.73,
+      "res": "WIN",
+      "ret": 5.73
+    },
+    {
+      "size": 2,
+      "legs": [
+        {
+          "horse": "Highland Ranger",
+          "odds": "6/4",
+          "res": "WIN"
+        },
+        {
+          "horse": "Our Guide",
+          "odds": "10/3",
+          "res": "LOSE"
+        }
+      ],
+      "dec": 10.83,
+      "res": "LOSE",
+      "ret": 0.0
+    },
+    {
+      "size": 2,
+      "legs": [
+        {
+          "horse": "Highland Ranger",
+          "odds": "6/4",
+          "res": "WIN"
+        },
+        {
+          "horse": "A Snow White Park",
+          "odds": "4/5",
+          "res": "PLACE"
+        }
+      ],
+      "dec": 4.5,
+      "res": "LOSE",
+      "ret": 0.0
+    },
+    {
+      "size": 2,
+      "legs": [
+        {
+          "horse": "Highland Ranger",
+          "odds": "6/4",
+          "res": "WIN"
+        },
+        {
+          "horse": "Chicks For Free",
+          "odds": "10/11",
+          "res": "WIN"
+        }
+      ],
+      "dec": 4.77,
+      "res": "WIN",
+      "ret": 4.77
+    },
+    {
+      "size": 2,
+      "legs": [
+        {
+          "horse": "Our Guide",
+          "odds": "10/3",
+          "res": "LOSE"
+        },
+        {
+          "horse": "A Snow White Park",
+          "odds": "4/5",
+          "res": "PLACE"
+        }
+      ],
+      "dec": 7.8,
+      "res": "LOSE",
+      "ret": 0.0
+    },
+    {
+      "size": 2,
+      "legs": [
+        {
+          "horse": "Our Guide",
+          "odds": "10/3",
+          "res": "LOSE"
+        },
+        {
+          "horse": "Chicks For Free",
+          "odds": "10/11",
+          "res": "WIN"
+        }
+      ],
+      "dec": 8.27,
+      "res": "LOSE",
+      "ret": 0.0
+    },
+    {
+      "size": 2,
+      "legs": [
+        {
+          "horse": "A Snow White Park",
+          "odds": "4/5",
+          "res": "PLACE"
+        },
+        {
+          "horse": "Chicks For Free",
+          "odds": "10/11",
+          "res": "WIN"
+        }
+      ],
+      "dec": 3.44,
+      "res": "LOSE",
+      "ret": 0.0
+    },
+    {
+      "size": 3,
+      "legs": [
+        {
+          "horse": "Huntin Boots",
+          "odds": "2/1",
+          "res": "WIN"
+        },
+        {
+          "horse": "Highland Ranger",
+          "odds": "6/4",
+          "res": "WIN"
+        },
+        {
+          "horse": "Our Guide",
+          "odds": "10/3",
+          "res": "LOSE"
+        }
+      ],
+      "dec": 32.5,
+      "res": "LOSE",
+      "ret": 0.0
+    },
+    {
+      "size": 3,
+      "legs": [
+        {
+          "horse": "Huntin Boots",
+          "odds": "2/1",
+          "res": "WIN"
+        },
+        {
+          "horse": "Highland Ranger",
+          "odds": "6/4",
+          "res": "WIN"
+        },
+        {
+          "horse": "A Snow White Park",
+          "odds": "4/5",
+          "res": "PLACE"
+        }
+      ],
+      "dec": 13.5,
+      "res": "LOSE",
+      "ret": 0.0
+    },
+    {
+      "size": 3,
+      "legs": [
+        {
+          "horse": "Huntin Boots",
+          "odds": "2/1",
+          "res": "WIN"
+        },
+        {
+          "horse": "Highland Ranger",
+          "odds": "6/4",
+          "res": "WIN"
+        },
+        {
+          "horse": "Chicks For Free",
+          "odds": "10/11",
+          "res": "WIN"
+        }
+      ],
+      "dec": 14.32,
+      "res": "WIN",
+      "ret": 14.32
+    },
+    {
+      "size": 3,
+      "legs": [
+        {
+          "horse": "Huntin Boots",
+          "odds": "2/1",
+          "res": "WIN"
+        },
+        {
+          "horse": "Our Guide",
+          "odds": "10/3",
+          "res": "LOSE"
+        },
+        {
+          "horse": "A Snow White Park",
+          "odds": "4/5",
+          "res": "PLACE"
+        }
+      ],
+      "dec": 23.4,
+      "res": "LOSE",
+      "ret": 0.0
+    },
+    {
+      "size": 3,
+      "legs": [
+        {
+          "horse": "Huntin Boots",
+          "odds": "2/1",
+          "res": "WIN"
+        },
+        {
+          "horse": "Our Guide",
+          "odds": "10/3",
+          "res": "LOSE"
+        },
+        {
+          "horse": "Chicks For Free",
+          "odds": "10/11",
+          "res": "WIN"
+        }
+      ],
+      "dec": 24.82,
+      "res": "LOSE",
+      "ret": 0.0
+    },
+    {
+      "size": 3,
+      "legs": [
+        {
+          "horse": "Huntin Boots",
+          "odds": "2/1",
+          "res": "WIN"
+        },
+        {
+          "horse": "A Snow White Park",
+          "odds": "4/5",
+          "res": "PLACE"
+        },
+        {
+          "horse": "Chicks For Free",
+          "odds": "10/11",
+          "res": "WIN"
+        }
+      ],
+      "dec": 10.31,
+      "res": "LOSE",
+      "ret": 0.0
+    },
+    {
+      "size": 3,
+      "legs": [
+        {
+          "horse": "Highland Ranger",
+          "odds": "6/4",
+          "res": "WIN"
+        },
+        {
+          "horse": "Our Guide",
+          "odds": "10/3",
+          "res": "LOSE"
+        },
+        {
+          "horse": "A Snow White Park",
+          "odds": "4/5",
+          "res": "PLACE"
+        }
+      ],
+      "dec": 19.5,
+      "res": "LOSE",
+      "ret": 0.0
+    },
+    {
+      "size": 3,
+      "legs": [
+        {
+          "horse": "Highland Ranger",
+          "odds": "6/4",
+          "res": "WIN"
+        },
+        {
+          "horse": "Our Guide",
+          "odds": "10/3",
+          "res": "LOSE"
+        },
+        {
+          "horse": "Chicks For Free",
+          "odds": "10/11",
+          "res": "WIN"
+        }
+      ],
+      "dec": 20.68,
+      "res": "LOSE",
+      "ret": 0.0
+    },
+    {
+      "size": 3,
+      "legs": [
+        {
+          "horse": "Highland Ranger",
+          "odds": "6/4",
+          "res": "WIN"
+        },
+        {
+          "horse": "A Snow White Park",
+          "odds": "4/5",
+          "res": "PLACE"
+        },
+        {
+          "horse": "Chicks For Free",
+          "odds": "10/11",
+          "res": "WIN"
+        }
+      ],
+      "dec": 8.59,
+      "res": "LOSE",
+      "ret": 0.0
+    },
+    {
+      "size": 3,
+      "legs": [
+        {
+          "horse": "Our Guide",
+          "odds": "10/3",
+          "res": "LOSE"
+        },
+        {
+          "horse": "A Snow White Park",
+          "odds": "4/5",
+          "res": "PLACE"
+        },
+        {
+          "horse": "Chicks For Free",
+          "odds": "10/11",
+          "res": "WIN"
+        }
+      ],
+      "dec": 14.89,
+      "res": "LOSE",
+      "ret": 0.0
+    },
+    {
+      "size": 4,
+      "legs": [
+        {
+          "horse": "Huntin Boots",
+          "odds": "2/1",
+          "res": "WIN"
+        },
+        {
+          "horse": "Highland Ranger",
+          "odds": "6/4",
+          "res": "WIN"
+        },
+        {
+          "horse": "Our Guide",
+          "odds": "10/3",
+          "res": "LOSE"
+        },
+        {
+          "horse": "A Snow White Park",
+          "odds": "4/5",
+          "res": "PLACE"
+        }
+      ],
+      "dec": 58.5,
+      "res": "LOSE",
+      "ret": 0.0
+    },
+    {
+      "size": 4,
+      "legs": [
+        {
+          "horse": "Huntin Boots",
+          "odds": "2/1",
+          "res": "WIN"
+        },
+        {
+          "horse": "Highland Ranger",
+          "odds": "6/4",
+          "res": "WIN"
+        },
+        {
+          "horse": "Our Guide",
+          "odds": "10/3",
+          "res": "LOSE"
+        },
+        {
+          "horse": "Chicks For Free",
+          "odds": "10/11",
+          "res": "WIN"
+        }
+      ],
+      "dec": 62.05,
+      "res": "LOSE",
+      "ret": 0.0
+    },
+    {
+      "size": 4,
+      "legs": [
+        {
+          "horse": "Huntin Boots",
+          "odds": "2/1",
+          "res": "WIN"
+        },
+        {
+          "horse": "Highland Ranger",
+          "odds": "6/4",
+          "res": "WIN"
+        },
+        {
+          "horse": "A Snow White Park",
+          "odds": "4/5",
+          "res": "PLACE"
+        },
+        {
+          "horse": "Chicks For Free",
+          "odds": "10/11",
+          "res": "WIN"
+        }
+      ],
+      "dec": 25.77,
+      "res": "LOSE",
+      "ret": 0.0
+    },
+    {
+      "size": 4,
+      "legs": [
+        {
+          "horse": "Huntin Boots",
+          "odds": "2/1",
+          "res": "WIN"
+        },
+        {
+          "horse": "Our Guide",
+          "odds": "10/3",
+          "res": "LOSE"
+        },
+        {
+          "horse": "A Snow White Park",
+          "odds": "4/5",
+          "res": "PLACE"
+        },
+        {
+          "horse": "Chicks For Free",
+          "odds": "10/11",
+          "res": "WIN"
+        }
+      ],
+      "dec": 44.67,
+      "res": "LOSE",
+      "ret": 0.0
+    },
+    {
+      "size": 4,
+      "legs": [
+        {
+          "horse": "Highland Ranger",
+          "odds": "6/4",
+          "res": "WIN"
+        },
+        {
+          "horse": "Our Guide",
+          "odds": "10/3",
+          "res": "LOSE"
+        },
+        {
+          "horse": "A Snow White Park",
+          "odds": "4/5",
+          "res": "PLACE"
+        },
+        {
+          "horse": "Chicks For Free",
+          "odds": "10/11",
+          "res": "WIN"
+        }
+      ],
+      "dec": 37.23,
+      "res": "LOSE",
+      "ret": 0.0
+    },
+    {
+      "size": 5,
+      "legs": [
+        {
+          "horse": "Huntin Boots",
+          "odds": "2/1",
+          "res": "WIN"
+        },
+        {
+          "horse": "Highland Ranger",
+          "odds": "6/4",
+          "res": "WIN"
+        },
+        {
+          "horse": "Our Guide",
+          "odds": "10/3",
+          "res": "LOSE"
+        },
+        {
+          "horse": "A Snow White Park",
+          "odds": "4/5",
+          "res": "PLACE"
+        },
+        {
+          "horse": "Chicks For Free",
+          "odds": "10/11",
+          "res": "WIN"
+        }
+      ],
+      "dec": 111.68,
+      "res": "LOSE",
+      "ret": 0.0
+    }
+  ],
+  "score": {
+    "picks": 5,
+    "lines": 31,
+    "won": 7,
+    "lost": 24,
+    "pending": 0
+  },
+  "units": {
+    "staked": 31,
+    "returned": 39.73
+  },
+  "by_size": {
+    "1": {
+      "n": 5,
+      "won": 3,
+      "lines": 5,
+      "returned": 7.41
+    },
+    "2": {
+      "n": 10,
+      "won": 3,
+      "lines": 10,
+      "returned": 18.0
+    },
+    "3": {
+      "n": 10,
+      "won": 1,
+      "lines": 10,
+      "returned": 14.32
+    },
+    "4": {
+      "n": 5,
+      "won": 0,
+      "lines": 5,
+      "returned": 0.0
+    },
+    "5": {
+      "n": 1,
+      "won": 0,
+      "lines": 1,
+      "returned": 0.0
+    }
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "date": "2026-11-06",
+  "generated": "2026-11-13T21:20:20+00:00",
+  "picks": [
+    {
+      "time": "12:50",
+      "meeting": "Fontwell",
+      "race": "KSR Lighting Maiden Hurdle (GBB Race)",
+      "horse": "Smokehouse",
+      "stars": 5,
+      "odds": "4/7",
+      "dec": 1.5714285714285714,
+      "res": "WIN",
+      "pos": 1,
+      "score1": 221.56,
+      "score2": 57.7
+    },
+    {
+      "time": "17:45",
+      "meeting": "Dundalk",
+      "race": "Irish Stallion Farms EBF Fillies Maiden",
+      "horse": "Ladies Gossip",
+      "stars": 4,
+      "odds": "9/4",
+      "dec": 3.25,
+      "res": "WIN",
+      "pos": 1,
+      "score1": 67,
+      "score2": 33
+    },
+    {
+      "time": "18:00",
+      "meeting": "Newcastle",
+      "race": "All-Weather Championship Season 14 Has Begun Handicap",
+      "horse": "Oxford Circus",
+      "stars": 4,
+      "odds": "5/2",
+      "dec": 3.5,
+      "res": "WIN",
+      "pos": 1,
+      "score1": 115.8,
+      "score2": 32
+    }
+  ],
+  "combos": [
+    {
+      "size": 1,
+      "legs": [
+        {
+          "horse": "Smokehouse",
+          "odds": "4/7",
+          "res": "WIN"
+        }
+      ],
+      "dec": 1.57,
+      "res": "WIN",
+      "ret": 1.57
+    },
+    {
+      "size": 1,
+      "legs": [
+        {
+          "horse": "Ladies Gossip",
+          "odds": "9/4",
+          "res": "WIN"
+        }
+      ],
+      "dec": 3.25,
+      "res": "WIN",
+      "ret": 3.25
+    },
+    {
+      "size": 1,
+      "legs": [
+        {
+          "horse": "Oxford Circus",
+          "odds": "5/2",
+          "res": "WIN"
+        }
+      ],
+      "dec": 3.5,
+      "res": "WIN",
+      "ret": 3.5
+    },
+    {
+      "size": 2,
+      "legs": [
+        {
+          "horse": "Smokehouse",
+          "odds": "4/7",
+          "res": "WIN"
+        },
+        {
+          "horse": "Ladies Gossip",
+          "odds": "9/4",
+          "res": "WIN"
+        }
+      ],
+      "dec": 5.11,
+      "res": "WIN",
+      "ret": 5.11
+    },
+    {
+      "size": 2,
+      "legs": [
+        {
+          "horse": "Smokehouse",
+          "odds": "4/7",
+          "res": "WIN"
+        },
+        {
+          "horse": "Oxford Circus",
+          "odds": "5/2",
+          "res": "WIN"
+        }
+      ],
+      "dec": 5.5,
+      "res": "WIN",
+      "ret": 5.5
+    },
+    {
+      "size": 2,
+      "legs": [
+        {
+          "horse": "Ladies Gossip",
+          "odds": "9/4",
+          "res": "WIN"
+        },
+        {
+          "horse": "Oxford Circus",
+          "odds": "5/2",
+          "res": "WIN"
+        }
+      ],
+      "dec": 11.38,
+      "res": "WIN",
+      "ret": 11.38
+    },
+    {
+      "size": 3,
+      "legs": [
+        {
+          "horse": "Smokehouse",
+          "odds": "4/7",
+          "res": "WIN"
+        },
+        {
+          "horse": "Ladies Gossip",
+          "odds": "9/4",
+          "res": "WIN"
+        },
+        {
+          "horse": "Oxford Circus",
+          "odds": "5/2",
+          "res": "WIN"
+        }
+      ],
+      "dec": 17.88,
+      "res": "WIN",
+      "ret": 17.88
+    }
+  ],
+  "score": {
+    "picks": 3,
+    "lines": 7,
+    "won": 7,
+    "lost": 0,
+    "pending": 0
+  },
+  "units": {
+    "staked": 7,
+    "returned": 48.19
+  },
+  "by_size": {
+    "1": {
+      "n": 3,
+      "won": 3,
+      "lines": 3,
+      "returned": 8.32
+    },
+    "2": {
+      "n": 3,
+      "won": 3,
+      "lines": 3,
+      "returned": 21.99
+    },
+    "3": {
+      "n": 1,
+      "won": 1,
+      "lines": 1,
+      "returned": 17.88
+    }
+  }
+}

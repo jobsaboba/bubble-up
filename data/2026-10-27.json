@@ -1,0 +1,194 @@
+{
+  "date": "2026-10-27",
+  "generated": "2026-11-13T21:20:20+00:00",
+  "picks": [
+    {
+      "time": "14:16",
+      "meeting": "Bangor-on-Dee",
+      "race": "Jodie Standing's Point-To-Point Recruits Novices' Hurdle (GBB Race)",
+      "horse": "Rattlin Home",
+      "stars": 5,
+      "odds": "2/5",
+      "dec": 1.4,
+      "res": "WIN",
+      "pos": 1,
+      "score1": 157.45,
+      "score2": 24.69
+    },
+    {
+      "time": "14:46",
+      "meeting": "Bangor-on-Dee",
+      "race": "Kellyhill Financial Planning Mares' Handicap Hurdle",
+      "horse": "Queen Maeve",
+      "stars": 5,
+      "odds": "5/2",
+      "dec": 3.5,
+      "res": "LOSE",
+      "pos": 4,
+      "score1": 127.45,
+      "score2": 58.0
+    },
+    {
+      "time": "16:16",
+      "meeting": "Bangor-on-Dee",
+      "race": "Overton Handicap Chase (GBB Race)",
+      "horse": "Twistthenightaway",
+      "stars": 5,
+      "odds": "7/2",
+      "dec": 4.5,
+      "res": "LOSE",
+      "pos": 6,
+      "score1": 135.45,
+      "score2": 60.59
+    }
+  ],
+  "combos": [
+    {
+      "size": 1,
+      "legs": [
+        {
+          "horse": "Rattlin Home",
+          "odds": "2/5",
+          "res": "WIN"
+        }
+      ],
+      "dec": 1.4,
+      "res": "WIN",
+      "ret": 1.4
+    },
+    {
+      "size": 1,
+      "legs": [
+        {
+          "horse": "Queen Maeve",
+          "odds": "5/2",
+          "res": "LOSE"
+        }
+      ],
+      "dec": 3.5,
+      "res": "LOSE",
+      "ret": 0.0
+    },
+    {
+      "size": 1,
+      "legs": [
+        {
+          "horse": "Twistthenightaway",
+          "odds": "7/2",
+          "res": "LOSE"
+        }
+      ],
+      "dec": 4.5,
+      "res": "LOSE",
+      "ret": 0.0
+    },
+    {
+      "size": 2,
+      "legs": [
+        {
+          "horse": "Rattlin Home",
+          "odds": "2/5",
+          "res": "WIN"
+        },
+        {
+          "horse": "Queen Maeve",
+          "odds": "5/2",
+          "res": "LOSE"
+        }
+      ],
+      "dec": 4.9,
+      "res": "LOSE",
+      "ret": 0.0
+    },
+    {
+      "size": 2,
+      "legs": [
+        {
+          "horse": "Rattlin Home",
+          "odds": "2/5",
+          "res": "WIN"
+        },
+        {
+          "horse": "Twistthenightaway",
+          "odds": "7/2",
+          "res": "LOSE"
+        }
+      ],
+      "dec": 6.3,
+      "res": "LOSE",
+      "ret": 0.0
+    },
+    {
+      "size": 2,
+      "legs": [
+        {
+          "horse": "Queen Maeve",
+          "odds": "5/2",
+          "res": "LOSE"
+        },
+        {
+          "horse": "Twistthenightaway",
+          "odds": "7/2",
+          "res": "LOSE"
+        }
+      ],
+      "dec": 15.75,
+      "res": "LOSE",
+      "ret": 0.0
+    },
+    {
+      "size": 3,
+      "legs": [
+        {
+          "horse": "Rattlin Home",
+          "odds": "2/5",
+          "res": "WIN"
+        },
+        {
+          "horse": "Queen Maeve",
+          "odds": "5/2",
+          "res": "LOSE"
+        },
+        {
+          "horse": "Twistthenightaway",
+          "odds": "7/2",
+          "res": "LOSE"
+        }
+      ],
+      "dec": 22.05,
+      "res": "LOSE",
+      "ret": 0.0
+    }
+  ],
+  "score": {
+    "picks": 3,
+    "lines": 7,
+    "won": 1,
+    "lost": 6,
+    "pending": 0
+  },
+  "units": {
+    "staked": 7,
+    "returned": 1.4
+  },
+  "by_size": {
+    "1": {
+      "n": 3,
+      "won": 1,
+      "lines": 3,
+      "returned": 1.4
+    },
+    "2": {
+      "n": 3,
+      "won": 0,
+      "lines": 3,
+      "returned": 0.0
+    },
+    "3": {
+      "n": 1,
+      "won": 0,
+      "lines": 1,
+      "returned": 0.0
+    }
+  }
+}

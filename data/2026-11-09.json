@@ -1,0 +1,1599 @@
+{
+  "date": "2026-11-09",
+  "generated": "2026-11-13T21:20:20+00:00",
+  "picks": [
+    {
+      "time": "12:00",
+      "meeting": "Punchestown",
+      "race": "Matchbook Betting Exchange Handicap Chase (0-100)",
+      "horse": "Western Model",
+      "stars": 5,
+      "odds": "9/2",
+      "dec": 5.5,
+      "res": "WIN",
+      "pos": 1,
+      "score1": 54,
+      "score2": 21
+    },
+    {
+      "time": "13:00",
+      "meeting": "Punchestown",
+      "race": "Irish Stallion Farms EBF Fillies Academy Hurdle",
+      "horse": "Smokin Aces",
+      "stars": 4,
+      "odds": "9/4",
+      "dec": 3.25,
+      "res": "WIN",
+      "pos": 1,
+      "score1": 161.6,
+      "score2": 39.6
+    },
+    {
+      "time": "13:10",
+      "meeting": "Stratford",
+      "race": "Stratford Extra Raceday 'National Hunt' Maiden Hurdle (GBB Race)",
+      "horse": "Eastern Fire",
+      "stars": 5,
+      "odds": "8/15",
+      "dec": 1.5333333333333332,
+      "res": "WIN",
+      "pos": 1,
+      "score1": 162.78,
+      "score2": 18.76
+    },
+    {
+      "time": "13:30",
+      "meeting": "Punchestown",
+      "race": "Matchbook 50/50 Series 3-Y-O Maiden Hurdle",
+      "horse": "Coexist",
+      "stars": 3,
+      "odds": "11/8",
+      "dec": 2.375,
+      "res": "WIN",
+      "pos": 1,
+      "score1": 58,
+      "score2": 27
+    },
+    {
+      "time": "14:03",
+      "meeting": "Punchestown",
+      "race": "Matchbook 50/50 Series Maiden Hurdle",
+      "horse": "Bombay Pat",
+      "stars": 3,
+      "odds": "5/1",
+      "dec": 6.0,
+      "res": "WIN",
+      "pos": 1,
+      "score1": 108,
+      "score2": 36
+    },
+    {
+      "time": "15:35",
+      "meeting": "Carlisle",
+      "race": "Book Your Christmas Party Here Mares' Open Maiden NH Flat Race (GBB Race)",
+      "horse": "Lady Jetfire",
+      "stars": 5,
+      "odds": "5/6",
+      "dec": 1.8333333333333335,
+      "res": "WIN",
+      "pos": 1,
+      "score1": 266.65,
+      "score2": 84.08
+    }
+  ],
+  "combos": [
+    {
+      "size": 1,
+      "legs": [
+        {
+          "horse": "Western Model",
+          "odds": "9/2",
+          "res": "WIN"
+        }
+      ],
+      "dec": 5.5,
+      "res": "WIN",
+      "ret": 5.5
+    },
+    {
+      "size": 1,
+      "legs": [
+        {
+          "horse": "Smokin Aces",
+          "odds": "9/4",
+          "res": "WIN"
+        }
+      ],
+      "dec": 3.25,
+      "res": "WIN",
+      "ret": 3.25
+    },
+    {
+      "size": 1,
+      "legs": [
+        {
+          "horse": "Eastern Fire",
+          "odds": "8/15",
+          "res": "WIN"
+        }
+      ],
+      "dec": 1.53,
+      "res": "WIN",
+      "ret": 1.53
+    },
+    {
+      "size": 1,
+      "legs": [
+        {
+          "horse": "Coexist",
+          "odds": "11/8",
+          "res": "WIN"
+        }
+      ],
+      "dec": 2.38,
+      "res": "WIN",
+      "ret": 2.38
+    },
+    {
+      "size": 1,
+      "legs": [
+        {
+          "horse": "Bombay Pat",
+          "odds": "5/1",
+          "res": "WIN"
+        }
+      ],
+      "dec": 6.0,
+      "res": "WIN",
+      "ret": 6.0
+    },
+    {
+      "size": 1,
+      "legs": [
+        {
+          "horse": "Lady Jetfire",
+          "odds": "5/6",
+          "res": "WIN"
+        }
+      ],
+      "dec": 1.83,
+      "res": "WIN",
+      "ret": 1.83
+    },
+    {
+      "size": 2,
+      "legs": [
+        {
+          "horse": "Western Model",
+          "odds": "9/2",
+          "res": "WIN"
+        },
+        {
+          "horse": "Smokin Aces",
+          "odds": "9/4",
+          "res": "WIN"
+        }
+      ],
+      "dec": 17.88,
+      "res": "WIN",
+      "ret": 17.88
+    },
+    {
+      "size": 2,
+      "legs": [
+        {
+          "horse": "Western Model",
+          "odds": "9/2",
+          "res": "WIN"
+        },
+        {
+          "horse": "Eastern Fire",
+          "odds": "8/15",
+          "res": "WIN"
+        }
+      ],
+      "dec": 8.43,
+      "res": "WIN",
+      "ret": 8.43
+    },
+    {
+      "size": 2,
+      "legs": [
+        {
+          "horse": "Western Model",
+          "odds": "9/2",
+          "res": "WIN"
+        },
+        {
+          "horse": "Coexist",
+          "odds": "11/8",
+          "res": "WIN"
+        }
+      ],
+      "dec": 13.06,
+      "res": "WIN",
+      "ret": 13.06
+    },
+    {
+      "size": 2,
+      "legs": [
+        {
+          "horse": "Western Model",
+          "odds": "9/2",
+          "res": "WIN"
+        },
+        {
+          "horse": "Bombay Pat",
+          "odds": "5/1",
+          "res": "WIN"
+        }
+      ],
+      "dec": 33.0,
+      "res": "WIN",
+      "ret": 33.0
+    },
+    {
+      "size": 2,
+      "legs": [
+        {
+          "horse": "Western Model",
+          "odds": "9/2",
+          "res": "WIN"
+        },
+        {
+          "horse": "Lady Jetfire",
+          "odds": "5/6",
+          "res": "WIN"
+        }
+      ],
+      "dec": 10.08,
+      "res": "WIN",
+      "ret": 10.08
+    },
+    {
+      "size": 2,
+      "legs": [
+        {
+          "horse": "Smokin Aces",
+          "odds": "9/4",
+          "res": "WIN"
+        },
+        {
+          "horse": "Eastern Fire",
+          "odds": "8/15",
+          "res": "WIN"
+        }
+      ],
+      "dec": 4.98,
+      "res": "WIN",
+      "ret": 4.98
+    },
+    {
+      "size": 2,
+      "legs": [
+        {
+          "horse": "Smokin Aces",
+          "odds": "9/4",
+          "res": "WIN"
+        },
+        {
+          "horse": "Coexist",
+          "odds": "11/8",
+          "res": "WIN"
+        }
+      ],
+      "dec": 7.72,
+      "res": "WIN",
+      "ret": 7.72
+    },
+    {
+      "size": 2,
+      "legs": [
+        {
+          "horse": "Smokin Aces",
+          "odds": "9/4",
+          "res": "WIN"
+        },
+        {
+          "horse": "Bombay Pat",
+          "odds": "5/1",
+          "res": "WIN"
+        }
+      ],
+      "dec": 19.5,
+      "res": "WIN",
+      "ret": 19.5
+    },
+    {
+      "size": 2,
+      "legs": [
+        {
+          "horse": "Smokin Aces",
+          "odds": "9/4",
+          "res": "WIN"
+        },
+        {
+          "horse": "Lady Jetfire",
+          "odds": "5/6",
+          "res": "WIN"
+        }
+      ],
+      "dec": 5.96,
+      "res": "WIN",
+      "ret": 5.96
+    },
+    {
+      "size": 2,
+      "legs": [
+        {
+          "horse": "Eastern Fire",
+          "odds": "8/15",
+          "res": "WIN"
+        },
+        {
+          "horse": "Coexist",
+          "odds": "11/8",
+          "res": "WIN"
+        }
+      ],
+      "dec": 3.64,
+      "res": "WIN",
+      "ret": 3.64
+    },
+    {
+      "size": 2,
+      "legs": [
+        {
+          "horse": "Eastern Fire",
+          "odds": "8/15",
+          "res": "WIN"
+        },
+        {
+          "horse": "Bombay Pat",
+          "odds": "5/1",
+          "res": "WIN"
+        }
+      ],
+      "dec": 9.2,
+      "res": "WIN",
+      "ret": 9.2
+    },
+    {
+      "size": 2,
+      "legs": [
+        {
+          "horse": "Eastern Fire",
+          "odds": "8/15",
+          "res": "WIN"
+        },
+        {
+          "horse": "Lady Jetfire",
+          "odds": "5/6",
+          "res": "WIN"
+        }
+      ],
+      "dec": 2.81,
+      "res": "WIN",
+      "ret": 2.81
+    },
+    {
+      "size": 2,
+      "legs": [
+        {
+          "horse": "Coexist",
+          "odds": "11/8",
+          "res": "WIN"
+        },
+        {
+          "horse": "Bombay Pat",
+          "odds": "5/1",
+          "res": "WIN"
+        }
+      ],
+      "dec": 14.25,
+      "res": "WIN",
+      "ret": 14.25
+    },
+    {
+      "size": 2,
+      "legs": [
+        {
+          "horse": "Coexist",
+          "odds": "11/8",
+          "res": "WIN"
+        },
+        {
+          "horse": "Lady Jetfire",
+          "odds": "5/6",
+          "res": "WIN"
+        }
+      ],
+      "dec": 4.35,
+      "res": "WIN",
+      "ret": 4.35
+    },
+    {
+      "size": 2,
+      "legs": [
+        {
+          "horse": "Bombay Pat",
+          "odds": "5/1",
+          "res": "WIN"
+        },
+        {
+          "horse": "Lady Jetfire",
+          "odds": "5/6",
+          "res": "WIN"
+        }
+      ],
+      "dec": 11.0,
+      "res": "WIN",
+      "ret": 11.0
+    },
+    {
+      "size": 3,
+      "legs": [
+        {
+          "horse": "Western Model",
+          "odds": "9/2",
+          "res": "WIN"
+        },
+        {
+          "horse": "Smokin Aces",
+          "odds": "9/4",
+          "res": "WIN"
+        },
+        {
+          "horse": "Eastern Fire",
+          "odds": "8/15",
+          "res": "WIN"
+        }
+      ],
+      "dec": 27.41,
+      "res": "WIN",
+      "ret": 27.41
+    },
+    {
+      "size": 3,
+      "legs": [
+        {
+          "horse": "Western Model",
+          "odds": "9/2",
+          "res": "WIN"
+        },
+        {
+          "horse": "Smokin Aces",
+          "odds": "9/4",
+          "res": "WIN"
+        },
+        {
+          "horse": "Coexist",
+          "odds": "11/8",
+          "res": "WIN"
+        }
+      ],
+      "dec": 42.45,
+      "res": "WIN",
+      "ret": 42.45
+    },
+    {
+      "size": 3,
+      "legs": [
+        {
+          "horse": "Western Model",
+          "odds": "9/2",
+          "res": "WIN"
+        },
+        {
+          "horse": "Smokin Aces",
+          "odds": "9/4",
+          "res": "WIN"
+        },
+        {
+          "horse": "Bombay Pat",
+          "odds": "5/1",
+          "res": "WIN"
+        }
+      ],
+      "dec": 107.25,
+      "res": "WIN",
+      "ret": 107.25
+    },
+    {
+      "size": 3,
+      "legs": [
+        {
+          "horse": "Western Model",
+          "odds": "9/2",
+          "res": "WIN"
+        },
+        {
+          "horse": "Smokin Aces",
+          "odds": "9/4",
+          "res": "WIN"
+        },
+        {
+          "horse": "Lady Jetfire",
+          "odds": "5/6",
+          "res": "WIN"
+        }
+      ],
+      "dec": 32.77,
+      "res": "WIN",
+      "ret": 32.77
+    },
+    {
+      "size": 3,
+      "legs": [
+        {
+          "horse": "Western Model",
+          "odds": "9/2",
+          "res": "WIN"
+        },
+        {
+          "horse": "Eastern Fire",
+          "odds": "8/15",
+          "res": "WIN"
+        },
+        {
+          "horse": "Coexist",
+          "odds": "11/8",
+          "res": "WIN"
+        }
+      ],
+      "dec": 20.03,
+      "res": "WIN",
+      "ret": 20.03
+    },
+    {
+      "size": 3,
+      "legs": [
+        {
+          "horse": "Western Model",
+          "odds": "9/2",
+          "res": "WIN"
+        },
+        {
+          "horse": "Eastern Fire",
+          "odds": "8/15",
+          "res": "WIN"
+        },
+        {
+          "horse": "Bombay Pat",
+          "odds": "5/1",
+          "res": "WIN"
+        }
+      ],
+      "dec": 50.6,
+      "res": "WIN",
+      "ret": 50.6
+    },
+    {
+      "size": 3,
+      "legs": [
+        {
+          "horse": "Western Model",
+          "odds": "9/2",
+          "res": "WIN"
+        },
+        {
+          "horse": "Eastern Fire",
+          "odds": "8/15",
+          "res": "WIN"
+        },
+        {
+          "horse": "Lady Jetfire",
+          "odds": "5/6",
+          "res": "WIN"
+        }
+      ],
+      "dec": 15.46,
+      "res": "WIN",
+      "ret": 15.46
+    },
+    {
+      "size": 3,
+      "legs": [
+        {
+          "horse": "Western Model",
+          "odds": "9/2",
+          "res": "WIN"
+        },
+        {
+          "horse": "Coexist",
+          "odds": "11/8",
+          "res": "WIN"
+        },
+        {
+          "horse": "Bombay Pat",
+          "odds": "5/1",
+          "res": "WIN"
+        }
+      ],
+      "dec": 78.38,
+      "res": "WIN",
+      "ret": 78.38
+    },
+    {
+      "size": 3,
+      "legs": [
+        {
+          "horse": "Western Model",
+          "odds": "9/2",
+          "res": "WIN"
+        },
+        {
+          "horse": "Coexist",
+          "odds": "11/8",
+          "res": "WIN"
+        },
+        {
+          "horse": "Lady Jetfire",
+          "odds": "5/6",
+          "res": "WIN"
+        }
+      ],
+      "dec": 23.95,
+      "res": "WIN",
+      "ret": 23.95
+    },
+    {
+      "size": 3,
+      "legs": [
+        {
+          "horse": "Western Model",
+          "odds": "9/2",
+          "res": "WIN"
+        },
+        {
+          "horse": "Bombay Pat",
+          "odds": "5/1",
+          "res": "WIN"
+        },
+        {
+          "horse": "Lady Jetfire",
+          "odds": "5/6",
+          "res": "WIN"
+        }
+      ],
+      "dec": 60.5,
+      "res": "WIN",
+      "ret": 60.5
+    },
+    {
+      "size": 3,
+      "legs": [
+        {
+          "horse": "Smokin Aces",
+          "odds": "9/4",
+          "res": "WIN"
+        },
+        {
+          "horse": "Eastern Fire",
+          "odds": "8/15",
+          "res": "WIN"
+        },
+        {
+          "horse": "Coexist",
+          "odds": "11/8",
+          "res": "WIN"
+        }
+      ],
+      "dec": 11.84,
+      "res": "WIN",
+      "ret": 11.84
+    },
+    {
+      "size": 3,
+      "legs": [
+        {
+          "horse": "Smokin Aces",
+          "odds": "9/4",
+          "res": "WIN"
+        },
+        {
+          "horse": "Eastern Fire",
+          "odds": "8/15",
+          "res": "WIN"
+        },
+        {
+          "horse": "Bombay Pat",
+          "odds": "5/1",
+          "res": "WIN"
+        }
+      ],
+      "dec": 29.9,
+      "res": "WIN",
+      "ret": 29.9
+    },
+    {
+      "size": 3,
+      "legs": [
+        {
+          "horse": "Smokin Aces",
+          "odds": "9/4",
+          "res": "WIN"
+        },
+        {
+          "horse": "Eastern Fire",
+          "odds": "8/15",
+          "res": "WIN"
+        },
+        {
+          "horse": "Lady Jetfire",
+          "odds": "5/6",
+          "res": "WIN"
+        }
+      ],
+      "dec": 9.14,
+      "res": "WIN",
+      "ret": 9.14
+    },
+    {
+      "size": 3,
+      "legs": [
+        {
+          "horse": "Smokin Aces",
+          "odds": "9/4",
+          "res": "WIN"
+        },
+        {
+          "horse": "Coexist",
+          "odds": "11/8",
+          "res": "WIN"
+        },
+        {
+          "horse": "Bombay Pat",
+          "odds": "5/1",
+          "res": "WIN"
+        }
+      ],
+      "dec": 46.31,
+      "res": "WIN",
+      "ret": 46.31
+    },
+    {
+      "size": 3,
+      "legs": [
+        {
+          "horse": "Smokin Aces",
+          "odds": "9/4",
+          "res": "WIN"
+        },
+        {
+          "horse": "Coexist",
+          "odds": "11/8",
+          "res": "WIN"
+        },
+        {
+          "horse": "Lady Jetfire",
+          "odds": "5/6",
+          "res": "WIN"
+        }
+      ],
+      "dec": 14.15,
+      "res": "WIN",
+      "ret": 14.15
+    },
+    {
+      "size": 3,
+      "legs": [
+        {
+          "horse": "Smokin Aces",
+          "odds": "9/4",
+          "res": "WIN"
+        },
+        {
+          "horse": "Bombay Pat",
+          "odds": "5/1",
+          "res": "WIN"
+        },
+        {
+          "horse": "Lady Jetfire",
+          "odds": "5/6",
+          "res": "WIN"
+        }
+      ],
+      "dec": 35.75,
+      "res": "WIN",
+      "ret": 35.75
+    },
+    {
+      "size": 3,
+      "legs": [
+        {
+          "horse": "Eastern Fire",
+          "odds": "8/15",
+          "res": "WIN"
+        },
+        {
+          "horse": "Coexist",
+          "odds": "11/8",
+          "res": "WIN"
+        },
+        {
+          "horse": "Bombay Pat",
+          "odds": "5/1",
+          "res": "WIN"
+        }
+      ],
+      "dec": 21.85,
+      "res": "WIN",
+      "ret": 21.85
+    },
+    {
+      "size": 3,
+      "legs": [
+        {
+          "horse": "Eastern Fire",
+          "odds": "8/15",
+          "res": "WIN"
+        },
+        {
+          "horse": "Coexist",
+          "odds": "11/8",
+          "res": "WIN"
+        },
+        {
+          "horse": "Lady Jetfire",
+          "odds": "5/6",
+          "res": "WIN"
+        }
+      ],
+      "dec": 6.68,
+      "res": "WIN",
+      "ret": 6.68
+    },
+    {
+      "size": 3,
+      "legs": [
+        {
+          "horse": "Eastern Fire",
+          "odds": "8/15",
+          "res": "WIN"
+        },
+        {
+          "horse": "Bombay Pat",
+          "odds": "5/1",
+          "res": "WIN"
+        },
+        {
+          "horse": "Lady Jetfire",
+          "odds": "5/6",
+          "res": "WIN"
+        }
+      ],
+      "dec": 16.87,
+      "res": "WIN",
+      "ret": 16.87
+    },
+    {
+      "size": 3,
+      "legs": [
+        {
+          "horse": "Coexist",
+          "odds": "11/8",
+          "res": "WIN"
+        },
+        {
+          "horse": "Bombay Pat",
+          "odds": "5/1",
+          "res": "WIN"
+        },
+        {
+          "horse": "Lady Jetfire",
+          "odds": "5/6",
+          "res": "WIN"
+        }
+      ],
+      "dec": 26.13,
+      "res": "WIN",
+      "ret": 26.13
+    },
+    {
+      "size": 4,
+      "legs": [
+        {
+          "horse": "Western Model",
+          "odds": "9/2",
+          "res": "WIN"
+        },
+        {
+          "horse": "Smokin Aces",
+          "odds": "9/4",
+          "res": "WIN"
+        },
+        {
+          "horse": "Eastern Fire",
+          "odds": "8/15",
+          "res": "WIN"
+        },
+        {
+          "horse": "Coexist",
+          "odds": "11/8",
+          "res": "WIN"
+        }
+      ],
+      "dec": 65.09,
+      "res": "WIN",
+      "ret": 65.09
+    },
+    {
+      "size": 4,
+      "legs": [
+        {
+          "horse": "Western Model",
+          "odds": "9/2",
+          "res": "WIN"
+        },
+        {
+          "horse": "Smokin Aces",
+          "odds": "9/4",
+          "res": "WIN"
+        },
+        {
+          "horse": "Eastern Fire",
+          "odds": "8/15",
+          "res": "WIN"
+        },
+        {
+          "horse": "Bombay Pat",
+          "odds": "5/1",
+          "res": "WIN"
+        }
+      ],
+      "dec": 164.45,
+      "res": "WIN",
+      "ret": 164.45
+    },
+    {
+      "size": 4,
+      "legs": [
+        {
+          "horse": "Western Model",
+          "odds": "9/2",
+          "res": "WIN"
+        },
+        {
+          "horse": "Smokin Aces",
+          "odds": "9/4",
+          "res": "WIN"
+        },
+        {
+          "horse": "Eastern Fire",
+          "odds": "8/15",
+          "res": "WIN"
+        },
+        {
+          "horse": "Lady Jetfire",
+          "odds": "5/6",
+          "res": "WIN"
+        }
+      ],
+      "dec": 50.25,
+      "res": "WIN",
+      "ret": 50.25
+    },
+    {
+      "size": 4,
+      "legs": [
+        {
+          "horse": "Western Model",
+          "odds": "9/2",
+          "res": "WIN"
+        },
+        {
+          "horse": "Smokin Aces",
+          "odds": "9/4",
+          "res": "WIN"
+        },
+        {
+          "horse": "Coexist",
+          "odds": "11/8",
+          "res": "WIN"
+        },
+        {
+          "horse": "Bombay Pat",
+          "odds": "5/1",
+          "res": "WIN"
+        }
+      ],
+      "dec": 254.72,
+      "res": "WIN",
+      "ret": 254.72
+    },
+    {
+      "size": 4,
+      "legs": [
+        {
+          "horse": "Western Model",
+          "odds": "9/2",
+          "res": "WIN"
+        },
+        {
+          "horse": "Smokin Aces",
+          "odds": "9/4",
+          "res": "WIN"
+        },
+        {
+          "horse": "Coexist",
+          "odds": "11/8",
+          "res": "WIN"
+        },
+        {
+          "horse": "Lady Jetfire",
+          "odds": "5/6",
+          "res": "WIN"
+        }
+      ],
+      "dec": 77.83,
+      "res": "WIN",
+      "ret": 77.83
+    },
+    {
+      "size": 4,
+      "legs": [
+        {
+          "horse": "Western Model",
+          "odds": "9/2",
+          "res": "WIN"
+        },
+        {
+          "horse": "Smokin Aces",
+          "odds": "9/4",
+          "res": "WIN"
+        },
+        {
+          "horse": "Bombay Pat",
+          "odds": "5/1",
+          "res": "WIN"
+        },
+        {
+          "horse": "Lady Jetfire",
+          "odds": "5/6",
+          "res": "WIN"
+        }
+      ],
+      "dec": 196.63,
+      "res": "WIN",
+      "ret": 196.63
+    },
+    {
+      "size": 4,
+      "legs": [
+        {
+          "horse": "Western Model",
+          "odds": "9/2",
+          "res": "WIN"
+        },
+        {
+          "horse": "Eastern Fire",
+          "odds": "8/15",
+          "res": "WIN"
+        },
+        {
+          "horse": "Coexist",
+          "odds": "11/8",
+          "res": "WIN"
+        },
+        {
+          "horse": "Bombay Pat",
+          "odds": "5/1",
+          "res": "WIN"
+        }
+      ],
+      "dec": 120.18,
+      "res": "WIN",
+      "ret": 120.18
+    },
+    {
+      "size": 4,
+      "legs": [
+        {
+          "horse": "Western Model",
+          "odds": "9/2",
+          "res": "WIN"
+        },
+        {
+          "horse": "Eastern Fire",
+          "odds": "8/15",
+          "res": "WIN"
+        },
+        {
+          "horse": "Coexist",
+          "odds": "11/8",
+          "res": "WIN"
+        },
+        {
+          "horse": "Lady Jetfire",
+          "odds": "5/6",
+          "res": "WIN"
+        }
+      ],
+      "dec": 36.72,
+      "res": "WIN",
+      "ret": 36.72
+    },
+    {
+      "size": 4,
+      "legs": [
+        {
+          "horse": "Western Model",
+          "odds": "9/2",
+          "res": "WIN"
+        },
+        {
+          "horse": "Eastern Fire",
+          "odds": "8/15",
+          "res": "WIN"
+        },
+        {
+          "horse": "Bombay Pat",
+          "odds": "5/1",
+          "res": "WIN"
+        },
+        {
+          "horse": "Lady Jetfire",
+          "odds": "5/6",
+          "res": "WIN"
+        }
+      ],
+      "dec": 92.77,
+      "res": "WIN",
+      "ret": 92.77
+    },
+    {
+      "size": 4,
+      "legs": [
+        {
+          "horse": "Western Model",
+          "odds": "9/2",
+          "res": "WIN"
+        },
+        {
+          "horse": "Coexist",
+          "odds": "11/8",
+          "res": "WIN"
+        },
+        {
+          "horse": "Bombay Pat",
+          "odds": "5/1",
+          "res": "WIN"
+        },
+        {
+          "horse": "Lady Jetfire",
+          "odds": "5/6",
+          "res": "WIN"
+        }
+      ],
+      "dec": 143.69,
+      "res": "WIN",
+      "ret": 143.69
+    },
+    {
+      "size": 4,
+      "legs": [
+        {
+          "horse": "Smokin Aces",
+          "odds": "9/4",
+          "res": "WIN"
+        },
+        {
+          "horse": "Eastern Fire",
+          "odds": "8/15",
+          "res": "WIN"
+        },
+        {
+          "horse": "Coexist",
+          "odds": "11/8",
+          "res": "WIN"
+        },
+        {
+          "horse": "Bombay Pat",
+          "odds": "5/1",
+          "res": "WIN"
+        }
+      ],
+      "dec": 71.01,
+      "res": "WIN",
+      "ret": 71.01
+    },
+    {
+      "size": 4,
+      "legs": [
+        {
+          "horse": "Smokin Aces",
+          "odds": "9/4",
+          "res": "WIN"
+        },
+        {
+          "horse": "Eastern Fire",
+          "odds": "8/15",
+          "res": "WIN"
+        },
+        {
+          "horse": "Coexist",
+          "odds": "11/8",
+          "res": "WIN"
+        },
+        {
+          "horse": "Lady Jetfire",
+          "odds": "5/6",
+          "res": "WIN"
+        }
+      ],
+      "dec": 21.7,
+      "res": "WIN",
+      "ret": 21.7
+    },
+    {
+      "size": 4,
+      "legs": [
+        {
+          "horse": "Smokin Aces",
+          "odds": "9/4",
+          "res": "WIN"
+        },
+        {
+          "horse": "Eastern Fire",
+          "odds": "8/15",
+          "res": "WIN"
+        },
+        {
+          "horse": "Bombay Pat",
+          "odds": "5/1",
+          "res": "WIN"
+        },
+        {
+          "horse": "Lady Jetfire",
+          "odds": "5/6",
+          "res": "WIN"
+        }
+      ],
+      "dec": 54.82,
+      "res": "WIN",
+      "ret": 54.82
+    },
+    {
+      "size": 4,
+      "legs": [
+        {
+          "horse": "Smokin Aces",
+          "odds": "9/4",
+          "res": "WIN"
+        },
+        {
+          "horse": "Coexist",
+          "odds": "11/8",
+          "res": "WIN"
+        },
+        {
+          "horse": "Bombay Pat",
+          "odds": "5/1",
+          "res": "WIN"
+        },
+        {
+          "horse": "Lady Jetfire",
+          "odds": "5/6",
+          "res": "WIN"
+        }
+      ],
+      "dec": 84.91,
+      "res": "WIN",
+      "ret": 84.91
+    },
+    {
+      "size": 4,
+      "legs": [
+        {
+          "horse": "Eastern Fire",
+          "odds": "8/15",
+          "res": "WIN"
+        },
+        {
+          "horse": "Coexist",
+          "odds": "11/8",
+          "res": "WIN"
+        },
+        {
+          "horse": "Bombay Pat",
+          "odds": "5/1",
+          "res": "WIN"
+        },
+        {
+          "horse": "Lady Jetfire",
+          "odds": "5/6",
+          "res": "WIN"
+        }
+      ],
+      "dec": 40.06,
+      "res": "WIN",
+      "ret": 40.06
+    },
+    {
+      "size": 5,
+      "legs": [
+        {
+          "horse": "Western Model",
+          "odds": "9/2",
+          "res": "WIN"
+        },
+        {
+          "horse": "Smokin Aces",
+          "odds": "9/4",
+          "res": "WIN"
+        },
+        {
+          "horse": "Eastern Fire",
+          "odds": "8/15",
+          "res": "WIN"
+        },
+        {
+          "horse": "Coexist",
+          "odds": "11/8",
+          "res": "WIN"
+        },
+        {
+          "horse": "Bombay Pat",
+          "odds": "5/1",
+          "res": "WIN"
+        }
+      ],
+      "dec": 390.57,
+      "res": "WIN",
+      "ret": 390.57
+    },
+    {
+      "size": 5,
+      "legs": [
+        {
+          "horse": "Western Model",
+          "odds": "9/2",
+          "res": "WIN"
+        },
+        {
+          "horse": "Smokin Aces",
+          "odds": "9/4",
+          "res": "WIN"
+        },
+        {
+          "horse": "Eastern Fire",
+          "odds": "8/15",
+          "res": "WIN"
+        },
+        {
+          "horse": "Coexist",
+          "odds": "11/8",
+          "res": "WIN"
+        },
+        {
+          "horse": "Lady Jetfire",
+          "odds": "5/6",
+          "res": "WIN"
+        }
+      ],
+      "dec": 119.34,
+      "res": "WIN",
+      "ret": 119.34
+    },
+    {
+      "size": 5,
+      "legs": [
+        {
+          "horse": "Western Model",
+          "odds": "9/2",
+          "res": "WIN"
+        },
+        {
+          "horse": "Smokin Aces",
+          "odds": "9/4",
+          "res": "WIN"
+        },
+        {
+          "horse": "Eastern Fire",
+          "odds": "8/15",
+          "res": "WIN"
+        },
+        {
+          "horse": "Bombay Pat",
+          "odds": "5/1",
+          "res": "WIN"
+        },
+        {
+          "horse": "Lady Jetfire",
+          "odds": "5/6",
+          "res": "WIN"
+        }
+      ],
+      "dec": 301.49,
+      "res": "WIN",
+      "ret": 301.49
+    },
+    {
+      "size": 5,
+      "legs": [
+        {
+          "horse": "Western Model",
+          "odds": "9/2",
+          "res": "WIN"
+        },
+        {
+          "horse": "Smokin Aces",
+          "odds": "9/4",
+          "res": "WIN"
+        },
+        {
+          "horse": "Coexist",
+          "odds": "11/8",
+          "res": "WIN"
+        },
+        {
+          "horse": "Bombay Pat",
+          "odds": "5/1",
+          "res": "WIN"
+        },
+        {
+          "horse": "Lady Jetfire",
+          "odds": "5/6",
+          "res": "WIN"
+        }
+      ],
+      "dec": 466.98,
+      "res": "WIN",
+      "ret": 466.98
+    },
+    {
+      "size": 5,
+      "legs": [
+        {
+          "horse": "Western Model",
+          "odds": "9/2",
+          "res": "WIN"
+        },
+        {
+          "horse": "Eastern Fire",
+          "odds": "8/15",
+          "res": "WIN"
+        },
+        {
+          "horse": "Coexist",
+          "odds": "11/8",
+          "res": "WIN"
+        },
+        {
+          "horse": "Bombay Pat",
+          "odds": "5/1",
+          "res": "WIN"
+        },
+        {
+          "horse": "Lady Jetfire",
+          "odds": "5/6",
+          "res": "WIN"
+        }
+      ],
+      "dec": 220.32,
+      "res": "WIN",
+      "ret": 220.32
+    },
+    {
+      "size": 5,
+      "legs": [
+        {
+          "horse": "Smokin Aces",
+          "odds": "9/4",
+          "res": "WIN"
+        },
+        {
+          "horse": "Eastern Fire",
+          "odds": "8/15",
+          "res": "WIN"
+        },
+        {
+          "horse": "Coexist",
+          "odds": "11/8",
+          "res": "WIN"
+        },
+        {
+          "horse": "Bombay Pat",
+          "odds": "5/1",
+          "res": "WIN"
+        },
+        {
+          "horse": "Lady Jetfire",
+          "odds": "5/6",
+          "res": "WIN"
+        }
+      ],
+      "dec": 130.19,
+      "res": "WIN",
+      "ret": 130.19
+    },
+    {
+      "size": 6,
+      "legs": [
+        {
+          "horse": "Western Model",
+          "odds": "9/2",
+          "res": "WIN"
+        },
+        {
+          "horse": "Smokin Aces",
+          "odds": "9/4",
+          "res": "WIN"
+        },
+        {
+          "horse": "Eastern Fire",
+          "odds": "8/15",
+          "res": "WIN"
+        },
+        {
+          "horse": "Coexist",
+          "odds": "11/8",
+          "res": "WIN"
+        },
+        {
+          "horse": "Bombay Pat",
+          "odds": "5/1",
+          "res": "WIN"
+        },
+        {
+          "horse": "Lady Jetfire",
+          "odds": "5/6",
+          "res": "WIN"
+        }
+      ],
+      "dec": 716.04,
+      "res": "WIN",
+      "ret": 716.04
+    }
+  ],
+  "score": {
+    "picks": 6,
+    "lines": 63,
+    "won": 63,
+    "lost": 0,
+    "pending": 0
+  },
+  "units": {
+    "staked": 63,
+    "returned": 4683.53
+  },
+  "by_size": {
+    "1": {
+      "n": 6,
+      "won": 6,
+      "lines": 6,
+      "returned": 20.49
+    },
+    "2": {
+      "n": 15,
+      "won": 15,
+      "lines": 15,
+      "returned": 165.86
+    },
+    "3": {
+      "n": 20,
+      "won": 20,
+      "lines": 20,
+      "returned": 677.42
+    },
+    "4": {
+      "n": 15,
+      "won": 15,
+      "lines": 15,
+      "returned": 1474.83
+    },
+    "5": {
+      "n": 6,
+      "won": 6,
+      "lines": 6,
+      "returned": 1628.89
+    },
+    "6": {
+      "n": 1,
+      "won": 1,
+      "lines": 1,
+      "returned": 716.04
+    }
+  }
+}

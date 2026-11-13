@@ -1,0 +1,53 @@
+{
+  "date": "2026-02-13",
+  "generated": "2026-11-13T21:20:20+00:00",
+  "picks": [
+    {
+      "time": "14:00",
+      "meeting": "Kelso",
+      "race": "Albert Bartlett Triple Crown Series Conditional Jockeys' Handicap Hurdle",
+      "horse": "Judicial Deference",
+      "stars": 5,
+      "odds": "5/4",
+      "dec": 2.25,
+      "res": "WIN",
+      "pos": 1,
+      "score1": 93.0,
+      "score2": 42
+    }
+  ],
+  "combos": [
+    {
+      "size": 1,
+      "legs": [
+        {
+          "horse": "Judicial Deference",
+          "odds": "5/4",
+          "res": "WIN"
+        }
+      ],
+      "dec": 2.25,
+      "res": "WIN",
+      "ret": 2.25
+    }
+  ],
+  "score": {
+    "picks": 1,
+    "lines": 1,
+    "won": 1,
+    "lost": 0,
+    "pending": 0
+  },
+  "units": {
+    "staked": 1,
+    "returned": 2.25
+  },
+  "by_size": {
+    "1": {
+      "n": 1,
+      "won": 1,
+      "lines": 1,
+      "returned": 2.25
+    }
+  }
+}

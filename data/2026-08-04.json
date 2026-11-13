@@ -1,0 +1,103 @@
+{
+  "date": "2026-08-04",
+  "generated": "2026-11-13T21:20:20+00:00",
+  "picks": [
+    {
+      "time": "14:30",
+      "meeting": "Ffos Las",
+      "race": "Ken Meredith Memorial Race Handicap (Div 1)",
+      "horse": "Cypriot Diaspora",
+      "stars": 3,
+      "odds": "13/8",
+      "dec": 2.625,
+      "res": "PLACE",
+      "pos": 2,
+      "score1": 58,
+      "score2": 29
+    },
+    {
+      "time": "15:30",
+      "meeting": "Ffos Las",
+      "race": "Dandara Homes Maiden Stakes (GBB Race)",
+      "horse": "Wootz",
+      "stars": 4,
+      "odds": "10/11",
+      "dec": 1.9090909090909092,
+      "res": "WIN",
+      "pos": 1,
+      "score1": 100,
+      "score2": 36
+    }
+  ],
+  "combos": [
+    {
+      "size": 1,
+      "legs": [
+        {
+          "horse": "Cypriot Diaspora",
+          "odds": "13/8",
+          "res": "PLACE"
+        }
+      ],
+      "dec": 2.62,
+      "res": "LOSE",
+      "ret": 0.0
+    },
+    {
+      "size": 1,
+      "legs": [
+        {
+          "horse": "Wootz",
+          "odds": "10/11",
+          "res": "WIN"
+        }
+      ],
+      "dec": 1.91,
+      "res": "WIN",
+      "ret": 1.91
+    },
+    {
+      "size": 2,
+      "legs": [
+        {
+          "horse": "Cypriot Diaspora",
+          "odds": "13/8",
+          "res": "PLACE"
+        },
+        {
+          "horse": "Wootz",
+          "odds": "10/11",
+          "res": "WIN"
+        }
+      ],
+      "dec": 5.01,
+      "res": "LOSE",
+      "ret": 0.0
+    }
+  ],
+  "score": {
+    "picks": 2,
+    "lines": 3,
+    "won": 1,
+    "lost": 2,
+    "pending": 0
+  },
+  "units": {
+    "staked": 3,
+    "returned": 1.91
+  },
+  "by_size": {
+    "1": {
+      "n": 2,
+      "won": 1,
+      "lines": 2,
+      "returned": 1.91
+    },
+    "2": {
+      "n": 1,
+      "won": 0,
+      "lines": 1,
+      "returned": 0.0
+    }
+  }
+}

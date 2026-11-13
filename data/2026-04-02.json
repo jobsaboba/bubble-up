@@ -1,0 +1,103 @@
+{
+  "date": "2026-04-02",
+  "generated": "2026-11-13T21:20:20+00:00",
+  "picks": [
+    {
+      "time": "15:46",
+      "meeting": "Kelso",
+      "race": "Join Racing TV Now Handicap Chase (GBB Race)",
+      "horse": "Always A Reason",
+      "stars": 5,
+      "odds": "6/4",
+      "dec": 2.5,
+      "res": "LOSE",
+      "pos": 5,
+      "score1": 103.07,
+      "score2": 35.92
+    },
+    {
+      "time": "16:15",
+      "meeting": "Chepstow",
+      "race": "InItTogether Festival 22nd-24th May Open NH Flat Race (GBB Race)",
+      "horse": "Order On Time",
+      "stars": 4,
+      "odds": "6/5",
+      "dec": 2.2,
+      "res": "WIN",
+      "pos": 1,
+      "score1": 133.88,
+      "score2": 56.0
+    }
+  ],
+  "combos": [
+    {
+      "size": 1,
+      "legs": [
+        {
+          "horse": "Always A Reason",
+          "odds": "6/4",
+          "res": "LOSE"
+        }
+      ],
+      "dec": 2.5,
+      "res": "LOSE",
+      "ret": 0.0
+    },
+    {
+      "size": 1,
+      "legs": [
+        {
+          "horse": "Order On Time",
+          "odds": "6/5",
+          "res": "WIN"
+        }
+      ],
+      "dec": 2.2,
+      "res": "WIN",
+      "ret": 2.2
+    },
+    {
+      "size": 2,
+      "legs": [
+        {
+          "horse": "Always A Reason",
+          "odds": "6/4",
+          "res": "LOSE"
+        },
+        {
+          "horse": "Order On Time",
+          "odds": "6/5",
+          "res": "WIN"
+        }
+      ],
+      "dec": 5.5,
+      "res": "LOSE",
+      "ret": 0.0
+    }
+  ],
+  "score": {
+    "picks": 2,
+    "lines": 3,
+    "won": 1,
+    "lost": 2,
+    "pending": 0
+  },
+  "units": {
+    "staked": 3,
+    "returned": 2.2
+  },
+  "by_size": {
+    "1": {
+      "n": 2,
+      "won": 1,
+      "lines": 2,
+      "returned": 2.2
+    },
+    "2": {
+      "n": 1,
+      "won": 0,
+      "lines": 1,
+      "returned": 0.0
+    }
+  }
+}

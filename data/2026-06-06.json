@@ -1,0 +1,103 @@
+{
+  "date": "2026-06-06",
+  "generated": "2026-11-13T21:20:20+00:00",
+  "picks": [
+    {
+      "time": "16:15",
+      "meeting": "Musselburgh",
+      "race": "Edinburgh Gin Cannonball Handicap",
+      "horse": "Little Ted",
+      "stars": 5,
+      "odds": "10/3",
+      "dec": 4.333333333333334,
+      "res": "PLACE",
+      "pos": 2,
+      "score1": 52,
+      "score2": 22
+    },
+    {
+      "time": "20:00",
+      "meeting": "Chepstow",
+      "race": "Capital Windscreens Supporting Mental Health Handicap",
+      "horse": "Big Win",
+      "stars": 5,
+      "odds": "9/4",
+      "dec": 3.25,
+      "res": "WIN",
+      "pos": 1,
+      "score1": 100.3,
+      "score2": 36
+    }
+  ],
+  "combos": [
+    {
+      "size": 1,
+      "legs": [
+        {
+          "horse": "Little Ted",
+          "odds": "10/3",
+          "res": "PLACE"
+        }
+      ],
+      "dec": 4.33,
+      "res": "LOSE",
+      "ret": 0.0
+    },
+    {
+      "size": 1,
+      "legs": [
+        {
+          "horse": "Big Win",
+          "odds": "9/4",
+          "res": "WIN"
+        }
+      ],
+      "dec": 3.25,
+      "res": "WIN",
+      "ret": 3.25
+    },
+    {
+      "size": 2,
+      "legs": [
+        {
+          "horse": "Little Ted",
+          "odds": "10/3",
+          "res": "PLACE"
+        },
+        {
+          "horse": "Big Win",
+          "odds": "9/4",
+          "res": "WIN"
+        }
+      ],
+      "dec": 14.08,
+      "res": "LOSE",
+      "ret": 0.0
+    }
+  ],
+  "score": {
+    "picks": 2,
+    "lines": 3,
+    "won": 1,
+    "lost": 2,
+    "pending": 0
+  },
+  "units": {
+    "staked": 3,
+    "returned": 3.25
+  },
+  "by_size": {
+    "1": {
+      "n": 2,
+      "won": 1,
+      "lines": 2,
+      "returned": 3.25
+    },
+    "2": {
+      "n": 1,
+      "won": 0,
+      "lines": 1,
+      "returned": 0.0
+    }
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "date": "2026-08-29",
+  "generated": "2026-11-13T21:20:20+00:00",
+  "picks": [
+    {
+      "time": "18:15",
+      "meeting": "Chepstow",
+      "race": "Free Bets On attheraces.com Handicap",
+      "horse": "Head Girl",
+      "stars": 4,
+      "odds": "7/4",
+      "dec": 2.75,
+      "res": "PLACE",
+      "pos": 2,
+      "score1": 48,
+      "score2": 23
+    }
+  ],
+  "combos": [
+    {
+      "size": 1,
+      "legs": [
+        {
+          "horse": "Head Girl",
+          "odds": "7/4",
+          "res": "PLACE"
+        }
+      ],
+      "dec": 2.75,
+      "res": "LOSE",
+      "ret": 0.0
+    }
+  ],
+  "score": {
+    "picks": 1,
+    "lines": 1,
+    "won": 0,
+    "lost": 1,
+    "pending": 0
+  },
+  "units": {
+    "staked": 1,
+    "returned": 0.0
+  },
+  "by_size": {
+    "1": {
+      "n": 1,
+      "won": 0,
+      "lines": 1,
+      "returned": 0.0
+    }
+  }
+}

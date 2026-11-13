@@ -1,0 +1,103 @@
+{
+  "date": "2026-01-02",
+  "generated": "2026-11-13T21:20:20+00:00",
+  "picks": [
+    {
+      "time": "12:30",
+      "meeting": "Ayr",
+      "race": "Happy New Year From Ayr Racecourse Maiden Hurdle (GBB Race)",
+      "horse": "Kings Champion",
+      "stars": 5,
+      "odds": "11/4",
+      "dec": 3.75,
+      "res": "WIN",
+      "pos": 1,
+      "score1": 100.0,
+      "score2": 43.55
+    },
+    {
+      "time": "14:30",
+      "meeting": "Ayr",
+      "race": "Book Wicked Afternoon Tea At WesternHouseHotel Handicap Chase",
+      "horse": "Dangerous Touch",
+      "stars": 2,
+      "odds": "4/1",
+      "dec": 5.0,
+      "res": "PLACE",
+      "pos": 3,
+      "score1": 90.0,
+      "score2": 33.0
+    }
+  ],
+  "combos": [
+    {
+      "size": 1,
+      "legs": [
+        {
+          "horse": "Kings Champion",
+          "odds": "11/4",
+          "res": "WIN"
+        }
+      ],
+      "dec": 3.75,
+      "res": "WIN",
+      "ret": 3.75
+    },
+    {
+      "size": 1,
+      "legs": [
+        {
+          "horse": "Dangerous Touch",
+          "odds": "4/1",
+          "res": "PLACE"
+        }
+      ],
+      "dec": 5.0,
+      "res": "LOSE",
+      "ret": 0.0
+    },
+    {
+      "size": 2,
+      "legs": [
+        {
+          "horse": "Kings Champion",
+          "odds": "11/4",
+          "res": "WIN"
+        },
+        {
+          "horse": "Dangerous Touch",
+          "odds": "4/1",
+          "res": "PLACE"
+        }
+      ],
+      "dec": 18.75,
+      "res": "LOSE",
+      "ret": 0.0
+    }
+  ],
+  "score": {
+    "picks": 2,
+    "lines": 3,
+    "won": 1,
+    "lost": 2,
+    "pending": 0
+  },
+  "units": {
+    "staked": 3,
+    "returned": 3.75
+  },
+  "by_size": {
+    "1": {
+      "n": 2,
+      "won": 1,
+      "lines": 2,
+      "returned": 3.75
+    },
+    "2": {
+      "n": 1,
+      "won": 0,
+      "lines": 1,
+      "returned": 0.0
+    }
+  }
+}

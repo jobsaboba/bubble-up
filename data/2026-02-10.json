@@ -1,0 +1,90 @@
+{
+  "date": "2026-02-10",
+  "generated": "2026-11-13T21:20:20+00:00",
+  "picks": [
+    {
+      "time": "15:40",
+      "meeting": "Ffos Las",
+      "race": "Paned At 3A's Novices' Handicap Chase (GBB Race)",
+      "horse": "Admiral Stewart",
+      "stars": 0,
+      "odds": "",
+      "dec": null,
+      "res": null,
+      "pos": 0,
+      "score1": 158.81,
+      "score2": 37.11
+    },
+    {
+      "time": "16:40",
+      "meeting": "Ffos Las",
+      "race": "Celtic Subaru Handicap Hurdle",
+      "horse": "Livingit Du Large",
+      "stars": 0,
+      "odds": "",
+      "dec": null,
+      "res": null,
+      "pos": 0,
+      "score1": 86.0,
+      "score2": 37.54
+    }
+  ],
+  "combos": [
+    {
+      "size": 1,
+      "legs": [
+        {
+          "horse": "Admiral Stewart",
+          "odds": "",
+          "res": "?"
+        }
+      ],
+      "dec": null,
+      "res": "PENDING",
+      "ret": null
+    },
+    {
+      "size": 1,
+      "legs": [
+        {
+          "horse": "Livingit Du Large",
+          "odds": "",
+          "res": "?"
+        }
+      ],
+      "dec": null,
+      "res": "PENDING",
+      "ret": null
+    },
+    {
+      "size": 2,
+      "legs": [
+        {
+          "horse": "Admiral Stewart",
+          "odds": "",
+          "res": "?"
+        },
+        {
+          "horse": "Livingit Du Large",
+          "odds": "",
+          "res": "?"
+        }
+      ],
+      "dec": null,
+      "res": "PENDING",
+      "ret": null
+    }
+  ],
+  "score": {
+    "picks": 2,
+    "lines": 3,
+    "won": 0,
+    "lost": 0,
+    "pending": 3
+  },
+  "units": {
+    "staked": 0,
+    "returned": 0
+  },
+  "by_size": {}
+}

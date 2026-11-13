@@ -1,0 +1,53 @@
+{
+  "date": "2026-09-24",
+  "generated": "2026-11-13T21:20:20+00:00",
+  "picks": [
+    {
+      "time": "16:10",
+      "meeting": "Perth",
+      "race": "A Place For You Here Handicap Hurdle",
+      "horse": "Gortmore Lady",
+      "stars": 4,
+      "odds": "9/4",
+      "dec": 3.25,
+      "res": "PLACE",
+      "pos": 2,
+      "score1": 83.0,
+      "score2": 39.69
+    }
+  ],
+  "combos": [
+    {
+      "size": 1,
+      "legs": [
+        {
+          "horse": "Gortmore Lady",
+          "odds": "9/4",
+          "res": "PLACE"
+        }
+      ],
+      "dec": 3.25,
+      "res": "LOSE",
+      "ret": 0.0
+    }
+  ],
+  "score": {
+    "picks": 1,
+    "lines": 1,
+    "won": 0,
+    "lost": 1,
+    "pending": 0
+  },
+  "units": {
+    "staked": 1,
+    "returned": 0.0
+  },
+  "by_size": {
+    "1": {
+      "n": 1,
+      "won": 0,
+      "lines": 1,
+      "returned": 0.0
+    }
+  }
+}

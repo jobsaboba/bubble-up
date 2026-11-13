@@ -1,0 +1,103 @@
+{
+  "date": "2026-06-23",
+  "generated": "2026-11-13T21:20:20+00:00",
+  "picks": [
+    {
+      "time": "14:30",
+      "meeting": "Ffos Las",
+      "race": "Vibe Recruit Maiden Stakes (GBB Race)",
+      "horse": "English Time",
+      "stars": 5,
+      "odds": "4/6",
+      "dec": 1.6666666666666665,
+      "res": "WIN",
+      "pos": 1,
+      "score1": 103.0,
+      "score2": 34
+    },
+    {
+      "time": "15:00",
+      "meeting": "Ffos Las",
+      "race": "Ffos Las Racecourse Charity Skydive For Ty Hafan Handicap",
+      "horse": "Typeface",
+      "stars": 4,
+      "odds": "1/1",
+      "dec": 2.0,
+      "res": "PLACE",
+      "pos": 3,
+      "score1": 60,
+      "score2": 21
+    }
+  ],
+  "combos": [
+    {
+      "size": 1,
+      "legs": [
+        {
+          "horse": "English Time",
+          "odds": "4/6",
+          "res": "WIN"
+        }
+      ],
+      "dec": 1.67,
+      "res": "WIN",
+      "ret": 1.67
+    },
+    {
+      "size": 1,
+      "legs": [
+        {
+          "horse": "Typeface",
+          "odds": "1/1",
+          "res": "PLACE"
+        }
+      ],
+      "dec": 2.0,
+      "res": "LOSE",
+      "ret": 0.0
+    },
+    {
+      "size": 2,
+      "legs": [
+        {
+          "horse": "English Time",
+          "odds": "4/6",
+          "res": "WIN"
+        },
+        {
+          "horse": "Typeface",
+          "odds": "1/1",
+          "res": "PLACE"
+        }
+      ],
+      "dec": 3.33,
+      "res": "LOSE",
+      "ret": 0.0
+    }
+  ],
+  "score": {
+    "picks": 2,
+    "lines": 3,
+    "won": 1,
+    "lost": 2,
+    "pending": 0
+  },
+  "units": {
+    "staked": 3,
+    "returned": 1.67
+  },
+  "by_size": {
+    "1": {
+      "n": 2,
+      "won": 1,
+      "lines": 2,
+      "returned": 1.67
+    },
+    "2": {
+      "n": 1,
+      "won": 0,
+      "lines": 1,
+      "returned": 0.0
+    }
+  }
+}

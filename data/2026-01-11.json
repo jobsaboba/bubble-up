@@ -1,0 +1,175 @@
+{
+  "date": "2026-01-11",
+  "generated": "2026-11-13T21:20:20+00:00",
+  "picks": [
+    {
+      "time": "13:40",
+      "meeting": "Kelso",
+      "race": "Start Your RacingTV Free Trial Now Novices' Hurdle (GBB Race)",
+      "horse": "Legendary Luke",
+      "stars": 0,
+      "odds": "",
+      "dec": null,
+      "res": null,
+      "pos": 0,
+      "score1": 105.0,
+      "score2": 50
+    },
+    {
+      "time": "14:10",
+      "meeting": "Kelso",
+      "race": "racingtv.com/freetrial Handicap Hurdle",
+      "horse": "Jehol De Thaix",
+      "stars": 0,
+      "odds": "",
+      "dec": null,
+      "res": null,
+      "pos": 0,
+      "score1": 56.0,
+      "score2": 26
+    },
+    {
+      "time": "14:40",
+      "meeting": "Kelso",
+      "race": "Berrymoss Novices' Chase (Listed) (GBB Race)",
+      "horse": "Hollygrove Cha Cha",
+      "stars": 0,
+      "odds": "",
+      "dec": null,
+      "res": null,
+      "pos": 0,
+      "score1": 135.0,
+      "score2": 63
+    }
+  ],
+  "combos": [
+    {
+      "size": 1,
+      "legs": [
+        {
+          "horse": "Legendary Luke",
+          "odds": "",
+          "res": "?"
+        }
+      ],
+      "dec": null,
+      "res": "PENDING",
+      "ret": null
+    },
+    {
+      "size": 1,
+      "legs": [
+        {
+          "horse": "Jehol De Thaix",
+          "odds": "",
+          "res": "?"
+        }
+      ],
+      "dec": null,
+      "res": "PENDING",
+      "ret": null
+    },
+    {
+      "size": 1,
+      "legs": [
+        {
+          "horse": "Hollygrove Cha Cha",
+          "odds": "",
+          "res": "?"
+        }
+      ],
+      "dec": null,
+      "res": "PENDING",
+      "ret": null
+    },
+    {
+      "size": 2,
+      "legs": [
+        {
+          "horse": "Legendary Luke",
+          "odds": "",
+          "res": "?"
+        },
+        {
+          "horse": "Jehol De Thaix",
+          "odds": "",
+          "res": "?"
+        }
+      ],
+      "dec": null,
+      "res": "PENDING",
+      "ret": null
+    },
+    {
+      "size": 2,
+      "legs": [
+        {
+          "horse": "Legendary Luke",
+          "odds": "",
+          "res": "?"
+        },
+        {
+          "horse": "Hollygrove Cha Cha",
+          "odds": "",
+          "res": "?"
+        }
+      ],
+      "dec": null,
+      "res": "PENDING",
+      "ret": null
+    },
+    {
+      "size": 2,
+      "legs": [
+        {
+          "horse": "Jehol De Thaix",
+          "odds": "",
+          "res": "?"
+        },
+        {
+          "horse": "Hollygrove Cha Cha",
+          "odds": "",
+          "res": "?"
+        }
+      ],
+      "dec": null,
+      "res": "PENDING",
+      "ret": null
+    },
+    {
+      "size": 3,
+      "legs": [
+        {
+          "horse": "Legendary Luke",
+          "odds": "",
+          "res": "?"
+        },
+        {
+          "horse": "Jehol De Thaix",
+          "odds": "",
+          "res": "?"
+        },
+        {
+          "horse": "Hollygrove Cha Cha",
+          "odds": "",
+          "res": "?"
+        }
+      ],
+      "dec": null,
+      "res": "PENDING",
+      "ret": null
+    }
+  ],
+  "score": {
+    "picks": 3,
+    "lines": 7,
+    "won": 0,
+    "lost": 0,
+    "pending": 7
+  },
+  "units": {
+    "staked": 0,
+    "returned": 0
+  },
+  "by_size": {}
+}

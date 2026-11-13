@@ -1,0 +1,53 @@
+{
+  "date": "2026-10-11",
+  "generated": "2026-11-13T21:20:20+00:00",
+  "picks": [
+    {
+      "time": "14:12",
+      "meeting": "Chepstow",
+      "race": "DragonBet Best Odds Guaranteed Handicap Hurdle",
+      "horse": "Harbour Light",
+      "stars": 5,
+      "odds": "2/1",
+      "dec": 3.0,
+      "res": "WIN",
+      "pos": 1,
+      "score1": 116.05,
+      "score2": 28
+    }
+  ],
+  "combos": [
+    {
+      "size": 1,
+      "legs": [
+        {
+          "horse": "Harbour Light",
+          "odds": "2/1",
+          "res": "WIN"
+        }
+      ],
+      "dec": 3.0,
+      "res": "WIN",
+      "ret": 3.0
+    }
+  ],
+  "score": {
+    "picks": 1,
+    "lines": 1,
+    "won": 1,
+    "lost": 0,
+    "pending": 0
+  },
+  "units": {
+    "staked": 1,
+    "returned": 3.0
+  },
+  "by_size": {
+    "1": {
+      "n": 1,
+      "won": 1,
+      "lines": 1,
+      "returned": 3.0
+    }
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "date": "2026-06-26",
+  "generated": "2026-11-13T21:20:20+00:00",
+  "picks": [
+    {
+      "time": "17:33",
+      "meeting": "Bangor-on-Dee",
+      "race": "Wrexham Evening Handicap Chase",
+      "horse": "Glenmalure Flyer",
+      "stars": 5,
+      "odds": "10/3",
+      "dec": 4.333333333333334,
+      "res": "WIN",
+      "pos": 1,
+      "score1": 126.45,
+      "score2": 50.37
+    }
+  ],
+  "combos": [
+    {
+      "size": 1,
+      "legs": [
+        {
+          "horse": "Glenmalure Flyer",
+          "odds": "10/3",
+          "res": "WIN"
+        }
+      ],
+      "dec": 4.33,
+      "res": "WIN",
+      "ret": 4.33
+    }
+  ],
+  "score": {
+    "picks": 1,
+    "lines": 1,
+    "won": 1,
+    "lost": 0,
+    "pending": 0
+  },
+  "units": {
+    "staked": 1,
+    "returned": 4.33
+  },
+  "by_size": {
+    "1": {
+      "n": 1,
+      "won": 1,
+      "lines": 1,
+      "returned": 4.33
+    }
+  }
+}

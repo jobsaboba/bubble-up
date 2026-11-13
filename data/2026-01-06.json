@@ -1,0 +1,46 @@
+{
+  "date": "2026-01-06",
+  "generated": "2026-11-13T21:20:20+00:00",
+  "picks": [
+    {
+      "time": "15:30",
+      "meeting": "Musselburgh",
+      "race": "LiveScore Bet Open NH Flat Race (GBB Race)",
+      "horse": "Nightflyer",
+      "stars": 0,
+      "odds": "",
+      "dec": null,
+      "res": null,
+      "pos": 0,
+      "score1": 65.55,
+      "score2": 29.0
+    }
+  ],
+  "combos": [
+    {
+      "size": 1,
+      "legs": [
+        {
+          "horse": "Nightflyer",
+          "odds": "",
+          "res": "?"
+        }
+      ],
+      "dec": null,
+      "res": "PENDING",
+      "ret": null
+    }
+  ],
+  "score": {
+    "picks": 1,
+    "lines": 1,
+    "won": 0,
+    "lost": 0,
+    "pending": 1
+  },
+  "units": {
+    "staked": 0,
+    "returned": 0
+  },
+  "by_size": {}
+}
