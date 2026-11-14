@@ -276,7 +276,11 @@ function render(){
     html += `<div class="grp"><span class="gname">${sizeName(sz)}</span>
       <span class="gline">${group.length} line${group.length===1?"":"s"} · ${gw} won · ${gl} lost</span></div>`;
     html += group.map(c=>{
-      const legs = c.legs.map(l=>`${esc(l.horse)} <small>@ ${esc(l.odds)}</small>`).join("<br>");
+      const legs = c.legs.map(l=>`<div style="margin-bottom:2px">
+        <b style="color:var(--sky2)">${esc(l.time)}</b> <small>${esc(l.meeting)}</small> —
+        <b>${esc(l.horse)}</b> <small>@ ${esc(l.odds)}</small><br>
+        <small style="color:var(--dim)">${esc(l.race || "")}${(l.race && (l.trainer || l.jockey)) ? " · " : ""}${esc([l.trainer, l.jockey].filter(Boolean).join(" / "))}</small>
+      </div>`).join("");
       let badge, amt;
       if(c.res === "WIN"){ badge = `<div class="badge won">WON</div>`; amt = `<span class="chip money">${money(c.ret)}</span>`; }
       else if(c.res === "LOSE"){ badge = `<div class="badge lost">LOST</div>`; amt = `<span class="chip">− ${money(1)}</span>`; }
