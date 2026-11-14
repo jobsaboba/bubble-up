@@ -1,6 +1,6 @@
 {
   "date": "2026-11-14",
-  "generated": "2026-11-14T15:30:39+00:00",
+  "generated": "2026-11-14T16:00:41+00:00",
   "picks": [
     {
       "time": "14:35",
@@ -25,8 +25,8 @@
       "stars": 3,
       "odds": "9/2",
       "dec": 5.5,
-      "res": null,
-      "pos": 0,
+      "res": "LOSE",
+      "pos": 5,
       "score1": 162.0,
       "score2": 59.33,
       "trainer": "H D Daly",
@@ -59,14 +59,14 @@
           "meeting": "Uttoxeter",
           "horse": "Lady Coco",
           "odds": "9/2",
-          "res": "?",
+          "res": "LOSE",
           "trainer": "H D Daly",
           "jockey": "David Bass"
         }
       ],
       "dec": 5.5,
-      "res": "PENDING",
-      "ret": null
+      "res": "LOSE",
+      "ret": 0.0
     },
     {
       "size": 2,
@@ -85,26 +85,39 @@
           "meeting": "Uttoxeter",
           "horse": "Lady Coco",
           "odds": "9/2",
-          "res": "?",
+          "res": "LOSE",
           "trainer": "H D Daly",
           "jockey": "David Bass"
         }
       ],
       "dec": 16.5,
-      "res": "PENDING",
-      "ret": null
+      "res": "LOSE",
+      "ret": 0.0
     }
   ],
   "score": {
     "picks": 2,
     "lines": 3,
     "won": 0,
-    "lost": 0,
-    "pending": 3
+    "lost": 2,
+    "pending": 1
   },
   "units": {
-    "staked": 0,
-    "returned": 0
+    "staked": 2,
+    "returned": 0.0
   },
-  "by_size": {}
+  "by_size": {
+    "1": {
+      "n": 1,
+      "won": 0,
+      "lines": 1,
+      "returned": 0.0
+    },
+    "2": {
+      "n": 1,
+      "won": 0,
+      "lines": 1,
+      "returned": 0.0
+    }
+  }
 }
