@@ -1,6 +1,6 @@
 {
   "date": "2026-09-20",
-  "generated": "2026-11-14T06:56:20+00:00",
+  "generated": "2026-11-14T06:59:44+00:00",
   "picks": [
     {
       "time": "14:00",
@@ -25,7 +25,6 @@
         {
           "time": "14:00",
           "meeting": "Hamilton",
-          "race": "Heineken Zero Drink Responsibly At Hamilton Park Handicap",
           "horse": "Impressor",
           "odds": "5/2",
           "res": "WIN",

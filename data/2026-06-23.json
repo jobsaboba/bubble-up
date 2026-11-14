@@ -1,6 +1,6 @@
 {
   "date": "2026-06-23",
-  "generated": "2026-11-14T06:56:20+00:00",
+  "generated": "2026-11-14T06:59:44+00:00",
   "picks": [
     {
       "time": "14:30",
@@ -40,7 +40,6 @@
         {
           "time": "14:30",
           "meeting": "Ffos Las",
-          "race": "Vibe Recruit Maiden Stakes (GBB Race)",
           "horse": "English Time",
           "odds": "4/6",
           "res": "WIN",
@@ -58,7 +57,6 @@
         {
           "time": "15:00",
           "meeting": "Ffos Las",
-          "race": "Ffos Las Racecourse Charity Skydive For Ty Hafan Handicap",
           "horse": "Typeface",
           "odds": "1/1",
           "res": "PLACE",
@@ -76,7 +74,6 @@
         {
           "time": "14:30",
           "meeting": "Ffos Las",
-          "race": "Vibe Recruit Maiden Stakes (GBB Race)",
           "horse": "English Time",
           "odds": "4/6",
           "res": "WIN",
@@ -86,7 +83,6 @@
         {
           "time": "15:00",
           "meeting": "Ffos Las",
-          "race": "Ffos Las Racecourse Charity Skydive For Ty Hafan Handicap",
           "horse": "Typeface",
           "odds": "1/1",
           "res": "PLACE",

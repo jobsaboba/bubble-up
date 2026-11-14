@@ -1,6 +1,6 @@
 {
   "date": "2026-11-06",
-  "generated": "2026-11-14T06:56:20+00:00",
+  "generated": "2026-11-14T06:59:44+00:00",
   "picks": [
     {
       "time": "12:50",
@@ -55,7 +55,6 @@
         {
           "time": "12:50",
           "meeting": "Fontwell",
-          "race": "KSR Lighting Maiden Hurdle (GBB Race)",
           "horse": "Smokehouse",
           "odds": "4/7",
           "res": "WIN",
@@ -73,7 +72,6 @@
         {
           "time": "17:45",
           "meeting": "Dundalk",
-          "race": "Irish Stallion Farms EBF Fillies Maiden",
           "horse": "Ladies Gossip",
           "odds": "9/4",
           "res": "WIN",
@@ -91,7 +89,6 @@
         {
           "time": "18:00",
           "meeting": "Newcastle",
-          "race": "All-Weather Championship Season 14 Has Begun Handicap",
           "horse": "Oxford Circus",
           "odds": "5/2",
           "res": "WIN",
@@ -109,7 +106,6 @@
         {
           "time": "12:50",
           "meeting": "Fontwell",
-          "race": "KSR Lighting Maiden Hurdle (GBB Race)",
           "horse": "Smokehouse",
           "odds": "4/7",
           "res": "WIN",
@@ -119,7 +115,6 @@
         {
           "time": "17:45",
           "meeting": "Dundalk",
-          "race": "Irish Stallion Farms EBF Fillies Maiden",
           "horse": "Ladies Gossip",
           "odds": "9/4",
           "res": "WIN",
@@ -137,7 +132,6 @@
         {
           "time": "12:50",
           "meeting": "Fontwell",
-          "race": "KSR Lighting Maiden Hurdle (GBB Race)",
           "horse": "Smokehouse",
           "odds": "4/7",
           "res": "WIN",
@@ -147,7 +141,6 @@
         {
           "time": "18:00",
           "meeting": "Newcastle",
-          "race": "All-Weather Championship Season 14 Has Begun Handicap",
           "horse": "Oxford Circus",
           "odds": "5/2",
           "res": "WIN",
@@ -165,7 +158,6 @@
         {
           "time": "17:45",
           "meeting": "Dundalk",
-          "race": "Irish Stallion Farms EBF Fillies Maiden",
           "horse": "Ladies Gossip",
           "odds": "9/4",
           "res": "WIN",
@@ -175,7 +167,6 @@
         {
           "time": "18:00",
           "meeting": "Newcastle",
-          "race": "All-Weather Championship Season 14 Has Begun Handicap",
           "horse": "Oxford Circus",
           "odds": "5/2",
           "res": "WIN",
@@ -193,7 +184,6 @@
         {
           "time": "12:50",
           "meeting": "Fontwell",
-          "race": "KSR Lighting Maiden Hurdle (GBB Race)",
           "horse": "Smokehouse",
           "odds": "4/7",
           "res": "WIN",
@@ -203,7 +193,6 @@
         {
           "time": "17:45",
           "meeting": "Dundalk",
-          "race": "Irish Stallion Farms EBF Fillies Maiden",
           "horse": "Ladies Gossip",
           "odds": "9/4",
           "res": "WIN",
@@ -213,7 +202,6 @@
         {
           "time": "18:00",
           "meeting": "Newcastle",
-          "race": "All-Weather Championship Season 14 Has Begun Handicap",
           "horse": "Oxford Circus",
           "odds": "5/2",
           "res": "WIN",

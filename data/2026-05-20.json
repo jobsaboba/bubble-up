@@ -1,6 +1,6 @@
 {
   "date": "2026-05-20",
-  "generated": "2026-11-14T06:56:20+00:00",
+  "generated": "2026-11-14T06:59:44+00:00",
   "picks": [
     {
       "time": "13:12",
@@ -25,7 +25,6 @@
         {
           "time": "13:12",
           "meeting": "Ayr",
-          "race": "Kronenbourg 1664 Handicap",
           "horse": "Classy Clarets",
           "odds": "2/1",
           "res": "PLACE",

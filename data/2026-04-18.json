@@ -1,6 +1,6 @@
 {
   "date": "2026-04-18",
-  "generated": "2026-11-14T06:56:20+00:00",
+  "generated": "2026-11-14T06:59:44+00:00",
   "picks": [
     {
       "time": "12:17",
@@ -55,7 +55,6 @@
         {
           "time": "12:17",
           "meeting": "Bangor-on-Dee",
-          "race": "Broxton Gates Novices' Hurdle (GBB Race)",
           "horse": "Senator",
           "odds": "1/1",
           "res": "PLACE",
@@ -73,7 +72,6 @@
         {
           "time": "12:52",
           "meeting": "Bangor-on-Dee",
-          "race": "Gieves & Hawkes Novices' Handicap Chase",
           "horse": "Streamsforth Lad",
           "odds": "13/8",
           "res": "PLACE",
@@ -91,7 +89,6 @@
         {
           "time": "15:42",
           "meeting": "Bangor-on-Dee",
-          "race": "Overton Handicap Hurdle",
           "horse": "Dwight K Schrute",
           "odds": "3/1",
           "res": "LOSE",
@@ -109,7 +106,6 @@
         {
           "time": "12:17",
           "meeting": "Bangor-on-Dee",
-          "race": "Broxton Gates Novices' Hurdle (GBB Race)",
           "horse": "Senator",
           "odds": "1/1",
           "res": "PLACE",
@@ -119,7 +115,6 @@
         {
           "time": "12:52",
           "meeting": "Bangor-on-Dee",
-          "race": "Gieves & Hawkes Novices' Handicap Chase",
           "horse": "Streamsforth Lad",
           "odds": "13/8",
           "res": "PLACE",
@@ -137,7 +132,6 @@
         {
           "time": "12:17",
           "meeting": "Bangor-on-Dee",
-          "race": "Broxton Gates Novices' Hurdle (GBB Race)",
           "horse": "Senator",
           "odds": "1/1",
           "res": "PLACE",
@@ -147,7 +141,6 @@
         {
           "time": "15:42",
           "meeting": "Bangor-on-Dee",
-          "race": "Overton Handicap Hurdle",
           "horse": "Dwight K Schrute",
           "odds": "3/1",
           "res": "LOSE",
@@ -165,7 +158,6 @@
         {
           "time": "12:52",
           "meeting": "Bangor-on-Dee",
-          "race": "Gieves & Hawkes Novices' Handicap Chase",
           "horse": "Streamsforth Lad",
           "odds": "13/8",
           "res": "PLACE",
@@ -175,7 +167,6 @@
         {
           "time": "15:42",
           "meeting": "Bangor-on-Dee",
-          "race": "Overton Handicap Hurdle",
           "horse": "Dwight K Schrute",
           "odds": "3/1",
           "res": "LOSE",
@@ -193,7 +184,6 @@
         {
           "time": "12:17",
           "meeting": "Bangor-on-Dee",
-          "race": "Broxton Gates Novices' Hurdle (GBB Race)",
           "horse": "Senator",
           "odds": "1/1",
           "res": "PLACE",
@@ -203,7 +193,6 @@
         {
           "time": "12:52",
           "meeting": "Bangor-on-Dee",
-          "race": "Gieves & Hawkes Novices' Handicap Chase",
           "horse": "Streamsforth Lad",
           "odds": "13/8",
           "res": "PLACE",
@@ -213,7 +202,6 @@
         {
           "time": "15:42",
           "meeting": "Bangor-on-Dee",
-          "race": "Overton Handicap Hurdle",
           "horse": "Dwight K Schrute",
           "odds": "3/1",
           "res": "LOSE",

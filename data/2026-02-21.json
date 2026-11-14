@@ -1,6 +1,6 @@
 {
   "date": "2026-02-21",
-  "generated": "2026-11-14T06:56:20+00:00",
+  "generated": "2026-11-14T06:59:44+00:00",
   "picks": [
     {
       "time": "16:48",
@@ -40,7 +40,6 @@
         {
           "time": "16:48",
           "meeting": "Chepstow",
-          "race": "Pertemps Network EMEA Novices' Limited Handicap Hurdle",
           "horse": "Thorgath",
           "odds": "11/5",
           "res": "LOSE",
@@ -58,7 +57,6 @@
         {
           "time": "17:18",
           "meeting": "Chepstow",
-          "race": "Pertemps Network Maiden NH Flat Race (Conditional/Amateurs) (GBB Race)",
           "horse": "Bande Organisee",
           "odds": "8/13",
           "res": "WIN",
@@ -76,7 +74,6 @@
         {
           "time": "16:48",
           "meeting": "Chepstow",
-          "race": "Pertemps Network EMEA Novices' Limited Handicap Hurdle",
           "horse": "Thorgath",
           "odds": "11/5",
           "res": "LOSE",
@@ -86,7 +83,6 @@
         {
           "time": "17:18",
           "meeting": "Chepstow",
-          "race": "Pertemps Network Maiden NH Flat Race (Conditional/Amateurs) (GBB Race)",
           "horse": "Bande Organisee",
           "odds": "8/13",
           "res": "WIN",

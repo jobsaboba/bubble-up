@@ -1,6 +1,6 @@
 {
   "date": "2026-08-04",
-  "generated": "2026-11-14T06:56:20+00:00",
+  "generated": "2026-11-14T06:59:44+00:00",
   "picks": [
     {
       "time": "14:30",
@@ -40,7 +40,6 @@
         {
           "time": "14:30",
           "meeting": "Ffos Las",
-          "race": "Ken Meredith Memorial Race Handicap (Div 1)",
           "horse": "Cypriot Diaspora",
           "odds": "13/8",
           "res": "PLACE",
@@ -58,7 +57,6 @@
         {
           "time": "15:30",
           "meeting": "Ffos Las",
-          "race": "Dandara Homes Maiden Stakes (GBB Race)",
           "horse": "Wootz",
           "odds": "10/11",
           "res": "WIN",
@@ -76,7 +74,6 @@
         {
           "time": "14:30",
           "meeting": "Ffos Las",
-          "race": "Ken Meredith Memorial Race Handicap (Div 1)",
           "horse": "Cypriot Diaspora",
           "odds": "13/8",
           "res": "PLACE",
@@ -86,7 +83,6 @@
         {
           "time": "15:30",
           "meeting": "Ffos Las",
-          "race": "Dandara Homes Maiden Stakes (GBB Race)",
           "horse": "Wootz",
           "odds": "10/11",
           "res": "WIN",

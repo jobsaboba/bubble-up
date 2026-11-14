@@ -1,6 +1,6 @@
 {
   "date": "2026-11-04",
-  "generated": "2026-11-14T06:56:20+00:00",
+  "generated": "2026-11-14T06:59:44+00:00",
   "picks": [
     {
       "time": "13:58",
@@ -55,7 +55,6 @@
         {
           "time": "13:58",
           "meeting": "Chepstow",
-          "race": "LSL Racing 'National Hunt' Maiden Hurdle (GBB Race) (Div 2)",
           "horse": "A Sight To Sea",
           "odds": "4/7",
           "res": "WIN",
@@ -73,7 +72,6 @@
         {
           "time": "15:40",
           "meeting": "Chepstow",
-          "race": "Floyds Turfcare & Weed Solutions Handicap Hurdle",
           "horse": "I Heard A Rumour",
           "odds": "7/2",
           "res": "WIN",
@@ -91,7 +89,6 @@
         {
           "time": "16:10",
           "meeting": "Chepstow",
-          "race": "Dunraven Open NH Flat Race (GBB Race)",
           "horse": "Don't Panic",
           "odds": "5/2",
           "res": "WIN",
@@ -109,7 +106,6 @@
         {
           "time": "13:58",
           "meeting": "Chepstow",
-          "race": "LSL Racing 'National Hunt' Maiden Hurdle (GBB Race) (Div 2)",
           "horse": "A Sight To Sea",
           "odds": "4/7",
           "res": "WIN",
@@ -119,7 +115,6 @@
         {
           "time": "15:40",
           "meeting": "Chepstow",
-          "race": "Floyds Turfcare & Weed Solutions Handicap Hurdle",
           "horse": "I Heard A Rumour",
           "odds": "7/2",
           "res": "WIN",
@@ -137,7 +132,6 @@
         {
           "time": "13:58",
           "meeting": "Chepstow",
-          "race": "LSL Racing 'National Hunt' Maiden Hurdle (GBB Race) (Div 2)",
           "horse": "A Sight To Sea",
           "odds": "4/7",
           "res": "WIN",
@@ -147,7 +141,6 @@
         {
           "time": "16:10",
           "meeting": "Chepstow",
-          "race": "Dunraven Open NH Flat Race (GBB Race)",
           "horse": "Don't Panic",
           "odds": "5/2",
           "res": "WIN",
@@ -165,7 +158,6 @@
         {
           "time": "15:40",
           "meeting": "Chepstow",
-          "race": "Floyds Turfcare & Weed Solutions Handicap Hurdle",
           "horse": "I Heard A Rumour",
           "odds": "7/2",
           "res": "WIN",
@@ -175,7 +167,6 @@
         {
           "time": "16:10",
           "meeting": "Chepstow",
-          "race": "Dunraven Open NH Flat Race (GBB Race)",
           "horse": "Don't Panic",
           "odds": "5/2",
           "res": "WIN",
@@ -193,7 +184,6 @@
         {
           "time": "13:58",
           "meeting": "Chepstow",
-          "race": "LSL Racing 'National Hunt' Maiden Hurdle (GBB Race) (Div 2)",
           "horse": "A Sight To Sea",
           "odds": "4/7",
           "res": "WIN",
@@ -203,7 +193,6 @@
         {
           "time": "15:40",
           "meeting": "Chepstow",
-          "race": "Floyds Turfcare & Weed Solutions Handicap Hurdle",
           "horse": "I Heard A Rumour",
           "odds": "7/2",
           "res": "WIN",
@@ -213,7 +202,6 @@
         {
           "time": "16:10",
           "meeting": "Chepstow",
-          "race": "Dunraven Open NH Flat Race (GBB Race)",
           "horse": "Don't Panic",
           "odds": "5/2",
           "res": "WIN",

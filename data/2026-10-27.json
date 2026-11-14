@@ -1,6 +1,6 @@
 {
   "date": "2026-10-27",
-  "generated": "2026-11-14T06:56:20+00:00",
+  "generated": "2026-11-14T06:59:44+00:00",
   "picks": [
     {
       "time": "14:16",
@@ -55,7 +55,6 @@
         {
           "time": "14:16",
           "meeting": "Bangor-on-Dee",
-          "race": "Jodie Standing's Point-To-Point Recruits Novices' Hurdle (GBB Race)",
           "horse": "Rattlin Home",
           "odds": "2/5",
           "res": "WIN",
@@ -73,7 +72,6 @@
         {
           "time": "14:46",
           "meeting": "Bangor-on-Dee",
-          "race": "Kellyhill Financial Planning Mares' Handicap Hurdle",
           "horse": "Queen Maeve",
           "odds": "5/2",
           "res": "LOSE",
@@ -91,7 +89,6 @@
         {
           "time": "16:16",
           "meeting": "Bangor-on-Dee",
-          "race": "Overton Handicap Chase (GBB Race)",
           "horse": "Twistthenightaway",
           "odds": "7/2",
           "res": "LOSE",
@@ -109,7 +106,6 @@
         {
           "time": "14:16",
           "meeting": "Bangor-on-Dee",
-          "race": "Jodie Standing's Point-To-Point Recruits Novices' Hurdle (GBB Race)",
           "horse": "Rattlin Home",
           "odds": "2/5",
           "res": "WIN",
@@ -119,7 +115,6 @@
         {
           "time": "14:46",
           "meeting": "Bangor-on-Dee",
-          "race": "Kellyhill Financial Planning Mares' Handicap Hurdle",
           "horse": "Queen Maeve",
           "odds": "5/2",
           "res": "LOSE",
@@ -137,7 +132,6 @@
         {
           "time": "14:16",
           "meeting": "Bangor-on-Dee",
-          "race": "Jodie Standing's Point-To-Point Recruits Novices' Hurdle (GBB Race)",
           "horse": "Rattlin Home",
           "odds": "2/5",
           "res": "WIN",
@@ -147,7 +141,6 @@
         {
           "time": "16:16",
           "meeting": "Bangor-on-Dee",
-          "race": "Overton Handicap Chase (GBB Race)",
           "horse": "Twistthenightaway",
           "odds": "7/2",
           "res": "LOSE",
@@ -165,7 +158,6 @@
         {
           "time": "14:46",
           "meeting": "Bangor-on-Dee",
-          "race": "Kellyhill Financial Planning Mares' Handicap Hurdle",
           "horse": "Queen Maeve",
           "odds": "5/2",
           "res": "LOSE",
@@ -175,7 +167,6 @@
         {
           "time": "16:16",
           "meeting": "Bangor-on-Dee",
-          "race": "Overton Handicap Chase (GBB Race)",
           "horse": "Twistthenightaway",
           "odds": "7/2",
           "res": "LOSE",
@@ -193,7 +184,6 @@
         {
           "time": "14:16",
           "meeting": "Bangor-on-Dee",
-          "race": "Jodie Standing's Point-To-Point Recruits Novices' Hurdle (GBB Race)",
           "horse": "Rattlin Home",
           "odds": "2/5",
           "res": "WIN",
@@ -203,7 +193,6 @@
         {
           "time": "14:46",
           "meeting": "Bangor-on-Dee",
-          "race": "Kellyhill Financial Planning Mares' Handicap Hurdle",
           "horse": "Queen Maeve",
           "odds": "5/2",
           "res": "LOSE",
@@ -213,7 +202,6 @@
         {
           "time": "16:16",
           "meeting": "Bangor-on-Dee",
-          "race": "Overton Handicap Chase (GBB Race)",
           "horse": "Twistthenightaway",
           "odds": "7/2",
           "res": "LOSE",

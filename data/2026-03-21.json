@@ -1,6 +1,6 @@
 {
   "date": "2026-03-21",
-  "generated": "2026-11-14T06:56:20+00:00",
+  "generated": "2026-11-14T06:59:44+00:00",
   "picks": [
     {
       "time": "13:00",
@@ -55,7 +55,6 @@
         {
           "time": "13:00",
           "meeting": "Kelso",
-          "race": "BetWright Beeswing Mares' Hurdle (Listed) (GBB Race)",
           "horse": "Hollygrove Cha Cha",
           "odds": "13/8",
           "res": "LOSE",
@@ -73,7 +72,6 @@
         {
           "time": "13:07",
           "meeting": "Bangor-on-Dee",
-          "race": "Alfa Aggregates Products Maiden Hurdle (GBB Race)",
           "horse": "Tommy Pickles",
           "odds": "6/4",
           "res": "WIN",
@@ -91,7 +89,6 @@
         {
           "time": "16:23",
           "meeting": "Kelso",
-          "race": "Racing Post+ Jodami Open NH Flat Race (GBB Race)",
           "horse": "King Kubala",
           "odds": "5/2",
           "res": "WIN",
@@ -109,7 +106,6 @@
         {
           "time": "13:00",
           "meeting": "Kelso",
-          "race": "BetWright Beeswing Mares' Hurdle (Listed) (GBB Race)",
           "horse": "Hollygrove Cha Cha",
           "odds": "13/8",
           "res": "LOSE",
@@ -119,7 +115,6 @@
         {
           "time": "13:07",
           "meeting": "Bangor-on-Dee",
-          "race": "Alfa Aggregates Products Maiden Hurdle (GBB Race)",
           "horse": "Tommy Pickles",
           "odds": "6/4",
           "res": "WIN",
@@ -137,7 +132,6 @@
         {
           "time": "13:00",
           "meeting": "Kelso",
-          "race": "BetWright Beeswing Mares' Hurdle (Listed) (GBB Race)",
           "horse": "Hollygrove Cha Cha",
           "odds": "13/8",
           "res": "LOSE",
@@ -147,7 +141,6 @@
         {
           "time": "16:23",
           "meeting": "Kelso",
-          "race": "Racing Post+ Jodami Open NH Flat Race (GBB Race)",
           "horse": "King Kubala",
           "odds": "5/2",
           "res": "WIN",
@@ -165,7 +158,6 @@
         {
           "time": "13:07",
           "meeting": "Bangor-on-Dee",
-          "race": "Alfa Aggregates Products Maiden Hurdle (GBB Race)",
           "horse": "Tommy Pickles",
           "odds": "6/4",
           "res": "WIN",
@@ -175,7 +167,6 @@
         {
           "time": "16:23",
           "meeting": "Kelso",
-          "race": "Racing Post+ Jodami Open NH Flat Race (GBB Race)",
           "horse": "King Kubala",
           "odds": "5/2",
           "res": "WIN",
@@ -193,7 +184,6 @@
         {
           "time": "13:00",
           "meeting": "Kelso",
-          "race": "BetWright Beeswing Mares' Hurdle (Listed) (GBB Race)",
           "horse": "Hollygrove Cha Cha",
           "odds": "13/8",
           "res": "LOSE",
@@ -203,7 +193,6 @@
         {
           "time": "13:07",
           "meeting": "Bangor-on-Dee",
-          "race": "Alfa Aggregates Products Maiden Hurdle (GBB Race)",
           "horse": "Tommy Pickles",
           "odds": "6/4",
           "res": "WIN",
@@ -213,7 +202,6 @@
         {
           "time": "16:23",
           "meeting": "Kelso",
-          "race": "Racing Post+ Jodami Open NH Flat Race (GBB Race)",
           "horse": "King Kubala",
           "odds": "5/2",
           "res": "WIN",

@@ -1,6 +1,6 @@
 {
   "date": "2026-06-30",
-  "generated": "2026-11-14T06:56:20+00:00",
+  "generated": "2026-11-14T06:59:44+00:00",
   "picks": [
     {
       "time": "17:39",
@@ -40,7 +40,6 @@
         {
           "time": "17:39",
           "meeting": "Ffos Las",
-          "race": "West Wales Properties Pembrokeshire Maiden Stakes (GBB Race)",
           "horse": "Dark Whisper",
           "odds": "7/4",
           "res": "WIN",
@@ -58,7 +57,6 @@
         {
           "time": "18:09",
           "meeting": "Ffos Las",
-          "race": "West Wales Properties Mayfair Classified Stakes",
           "horse": "King of The Dance",
           "odds": "6/4",
           "res": "PLACE",
@@ -76,7 +74,6 @@
         {
           "time": "17:39",
           "meeting": "Ffos Las",
-          "race": "West Wales Properties Pembrokeshire Maiden Stakes (GBB Race)",
           "horse": "Dark Whisper",
           "odds": "7/4",
           "res": "WIN",
@@ -86,7 +83,6 @@
         {
           "time": "18:09",
           "meeting": "Ffos Las",
-          "race": "West Wales Properties Mayfair Classified Stakes",
           "horse": "King of The Dance",
           "odds": "6/4",
           "res": "PLACE",

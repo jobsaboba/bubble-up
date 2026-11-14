@@ -1,6 +1,6 @@
 {
   "date": "2026-07-06",
-  "generated": "2026-11-14T06:56:20+00:00",
+  "generated": "2026-11-14T06:59:44+00:00",
   "picks": [
     {
       "time": "14:00",
@@ -40,7 +40,6 @@
         {
           "time": "14:00",
           "meeting": "Ayr",
-          "race": "racingtv.com/freetrial Handicap",
           "horse": "Shifter",
           "odds": "3/1",
           "res": "LOSE",
@@ -58,7 +57,6 @@
         {
           "time": "16:00",
           "meeting": "Ayr",
-          "race": "25% Off Lunch At Western House Hotel Handicap",
           "horse": "White Ladder",
           "odds": "4/1",
           "res": "WIN",
@@ -76,7 +74,6 @@
         {
           "time": "14:00",
           "meeting": "Ayr",
-          "race": "racingtv.com/freetrial Handicap",
           "horse": "Shifter",
           "odds": "3/1",
           "res": "LOSE",
@@ -86,7 +83,6 @@
         {
           "time": "16:00",
           "meeting": "Ayr",
-          "race": "25% Off Lunch At Western House Hotel Handicap",
           "horse": "White Ladder",
           "odds": "4/1",
           "res": "WIN",
