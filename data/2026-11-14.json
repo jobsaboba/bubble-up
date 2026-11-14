@@ -1,22 +1,7 @@
 {
   "date": "2026-11-14",
-  "generated": "2026-11-14T06:59:44+00:00",
+  "generated": "2026-11-14T13:00:50+00:00",
   "picks": [
-    {
-      "time": "12:20",
-      "meeting": "Windsor",
-      "race": "A1R Services Ltd Mares' Maiden Hurdle (GBB Race)",
-      "horse": "Ti'mamzel",
-      "stars": 5,
-      "odds": "10/11",
-      "dec": 1.9090909090909092,
-      "res": null,
-      "pos": 0,
-      "score1": 127.23,
-      "score2": 42.36,
-      "trainer": "Jamie & Josh Moore",
-      "jockey": "Caoilin Quinn"
-    },
     {
       "time": "14:35",
       "meeting": "Windsor",
@@ -53,23 +38,6 @@
       "size": 1,
       "legs": [
         {
-          "time": "12:20",
-          "meeting": "Windsor",
-          "horse": "Ti'mamzel",
-          "odds": "10/11",
-          "res": "?",
-          "trainer": "Jamie & Josh Moore",
-          "jockey": "Caoilin Quinn"
-        }
-      ],
-      "dec": 1.91,
-      "res": "PENDING",
-      "ret": null
-    },
-    {
-      "size": 1,
-      "legs": [
-        {
           "time": "14:35",
           "meeting": "Windsor",
           "horse": "King Califet",
@@ -104,58 +72,6 @@
       "size": 2,
       "legs": [
         {
-          "time": "12:20",
-          "meeting": "Windsor",
-          "horse": "Ti'mamzel",
-          "odds": "10/11",
-          "res": "?",
-          "trainer": "Jamie & Josh Moore",
-          "jockey": "Caoilin Quinn"
-        },
-        {
-          "time": "14:35",
-          "meeting": "Windsor",
-          "horse": "King Califet",
-          "odds": "2/1",
-          "res": "?",
-          "trainer": "Miss E C Lavelle",
-          "jockey": "Ben Jones"
-        }
-      ],
-      "dec": 5.73,
-      "res": "PENDING",
-      "ret": null
-    },
-    {
-      "size": 2,
-      "legs": [
-        {
-          "time": "12:20",
-          "meeting": "Windsor",
-          "horse": "Ti'mamzel",
-          "odds": "10/11",
-          "res": "?",
-          "trainer": "Jamie & Josh Moore",
-          "jockey": "Caoilin Quinn"
-        },
-        {
-          "time": "15:35",
-          "meeting": "Uttoxeter",
-          "horse": "Lady Coco",
-          "odds": "9/2",
-          "res": "?",
-          "trainer": "H D Daly",
-          "jockey": "David Bass"
-        }
-      ],
-      "dec": 10.5,
-      "res": "PENDING",
-      "ret": null
-    },
-    {
-      "size": 2,
-      "legs": [
-        {
           "time": "14:35",
           "meeting": "Windsor",
           "horse": "King Califet",
@@ -177,49 +93,14 @@
       "dec": 16.5,
       "res": "PENDING",
       "ret": null
-    },
-    {
-      "size": 3,
-      "legs": [
-        {
-          "time": "12:20",
-          "meeting": "Windsor",
-          "horse": "Ti'mamzel",
-          "odds": "10/11",
-          "res": "?",
-          "trainer": "Jamie & Josh Moore",
-          "jockey": "Caoilin Quinn"
-        },
-        {
-          "time": "14:35",
-          "meeting": "Windsor",
-          "horse": "King Califet",
-          "odds": "2/1",
-          "res": "?",
-          "trainer": "Miss E C Lavelle",
-          "jockey": "Ben Jones"
-        },
-        {
-          "time": "15:35",
-          "meeting": "Uttoxeter",
-          "horse": "Lady Coco",
-          "odds": "9/2",
-          "res": "?",
-          "trainer": "H D Daly",
-          "jockey": "David Bass"
-        }
-      ],
-      "dec": 31.5,
-      "res": "PENDING",
-      "ret": null
     }
   ],
   "score": {
-    "picks": 3,
-    "lines": 7,
+    "picks": 2,
+    "lines": 3,
     "won": 0,
     "lost": 0,
-    "pending": 7
+    "pending": 3
   },
   "units": {
     "staked": 0,
