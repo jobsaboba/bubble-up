@@ -1,6 +1,6 @@
 {
   "date": "2026-05-21",
-  "generated": "2026-11-14T06:45:01+00:00",
+  "generated": "2026-11-14T06:56:20+00:00",
   "picks": [
     {
       "time": "16:30",
@@ -13,7 +13,9 @@
       "res": "LOSE",
       "pos": 5,
       "score1": 100.3,
-      "score2": 33
+      "score2": 33,
+      "trainer": "James Owen",
+      "jockey": "David Probert"
     }
   ],
   "combos": [
@@ -21,9 +23,14 @@
       "size": 1,
       "legs": [
         {
+          "time": "16:30",
+          "meeting": "Chepstow",
+          "race": "LSL Racing Horse Sales Syndication Leasing Restricted Maiden Stakes (GBB Race)",
           "horse": "Ariane Sky",
           "odds": "4/1",
-          "res": "LOSE"
+          "res": "LOSE",
+          "trainer": "James Owen",
+          "jockey": "David Probert"
         }
       ],
       "dec": 5.0,

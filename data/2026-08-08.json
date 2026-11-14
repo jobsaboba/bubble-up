@@ -1,6 +1,6 @@
 {
   "date": "2026-08-08",
-  "generated": "2026-11-14T06:45:01+00:00",
+  "generated": "2026-11-14T06:56:20+00:00",
   "picks": [
     {
       "time": "17:00",
@@ -13,7 +13,9 @@
       "res": "LOSE",
       "pos": 5,
       "score1": 98.0,
-      "score2": 33
+      "score2": 33,
+      "trainer": "T Davidson",
+      "jockey": "Lexie Clarkson"
     },
     {
       "time": "19:00",
@@ -26,7 +28,9 @@
       "res": "PLACE",
       "pos": 2,
       "score1": 85.0,
-      "score2": 33
+      "score2": 33,
+      "trainer": "T Davidson",
+      "jockey": "J Garritty"
     }
   ],
   "combos": [
@@ -34,9 +38,14 @@
       "size": 1,
       "legs": [
         {
+          "time": "17:00",
+          "meeting": "Ayr",
+          "race": "Sunday Roast At Western House Hotel Handicap",
           "horse": "Harb",
           "odds": "4/1",
-          "res": "LOSE"
+          "res": "LOSE",
+          "trainer": "T Davidson",
+          "jockey": "Lexie Clarkson"
         }
       ],
       "dec": 5.0,
@@ -47,9 +56,14 @@
       "size": 1,
       "legs": [
         {
+          "time": "19:00",
+          "meeting": "Ayr",
+          "race": "Book The Ladbrokes Ayr Gold Cup Handicap",
           "horse": "Runninsonofagun",
           "odds": "4/1",
-          "res": "PLACE"
+          "res": "PLACE",
+          "trainer": "T Davidson",
+          "jockey": "J Garritty"
         }
       ],
       "dec": 5.0,
@@ -60,14 +74,24 @@
       "size": 2,
       "legs": [
         {
+          "time": "17:00",
+          "meeting": "Ayr",
+          "race": "Sunday Roast At Western House Hotel Handicap",
           "horse": "Harb",
           "odds": "4/1",
-          "res": "LOSE"
+          "res": "LOSE",
+          "trainer": "T Davidson",
+          "jockey": "Lexie Clarkson"
         },
         {
+          "time": "19:00",
+          "meeting": "Ayr",
+          "race": "Book The Ladbrokes Ayr Gold Cup Handicap",
           "horse": "Runninsonofagun",
           "odds": "4/1",
-          "res": "PLACE"
+          "res": "PLACE",
+          "trainer": "T Davidson",
+          "jockey": "J Garritty"
         }
       ],
       "dec": 25.0,

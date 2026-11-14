@@ -1,6 +1,6 @@
 {
   "date": "2026-11-06",
-  "generated": "2026-11-14T06:45:01+00:00",
+  "generated": "2026-11-14T06:56:20+00:00",
   "picks": [
     {
       "time": "12:50",
@@ -13,7 +13,9 @@
       "res": "WIN",
       "pos": 1,
       "score1": 221.56,
-      "score2": 57.7
+      "score2": 57.7,
+      "trainer": "Jamie Snowden",
+      "jockey": "G Sheehan"
     },
     {
       "time": "17:45",
@@ -26,7 +28,9 @@
       "res": "WIN",
       "pos": 1,
       "score1": 67,
-      "score2": 33
+      "score2": 33,
+      "trainer": "J P O'Brien",
+      "jockey": "J M Sheridan"
     },
     {
       "time": "18:00",
@@ -39,7 +43,9 @@
       "res": "WIN",
       "pos": 1,
       "score1": 115.8,
-      "score2": 32
+      "score2": 32,
+      "trainer": "James Owen",
+      "jockey": "Hollie Doyle"
     }
   ],
   "combos": [
@@ -47,9 +53,14 @@
       "size": 1,
       "legs": [
         {
+          "time": "12:50",
+          "meeting": "Fontwell",
+          "race": "KSR Lighting Maiden Hurdle (GBB Race)",
           "horse": "Smokehouse",
           "odds": "4/7",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "Jamie Snowden",
+          "jockey": "G Sheehan"
         }
       ],
       "dec": 1.57,
@@ -60,9 +71,14 @@
       "size": 1,
       "legs": [
         {
+          "time": "17:45",
+          "meeting": "Dundalk",
+          "race": "Irish Stallion Farms EBF Fillies Maiden",
           "horse": "Ladies Gossip",
           "odds": "9/4",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "J P O'Brien",
+          "jockey": "J M Sheridan"
         }
       ],
       "dec": 3.25,
@@ -73,9 +89,14 @@
       "size": 1,
       "legs": [
         {
+          "time": "18:00",
+          "meeting": "Newcastle",
+          "race": "All-Weather Championship Season 14 Has Begun Handicap",
           "horse": "Oxford Circus",
           "odds": "5/2",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "James Owen",
+          "jockey": "Hollie Doyle"
         }
       ],
       "dec": 3.5,
@@ -86,14 +107,24 @@
       "size": 2,
       "legs": [
         {
+          "time": "12:50",
+          "meeting": "Fontwell",
+          "race": "KSR Lighting Maiden Hurdle (GBB Race)",
           "horse": "Smokehouse",
           "odds": "4/7",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "Jamie Snowden",
+          "jockey": "G Sheehan"
         },
         {
+          "time": "17:45",
+          "meeting": "Dundalk",
+          "race": "Irish Stallion Farms EBF Fillies Maiden",
           "horse": "Ladies Gossip",
           "odds": "9/4",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "J P O'Brien",
+          "jockey": "J M Sheridan"
         }
       ],
       "dec": 5.11,
@@ -104,14 +135,24 @@
       "size": 2,
       "legs": [
         {
+          "time": "12:50",
+          "meeting": "Fontwell",
+          "race": "KSR Lighting Maiden Hurdle (GBB Race)",
           "horse": "Smokehouse",
           "odds": "4/7",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "Jamie Snowden",
+          "jockey": "G Sheehan"
         },
         {
+          "time": "18:00",
+          "meeting": "Newcastle",
+          "race": "All-Weather Championship Season 14 Has Begun Handicap",
           "horse": "Oxford Circus",
           "odds": "5/2",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "James Owen",
+          "jockey": "Hollie Doyle"
         }
       ],
       "dec": 5.5,
@@ -122,14 +163,24 @@
       "size": 2,
       "legs": [
         {
+          "time": "17:45",
+          "meeting": "Dundalk",
+          "race": "Irish Stallion Farms EBF Fillies Maiden",
           "horse": "Ladies Gossip",
           "odds": "9/4",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "J P O'Brien",
+          "jockey": "J M Sheridan"
         },
         {
+          "time": "18:00",
+          "meeting": "Newcastle",
+          "race": "All-Weather Championship Season 14 Has Begun Handicap",
           "horse": "Oxford Circus",
           "odds": "5/2",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "James Owen",
+          "jockey": "Hollie Doyle"
         }
       ],
       "dec": 11.38,
@@ -140,19 +191,34 @@
       "size": 3,
       "legs": [
         {
+          "time": "12:50",
+          "meeting": "Fontwell",
+          "race": "KSR Lighting Maiden Hurdle (GBB Race)",
           "horse": "Smokehouse",
           "odds": "4/7",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "Jamie Snowden",
+          "jockey": "G Sheehan"
         },
         {
+          "time": "17:45",
+          "meeting": "Dundalk",
+          "race": "Irish Stallion Farms EBF Fillies Maiden",
           "horse": "Ladies Gossip",
           "odds": "9/4",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "J P O'Brien",
+          "jockey": "J M Sheridan"
         },
         {
+          "time": "18:00",
+          "meeting": "Newcastle",
+          "race": "All-Weather Championship Season 14 Has Begun Handicap",
           "horse": "Oxford Circus",
           "odds": "5/2",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "James Owen",
+          "jockey": "Hollie Doyle"
         }
       ],
       "dec": 17.88,

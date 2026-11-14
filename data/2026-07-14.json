@@ -1,6 +1,6 @@
 {
   "date": "2026-07-14",
-  "generated": "2026-11-14T06:45:01+00:00",
+  "generated": "2026-11-14T06:56:20+00:00",
   "picks": [
     {
       "time": "15:40",
@@ -13,7 +13,9 @@
       "res": "WIN",
       "pos": 1,
       "score1": 48,
-      "score2": 20
+      "score2": 20,
+      "trainer": "T Faulkner",
+      "jockey": "Rossa Ryan"
     }
   ],
   "combos": [
@@ -21,9 +23,14 @@
       "size": 1,
       "legs": [
         {
+          "time": "15:40",
+          "meeting": "Ffos Las",
+          "race": "Dandara, Beautiful New Homes In Carway 'Confined' Handicap",
           "horse": "Homeland",
           "odds": "2/1",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "T Faulkner",
+          "jockey": "Rossa Ryan"
         }
       ],
       "dec": 3.0,

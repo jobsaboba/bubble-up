@@ -1,6 +1,6 @@
 {
   "date": "2026-11-13",
-  "generated": "2026-11-14T06:45:01+00:00",
+  "generated": "2026-11-14T06:56:20+00:00",
   "picks": [
     {
       "time": "12:20",
@@ -13,7 +13,9 @@
       "res": "WIN",
       "pos": 1,
       "score1": 136.69,
-      "score2": 62.74
+      "score2": 62.74,
+      "trainer": "T Ellis",
+      "jockey": "Jack Andrews"
     },
     {
       "time": "20:30",
@@ -26,7 +28,9 @@
       "res": "LOSE",
       "pos": 8,
       "score1": 105.25,
-      "score2": 45.33
+      "score2": 45.33,
+      "trainer": "P J Flynn",
+      "jockey": "Robyn Donaghue-Leahy"
     }
   ],
   "combos": [
@@ -34,9 +38,14 @@
       "size": 1,
       "legs": [
         {
+          "time": "12:20",
+          "meeting": "Southwell",
+          "race": "DBS And Willmott Dixon Building Together Handicap Chase",
           "horse": "Golly Gosh",
           "odds": "8/11",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "T Ellis",
+          "jockey": "Jack Andrews"
         }
       ],
       "dec": 1.73,
@@ -47,9 +56,14 @@
       "size": 1,
       "legs": [
         {
+          "time": "20:30",
+          "meeting": "Dundalk",
+          "race": "Now Racing Every Wednesday At Dundalk Handicap",
           "horse": "Mothel Abbey",
           "odds": "25/1",
-          "res": "LOSE"
+          "res": "LOSE",
+          "trainer": "P J Flynn",
+          "jockey": "Robyn Donaghue-Leahy"
         }
       ],
       "dec": 26.0,
@@ -60,14 +74,24 @@
       "size": 2,
       "legs": [
         {
+          "time": "12:20",
+          "meeting": "Southwell",
+          "race": "DBS And Willmott Dixon Building Together Handicap Chase",
           "horse": "Golly Gosh",
           "odds": "8/11",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "T Ellis",
+          "jockey": "Jack Andrews"
         },
         {
+          "time": "20:30",
+          "meeting": "Dundalk",
+          "race": "Now Racing Every Wednesday At Dundalk Handicap",
           "horse": "Mothel Abbey",
           "odds": "25/1",
-          "res": "LOSE"
+          "res": "LOSE",
+          "trainer": "P J Flynn",
+          "jockey": "Robyn Donaghue-Leahy"
         }
       ],
       "dec": 44.91,

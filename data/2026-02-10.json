@@ -1,6 +1,6 @@
 {
   "date": "2026-02-10",
-  "generated": "2026-11-14T06:45:01+00:00",
+  "generated": "2026-11-14T06:56:20+00:00",
   "picks": [
     {
       "time": "15:40",
@@ -13,7 +13,9 @@
       "res": null,
       "pos": 0,
       "score1": 158.81,
-      "score2": 37.11
+      "score2": 37.11,
+      "trainer": "Jamie Snowden",
+      "jockey": "G Sheehan"
     },
     {
       "time": "16:40",
@@ -26,7 +28,9 @@
       "res": null,
       "pos": 0,
       "score1": 86.0,
-      "score2": 37.54
+      "score2": 37.54,
+      "trainer": "Jamie Snowden",
+      "jockey": ""
     }
   ],
   "combos": [
@@ -34,9 +38,14 @@
       "size": 1,
       "legs": [
         {
+          "time": "15:40",
+          "meeting": "Ffos Las",
+          "race": "Paned At 3A's Novices' Handicap Chase (GBB Race)",
           "horse": "Admiral Stewart",
           "odds": "",
-          "res": "?"
+          "res": "?",
+          "trainer": "Jamie Snowden",
+          "jockey": "G Sheehan"
         }
       ],
       "dec": null,
@@ -47,9 +56,14 @@
       "size": 1,
       "legs": [
         {
+          "time": "16:40",
+          "meeting": "Ffos Las",
+          "race": "Celtic Subaru Handicap Hurdle",
           "horse": "Livingit Du Large",
           "odds": "",
-          "res": "?"
+          "res": "?",
+          "trainer": "Jamie Snowden",
+          "jockey": ""
         }
       ],
       "dec": null,
@@ -60,14 +74,24 @@
       "size": 2,
       "legs": [
         {
+          "time": "15:40",
+          "meeting": "Ffos Las",
+          "race": "Paned At 3A's Novices' Handicap Chase (GBB Race)",
           "horse": "Admiral Stewart",
           "odds": "",
-          "res": "?"
+          "res": "?",
+          "trainer": "Jamie Snowden",
+          "jockey": "G Sheehan"
         },
         {
+          "time": "16:40",
+          "meeting": "Ffos Las",
+          "race": "Celtic Subaru Handicap Hurdle",
           "horse": "Livingit Du Large",
           "odds": "",
-          "res": "?"
+          "res": "?",
+          "trainer": "Jamie Snowden",
+          "jockey": ""
         }
       ],
       "dec": null,

@@ -1,6 +1,6 @@
 {
   "date": "2026-10-08",
-  "generated": "2026-11-14T06:45:01+00:00",
+  "generated": "2026-11-14T06:56:20+00:00",
   "picks": [
     {
       "time": "13:55",
@@ -13,7 +13,9 @@
       "res": "WIN",
       "pos": 1,
       "score1": 55,
-      "score2": 27
+      "score2": 27,
+      "trainer": "Cian Hughes",
+      "jockey": "H Crouch"
     }
   ],
   "combos": [
@@ -21,9 +23,14 @@
       "size": 1,
       "legs": [
         {
+          "time": "13:55",
+          "meeting": "Ayr",
+          "race": "Heverlee Handicap",
           "horse": "Launch Time",
           "odds": "2/1",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "Cian Hughes",
+          "jockey": "H Crouch"
         }
       ],
       "dec": 3.0,

@@ -1,6 +1,6 @@
 {
   "date": "2026-10-22",
-  "generated": "2026-11-14T06:45:01+00:00",
+  "generated": "2026-11-14T06:56:20+00:00",
   "picks": [
     {
       "time": "11:51",
@@ -13,7 +13,9 @@
       "res": "WIN",
       "pos": 1,
       "score1": 66,
-      "score2": 22.54
+      "score2": 22.54,
+      "trainer": "J Tizzard",
+      "jockey": "Brendan Powell"
     }
   ],
   "combos": [
@@ -21,9 +23,14 @@
       "size": 1,
       "legs": [
         {
+          "time": "11:51",
+          "meeting": "Ffos Las",
+          "race": "bettingsites.co.uk Fast Withdrawal Mares' Novices' Hurdle (GBB Race)",
           "horse": "Fairy Park",
           "odds": "2/7",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "J Tizzard",
+          "jockey": "Brendan Powell"
         }
       ],
       "dec": 1.29,

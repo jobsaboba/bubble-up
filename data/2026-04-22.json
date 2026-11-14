@@ -1,6 +1,6 @@
 {
   "date": "2026-04-22",
-  "generated": "2026-11-14T06:45:01+00:00",
+  "generated": "2026-11-14T06:56:20+00:00",
   "picks": [
     {
       "time": "15:40",
@@ -13,7 +13,9 @@
       "res": "PLACE",
       "pos": 2,
       "score1": 58,
-      "score2": 28
+      "score2": 28,
+      "trainer": "D W Whillans",
+      "jockey": "Miss J Walton"
     }
   ],
   "combos": [
@@ -21,9 +23,14 @@
       "size": 1,
       "legs": [
         {
+          "time": "15:40",
+          "meeting": "Perth",
+          "race": "Equine Products Best Turned Out Amateur Jockeys' Handicap Hurdle (Div 1)",
           "horse": "Bollin Matilda",
           "odds": "2/1",
-          "res": "PLACE"
+          "res": "PLACE",
+          "trainer": "D W Whillans",
+          "jockey": "Miss J Walton"
         }
       ],
       "dec": 3.0,

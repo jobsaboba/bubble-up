@@ -1,6 +1,6 @@
 {
   "date": "2026-08-04",
-  "generated": "2026-11-14T06:45:01+00:00",
+  "generated": "2026-11-14T06:56:20+00:00",
   "picks": [
     {
       "time": "14:30",
@@ -13,7 +13,9 @@
       "res": "PLACE",
       "pos": 2,
       "score1": 58,
-      "score2": 29
+      "score2": 29,
+      "trainer": "B R Millman",
+      "jockey": "Oisin Murphy"
     },
     {
       "time": "15:30",
@@ -26,7 +28,9 @@
       "res": "WIN",
       "pos": 1,
       "score1": 100,
-      "score2": 36
+      "score2": 36,
+      "trainer": "R Varian",
+      "jockey": "Ray Dawson"
     }
   ],
   "combos": [
@@ -34,9 +38,14 @@
       "size": 1,
       "legs": [
         {
+          "time": "14:30",
+          "meeting": "Ffos Las",
+          "race": "Ken Meredith Memorial Race Handicap (Div 1)",
           "horse": "Cypriot Diaspora",
           "odds": "13/8",
-          "res": "PLACE"
+          "res": "PLACE",
+          "trainer": "B R Millman",
+          "jockey": "Oisin Murphy"
         }
       ],
       "dec": 2.62,
@@ -47,9 +56,14 @@
       "size": 1,
       "legs": [
         {
+          "time": "15:30",
+          "meeting": "Ffos Las",
+          "race": "Dandara Homes Maiden Stakes (GBB Race)",
           "horse": "Wootz",
           "odds": "10/11",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "R Varian",
+          "jockey": "Ray Dawson"
         }
       ],
       "dec": 1.91,
@@ -60,14 +74,24 @@
       "size": 2,
       "legs": [
         {
+          "time": "14:30",
+          "meeting": "Ffos Las",
+          "race": "Ken Meredith Memorial Race Handicap (Div 1)",
           "horse": "Cypriot Diaspora",
           "odds": "13/8",
-          "res": "PLACE"
+          "res": "PLACE",
+          "trainer": "B R Millman",
+          "jockey": "Oisin Murphy"
         },
         {
+          "time": "15:30",
+          "meeting": "Ffos Las",
+          "race": "Dandara Homes Maiden Stakes (GBB Race)",
           "horse": "Wootz",
           "odds": "10/11",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "R Varian",
+          "jockey": "Ray Dawson"
         }
       ],
       "dec": 5.01,

@@ -1,6 +1,6 @@
 {
   "date": "2026-07-27",
-  "generated": "2026-11-14T06:45:01+00:00",
+  "generated": "2026-11-14T06:56:20+00:00",
   "picks": [
     {
       "time": "14:45",
@@ -13,7 +13,9 @@
       "res": "PLACE",
       "pos": 2,
       "score1": 92.0,
-      "score2": 35
+      "score2": 35,
+      "trainer": "T Davidson",
+      "jockey": "Jason Hart"
     }
   ],
   "combos": [
@@ -21,9 +23,14 @@
       "size": 1,
       "legs": [
         {
+          "time": "14:45",
+          "meeting": "Ayr",
+          "race": "Ladbrokes 'Get More With Ladbucks' Handicap",
           "horse": "Runninsonofagun",
           "odds": "8/15",
-          "res": "PLACE"
+          "res": "PLACE",
+          "trainer": "T Davidson",
+          "jockey": "Jason Hart"
         }
       ],
       "dec": 1.53,

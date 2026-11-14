@@ -1,6 +1,6 @@
 {
   "date": "2026-01-02",
-  "generated": "2026-11-14T06:45:01+00:00",
+  "generated": "2026-11-14T06:56:20+00:00",
   "picks": [
     {
       "time": "12:30",
@@ -13,7 +13,9 @@
       "res": "WIN",
       "pos": 1,
       "score1": 100.0,
-      "score2": 43.55
+      "score2": 43.55,
+      "trainer": "O Murphy",
+      "jockey": "S Bowen"
     },
     {
       "time": "14:30",
@@ -26,7 +28,9 @@
       "res": "PLACE",
       "pos": 3,
       "score1": 90.0,
-      "score2": 33.0
+      "score2": 33.0,
+      "trainer": "O Murphy",
+      "jockey": "S Bowen"
     }
   ],
   "combos": [
@@ -34,9 +38,14 @@
       "size": 1,
       "legs": [
         {
+          "time": "12:30",
+          "meeting": "Ayr",
+          "race": "Happy New Year From Ayr Racecourse Maiden Hurdle (GBB Race)",
           "horse": "Kings Champion",
           "odds": "11/4",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "O Murphy",
+          "jockey": "S Bowen"
         }
       ],
       "dec": 3.75,
@@ -47,9 +56,14 @@
       "size": 1,
       "legs": [
         {
+          "time": "14:30",
+          "meeting": "Ayr",
+          "race": "Book Wicked Afternoon Tea At WesternHouseHotel Handicap Chase",
           "horse": "Dangerous Touch",
           "odds": "4/1",
-          "res": "PLACE"
+          "res": "PLACE",
+          "trainer": "O Murphy",
+          "jockey": "S Bowen"
         }
       ],
       "dec": 5.0,
@@ -60,14 +74,24 @@
       "size": 2,
       "legs": [
         {
+          "time": "12:30",
+          "meeting": "Ayr",
+          "race": "Happy New Year From Ayr Racecourse Maiden Hurdle (GBB Race)",
           "horse": "Kings Champion",
           "odds": "11/4",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "O Murphy",
+          "jockey": "S Bowen"
         },
         {
+          "time": "14:30",
+          "meeting": "Ayr",
+          "race": "Book Wicked Afternoon Tea At WesternHouseHotel Handicap Chase",
           "horse": "Dangerous Touch",
           "odds": "4/1",
-          "res": "PLACE"
+          "res": "PLACE",
+          "trainer": "O Murphy",
+          "jockey": "S Bowen"
         }
       ],
       "dec": 18.75,

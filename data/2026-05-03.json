@@ -1,6 +1,6 @@
 {
   "date": "2026-05-03",
-  "generated": "2026-11-14T06:45:01+00:00",
+  "generated": "2026-11-14T06:56:20+00:00",
   "picks": [
     {
       "time": "15:25",
@@ -13,7 +13,9 @@
       "res": "LOSE",
       "pos": 4,
       "score1": 44,
-      "score2": 22
+      "score2": 22,
+      "trainer": "M & D Easterby",
+      "jockey": "Billy Garritty"
     }
   ],
   "combos": [
@@ -21,9 +23,14 @@
       "size": 1,
       "legs": [
         {
+          "time": "15:25",
+          "meeting": "Hamilton",
+          "race": "Carolyn Murray Birthday Celebrations Handicap",
           "horse": "Liverpool Star",
           "odds": "11/10",
-          "res": "LOSE"
+          "res": "LOSE",
+          "trainer": "M & D Easterby",
+          "jockey": "Billy Garritty"
         }
       ],
       "dec": 2.1,

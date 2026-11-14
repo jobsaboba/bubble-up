@@ -1,6 +1,6 @@
 {
   "date": "2026-03-06",
-  "generated": "2026-11-14T06:45:01+00:00",
+  "generated": "2026-11-14T06:56:20+00:00",
   "picks": [
     {
       "time": "16:20",
@@ -13,7 +13,9 @@
       "res": null,
       "pos": 0,
       "score1": 117.07,
-      "score2": 57
+      "score2": 57,
+      "trainer": "N G Richards",
+      "jockey": "Danny McMenamin"
     }
   ],
   "combos": [
@@ -21,9 +23,14 @@
       "size": 1,
       "legs": [
         {
+          "time": "16:20",
+          "meeting": "Ayr",
+          "race": "Albert Bartlett Triple Crown Series Handicap Hurdle",
           "horse": "Gege Ville",
           "odds": "17/2",
-          "res": "?"
+          "res": "?",
+          "trainer": "N G Richards",
+          "jockey": "Danny McMenamin"
         }
       ],
       "dec": 9.5,

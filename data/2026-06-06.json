@@ -1,6 +1,6 @@
 {
   "date": "2026-06-06",
-  "generated": "2026-11-14T06:45:01+00:00",
+  "generated": "2026-11-14T06:56:20+00:00",
   "picks": [
     {
       "time": "16:15",
@@ -13,7 +13,9 @@
       "res": "PLACE",
       "pos": 2,
       "score1": 52,
-      "score2": 22
+      "score2": 22,
+      "trainer": "T D Easterby",
+      "jockey": "D Allan"
     },
     {
       "time": "20:00",
@@ -26,7 +28,9 @@
       "res": "WIN",
       "pos": 1,
       "score1": 100.3,
-      "score2": 36
+      "score2": 36,
+      "trainer": "James Owen",
+      "jockey": "L Morris"
     }
   ],
   "combos": [
@@ -34,9 +38,14 @@
       "size": 1,
       "legs": [
         {
+          "time": "16:15",
+          "meeting": "Musselburgh",
+          "race": "Edinburgh Gin Cannonball Handicap",
           "horse": "Little Ted",
           "odds": "10/3",
-          "res": "PLACE"
+          "res": "PLACE",
+          "trainer": "T D Easterby",
+          "jockey": "D Allan"
         }
       ],
       "dec": 4.33,
@@ -47,9 +56,14 @@
       "size": 1,
       "legs": [
         {
+          "time": "20:00",
+          "meeting": "Chepstow",
+          "race": "Capital Windscreens Supporting Mental Health Handicap",
           "horse": "Big Win",
           "odds": "9/4",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "James Owen",
+          "jockey": "L Morris"
         }
       ],
       "dec": 3.25,
@@ -60,14 +74,24 @@
       "size": 2,
       "legs": [
         {
+          "time": "16:15",
+          "meeting": "Musselburgh",
+          "race": "Edinburgh Gin Cannonball Handicap",
           "horse": "Little Ted",
           "odds": "10/3",
-          "res": "PLACE"
+          "res": "PLACE",
+          "trainer": "T D Easterby",
+          "jockey": "D Allan"
         },
         {
+          "time": "20:00",
+          "meeting": "Chepstow",
+          "race": "Capital Windscreens Supporting Mental Health Handicap",
           "horse": "Big Win",
           "odds": "9/4",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "James Owen",
+          "jockey": "L Morris"
         }
       ],
       "dec": 14.08,

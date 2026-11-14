@@ -1,6 +1,6 @@
 {
   "date": "2026-01-11",
-  "generated": "2026-11-14T06:45:01+00:00",
+  "generated": "2026-11-14T06:56:20+00:00",
   "picks": [
     {
       "time": "13:40",
@@ -13,7 +13,9 @@
       "res": null,
       "pos": 0,
       "score1": 105.0,
-      "score2": 50
+      "score2": 50,
+      "trainer": "Jamie Snowden",
+      "jockey": ""
     },
     {
       "time": "14:10",
@@ -26,7 +28,9 @@
       "res": null,
       "pos": 0,
       "score1": 56.0,
-      "score2": 26
+      "score2": 26,
+      "trainer": "N G Richards",
+      "jockey": "Sean Quinlan"
     },
     {
       "time": "14:40",
@@ -39,7 +43,9 @@
       "res": null,
       "pos": 0,
       "score1": 135.0,
-      "score2": 63
+      "score2": 63,
+      "trainer": "Jamie Snowden",
+      "jockey": ""
     }
   ],
   "combos": [
@@ -47,9 +53,14 @@
       "size": 1,
       "legs": [
         {
+          "time": "13:40",
+          "meeting": "Kelso",
+          "race": "Start Your RacingTV Free Trial Now Novices' Hurdle (GBB Race)",
           "horse": "Legendary Luke",
           "odds": "",
-          "res": "?"
+          "res": "?",
+          "trainer": "Jamie Snowden",
+          "jockey": ""
         }
       ],
       "dec": null,
@@ -60,9 +71,14 @@
       "size": 1,
       "legs": [
         {
+          "time": "14:10",
+          "meeting": "Kelso",
+          "race": "racingtv.com/freetrial Handicap Hurdle",
           "horse": "Jehol De Thaix",
           "odds": "",
-          "res": "?"
+          "res": "?",
+          "trainer": "N G Richards",
+          "jockey": "Sean Quinlan"
         }
       ],
       "dec": null,
@@ -73,9 +89,14 @@
       "size": 1,
       "legs": [
         {
+          "time": "14:40",
+          "meeting": "Kelso",
+          "race": "Berrymoss Novices' Chase (Listed) (GBB Race)",
           "horse": "Hollygrove Cha Cha",
           "odds": "",
-          "res": "?"
+          "res": "?",
+          "trainer": "Jamie Snowden",
+          "jockey": ""
         }
       ],
       "dec": null,
@@ -86,14 +107,24 @@
       "size": 2,
       "legs": [
         {
+          "time": "13:40",
+          "meeting": "Kelso",
+          "race": "Start Your RacingTV Free Trial Now Novices' Hurdle (GBB Race)",
           "horse": "Legendary Luke",
           "odds": "",
-          "res": "?"
+          "res": "?",
+          "trainer": "Jamie Snowden",
+          "jockey": ""
         },
         {
+          "time": "14:10",
+          "meeting": "Kelso",
+          "race": "racingtv.com/freetrial Handicap Hurdle",
           "horse": "Jehol De Thaix",
           "odds": "",
-          "res": "?"
+          "res": "?",
+          "trainer": "N G Richards",
+          "jockey": "Sean Quinlan"
         }
       ],
       "dec": null,
@@ -104,14 +135,24 @@
       "size": 2,
       "legs": [
         {
+          "time": "13:40",
+          "meeting": "Kelso",
+          "race": "Start Your RacingTV Free Trial Now Novices' Hurdle (GBB Race)",
           "horse": "Legendary Luke",
           "odds": "",
-          "res": "?"
+          "res": "?",
+          "trainer": "Jamie Snowden",
+          "jockey": ""
         },
         {
+          "time": "14:40",
+          "meeting": "Kelso",
+          "race": "Berrymoss Novices' Chase (Listed) (GBB Race)",
           "horse": "Hollygrove Cha Cha",
           "odds": "",
-          "res": "?"
+          "res": "?",
+          "trainer": "Jamie Snowden",
+          "jockey": ""
         }
       ],
       "dec": null,
@@ -122,14 +163,24 @@
       "size": 2,
       "legs": [
         {
+          "time": "14:10",
+          "meeting": "Kelso",
+          "race": "racingtv.com/freetrial Handicap Hurdle",
           "horse": "Jehol De Thaix",
           "odds": "",
-          "res": "?"
+          "res": "?",
+          "trainer": "N G Richards",
+          "jockey": "Sean Quinlan"
         },
         {
+          "time": "14:40",
+          "meeting": "Kelso",
+          "race": "Berrymoss Novices' Chase (Listed) (GBB Race)",
           "horse": "Hollygrove Cha Cha",
           "odds": "",
-          "res": "?"
+          "res": "?",
+          "trainer": "Jamie Snowden",
+          "jockey": ""
         }
       ],
       "dec": null,
@@ -140,19 +191,34 @@
       "size": 3,
       "legs": [
         {
+          "time": "13:40",
+          "meeting": "Kelso",
+          "race": "Start Your RacingTV Free Trial Now Novices' Hurdle (GBB Race)",
           "horse": "Legendary Luke",
           "odds": "",
-          "res": "?"
+          "res": "?",
+          "trainer": "Jamie Snowden",
+          "jockey": ""
         },
         {
+          "time": "14:10",
+          "meeting": "Kelso",
+          "race": "racingtv.com/freetrial Handicap Hurdle",
           "horse": "Jehol De Thaix",
           "odds": "",
-          "res": "?"
+          "res": "?",
+          "trainer": "N G Richards",
+          "jockey": "Sean Quinlan"
         },
         {
+          "time": "14:40",
+          "meeting": "Kelso",
+          "race": "Berrymoss Novices' Chase (Listed) (GBB Race)",
           "horse": "Hollygrove Cha Cha",
           "odds": "",
-          "res": "?"
+          "res": "?",
+          "trainer": "Jamie Snowden",
+          "jockey": ""
         }
       ],
       "dec": null,

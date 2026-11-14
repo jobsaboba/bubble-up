@@ -1,6 +1,6 @@
 {
   "date": "2026-02-28",
-  "generated": "2026-11-14T06:45:01+00:00",
+  "generated": "2026-11-14T06:56:20+00:00",
   "picks": [
     {
       "time": "16:35",
@@ -13,7 +13,9 @@
       "res": "WIN",
       "pos": 1,
       "score1": 211.81,
-      "score2": 74.55
+      "score2": 74.55,
+      "trainer": "Jamie Snowden",
+      "jockey": "G Sheehan"
     }
   ],
   "combos": [
@@ -21,9 +23,14 @@
       "size": 1,
       "legs": [
         {
+          "time": "16:35",
+          "meeting": "Kelso",
+          "race": "bet365 Mares' Novices' Hurdle (GBB Race)",
           "horse": "A Path To Ronda",
           "odds": "1/10",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "Jamie Snowden",
+          "jockey": "G Sheehan"
         }
       ],
       "dec": 1.1,

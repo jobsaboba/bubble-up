@@ -1,6 +1,6 @@
 {
   "date": "2026-06-23",
-  "generated": "2026-11-14T06:45:01+00:00",
+  "generated": "2026-11-14T06:56:20+00:00",
   "picks": [
     {
       "time": "14:30",
@@ -13,7 +13,9 @@
       "res": "WIN",
       "pos": 1,
       "score1": 103.0,
-      "score2": 34
+      "score2": 34,
+      "trainer": "Harry Charlton",
+      "jockey": "Lewis Edmunds"
     },
     {
       "time": "15:00",
@@ -26,7 +28,9 @@
       "res": "PLACE",
       "pos": 3,
       "score1": 60,
-      "score2": 21
+      "score2": 21,
+      "trainer": "Ian Williams",
+      "jockey": "Billy Loughnane"
     }
   ],
   "combos": [
@@ -34,9 +38,14 @@
       "size": 1,
       "legs": [
         {
+          "time": "14:30",
+          "meeting": "Ffos Las",
+          "race": "Vibe Recruit Maiden Stakes (GBB Race)",
           "horse": "English Time",
           "odds": "4/6",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "Harry Charlton",
+          "jockey": "Lewis Edmunds"
         }
       ],
       "dec": 1.67,
@@ -47,9 +56,14 @@
       "size": 1,
       "legs": [
         {
+          "time": "15:00",
+          "meeting": "Ffos Las",
+          "race": "Ffos Las Racecourse Charity Skydive For Ty Hafan Handicap",
           "horse": "Typeface",
           "odds": "1/1",
-          "res": "PLACE"
+          "res": "PLACE",
+          "trainer": "Ian Williams",
+          "jockey": "Billy Loughnane"
         }
       ],
       "dec": 2.0,
@@ -60,14 +74,24 @@
       "size": 2,
       "legs": [
         {
+          "time": "14:30",
+          "meeting": "Ffos Las",
+          "race": "Vibe Recruit Maiden Stakes (GBB Race)",
           "horse": "English Time",
           "odds": "4/6",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "Harry Charlton",
+          "jockey": "Lewis Edmunds"
         },
         {
+          "time": "15:00",
+          "meeting": "Ffos Las",
+          "race": "Ffos Las Racecourse Charity Skydive For Ty Hafan Handicap",
           "horse": "Typeface",
           "odds": "1/1",
-          "res": "PLACE"
+          "res": "PLACE",
+          "trainer": "Ian Williams",
+          "jockey": "Billy Loughnane"
         }
       ],
       "dec": 3.33,

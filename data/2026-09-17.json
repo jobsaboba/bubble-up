@@ -1,6 +1,6 @@
 {
   "date": "2026-09-17",
-  "generated": "2026-11-14T06:45:01+00:00",
+  "generated": "2026-11-14T06:56:20+00:00",
   "picks": [
     {
       "time": "13:00",
@@ -13,7 +13,9 @@
       "res": "PLACE",
       "pos": 4,
       "score1": 60,
-      "score2": 30
+      "score2": 30,
+      "trainer": "J S Goldie",
+      "jockey": "P Mulrennan"
     },
     {
       "time": "14:00",
@@ -26,7 +28,9 @@
       "res": "WIN",
       "pos": 1,
       "score1": 69,
-      "score2": 34
+      "score2": 34,
+      "trainer": "R Spencer",
+      "jockey": "Saffie Osborne"
     }
   ],
   "combos": [
@@ -34,9 +38,14 @@
       "size": 1,
       "legs": [
         {
+          "time": "13:00",
+          "meeting": "Ayr",
+          "race": "Brandinghub For Signs & Graphics Handicap",
           "horse": "Oriental Prince",
           "odds": "9/2",
-          "res": "PLACE"
+          "res": "PLACE",
+          "trainer": "J S Goldie",
+          "jockey": "P Mulrennan"
         }
       ],
       "dec": 5.5,
@@ -47,9 +56,14 @@
       "size": 1,
       "legs": [
         {
+          "time": "14:00",
+          "meeting": "Ayr",
+          "race": "Ladbrokes 'Bet 5 Get 30 New Customer Offer' Kilkerran Handicap (GBBPlus Race)",
           "horse": "Wild Thoughts",
           "odds": "11/4",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "R Spencer",
+          "jockey": "Saffie Osborne"
         }
       ],
       "dec": 3.75,
@@ -60,14 +74,24 @@
       "size": 2,
       "legs": [
         {
+          "time": "13:00",
+          "meeting": "Ayr",
+          "race": "Brandinghub For Signs & Graphics Handicap",
           "horse": "Oriental Prince",
           "odds": "9/2",
-          "res": "PLACE"
+          "res": "PLACE",
+          "trainer": "J S Goldie",
+          "jockey": "P Mulrennan"
         },
         {
+          "time": "14:00",
+          "meeting": "Ayr",
+          "race": "Ladbrokes 'Bet 5 Get 30 New Customer Offer' Kilkerran Handicap (GBBPlus Race)",
           "horse": "Wild Thoughts",
           "odds": "11/4",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "R Spencer",
+          "jockey": "Saffie Osborne"
         }
       ],
       "dec": 20.62,

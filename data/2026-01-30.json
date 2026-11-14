@@ -1,6 +1,6 @@
 {
   "date": "2026-01-30",
-  "generated": "2026-11-14T06:45:01+00:00",
+  "generated": "2026-11-14T06:56:20+00:00",
   "picks": [
     {
       "time": "13:20",
@@ -13,7 +13,9 @@
       "res": "PLACE",
       "pos": 2,
       "score1": 186.81,
-      "score2": 77.0
+      "score2": 77.0,
+      "trainer": "Jamie Snowden",
+      "jockey": "G Sheehan"
     }
   ],
   "combos": [
@@ -21,9 +23,14 @@
       "size": 1,
       "legs": [
         {
+          "time": "13:20",
+          "meeting": "Ffos Las",
+          "race": "tigerbet.co.uk Price Boosts Maiden Hurdle (GBB Race)",
           "horse": "Tommy Pickles",
           "odds": "9/2",
-          "res": "PLACE"
+          "res": "PLACE",
+          "trainer": "Jamie Snowden",
+          "jockey": "G Sheehan"
         }
       ],
       "dec": 5.5,

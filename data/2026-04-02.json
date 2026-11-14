@@ -1,6 +1,6 @@
 {
   "date": "2026-04-02",
-  "generated": "2026-11-14T06:45:01+00:00",
+  "generated": "2026-11-14T06:56:20+00:00",
   "picks": [
     {
       "time": "15:46",
@@ -13,7 +13,9 @@
       "res": "LOSE",
       "pos": 5,
       "score1": 103.07,
-      "score2": 35.92
+      "score2": 35.92,
+      "trainer": "R Menzies",
+      "jockey": "Danny McMenamin"
     },
     {
       "time": "16:15",
@@ -26,7 +28,9 @@
       "res": "WIN",
       "pos": 1,
       "score1": 133.88,
-      "score2": 56.0
+      "score2": 56.0,
+      "trainer": "P F Nicholls",
+      "jockey": "Harry Cobden"
     }
   ],
   "combos": [
@@ -34,9 +38,14 @@
       "size": 1,
       "legs": [
         {
+          "time": "15:46",
+          "meeting": "Kelso",
+          "race": "Join Racing TV Now Handicap Chase (GBB Race)",
           "horse": "Always A Reason",
           "odds": "6/4",
-          "res": "LOSE"
+          "res": "LOSE",
+          "trainer": "R Menzies",
+          "jockey": "Danny McMenamin"
         }
       ],
       "dec": 2.5,
@@ -47,9 +56,14 @@
       "size": 1,
       "legs": [
         {
+          "time": "16:15",
+          "meeting": "Chepstow",
+          "race": "InItTogether Festival 22nd-24th May Open NH Flat Race (GBB Race)",
           "horse": "Order On Time",
           "odds": "6/5",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "P F Nicholls",
+          "jockey": "Harry Cobden"
         }
       ],
       "dec": 2.2,
@@ -60,14 +74,24 @@
       "size": 2,
       "legs": [
         {
+          "time": "15:46",
+          "meeting": "Kelso",
+          "race": "Join Racing TV Now Handicap Chase (GBB Race)",
           "horse": "Always A Reason",
           "odds": "6/4",
-          "res": "LOSE"
+          "res": "LOSE",
+          "trainer": "R Menzies",
+          "jockey": "Danny McMenamin"
         },
         {
+          "time": "16:15",
+          "meeting": "Chepstow",
+          "race": "InItTogether Festival 22nd-24th May Open NH Flat Race (GBB Race)",
           "horse": "Order On Time",
           "odds": "6/5",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "P F Nicholls",
+          "jockey": "Harry Cobden"
         }
       ],
       "dec": 5.5,

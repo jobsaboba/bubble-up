@@ -1,6 +1,6 @@
 {
   "date": "2026-07-28",
-  "generated": "2026-11-14T06:45:01+00:00",
+  "generated": "2026-11-14T06:56:20+00:00",
   "picks": [
     {
       "time": "17:00",
@@ -13,7 +13,9 @@
       "res": "WIN",
       "pos": 1,
       "score1": 122.3,
-      "score2": 17
+      "score2": 17,
+      "trainer": "James Owen",
+      "jockey": "Mason Paetel"
     }
   ],
   "combos": [
@@ -21,9 +23,14 @@
       "size": 1,
       "legs": [
         {
+          "time": "17:00",
+          "meeting": "Ffos Las",
+          "race": "Support Our Local On-Course Bookmakers Nursery",
           "horse": "Ariane Sky",
           "odds": "4/1",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "James Owen",
+          "jockey": "Mason Paetel"
         }
       ],
       "dec": 5.0,

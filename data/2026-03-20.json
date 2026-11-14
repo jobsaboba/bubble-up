@@ -1,6 +1,6 @@
 {
   "date": "2026-03-20",
-  "generated": "2026-11-14T06:45:01+00:00",
+  "generated": "2026-11-14T06:56:20+00:00",
   "picks": [
     {
       "time": "15:55",
@@ -13,7 +13,9 @@
       "res": null,
       "pos": 0,
       "score1": 135.07,
-      "score2": 56
+      "score2": 56,
+      "trainer": "N G Richards",
+      "jockey": "Danny McMenamin"
     }
   ],
   "combos": [
@@ -21,9 +23,14 @@
       "size": 1,
       "legs": [
         {
+          "time": "15:55",
+          "meeting": "Musselburgh",
+          "race": "Heritage Portfolio Go North Night Nurse Series Final Novices' Handicap Hurdle (GBB Race)",
           "horse": "Abbey Scope",
           "odds": "7/2",
-          "res": "?"
+          "res": "?",
+          "trainer": "N G Richards",
+          "jockey": "Danny McMenamin"
         }
       ],
       "dec": 4.5,

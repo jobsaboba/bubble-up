@@ -1,6 +1,6 @@
 {
   "date": "2026-07-20",
-  "generated": "2026-11-14T06:45:01+00:00",
+  "generated": "2026-11-14T06:56:20+00:00",
   "picks": [
     {
       "time": "15:30",
@@ -13,7 +13,9 @@
       "res": "LOSE",
       "pos": 4,
       "score1": 55,
-      "score2": 26
+      "score2": 26,
+      "trainer": "R M Smith",
+      "jockey": "C Lee"
     }
   ],
   "combos": [
@@ -21,9 +23,14 @@
       "size": 1,
       "legs": [
         {
+          "time": "15:30",
+          "meeting": "Ayr",
+          "race": "Try Racing TV For Free Now Handicap",
           "horse": "Glasses Up",
           "odds": "5/2",
-          "res": "LOSE"
+          "res": "LOSE",
+          "trainer": "R M Smith",
+          "jockey": "C Lee"
         }
       ],
       "dec": 3.5,

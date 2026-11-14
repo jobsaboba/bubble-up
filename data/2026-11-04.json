@@ -1,6 +1,6 @@
 {
   "date": "2026-11-04",
-  "generated": "2026-11-14T06:45:01+00:00",
+  "generated": "2026-11-14T06:56:20+00:00",
   "picks": [
     {
       "time": "13:58",
@@ -13,7 +13,9 @@
       "res": "WIN",
       "pos": 1,
       "score1": 207.45,
-      "score2": 66.88
+      "score2": 66.88,
+      "trainer": "D Skelton",
+      "jockey": "Harry Skelton"
     },
     {
       "time": "15:40",
@@ -26,7 +28,9 @@
       "res": "WIN",
       "pos": 1,
       "score1": 127.45,
-      "score2": 61.0
+      "score2": 61.0,
+      "trainer": "D Skelton",
+      "jockey": "Harry Skelton"
     },
     {
       "time": "16:10",
@@ -39,7 +43,9 @@
       "res": "WIN",
       "pos": 1,
       "score1": 176.05,
-      "score2": 74.45
+      "score2": 74.45,
+      "trainer": "P F Nicholls",
+      "jockey": "Sam Twiston-Davies"
     }
   ],
   "combos": [
@@ -47,9 +53,14 @@
       "size": 1,
       "legs": [
         {
+          "time": "13:58",
+          "meeting": "Chepstow",
+          "race": "LSL Racing 'National Hunt' Maiden Hurdle (GBB Race) (Div 2)",
           "horse": "A Sight To Sea",
           "odds": "4/7",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "D Skelton",
+          "jockey": "Harry Skelton"
         }
       ],
       "dec": 1.57,
@@ -60,9 +71,14 @@
       "size": 1,
       "legs": [
         {
+          "time": "15:40",
+          "meeting": "Chepstow",
+          "race": "Floyds Turfcare & Weed Solutions Handicap Hurdle",
           "horse": "I Heard A Rumour",
           "odds": "7/2",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "D Skelton",
+          "jockey": "Harry Skelton"
         }
       ],
       "dec": 4.5,
@@ -73,9 +89,14 @@
       "size": 1,
       "legs": [
         {
+          "time": "16:10",
+          "meeting": "Chepstow",
+          "race": "Dunraven Open NH Flat Race (GBB Race)",
           "horse": "Don't Panic",
           "odds": "5/2",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "P F Nicholls",
+          "jockey": "Sam Twiston-Davies"
         }
       ],
       "dec": 3.5,
@@ -86,14 +107,24 @@
       "size": 2,
       "legs": [
         {
+          "time": "13:58",
+          "meeting": "Chepstow",
+          "race": "LSL Racing 'National Hunt' Maiden Hurdle (GBB Race) (Div 2)",
           "horse": "A Sight To Sea",
           "odds": "4/7",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "D Skelton",
+          "jockey": "Harry Skelton"
         },
         {
+          "time": "15:40",
+          "meeting": "Chepstow",
+          "race": "Floyds Turfcare & Weed Solutions Handicap Hurdle",
           "horse": "I Heard A Rumour",
           "odds": "7/2",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "D Skelton",
+          "jockey": "Harry Skelton"
         }
       ],
       "dec": 7.07,
@@ -104,14 +135,24 @@
       "size": 2,
       "legs": [
         {
+          "time": "13:58",
+          "meeting": "Chepstow",
+          "race": "LSL Racing 'National Hunt' Maiden Hurdle (GBB Race) (Div 2)",
           "horse": "A Sight To Sea",
           "odds": "4/7",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "D Skelton",
+          "jockey": "Harry Skelton"
         },
         {
+          "time": "16:10",
+          "meeting": "Chepstow",
+          "race": "Dunraven Open NH Flat Race (GBB Race)",
           "horse": "Don't Panic",
           "odds": "5/2",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "P F Nicholls",
+          "jockey": "Sam Twiston-Davies"
         }
       ],
       "dec": 5.5,
@@ -122,14 +163,24 @@
       "size": 2,
       "legs": [
         {
+          "time": "15:40",
+          "meeting": "Chepstow",
+          "race": "Floyds Turfcare & Weed Solutions Handicap Hurdle",
           "horse": "I Heard A Rumour",
           "odds": "7/2",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "D Skelton",
+          "jockey": "Harry Skelton"
         },
         {
+          "time": "16:10",
+          "meeting": "Chepstow",
+          "race": "Dunraven Open NH Flat Race (GBB Race)",
           "horse": "Don't Panic",
           "odds": "5/2",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "P F Nicholls",
+          "jockey": "Sam Twiston-Davies"
         }
       ],
       "dec": 15.75,
@@ -140,19 +191,34 @@
       "size": 3,
       "legs": [
         {
+          "time": "13:58",
+          "meeting": "Chepstow",
+          "race": "LSL Racing 'National Hunt' Maiden Hurdle (GBB Race) (Div 2)",
           "horse": "A Sight To Sea",
           "odds": "4/7",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "D Skelton",
+          "jockey": "Harry Skelton"
         },
         {
+          "time": "15:40",
+          "meeting": "Chepstow",
+          "race": "Floyds Turfcare & Weed Solutions Handicap Hurdle",
           "horse": "I Heard A Rumour",
           "odds": "7/2",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "D Skelton",
+          "jockey": "Harry Skelton"
         },
         {
+          "time": "16:10",
+          "meeting": "Chepstow",
+          "race": "Dunraven Open NH Flat Race (GBB Race)",
           "horse": "Don't Panic",
           "odds": "5/2",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "P F Nicholls",
+          "jockey": "Sam Twiston-Davies"
         }
       ],
       "dec": 24.75,

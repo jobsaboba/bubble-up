@@ -1,6 +1,6 @@
 {
   "date": "2026-09-24",
-  "generated": "2026-11-14T06:45:01+00:00",
+  "generated": "2026-11-14T06:56:20+00:00",
   "picks": [
     {
       "time": "16:10",
@@ -13,7 +13,9 @@
       "res": "PLACE",
       "pos": 2,
       "score1": 83.0,
-      "score2": 39.69
+      "score2": 39.69,
+      "trainer": "Ciaran Murphy",
+      "jockey": "S Bowen"
     }
   ],
   "combos": [
@@ -21,9 +23,14 @@
       "size": 1,
       "legs": [
         {
+          "time": "16:10",
+          "meeting": "Perth",
+          "race": "A Place For You Here Handicap Hurdle",
           "horse": "Gortmore Lady",
           "odds": "9/4",
-          "res": "PLACE"
+          "res": "PLACE",
+          "trainer": "Ciaran Murphy",
+          "jockey": "S Bowen"
         }
       ],
       "dec": 3.25,

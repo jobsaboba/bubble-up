@@ -1,6 +1,6 @@
 {
   "date": "2026-06-30",
-  "generated": "2026-11-14T06:45:01+00:00",
+  "generated": "2026-11-14T06:56:20+00:00",
   "picks": [
     {
       "time": "17:39",
@@ -13,7 +13,9 @@
       "res": "WIN",
       "pos": 1,
       "score1": 53,
-      "score2": 17
+      "score2": 17,
+      "trainer": "D Menuisier",
+      "jockey": "Billy Loughnane"
     },
     {
       "time": "18:09",
@@ -26,7 +28,9 @@
       "res": "PLACE",
       "pos": 2,
       "score1": 46,
-      "score2": 22
+      "score2": 22,
+      "trainer": "B J Llewellyn",
+      "jockey": "Cieren Fallon"
     }
   ],
   "combos": [
@@ -34,9 +38,14 @@
       "size": 1,
       "legs": [
         {
+          "time": "17:39",
+          "meeting": "Ffos Las",
+          "race": "West Wales Properties Pembrokeshire Maiden Stakes (GBB Race)",
           "horse": "Dark Whisper",
           "odds": "7/4",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "D Menuisier",
+          "jockey": "Billy Loughnane"
         }
       ],
       "dec": 2.75,
@@ -47,9 +56,14 @@
       "size": 1,
       "legs": [
         {
+          "time": "18:09",
+          "meeting": "Ffos Las",
+          "race": "West Wales Properties Mayfair Classified Stakes",
           "horse": "King of The Dance",
           "odds": "6/4",
-          "res": "PLACE"
+          "res": "PLACE",
+          "trainer": "B J Llewellyn",
+          "jockey": "Cieren Fallon"
         }
       ],
       "dec": 2.5,
@@ -60,14 +74,24 @@
       "size": 2,
       "legs": [
         {
+          "time": "17:39",
+          "meeting": "Ffos Las",
+          "race": "West Wales Properties Pembrokeshire Maiden Stakes (GBB Race)",
           "horse": "Dark Whisper",
           "odds": "7/4",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "D Menuisier",
+          "jockey": "Billy Loughnane"
         },
         {
+          "time": "18:09",
+          "meeting": "Ffos Las",
+          "race": "West Wales Properties Mayfair Classified Stakes",
           "horse": "King of The Dance",
           "odds": "6/4",
-          "res": "PLACE"
+          "res": "PLACE",
+          "trainer": "B J Llewellyn",
+          "jockey": "Cieren Fallon"
         }
       ],
       "dec": 6.88,

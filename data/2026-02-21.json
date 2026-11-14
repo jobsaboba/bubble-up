@@ -1,6 +1,6 @@
 {
   "date": "2026-02-21",
-  "generated": "2026-11-14T06:45:01+00:00",
+  "generated": "2026-11-14T06:56:20+00:00",
   "picks": [
     {
       "time": "16:48",
@@ -13,7 +13,9 @@
       "res": "LOSE",
       "pos": 4,
       "score1": 70.0,
-      "score2": 27.0
+      "score2": 27.0,
+      "trainer": "T Lacey",
+      "jockey": "Stan Sheppard"
     },
     {
       "time": "17:18",
@@ -26,7 +28,9 @@
       "res": "WIN",
       "pos": 1,
       "score1": 93.53,
-      "score2": 33.33
+      "score2": 33.33,
+      "trainer": "Miss R Curtis",
+      "jockey": "Freddie Keighley"
     }
   ],
   "combos": [
@@ -34,9 +38,14 @@
       "size": 1,
       "legs": [
         {
+          "time": "16:48",
+          "meeting": "Chepstow",
+          "race": "Pertemps Network EMEA Novices' Limited Handicap Hurdle",
           "horse": "Thorgath",
           "odds": "11/5",
-          "res": "LOSE"
+          "res": "LOSE",
+          "trainer": "T Lacey",
+          "jockey": "Stan Sheppard"
         }
       ],
       "dec": 3.2,
@@ -47,9 +56,14 @@
       "size": 1,
       "legs": [
         {
+          "time": "17:18",
+          "meeting": "Chepstow",
+          "race": "Pertemps Network Maiden NH Flat Race (Conditional/Amateurs) (GBB Race)",
           "horse": "Bande Organisee",
           "odds": "8/13",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "Miss R Curtis",
+          "jockey": "Freddie Keighley"
         }
       ],
       "dec": 1.62,
@@ -60,14 +74,24 @@
       "size": 2,
       "legs": [
         {
+          "time": "16:48",
+          "meeting": "Chepstow",
+          "race": "Pertemps Network EMEA Novices' Limited Handicap Hurdle",
           "horse": "Thorgath",
           "odds": "11/5",
-          "res": "LOSE"
+          "res": "LOSE",
+          "trainer": "T Lacey",
+          "jockey": "Stan Sheppard"
         },
         {
+          "time": "17:18",
+          "meeting": "Chepstow",
+          "race": "Pertemps Network Maiden NH Flat Race (Conditional/Amateurs) (GBB Race)",
           "horse": "Bande Organisee",
           "odds": "8/13",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "Miss R Curtis",
+          "jockey": "Freddie Keighley"
         }
       ],
       "dec": 5.17,

@@ -1,6 +1,6 @@
 {
   "date": "2026-02-13",
-  "generated": "2026-11-14T06:45:01+00:00",
+  "generated": "2026-11-14T06:56:20+00:00",
   "picks": [
     {
       "time": "14:00",
@@ -13,7 +13,9 @@
       "res": "WIN",
       "pos": 1,
       "score1": 93.0,
-      "score2": 42
+      "score2": 42,
+      "trainer": "O Greenall & J Guerriero",
+      "jockey": "Ben Smith"
     }
   ],
   "combos": [
@@ -21,9 +23,14 @@
       "size": 1,
       "legs": [
         {
+          "time": "14:00",
+          "meeting": "Kelso",
+          "race": "Albert Bartlett Triple Crown Series Conditional Jockeys' Handicap Hurdle",
           "horse": "Judicial Deference",
           "odds": "5/4",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "O Greenall & J Guerriero",
+          "jockey": "Ben Smith"
         }
       ],
       "dec": 2.25,

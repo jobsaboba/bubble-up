@@ -1,6 +1,6 @@
 {
   "date": "2026-02-23",
-  "generated": "2026-11-14T06:45:01+00:00",
+  "generated": "2026-11-14T06:56:20+00:00",
   "picks": [
     {
       "time": "16:00",
@@ -13,7 +13,9 @@
       "res": "LOSE",
       "pos": 7,
       "score1": 114.0,
-      "score2": 45.07
+      "score2": 45.07,
+      "trainer": "O Murphy",
+      "jockey": "S Bowen"
     }
   ],
   "combos": [
@@ -21,9 +23,14 @@
       "size": 1,
       "legs": [
         {
+          "time": "16:00",
+          "meeting": "Ayr",
+          "race": "Join Racing TV Now Handicap Hurdle",
           "horse": "Diamond Geezer",
           "odds": "9/4",
-          "res": "LOSE"
+          "res": "LOSE",
+          "trainer": "O Murphy",
+          "jockey": "S Bowen"
         }
       ],
       "dec": 3.25,

@@ -1,6 +1,6 @@
 {
   "date": "2026-05-05",
-  "generated": "2026-11-14T06:45:01+00:00",
+  "generated": "2026-11-14T06:56:20+00:00",
   "picks": [
     {
       "time": "13:30",
@@ -13,7 +13,9 @@
       "res": "LOSE",
       "pos": 8,
       "score1": 98.0,
-      "score2": 40
+      "score2": 40,
+      "trainer": "T Davidson",
+      "jockey": "D Nolan"
     }
   ],
   "combos": [
@@ -21,9 +23,14 @@
       "size": 1,
       "legs": [
         {
+          "time": "13:30",
+          "meeting": "Ayr",
+          "race": "Half Price Brunch/Lunch At westernhousehotel Handicap",
           "horse": "Harb",
           "odds": "5/2",
-          "res": "LOSE"
+          "res": "LOSE",
+          "trainer": "T Davidson",
+          "jockey": "D Nolan"
         }
       ],
       "dec": 3.5,

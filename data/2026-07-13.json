@@ -1,6 +1,6 @@
 {
   "date": "2026-07-13",
-  "generated": "2026-11-14T06:45:01+00:00",
+  "generated": "2026-11-14T06:56:20+00:00",
   "picks": [
     {
       "time": "14:00",
@@ -13,7 +13,9 @@
       "res": "LOSE",
       "pos": 4,
       "score1": 103.0,
-      "score2": 48
+      "score2": 48,
+      "trainer": "J Ryan",
+      "jockey": "S D Bowen"
     },
     {
       "time": "14:30",
@@ -26,7 +28,9 @@
       "res": "WIN",
       "pos": 1,
       "score1": 87.0,
-      "score2": 40.0
+      "score2": 40.0,
+      "trainer": "T Davidson",
+      "jockey": "Jason Hart"
     },
     {
       "time": "15:00",
@@ -39,7 +43,9 @@
       "res": "LOSE",
       "pos": 4,
       "score1": 59,
-      "score2": 22
+      "score2": 22,
+      "trainer": "I Jardine",
+      "jockey": "Jack Nicholls"
     }
   ],
   "combos": [
@@ -47,9 +53,14 @@
       "size": 1,
       "legs": [
         {
+          "time": "14:00",
+          "meeting": "Ayr",
+          "race": "Watch Racing TV Free For 31 Days Handicap",
           "horse": "White Ladder",
           "odds": "6/4",
-          "res": "LOSE"
+          "res": "LOSE",
+          "trainer": "J Ryan",
+          "jockey": "S D Bowen"
         }
       ],
       "dec": 2.5,
@@ -60,9 +71,14 @@
       "size": 1,
       "legs": [
         {
+          "time": "14:30",
+          "meeting": "Ayr",
+          "race": "racingtv.com/freetrial Handicap",
           "horse": "Runninsonofagun",
           "odds": "2/1",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "T Davidson",
+          "jockey": "Jason Hart"
         }
       ],
       "dec": 3.0,
@@ -73,9 +89,14 @@
       "size": 1,
       "legs": [
         {
+          "time": "15:00",
+          "meeting": "Ayr",
+          "race": "Try Racing TV For Free Now Handicap",
           "horse": "Jkr Cobbler",
           "odds": "6/4",
-          "res": "LOSE"
+          "res": "LOSE",
+          "trainer": "I Jardine",
+          "jockey": "Jack Nicholls"
         }
       ],
       "dec": 2.5,
@@ -86,14 +107,24 @@
       "size": 2,
       "legs": [
         {
+          "time": "14:00",
+          "meeting": "Ayr",
+          "race": "Watch Racing TV Free For 31 Days Handicap",
           "horse": "White Ladder",
           "odds": "6/4",
-          "res": "LOSE"
+          "res": "LOSE",
+          "trainer": "J Ryan",
+          "jockey": "S D Bowen"
         },
         {
+          "time": "14:30",
+          "meeting": "Ayr",
+          "race": "racingtv.com/freetrial Handicap",
           "horse": "Runninsonofagun",
           "odds": "2/1",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "T Davidson",
+          "jockey": "Jason Hart"
         }
       ],
       "dec": 7.5,
@@ -104,14 +135,24 @@
       "size": 2,
       "legs": [
         {
+          "time": "14:00",
+          "meeting": "Ayr",
+          "race": "Watch Racing TV Free For 31 Days Handicap",
           "horse": "White Ladder",
           "odds": "6/4",
-          "res": "LOSE"
+          "res": "LOSE",
+          "trainer": "J Ryan",
+          "jockey": "S D Bowen"
         },
         {
+          "time": "15:00",
+          "meeting": "Ayr",
+          "race": "Try Racing TV For Free Now Handicap",
           "horse": "Jkr Cobbler",
           "odds": "6/4",
-          "res": "LOSE"
+          "res": "LOSE",
+          "trainer": "I Jardine",
+          "jockey": "Jack Nicholls"
         }
       ],
       "dec": 6.25,
@@ -122,14 +163,24 @@
       "size": 2,
       "legs": [
         {
+          "time": "14:30",
+          "meeting": "Ayr",
+          "race": "racingtv.com/freetrial Handicap",
           "horse": "Runninsonofagun",
           "odds": "2/1",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "T Davidson",
+          "jockey": "Jason Hart"
         },
         {
+          "time": "15:00",
+          "meeting": "Ayr",
+          "race": "Try Racing TV For Free Now Handicap",
           "horse": "Jkr Cobbler",
           "odds": "6/4",
-          "res": "LOSE"
+          "res": "LOSE",
+          "trainer": "I Jardine",
+          "jockey": "Jack Nicholls"
         }
       ],
       "dec": 7.5,
@@ -140,19 +191,34 @@
       "size": 3,
       "legs": [
         {
+          "time": "14:00",
+          "meeting": "Ayr",
+          "race": "Watch Racing TV Free For 31 Days Handicap",
           "horse": "White Ladder",
           "odds": "6/4",
-          "res": "LOSE"
+          "res": "LOSE",
+          "trainer": "J Ryan",
+          "jockey": "S D Bowen"
         },
         {
+          "time": "14:30",
+          "meeting": "Ayr",
+          "race": "racingtv.com/freetrial Handicap",
           "horse": "Runninsonofagun",
           "odds": "2/1",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "T Davidson",
+          "jockey": "Jason Hart"
         },
         {
+          "time": "15:00",
+          "meeting": "Ayr",
+          "race": "Try Racing TV For Free Now Handicap",
           "horse": "Jkr Cobbler",
           "odds": "6/4",
-          "res": "LOSE"
+          "res": "LOSE",
+          "trainer": "I Jardine",
+          "jockey": "Jack Nicholls"
         }
       ],
       "dec": 18.75,

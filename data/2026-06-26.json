@@ -1,6 +1,6 @@
 {
   "date": "2026-06-26",
-  "generated": "2026-11-14T06:45:01+00:00",
+  "generated": "2026-11-14T06:56:20+00:00",
   "picks": [
     {
       "time": "17:33",
@@ -13,7 +13,9 @@
       "res": "WIN",
       "pos": 1,
       "score1": 126.45,
-      "score2": 50.37
+      "score2": 50.37,
+      "trainer": "D Skelton",
+      "jockey": "Harry Skelton"
     }
   ],
   "combos": [
@@ -21,9 +23,14 @@
       "size": 1,
       "legs": [
         {
+          "time": "17:33",
+          "meeting": "Bangor-on-Dee",
+          "race": "Wrexham Evening Handicap Chase",
           "horse": "Glenmalure Flyer",
           "odds": "10/3",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "D Skelton",
+          "jockey": "Harry Skelton"
         }
       ],
       "dec": 4.33,

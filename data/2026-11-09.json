@@ -1,6 +1,6 @@
 {
   "date": "2026-11-09",
-  "generated": "2026-11-14T06:45:01+00:00",
+  "generated": "2026-11-14T06:56:20+00:00",
   "picks": [
     {
       "time": "12:00",
@@ -13,7 +13,9 @@
       "res": "WIN",
       "pos": 1,
       "score1": 54,
-      "score2": 21
+      "score2": 21,
+      "trainer": "A Kinirons",
+      "jockey": "Sean O'Keeffe"
     },
     {
       "time": "13:00",
@@ -26,7 +28,9 @@
       "res": "WIN",
       "pos": 1,
       "score1": 161.6,
-      "score2": 39.6
+      "score2": 39.6,
+      "trainer": "W P Mullins",
+      "jockey": "Brian Hayes"
     },
     {
       "time": "13:10",
@@ -39,7 +43,9 @@
       "res": "WIN",
       "pos": 1,
       "score1": 162.78,
-      "score2": 18.76
+      "score2": 18.76,
+      "trainer": "D Skelton",
+      "jockey": "Harry Skelton"
     },
     {
       "time": "13:30",
@@ -52,7 +58,9 @@
       "res": "WIN",
       "pos": 1,
       "score1": 58,
-      "score2": 27
+      "score2": 27,
+      "trainer": "H De Bromhead",
+      "jockey": "Darragh O'Keeffe"
     },
     {
       "time": "14:03",
@@ -65,7 +73,9 @@
       "res": "WIN",
       "pos": 1,
       "score1": 108,
-      "score2": 36
+      "score2": 36,
+      "trainer": "R O'Sullivan",
+      "jockey": "Danny Gilligan"
     },
     {
       "time": "15:35",
@@ -78,7 +88,9 @@
       "res": "WIN",
       "pos": 1,
       "score1": 266.65,
-      "score2": 84.08
+      "score2": 84.08,
+      "trainer": "Jamie Snowden",
+      "jockey": "G Sheehan"
     }
   ],
   "combos": [
@@ -86,9 +98,14 @@
       "size": 1,
       "legs": [
         {
+          "time": "12:00",
+          "meeting": "Punchestown",
+          "race": "Matchbook Betting Exchange Handicap Chase (0-100)",
           "horse": "Western Model",
           "odds": "9/2",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "A Kinirons",
+          "jockey": "Sean O'Keeffe"
         }
       ],
       "dec": 5.5,
@@ -99,9 +116,14 @@
       "size": 1,
       "legs": [
         {
+          "time": "13:00",
+          "meeting": "Punchestown",
+          "race": "Irish Stallion Farms EBF Fillies Academy Hurdle",
           "horse": "Smokin Aces",
           "odds": "9/4",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "W P Mullins",
+          "jockey": "Brian Hayes"
         }
       ],
       "dec": 3.25,
@@ -112,9 +134,14 @@
       "size": 1,
       "legs": [
         {
+          "time": "13:10",
+          "meeting": "Stratford",
+          "race": "Stratford Extra Raceday 'National Hunt' Maiden Hurdle (GBB Race)",
           "horse": "Eastern Fire",
           "odds": "8/15",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "D Skelton",
+          "jockey": "Harry Skelton"
         }
       ],
       "dec": 1.53,
@@ -125,9 +152,14 @@
       "size": 1,
       "legs": [
         {
+          "time": "13:30",
+          "meeting": "Punchestown",
+          "race": "Matchbook 50/50 Series 3-Y-O Maiden Hurdle",
           "horse": "Coexist",
           "odds": "11/8",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "H De Bromhead",
+          "jockey": "Darragh O'Keeffe"
         }
       ],
       "dec": 2.38,
@@ -138,9 +170,14 @@
       "size": 1,
       "legs": [
         {
+          "time": "14:03",
+          "meeting": "Punchestown",
+          "race": "Matchbook 50/50 Series Maiden Hurdle",
           "horse": "Bombay Pat",
           "odds": "5/1",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "R O'Sullivan",
+          "jockey": "Danny Gilligan"
         }
       ],
       "dec": 6.0,
@@ -151,9 +188,14 @@
       "size": 1,
       "legs": [
         {
+          "time": "15:35",
+          "meeting": "Carlisle",
+          "race": "Book Your Christmas Party Here Mares' Open Maiden NH Flat Race (GBB Race)",
           "horse": "Lady Jetfire",
           "odds": "5/6",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "Jamie Snowden",
+          "jockey": "G Sheehan"
         }
       ],
       "dec": 1.83,
@@ -164,14 +206,24 @@
       "size": 2,
       "legs": [
         {
+          "time": "12:00",
+          "meeting": "Punchestown",
+          "race": "Matchbook Betting Exchange Handicap Chase (0-100)",
           "horse": "Western Model",
           "odds": "9/2",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "A Kinirons",
+          "jockey": "Sean O'Keeffe"
         },
         {
+          "time": "13:00",
+          "meeting": "Punchestown",
+          "race": "Irish Stallion Farms EBF Fillies Academy Hurdle",
           "horse": "Smokin Aces",
           "odds": "9/4",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "W P Mullins",
+          "jockey": "Brian Hayes"
         }
       ],
       "dec": 17.88,
@@ -182,14 +234,24 @@
       "size": 2,
       "legs": [
         {
+          "time": "12:00",
+          "meeting": "Punchestown",
+          "race": "Matchbook Betting Exchange Handicap Chase (0-100)",
           "horse": "Western Model",
           "odds": "9/2",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "A Kinirons",
+          "jockey": "Sean O'Keeffe"
         },
         {
+          "time": "13:10",
+          "meeting": "Stratford",
+          "race": "Stratford Extra Raceday 'National Hunt' Maiden Hurdle (GBB Race)",
           "horse": "Eastern Fire",
           "odds": "8/15",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "D Skelton",
+          "jockey": "Harry Skelton"
         }
       ],
       "dec": 8.43,
@@ -200,14 +262,24 @@
       "size": 2,
       "legs": [
         {
+          "time": "12:00",
+          "meeting": "Punchestown",
+          "race": "Matchbook Betting Exchange Handicap Chase (0-100)",
           "horse": "Western Model",
           "odds": "9/2",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "A Kinirons",
+          "jockey": "Sean O'Keeffe"
         },
         {
+          "time": "13:30",
+          "meeting": "Punchestown",
+          "race": "Matchbook 50/50 Series 3-Y-O Maiden Hurdle",
           "horse": "Coexist",
           "odds": "11/8",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "H De Bromhead",
+          "jockey": "Darragh O'Keeffe"
         }
       ],
       "dec": 13.06,
@@ -218,14 +290,24 @@
       "size": 2,
       "legs": [
         {
+          "time": "12:00",
+          "meeting": "Punchestown",
+          "race": "Matchbook Betting Exchange Handicap Chase (0-100)",
           "horse": "Western Model",
           "odds": "9/2",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "A Kinirons",
+          "jockey": "Sean O'Keeffe"
         },
         {
+          "time": "14:03",
+          "meeting": "Punchestown",
+          "race": "Matchbook 50/50 Series Maiden Hurdle",
           "horse": "Bombay Pat",
           "odds": "5/1",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "R O'Sullivan",
+          "jockey": "Danny Gilligan"
         }
       ],
       "dec": 33.0,
@@ -236,14 +318,24 @@
       "size": 2,
       "legs": [
         {
+          "time": "12:00",
+          "meeting": "Punchestown",
+          "race": "Matchbook Betting Exchange Handicap Chase (0-100)",
           "horse": "Western Model",
           "odds": "9/2",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "A Kinirons",
+          "jockey": "Sean O'Keeffe"
         },
         {
+          "time": "15:35",
+          "meeting": "Carlisle",
+          "race": "Book Your Christmas Party Here Mares' Open Maiden NH Flat Race (GBB Race)",
           "horse": "Lady Jetfire",
           "odds": "5/6",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "Jamie Snowden",
+          "jockey": "G Sheehan"
         }
       ],
       "dec": 10.08,
@@ -254,14 +346,24 @@
       "size": 2,
       "legs": [
         {
+          "time": "13:00",
+          "meeting": "Punchestown",
+          "race": "Irish Stallion Farms EBF Fillies Academy Hurdle",
           "horse": "Smokin Aces",
           "odds": "9/4",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "W P Mullins",
+          "jockey": "Brian Hayes"
         },
         {
+          "time": "13:10",
+          "meeting": "Stratford",
+          "race": "Stratford Extra Raceday 'National Hunt' Maiden Hurdle (GBB Race)",
           "horse": "Eastern Fire",
           "odds": "8/15",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "D Skelton",
+          "jockey": "Harry Skelton"
         }
       ],
       "dec": 4.98,
@@ -272,14 +374,24 @@
       "size": 2,
       "legs": [
         {
+          "time": "13:00",
+          "meeting": "Punchestown",
+          "race": "Irish Stallion Farms EBF Fillies Academy Hurdle",
           "horse": "Smokin Aces",
           "odds": "9/4",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "W P Mullins",
+          "jockey": "Brian Hayes"
         },
         {
+          "time": "13:30",
+          "meeting": "Punchestown",
+          "race": "Matchbook 50/50 Series 3-Y-O Maiden Hurdle",
           "horse": "Coexist",
           "odds": "11/8",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "H De Bromhead",
+          "jockey": "Darragh O'Keeffe"
         }
       ],
       "dec": 7.72,
@@ -290,14 +402,24 @@
       "size": 2,
       "legs": [
         {
+          "time": "13:00",
+          "meeting": "Punchestown",
+          "race": "Irish Stallion Farms EBF Fillies Academy Hurdle",
           "horse": "Smokin Aces",
           "odds": "9/4",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "W P Mullins",
+          "jockey": "Brian Hayes"
         },
         {
+          "time": "14:03",
+          "meeting": "Punchestown",
+          "race": "Matchbook 50/50 Series Maiden Hurdle",
           "horse": "Bombay Pat",
           "odds": "5/1",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "R O'Sullivan",
+          "jockey": "Danny Gilligan"
         }
       ],
       "dec": 19.5,
@@ -308,14 +430,24 @@
       "size": 2,
       "legs": [
         {
+          "time": "13:00",
+          "meeting": "Punchestown",
+          "race": "Irish Stallion Farms EBF Fillies Academy Hurdle",
           "horse": "Smokin Aces",
           "odds": "9/4",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "W P Mullins",
+          "jockey": "Brian Hayes"
         },
         {
+          "time": "15:35",
+          "meeting": "Carlisle",
+          "race": "Book Your Christmas Party Here Mares' Open Maiden NH Flat Race (GBB Race)",
           "horse": "Lady Jetfire",
           "odds": "5/6",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "Jamie Snowden",
+          "jockey": "G Sheehan"
         }
       ],
       "dec": 5.96,
@@ -326,14 +458,24 @@
       "size": 2,
       "legs": [
         {
+          "time": "13:10",
+          "meeting": "Stratford",
+          "race": "Stratford Extra Raceday 'National Hunt' Maiden Hurdle (GBB Race)",
           "horse": "Eastern Fire",
           "odds": "8/15",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "D Skelton",
+          "jockey": "Harry Skelton"
         },
         {
+          "time": "13:30",
+          "meeting": "Punchestown",
+          "race": "Matchbook 50/50 Series 3-Y-O Maiden Hurdle",
           "horse": "Coexist",
           "odds": "11/8",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "H De Bromhead",
+          "jockey": "Darragh O'Keeffe"
         }
       ],
       "dec": 3.64,
@@ -344,14 +486,24 @@
       "size": 2,
       "legs": [
         {
+          "time": "13:10",
+          "meeting": "Stratford",
+          "race": "Stratford Extra Raceday 'National Hunt' Maiden Hurdle (GBB Race)",
           "horse": "Eastern Fire",
           "odds": "8/15",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "D Skelton",
+          "jockey": "Harry Skelton"
         },
         {
+          "time": "14:03",
+          "meeting": "Punchestown",
+          "race": "Matchbook 50/50 Series Maiden Hurdle",
           "horse": "Bombay Pat",
           "odds": "5/1",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "R O'Sullivan",
+          "jockey": "Danny Gilligan"
         }
       ],
       "dec": 9.2,
@@ -362,14 +514,24 @@
       "size": 2,
       "legs": [
         {
+          "time": "13:10",
+          "meeting": "Stratford",
+          "race": "Stratford Extra Raceday 'National Hunt' Maiden Hurdle (GBB Race)",
           "horse": "Eastern Fire",
           "odds": "8/15",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "D Skelton",
+          "jockey": "Harry Skelton"
         },
         {
+          "time": "15:35",
+          "meeting": "Carlisle",
+          "race": "Book Your Christmas Party Here Mares' Open Maiden NH Flat Race (GBB Race)",
           "horse": "Lady Jetfire",
           "odds": "5/6",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "Jamie Snowden",
+          "jockey": "G Sheehan"
         }
       ],
       "dec": 2.81,
@@ -380,14 +542,24 @@
       "size": 2,
       "legs": [
         {
+          "time": "13:30",
+          "meeting": "Punchestown",
+          "race": "Matchbook 50/50 Series 3-Y-O Maiden Hurdle",
           "horse": "Coexist",
           "odds": "11/8",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "H De Bromhead",
+          "jockey": "Darragh O'Keeffe"
         },
         {
+          "time": "14:03",
+          "meeting": "Punchestown",
+          "race": "Matchbook 50/50 Series Maiden Hurdle",
           "horse": "Bombay Pat",
           "odds": "5/1",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "R O'Sullivan",
+          "jockey": "Danny Gilligan"
         }
       ],
       "dec": 14.25,
@@ -398,14 +570,24 @@
       "size": 2,
       "legs": [
         {
+          "time": "13:30",
+          "meeting": "Punchestown",
+          "race": "Matchbook 50/50 Series 3-Y-O Maiden Hurdle",
           "horse": "Coexist",
           "odds": "11/8",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "H De Bromhead",
+          "jockey": "Darragh O'Keeffe"
         },
         {
+          "time": "15:35",
+          "meeting": "Carlisle",
+          "race": "Book Your Christmas Party Here Mares' Open Maiden NH Flat Race (GBB Race)",
           "horse": "Lady Jetfire",
           "odds": "5/6",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "Jamie Snowden",
+          "jockey": "G Sheehan"
         }
       ],
       "dec": 4.35,
@@ -416,14 +598,24 @@
       "size": 2,
       "legs": [
         {
+          "time": "14:03",
+          "meeting": "Punchestown",
+          "race": "Matchbook 50/50 Series Maiden Hurdle",
           "horse": "Bombay Pat",
           "odds": "5/1",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "R O'Sullivan",
+          "jockey": "Danny Gilligan"
         },
         {
+          "time": "15:35",
+          "meeting": "Carlisle",
+          "race": "Book Your Christmas Party Here Mares' Open Maiden NH Flat Race (GBB Race)",
           "horse": "Lady Jetfire",
           "odds": "5/6",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "Jamie Snowden",
+          "jockey": "G Sheehan"
         }
       ],
       "dec": 11.0,
@@ -434,19 +626,34 @@
       "size": 3,
       "legs": [
         {
+          "time": "12:00",
+          "meeting": "Punchestown",
+          "race": "Matchbook Betting Exchange Handicap Chase (0-100)",
           "horse": "Western Model",
           "odds": "9/2",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "A Kinirons",
+          "jockey": "Sean O'Keeffe"
         },
         {
+          "time": "13:00",
+          "meeting": "Punchestown",
+          "race": "Irish Stallion Farms EBF Fillies Academy Hurdle",
           "horse": "Smokin Aces",
           "odds": "9/4",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "W P Mullins",
+          "jockey": "Brian Hayes"
         },
         {
+          "time": "13:10",
+          "meeting": "Stratford",
+          "race": "Stratford Extra Raceday 'National Hunt' Maiden Hurdle (GBB Race)",
           "horse": "Eastern Fire",
           "odds": "8/15",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "D Skelton",
+          "jockey": "Harry Skelton"
         }
       ],
       "dec": 27.41,
@@ -457,19 +664,34 @@
       "size": 3,
       "legs": [
         {
+          "time": "12:00",
+          "meeting": "Punchestown",
+          "race": "Matchbook Betting Exchange Handicap Chase (0-100)",
           "horse": "Western Model",
           "odds": "9/2",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "A Kinirons",
+          "jockey": "Sean O'Keeffe"
         },
         {
+          "time": "13:00",
+          "meeting": "Punchestown",
+          "race": "Irish Stallion Farms EBF Fillies Academy Hurdle",
           "horse": "Smokin Aces",
           "odds": "9/4",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "W P Mullins",
+          "jockey": "Brian Hayes"
         },
         {
+          "time": "13:30",
+          "meeting": "Punchestown",
+          "race": "Matchbook 50/50 Series 3-Y-O Maiden Hurdle",
           "horse": "Coexist",
           "odds": "11/8",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "H De Bromhead",
+          "jockey": "Darragh O'Keeffe"
         }
       ],
       "dec": 42.45,
@@ -480,19 +702,34 @@
       "size": 3,
       "legs": [
         {
+          "time": "12:00",
+          "meeting": "Punchestown",
+          "race": "Matchbook Betting Exchange Handicap Chase (0-100)",
           "horse": "Western Model",
           "odds": "9/2",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "A Kinirons",
+          "jockey": "Sean O'Keeffe"
         },
         {
+          "time": "13:00",
+          "meeting": "Punchestown",
+          "race": "Irish Stallion Farms EBF Fillies Academy Hurdle",
           "horse": "Smokin Aces",
           "odds": "9/4",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "W P Mullins",
+          "jockey": "Brian Hayes"
         },
         {
+          "time": "14:03",
+          "meeting": "Punchestown",
+          "race": "Matchbook 50/50 Series Maiden Hurdle",
           "horse": "Bombay Pat",
           "odds": "5/1",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "R O'Sullivan",
+          "jockey": "Danny Gilligan"
         }
       ],
       "dec": 107.25,
@@ -503,19 +740,34 @@
       "size": 3,
       "legs": [
         {
+          "time": "12:00",
+          "meeting": "Punchestown",
+          "race": "Matchbook Betting Exchange Handicap Chase (0-100)",
           "horse": "Western Model",
           "odds": "9/2",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "A Kinirons",
+          "jockey": "Sean O'Keeffe"
         },
         {
+          "time": "13:00",
+          "meeting": "Punchestown",
+          "race": "Irish Stallion Farms EBF Fillies Academy Hurdle",
           "horse": "Smokin Aces",
           "odds": "9/4",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "W P Mullins",
+          "jockey": "Brian Hayes"
         },
         {
+          "time": "15:35",
+          "meeting": "Carlisle",
+          "race": "Book Your Christmas Party Here Mares' Open Maiden NH Flat Race (GBB Race)",
           "horse": "Lady Jetfire",
           "odds": "5/6",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "Jamie Snowden",
+          "jockey": "G Sheehan"
         }
       ],
       "dec": 32.77,
@@ -526,19 +778,34 @@
       "size": 3,
       "legs": [
         {
+          "time": "12:00",
+          "meeting": "Punchestown",
+          "race": "Matchbook Betting Exchange Handicap Chase (0-100)",
           "horse": "Western Model",
           "odds": "9/2",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "A Kinirons",
+          "jockey": "Sean O'Keeffe"
         },
         {
+          "time": "13:10",
+          "meeting": "Stratford",
+          "race": "Stratford Extra Raceday 'National Hunt' Maiden Hurdle (GBB Race)",
           "horse": "Eastern Fire",
           "odds": "8/15",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "D Skelton",
+          "jockey": "Harry Skelton"
         },
         {
+          "time": "13:30",
+          "meeting": "Punchestown",
+          "race": "Matchbook 50/50 Series 3-Y-O Maiden Hurdle",
           "horse": "Coexist",
           "odds": "11/8",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "H De Bromhead",
+          "jockey": "Darragh O'Keeffe"
         }
       ],
       "dec": 20.03,
@@ -549,19 +816,34 @@
       "size": 3,
       "legs": [
         {
+          "time": "12:00",
+          "meeting": "Punchestown",
+          "race": "Matchbook Betting Exchange Handicap Chase (0-100)",
           "horse": "Western Model",
           "odds": "9/2",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "A Kinirons",
+          "jockey": "Sean O'Keeffe"
         },
         {
+          "time": "13:10",
+          "meeting": "Stratford",
+          "race": "Stratford Extra Raceday 'National Hunt' Maiden Hurdle (GBB Race)",
           "horse": "Eastern Fire",
           "odds": "8/15",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "D Skelton",
+          "jockey": "Harry Skelton"
         },
         {
+          "time": "14:03",
+          "meeting": "Punchestown",
+          "race": "Matchbook 50/50 Series Maiden Hurdle",
           "horse": "Bombay Pat",
           "odds": "5/1",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "R O'Sullivan",
+          "jockey": "Danny Gilligan"
         }
       ],
       "dec": 50.6,
@@ -572,19 +854,34 @@
       "size": 3,
       "legs": [
         {
+          "time": "12:00",
+          "meeting": "Punchestown",
+          "race": "Matchbook Betting Exchange Handicap Chase (0-100)",
           "horse": "Western Model",
           "odds": "9/2",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "A Kinirons",
+          "jockey": "Sean O'Keeffe"
         },
         {
+          "time": "13:10",
+          "meeting": "Stratford",
+          "race": "Stratford Extra Raceday 'National Hunt' Maiden Hurdle (GBB Race)",
           "horse": "Eastern Fire",
           "odds": "8/15",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "D Skelton",
+          "jockey": "Harry Skelton"
         },
         {
+          "time": "15:35",
+          "meeting": "Carlisle",
+          "race": "Book Your Christmas Party Here Mares' Open Maiden NH Flat Race (GBB Race)",
           "horse": "Lady Jetfire",
           "odds": "5/6",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "Jamie Snowden",
+          "jockey": "G Sheehan"
         }
       ],
       "dec": 15.46,
@@ -595,19 +892,34 @@
       "size": 3,
       "legs": [
         {
+          "time": "12:00",
+          "meeting": "Punchestown",
+          "race": "Matchbook Betting Exchange Handicap Chase (0-100)",
           "horse": "Western Model",
           "odds": "9/2",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "A Kinirons",
+          "jockey": "Sean O'Keeffe"
         },
         {
+          "time": "13:30",
+          "meeting": "Punchestown",
+          "race": "Matchbook 50/50 Series 3-Y-O Maiden Hurdle",
           "horse": "Coexist",
           "odds": "11/8",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "H De Bromhead",
+          "jockey": "Darragh O'Keeffe"
         },
         {
+          "time": "14:03",
+          "meeting": "Punchestown",
+          "race": "Matchbook 50/50 Series Maiden Hurdle",
           "horse": "Bombay Pat",
           "odds": "5/1",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "R O'Sullivan",
+          "jockey": "Danny Gilligan"
         }
       ],
       "dec": 78.38,
@@ -618,19 +930,34 @@
       "size": 3,
       "legs": [
         {
+          "time": "12:00",
+          "meeting": "Punchestown",
+          "race": "Matchbook Betting Exchange Handicap Chase (0-100)",
           "horse": "Western Model",
           "odds": "9/2",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "A Kinirons",
+          "jockey": "Sean O'Keeffe"
         },
         {
+          "time": "13:30",
+          "meeting": "Punchestown",
+          "race": "Matchbook 50/50 Series 3-Y-O Maiden Hurdle",
           "horse": "Coexist",
           "odds": "11/8",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "H De Bromhead",
+          "jockey": "Darragh O'Keeffe"
         },
         {
+          "time": "15:35",
+          "meeting": "Carlisle",
+          "race": "Book Your Christmas Party Here Mares' Open Maiden NH Flat Race (GBB Race)",
           "horse": "Lady Jetfire",
           "odds": "5/6",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "Jamie Snowden",
+          "jockey": "G Sheehan"
         }
       ],
       "dec": 23.95,
@@ -641,19 +968,34 @@
       "size": 3,
       "legs": [
         {
+          "time": "12:00",
+          "meeting": "Punchestown",
+          "race": "Matchbook Betting Exchange Handicap Chase (0-100)",
           "horse": "Western Model",
           "odds": "9/2",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "A Kinirons",
+          "jockey": "Sean O'Keeffe"
         },
         {
+          "time": "14:03",
+          "meeting": "Punchestown",
+          "race": "Matchbook 50/50 Series Maiden Hurdle",
           "horse": "Bombay Pat",
           "odds": "5/1",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "R O'Sullivan",
+          "jockey": "Danny Gilligan"
         },
         {
+          "time": "15:35",
+          "meeting": "Carlisle",
+          "race": "Book Your Christmas Party Here Mares' Open Maiden NH Flat Race (GBB Race)",
           "horse": "Lady Jetfire",
           "odds": "5/6",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "Jamie Snowden",
+          "jockey": "G Sheehan"
         }
       ],
       "dec": 60.5,
@@ -664,19 +1006,34 @@
       "size": 3,
       "legs": [
         {
+          "time": "13:00",
+          "meeting": "Punchestown",
+          "race": "Irish Stallion Farms EBF Fillies Academy Hurdle",
           "horse": "Smokin Aces",
           "odds": "9/4",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "W P Mullins",
+          "jockey": "Brian Hayes"
         },
         {
+          "time": "13:10",
+          "meeting": "Stratford",
+          "race": "Stratford Extra Raceday 'National Hunt' Maiden Hurdle (GBB Race)",
           "horse": "Eastern Fire",
           "odds": "8/15",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "D Skelton",
+          "jockey": "Harry Skelton"
         },
         {
+          "time": "13:30",
+          "meeting": "Punchestown",
+          "race": "Matchbook 50/50 Series 3-Y-O Maiden Hurdle",
           "horse": "Coexist",
           "odds": "11/8",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "H De Bromhead",
+          "jockey": "Darragh O'Keeffe"
         }
       ],
       "dec": 11.84,
@@ -687,19 +1044,34 @@
       "size": 3,
       "legs": [
         {
+          "time": "13:00",
+          "meeting": "Punchestown",
+          "race": "Irish Stallion Farms EBF Fillies Academy Hurdle",
           "horse": "Smokin Aces",
           "odds": "9/4",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "W P Mullins",
+          "jockey": "Brian Hayes"
         },
         {
+          "time": "13:10",
+          "meeting": "Stratford",
+          "race": "Stratford Extra Raceday 'National Hunt' Maiden Hurdle (GBB Race)",
           "horse": "Eastern Fire",
           "odds": "8/15",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "D Skelton",
+          "jockey": "Harry Skelton"
         },
         {
+          "time": "14:03",
+          "meeting": "Punchestown",
+          "race": "Matchbook 50/50 Series Maiden Hurdle",
           "horse": "Bombay Pat",
           "odds": "5/1",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "R O'Sullivan",
+          "jockey": "Danny Gilligan"
         }
       ],
       "dec": 29.9,
@@ -710,19 +1082,34 @@
       "size": 3,
       "legs": [
         {
+          "time": "13:00",
+          "meeting": "Punchestown",
+          "race": "Irish Stallion Farms EBF Fillies Academy Hurdle",
           "horse": "Smokin Aces",
           "odds": "9/4",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "W P Mullins",
+          "jockey": "Brian Hayes"
         },
         {
+          "time": "13:10",
+          "meeting": "Stratford",
+          "race": "Stratford Extra Raceday 'National Hunt' Maiden Hurdle (GBB Race)",
           "horse": "Eastern Fire",
           "odds": "8/15",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "D Skelton",
+          "jockey": "Harry Skelton"
         },
         {
+          "time": "15:35",
+          "meeting": "Carlisle",
+          "race": "Book Your Christmas Party Here Mares' Open Maiden NH Flat Race (GBB Race)",
           "horse": "Lady Jetfire",
           "odds": "5/6",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "Jamie Snowden",
+          "jockey": "G Sheehan"
         }
       ],
       "dec": 9.14,
@@ -733,19 +1120,34 @@
       "size": 3,
       "legs": [
         {
+          "time": "13:00",
+          "meeting": "Punchestown",
+          "race": "Irish Stallion Farms EBF Fillies Academy Hurdle",
           "horse": "Smokin Aces",
           "odds": "9/4",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "W P Mullins",
+          "jockey": "Brian Hayes"
         },
         {
+          "time": "13:30",
+          "meeting": "Punchestown",
+          "race": "Matchbook 50/50 Series 3-Y-O Maiden Hurdle",
           "horse": "Coexist",
           "odds": "11/8",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "H De Bromhead",
+          "jockey": "Darragh O'Keeffe"
         },
         {
+          "time": "14:03",
+          "meeting": "Punchestown",
+          "race": "Matchbook 50/50 Series Maiden Hurdle",
           "horse": "Bombay Pat",
           "odds": "5/1",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "R O'Sullivan",
+          "jockey": "Danny Gilligan"
         }
       ],
       "dec": 46.31,
@@ -756,19 +1158,34 @@
       "size": 3,
       "legs": [
         {
+          "time": "13:00",
+          "meeting": "Punchestown",
+          "race": "Irish Stallion Farms EBF Fillies Academy Hurdle",
           "horse": "Smokin Aces",
           "odds": "9/4",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "W P Mullins",
+          "jockey": "Brian Hayes"
         },
         {
+          "time": "13:30",
+          "meeting": "Punchestown",
+          "race": "Matchbook 50/50 Series 3-Y-O Maiden Hurdle",
           "horse": "Coexist",
           "odds": "11/8",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "H De Bromhead",
+          "jockey": "Darragh O'Keeffe"
         },
         {
+          "time": "15:35",
+          "meeting": "Carlisle",
+          "race": "Book Your Christmas Party Here Mares' Open Maiden NH Flat Race (GBB Race)",
           "horse": "Lady Jetfire",
           "odds": "5/6",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "Jamie Snowden",
+          "jockey": "G Sheehan"
         }
       ],
       "dec": 14.15,
@@ -779,19 +1196,34 @@
       "size": 3,
       "legs": [
         {
+          "time": "13:00",
+          "meeting": "Punchestown",
+          "race": "Irish Stallion Farms EBF Fillies Academy Hurdle",
           "horse": "Smokin Aces",
           "odds": "9/4",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "W P Mullins",
+          "jockey": "Brian Hayes"
         },
         {
+          "time": "14:03",
+          "meeting": "Punchestown",
+          "race": "Matchbook 50/50 Series Maiden Hurdle",
           "horse": "Bombay Pat",
           "odds": "5/1",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "R O'Sullivan",
+          "jockey": "Danny Gilligan"
         },
         {
+          "time": "15:35",
+          "meeting": "Carlisle",
+          "race": "Book Your Christmas Party Here Mares' Open Maiden NH Flat Race (GBB Race)",
           "horse": "Lady Jetfire",
           "odds": "5/6",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "Jamie Snowden",
+          "jockey": "G Sheehan"
         }
       ],
       "dec": 35.75,
@@ -802,19 +1234,34 @@
       "size": 3,
       "legs": [
         {
+          "time": "13:10",
+          "meeting": "Stratford",
+          "race": "Stratford Extra Raceday 'National Hunt' Maiden Hurdle (GBB Race)",
           "horse": "Eastern Fire",
           "odds": "8/15",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "D Skelton",
+          "jockey": "Harry Skelton"
         },
         {
+          "time": "13:30",
+          "meeting": "Punchestown",
+          "race": "Matchbook 50/50 Series 3-Y-O Maiden Hurdle",
           "horse": "Coexist",
           "odds": "11/8",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "H De Bromhead",
+          "jockey": "Darragh O'Keeffe"
         },
         {
+          "time": "14:03",
+          "meeting": "Punchestown",
+          "race": "Matchbook 50/50 Series Maiden Hurdle",
           "horse": "Bombay Pat",
           "odds": "5/1",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "R O'Sullivan",
+          "jockey": "Danny Gilligan"
         }
       ],
       "dec": 21.85,
@@ -825,19 +1272,34 @@
       "size": 3,
       "legs": [
         {
+          "time": "13:10",
+          "meeting": "Stratford",
+          "race": "Stratford Extra Raceday 'National Hunt' Maiden Hurdle (GBB Race)",
           "horse": "Eastern Fire",
           "odds": "8/15",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "D Skelton",
+          "jockey": "Harry Skelton"
         },
         {
+          "time": "13:30",
+          "meeting": "Punchestown",
+          "race": "Matchbook 50/50 Series 3-Y-O Maiden Hurdle",
           "horse": "Coexist",
           "odds": "11/8",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "H De Bromhead",
+          "jockey": "Darragh O'Keeffe"
         },
         {
+          "time": "15:35",
+          "meeting": "Carlisle",
+          "race": "Book Your Christmas Party Here Mares' Open Maiden NH Flat Race (GBB Race)",
           "horse": "Lady Jetfire",
           "odds": "5/6",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "Jamie Snowden",
+          "jockey": "G Sheehan"
         }
       ],
       "dec": 6.68,
@@ -848,19 +1310,34 @@
       "size": 3,
       "legs": [
         {
+          "time": "13:10",
+          "meeting": "Stratford",
+          "race": "Stratford Extra Raceday 'National Hunt' Maiden Hurdle (GBB Race)",
           "horse": "Eastern Fire",
           "odds": "8/15",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "D Skelton",
+          "jockey": "Harry Skelton"
         },
         {
+          "time": "14:03",
+          "meeting": "Punchestown",
+          "race": "Matchbook 50/50 Series Maiden Hurdle",
           "horse": "Bombay Pat",
           "odds": "5/1",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "R O'Sullivan",
+          "jockey": "Danny Gilligan"
         },
         {
+          "time": "15:35",
+          "meeting": "Carlisle",
+          "race": "Book Your Christmas Party Here Mares' Open Maiden NH Flat Race (GBB Race)",
           "horse": "Lady Jetfire",
           "odds": "5/6",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "Jamie Snowden",
+          "jockey": "G Sheehan"
         }
       ],
       "dec": 16.87,
@@ -871,19 +1348,34 @@
       "size": 3,
       "legs": [
         {
+          "time": "13:30",
+          "meeting": "Punchestown",
+          "race": "Matchbook 50/50 Series 3-Y-O Maiden Hurdle",
           "horse": "Coexist",
           "odds": "11/8",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "H De Bromhead",
+          "jockey": "Darragh O'Keeffe"
         },
         {
+          "time": "14:03",
+          "meeting": "Punchestown",
+          "race": "Matchbook 50/50 Series Maiden Hurdle",
           "horse": "Bombay Pat",
           "odds": "5/1",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "R O'Sullivan",
+          "jockey": "Danny Gilligan"
         },
         {
+          "time": "15:35",
+          "meeting": "Carlisle",
+          "race": "Book Your Christmas Party Here Mares' Open Maiden NH Flat Race (GBB Race)",
           "horse": "Lady Jetfire",
           "odds": "5/6",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "Jamie Snowden",
+          "jockey": "G Sheehan"
         }
       ],
       "dec": 26.13,
@@ -894,24 +1386,44 @@
       "size": 4,
       "legs": [
         {
+          "time": "12:00",
+          "meeting": "Punchestown",
+          "race": "Matchbook Betting Exchange Handicap Chase (0-100)",
           "horse": "Western Model",
           "odds": "9/2",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "A Kinirons",
+          "jockey": "Sean O'Keeffe"
         },
         {
+          "time": "13:00",
+          "meeting": "Punchestown",
+          "race": "Irish Stallion Farms EBF Fillies Academy Hurdle",
           "horse": "Smokin Aces",
           "odds": "9/4",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "W P Mullins",
+          "jockey": "Brian Hayes"
         },
         {
+          "time": "13:10",
+          "meeting": "Stratford",
+          "race": "Stratford Extra Raceday 'National Hunt' Maiden Hurdle (GBB Race)",
           "horse": "Eastern Fire",
           "odds": "8/15",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "D Skelton",
+          "jockey": "Harry Skelton"
         },
         {
+          "time": "13:30",
+          "meeting": "Punchestown",
+          "race": "Matchbook 50/50 Series 3-Y-O Maiden Hurdle",
           "horse": "Coexist",
           "odds": "11/8",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "H De Bromhead",
+          "jockey": "Darragh O'Keeffe"
         }
       ],
       "dec": 65.09,
@@ -922,24 +1434,44 @@
       "size": 4,
       "legs": [
         {
+          "time": "12:00",
+          "meeting": "Punchestown",
+          "race": "Matchbook Betting Exchange Handicap Chase (0-100)",
           "horse": "Western Model",
           "odds": "9/2",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "A Kinirons",
+          "jockey": "Sean O'Keeffe"
         },
         {
+          "time": "13:00",
+          "meeting": "Punchestown",
+          "race": "Irish Stallion Farms EBF Fillies Academy Hurdle",
           "horse": "Smokin Aces",
           "odds": "9/4",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "W P Mullins",
+          "jockey": "Brian Hayes"
         },
         {
+          "time": "13:10",
+          "meeting": "Stratford",
+          "race": "Stratford Extra Raceday 'National Hunt' Maiden Hurdle (GBB Race)",
           "horse": "Eastern Fire",
           "odds": "8/15",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "D Skelton",
+          "jockey": "Harry Skelton"
         },
         {
+          "time": "14:03",
+          "meeting": "Punchestown",
+          "race": "Matchbook 50/50 Series Maiden Hurdle",
           "horse": "Bombay Pat",
           "odds": "5/1",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "R O'Sullivan",
+          "jockey": "Danny Gilligan"
         }
       ],
       "dec": 164.45,
@@ -950,24 +1482,44 @@
       "size": 4,
       "legs": [
         {
+          "time": "12:00",
+          "meeting": "Punchestown",
+          "race": "Matchbook Betting Exchange Handicap Chase (0-100)",
           "horse": "Western Model",
           "odds": "9/2",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "A Kinirons",
+          "jockey": "Sean O'Keeffe"
         },
         {
+          "time": "13:00",
+          "meeting": "Punchestown",
+          "race": "Irish Stallion Farms EBF Fillies Academy Hurdle",
           "horse": "Smokin Aces",
           "odds": "9/4",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "W P Mullins",
+          "jockey": "Brian Hayes"
         },
         {
+          "time": "13:10",
+          "meeting": "Stratford",
+          "race": "Stratford Extra Raceday 'National Hunt' Maiden Hurdle (GBB Race)",
           "horse": "Eastern Fire",
           "odds": "8/15",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "D Skelton",
+          "jockey": "Harry Skelton"
         },
         {
+          "time": "15:35",
+          "meeting": "Carlisle",
+          "race": "Book Your Christmas Party Here Mares' Open Maiden NH Flat Race (GBB Race)",
           "horse": "Lady Jetfire",
           "odds": "5/6",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "Jamie Snowden",
+          "jockey": "G Sheehan"
         }
       ],
       "dec": 50.25,
@@ -978,24 +1530,44 @@
       "size": 4,
       "legs": [
         {
+          "time": "12:00",
+          "meeting": "Punchestown",
+          "race": "Matchbook Betting Exchange Handicap Chase (0-100)",
           "horse": "Western Model",
           "odds": "9/2",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "A Kinirons",
+          "jockey": "Sean O'Keeffe"
         },
         {
+          "time": "13:00",
+          "meeting": "Punchestown",
+          "race": "Irish Stallion Farms EBF Fillies Academy Hurdle",
           "horse": "Smokin Aces",
           "odds": "9/4",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "W P Mullins",
+          "jockey": "Brian Hayes"
         },
         {
+          "time": "13:30",
+          "meeting": "Punchestown",
+          "race": "Matchbook 50/50 Series 3-Y-O Maiden Hurdle",
           "horse": "Coexist",
           "odds": "11/8",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "H De Bromhead",
+          "jockey": "Darragh O'Keeffe"
         },
         {
+          "time": "14:03",
+          "meeting": "Punchestown",
+          "race": "Matchbook 50/50 Series Maiden Hurdle",
           "horse": "Bombay Pat",
           "odds": "5/1",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "R O'Sullivan",
+          "jockey": "Danny Gilligan"
         }
       ],
       "dec": 254.72,
@@ -1006,24 +1578,44 @@
       "size": 4,
       "legs": [
         {
+          "time": "12:00",
+          "meeting": "Punchestown",
+          "race": "Matchbook Betting Exchange Handicap Chase (0-100)",
           "horse": "Western Model",
           "odds": "9/2",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "A Kinirons",
+          "jockey": "Sean O'Keeffe"
         },
         {
+          "time": "13:00",
+          "meeting": "Punchestown",
+          "race": "Irish Stallion Farms EBF Fillies Academy Hurdle",
           "horse": "Smokin Aces",
           "odds": "9/4",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "W P Mullins",
+          "jockey": "Brian Hayes"
         },
         {
+          "time": "13:30",
+          "meeting": "Punchestown",
+          "race": "Matchbook 50/50 Series 3-Y-O Maiden Hurdle",
           "horse": "Coexist",
           "odds": "11/8",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "H De Bromhead",
+          "jockey": "Darragh O'Keeffe"
         },
         {
+          "time": "15:35",
+          "meeting": "Carlisle",
+          "race": "Book Your Christmas Party Here Mares' Open Maiden NH Flat Race (GBB Race)",
           "horse": "Lady Jetfire",
           "odds": "5/6",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "Jamie Snowden",
+          "jockey": "G Sheehan"
         }
       ],
       "dec": 77.83,
@@ -1034,24 +1626,44 @@
       "size": 4,
       "legs": [
         {
+          "time": "12:00",
+          "meeting": "Punchestown",
+          "race": "Matchbook Betting Exchange Handicap Chase (0-100)",
           "horse": "Western Model",
           "odds": "9/2",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "A Kinirons",
+          "jockey": "Sean O'Keeffe"
         },
         {
+          "time": "13:00",
+          "meeting": "Punchestown",
+          "race": "Irish Stallion Farms EBF Fillies Academy Hurdle",
           "horse": "Smokin Aces",
           "odds": "9/4",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "W P Mullins",
+          "jockey": "Brian Hayes"
         },
         {
+          "time": "14:03",
+          "meeting": "Punchestown",
+          "race": "Matchbook 50/50 Series Maiden Hurdle",
           "horse": "Bombay Pat",
           "odds": "5/1",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "R O'Sullivan",
+          "jockey": "Danny Gilligan"
         },
         {
+          "time": "15:35",
+          "meeting": "Carlisle",
+          "race": "Book Your Christmas Party Here Mares' Open Maiden NH Flat Race (GBB Race)",
           "horse": "Lady Jetfire",
           "odds": "5/6",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "Jamie Snowden",
+          "jockey": "G Sheehan"
         }
       ],
       "dec": 196.63,
@@ -1062,24 +1674,44 @@
       "size": 4,
       "legs": [
         {
+          "time": "12:00",
+          "meeting": "Punchestown",
+          "race": "Matchbook Betting Exchange Handicap Chase (0-100)",
           "horse": "Western Model",
           "odds": "9/2",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "A Kinirons",
+          "jockey": "Sean O'Keeffe"
         },
         {
+          "time": "13:10",
+          "meeting": "Stratford",
+          "race": "Stratford Extra Raceday 'National Hunt' Maiden Hurdle (GBB Race)",
           "horse": "Eastern Fire",
           "odds": "8/15",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "D Skelton",
+          "jockey": "Harry Skelton"
         },
         {
+          "time": "13:30",
+          "meeting": "Punchestown",
+          "race": "Matchbook 50/50 Series 3-Y-O Maiden Hurdle",
           "horse": "Coexist",
           "odds": "11/8",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "H De Bromhead",
+          "jockey": "Darragh O'Keeffe"
         },
         {
+          "time": "14:03",
+          "meeting": "Punchestown",
+          "race": "Matchbook 50/50 Series Maiden Hurdle",
           "horse": "Bombay Pat",
           "odds": "5/1",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "R O'Sullivan",
+          "jockey": "Danny Gilligan"
         }
       ],
       "dec": 120.18,
@@ -1090,24 +1722,44 @@
       "size": 4,
       "legs": [
         {
+          "time": "12:00",
+          "meeting": "Punchestown",
+          "race": "Matchbook Betting Exchange Handicap Chase (0-100)",
           "horse": "Western Model",
           "odds": "9/2",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "A Kinirons",
+          "jockey": "Sean O'Keeffe"
         },
         {
+          "time": "13:10",
+          "meeting": "Stratford",
+          "race": "Stratford Extra Raceday 'National Hunt' Maiden Hurdle (GBB Race)",
           "horse": "Eastern Fire",
           "odds": "8/15",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "D Skelton",
+          "jockey": "Harry Skelton"
         },
         {
+          "time": "13:30",
+          "meeting": "Punchestown",
+          "race": "Matchbook 50/50 Series 3-Y-O Maiden Hurdle",
           "horse": "Coexist",
           "odds": "11/8",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "H De Bromhead",
+          "jockey": "Darragh O'Keeffe"
         },
         {
+          "time": "15:35",
+          "meeting": "Carlisle",
+          "race": "Book Your Christmas Party Here Mares' Open Maiden NH Flat Race (GBB Race)",
           "horse": "Lady Jetfire",
           "odds": "5/6",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "Jamie Snowden",
+          "jockey": "G Sheehan"
         }
       ],
       "dec": 36.72,
@@ -1118,24 +1770,44 @@
       "size": 4,
       "legs": [
         {
+          "time": "12:00",
+          "meeting": "Punchestown",
+          "race": "Matchbook Betting Exchange Handicap Chase (0-100)",
           "horse": "Western Model",
           "odds": "9/2",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "A Kinirons",
+          "jockey": "Sean O'Keeffe"
         },
         {
+          "time": "13:10",
+          "meeting": "Stratford",
+          "race": "Stratford Extra Raceday 'National Hunt' Maiden Hurdle (GBB Race)",
           "horse": "Eastern Fire",
           "odds": "8/15",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "D Skelton",
+          "jockey": "Harry Skelton"
         },
         {
+          "time": "14:03",
+          "meeting": "Punchestown",
+          "race": "Matchbook 50/50 Series Maiden Hurdle",
           "horse": "Bombay Pat",
           "odds": "5/1",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "R O'Sullivan",
+          "jockey": "Danny Gilligan"
         },
         {
+          "time": "15:35",
+          "meeting": "Carlisle",
+          "race": "Book Your Christmas Party Here Mares' Open Maiden NH Flat Race (GBB Race)",
           "horse": "Lady Jetfire",
           "odds": "5/6",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "Jamie Snowden",
+          "jockey": "G Sheehan"
         }
       ],
       "dec": 92.77,
@@ -1146,24 +1818,44 @@
       "size": 4,
       "legs": [
         {
+          "time": "12:00",
+          "meeting": "Punchestown",
+          "race": "Matchbook Betting Exchange Handicap Chase (0-100)",
           "horse": "Western Model",
           "odds": "9/2",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "A Kinirons",
+          "jockey": "Sean O'Keeffe"
         },
         {
+          "time": "13:30",
+          "meeting": "Punchestown",
+          "race": "Matchbook 50/50 Series 3-Y-O Maiden Hurdle",
           "horse": "Coexist",
           "odds": "11/8",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "H De Bromhead",
+          "jockey": "Darragh O'Keeffe"
         },
         {
+          "time": "14:03",
+          "meeting": "Punchestown",
+          "race": "Matchbook 50/50 Series Maiden Hurdle",
           "horse": "Bombay Pat",
           "odds": "5/1",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "R O'Sullivan",
+          "jockey": "Danny Gilligan"
         },
         {
+          "time": "15:35",
+          "meeting": "Carlisle",
+          "race": "Book Your Christmas Party Here Mares' Open Maiden NH Flat Race (GBB Race)",
           "horse": "Lady Jetfire",
           "odds": "5/6",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "Jamie Snowden",
+          "jockey": "G Sheehan"
         }
       ],
       "dec": 143.69,
@@ -1174,24 +1866,44 @@
       "size": 4,
       "legs": [
         {
+          "time": "13:00",
+          "meeting": "Punchestown",
+          "race": "Irish Stallion Farms EBF Fillies Academy Hurdle",
           "horse": "Smokin Aces",
           "odds": "9/4",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "W P Mullins",
+          "jockey": "Brian Hayes"
         },
         {
+          "time": "13:10",
+          "meeting": "Stratford",
+          "race": "Stratford Extra Raceday 'National Hunt' Maiden Hurdle (GBB Race)",
           "horse": "Eastern Fire",
           "odds": "8/15",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "D Skelton",
+          "jockey": "Harry Skelton"
         },
         {
+          "time": "13:30",
+          "meeting": "Punchestown",
+          "race": "Matchbook 50/50 Series 3-Y-O Maiden Hurdle",
           "horse": "Coexist",
           "odds": "11/8",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "H De Bromhead",
+          "jockey": "Darragh O'Keeffe"
         },
         {
+          "time": "14:03",
+          "meeting": "Punchestown",
+          "race": "Matchbook 50/50 Series Maiden Hurdle",
           "horse": "Bombay Pat",
           "odds": "5/1",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "R O'Sullivan",
+          "jockey": "Danny Gilligan"
         }
       ],
       "dec": 71.01,
@@ -1202,24 +1914,44 @@
       "size": 4,
       "legs": [
         {
+          "time": "13:00",
+          "meeting": "Punchestown",
+          "race": "Irish Stallion Farms EBF Fillies Academy Hurdle",
           "horse": "Smokin Aces",
           "odds": "9/4",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "W P Mullins",
+          "jockey": "Brian Hayes"
         },
         {
+          "time": "13:10",
+          "meeting": "Stratford",
+          "race": "Stratford Extra Raceday 'National Hunt' Maiden Hurdle (GBB Race)",
           "horse": "Eastern Fire",
           "odds": "8/15",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "D Skelton",
+          "jockey": "Harry Skelton"
         },
         {
+          "time": "13:30",
+          "meeting": "Punchestown",
+          "race": "Matchbook 50/50 Series 3-Y-O Maiden Hurdle",
           "horse": "Coexist",
           "odds": "11/8",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "H De Bromhead",
+          "jockey": "Darragh O'Keeffe"
         },
         {
+          "time": "15:35",
+          "meeting": "Carlisle",
+          "race": "Book Your Christmas Party Here Mares' Open Maiden NH Flat Race (GBB Race)",
           "horse": "Lady Jetfire",
           "odds": "5/6",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "Jamie Snowden",
+          "jockey": "G Sheehan"
         }
       ],
       "dec": 21.7,
@@ -1230,24 +1962,44 @@
       "size": 4,
       "legs": [
         {
+          "time": "13:00",
+          "meeting": "Punchestown",
+          "race": "Irish Stallion Farms EBF Fillies Academy Hurdle",
           "horse": "Smokin Aces",
           "odds": "9/4",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "W P Mullins",
+          "jockey": "Brian Hayes"
         },
         {
+          "time": "13:10",
+          "meeting": "Stratford",
+          "race": "Stratford Extra Raceday 'National Hunt' Maiden Hurdle (GBB Race)",
           "horse": "Eastern Fire",
           "odds": "8/15",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "D Skelton",
+          "jockey": "Harry Skelton"
         },
         {
+          "time": "14:03",
+          "meeting": "Punchestown",
+          "race": "Matchbook 50/50 Series Maiden Hurdle",
           "horse": "Bombay Pat",
           "odds": "5/1",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "R O'Sullivan",
+          "jockey": "Danny Gilligan"
         },
         {
+          "time": "15:35",
+          "meeting": "Carlisle",
+          "race": "Book Your Christmas Party Here Mares' Open Maiden NH Flat Race (GBB Race)",
           "horse": "Lady Jetfire",
           "odds": "5/6",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "Jamie Snowden",
+          "jockey": "G Sheehan"
         }
       ],
       "dec": 54.82,
@@ -1258,24 +2010,44 @@
       "size": 4,
       "legs": [
         {
+          "time": "13:00",
+          "meeting": "Punchestown",
+          "race": "Irish Stallion Farms EBF Fillies Academy Hurdle",
           "horse": "Smokin Aces",
           "odds": "9/4",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "W P Mullins",
+          "jockey": "Brian Hayes"
         },
         {
+          "time": "13:30",
+          "meeting": "Punchestown",
+          "race": "Matchbook 50/50 Series 3-Y-O Maiden Hurdle",
           "horse": "Coexist",
           "odds": "11/8",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "H De Bromhead",
+          "jockey": "Darragh O'Keeffe"
         },
         {
+          "time": "14:03",
+          "meeting": "Punchestown",
+          "race": "Matchbook 50/50 Series Maiden Hurdle",
           "horse": "Bombay Pat",
           "odds": "5/1",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "R O'Sullivan",
+          "jockey": "Danny Gilligan"
         },
         {
+          "time": "15:35",
+          "meeting": "Carlisle",
+          "race": "Book Your Christmas Party Here Mares' Open Maiden NH Flat Race (GBB Race)",
           "horse": "Lady Jetfire",
           "odds": "5/6",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "Jamie Snowden",
+          "jockey": "G Sheehan"
         }
       ],
       "dec": 84.91,
@@ -1286,24 +2058,44 @@
       "size": 4,
       "legs": [
         {
+          "time": "13:10",
+          "meeting": "Stratford",
+          "race": "Stratford Extra Raceday 'National Hunt' Maiden Hurdle (GBB Race)",
           "horse": "Eastern Fire",
           "odds": "8/15",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "D Skelton",
+          "jockey": "Harry Skelton"
         },
         {
+          "time": "13:30",
+          "meeting": "Punchestown",
+          "race": "Matchbook 50/50 Series 3-Y-O Maiden Hurdle",
           "horse": "Coexist",
           "odds": "11/8",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "H De Bromhead",
+          "jockey": "Darragh O'Keeffe"
         },
         {
+          "time": "14:03",
+          "meeting": "Punchestown",
+          "race": "Matchbook 50/50 Series Maiden Hurdle",
           "horse": "Bombay Pat",
           "odds": "5/1",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "R O'Sullivan",
+          "jockey": "Danny Gilligan"
         },
         {
+          "time": "15:35",
+          "meeting": "Carlisle",
+          "race": "Book Your Christmas Party Here Mares' Open Maiden NH Flat Race (GBB Race)",
           "horse": "Lady Jetfire",
           "odds": "5/6",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "Jamie Snowden",
+          "jockey": "G Sheehan"
         }
       ],
       "dec": 40.06,
@@ -1314,29 +2106,54 @@
       "size": 5,
       "legs": [
         {
+          "time": "12:00",
+          "meeting": "Punchestown",
+          "race": "Matchbook Betting Exchange Handicap Chase (0-100)",
           "horse": "Western Model",
           "odds": "9/2",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "A Kinirons",
+          "jockey": "Sean O'Keeffe"
         },
         {
+          "time": "13:00",
+          "meeting": "Punchestown",
+          "race": "Irish Stallion Farms EBF Fillies Academy Hurdle",
           "horse": "Smokin Aces",
           "odds": "9/4",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "W P Mullins",
+          "jockey": "Brian Hayes"
         },
         {
+          "time": "13:10",
+          "meeting": "Stratford",
+          "race": "Stratford Extra Raceday 'National Hunt' Maiden Hurdle (GBB Race)",
           "horse": "Eastern Fire",
           "odds": "8/15",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "D Skelton",
+          "jockey": "Harry Skelton"
         },
         {
+          "time": "13:30",
+          "meeting": "Punchestown",
+          "race": "Matchbook 50/50 Series 3-Y-O Maiden Hurdle",
           "horse": "Coexist",
           "odds": "11/8",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "H De Bromhead",
+          "jockey": "Darragh O'Keeffe"
         },
         {
+          "time": "14:03",
+          "meeting": "Punchestown",
+          "race": "Matchbook 50/50 Series Maiden Hurdle",
           "horse": "Bombay Pat",
           "odds": "5/1",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "R O'Sullivan",
+          "jockey": "Danny Gilligan"
         }
       ],
       "dec": 390.57,
@@ -1347,29 +2164,54 @@
       "size": 5,
       "legs": [
         {
+          "time": "12:00",
+          "meeting": "Punchestown",
+          "race": "Matchbook Betting Exchange Handicap Chase (0-100)",
           "horse": "Western Model",
           "odds": "9/2",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "A Kinirons",
+          "jockey": "Sean O'Keeffe"
         },
         {
+          "time": "13:00",
+          "meeting": "Punchestown",
+          "race": "Irish Stallion Farms EBF Fillies Academy Hurdle",
           "horse": "Smokin Aces",
           "odds": "9/4",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "W P Mullins",
+          "jockey": "Brian Hayes"
         },
         {
+          "time": "13:10",
+          "meeting": "Stratford",
+          "race": "Stratford Extra Raceday 'National Hunt' Maiden Hurdle (GBB Race)",
           "horse": "Eastern Fire",
           "odds": "8/15",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "D Skelton",
+          "jockey": "Harry Skelton"
         },
         {
+          "time": "13:30",
+          "meeting": "Punchestown",
+          "race": "Matchbook 50/50 Series 3-Y-O Maiden Hurdle",
           "horse": "Coexist",
           "odds": "11/8",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "H De Bromhead",
+          "jockey": "Darragh O'Keeffe"
         },
         {
+          "time": "15:35",
+          "meeting": "Carlisle",
+          "race": "Book Your Christmas Party Here Mares' Open Maiden NH Flat Race (GBB Race)",
           "horse": "Lady Jetfire",
           "odds": "5/6",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "Jamie Snowden",
+          "jockey": "G Sheehan"
         }
       ],
       "dec": 119.34,
@@ -1380,29 +2222,54 @@
       "size": 5,
       "legs": [
         {
+          "time": "12:00",
+          "meeting": "Punchestown",
+          "race": "Matchbook Betting Exchange Handicap Chase (0-100)",
           "horse": "Western Model",
           "odds": "9/2",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "A Kinirons",
+          "jockey": "Sean O'Keeffe"
         },
         {
+          "time": "13:00",
+          "meeting": "Punchestown",
+          "race": "Irish Stallion Farms EBF Fillies Academy Hurdle",
           "horse": "Smokin Aces",
           "odds": "9/4",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "W P Mullins",
+          "jockey": "Brian Hayes"
         },
         {
+          "time": "13:10",
+          "meeting": "Stratford",
+          "race": "Stratford Extra Raceday 'National Hunt' Maiden Hurdle (GBB Race)",
           "horse": "Eastern Fire",
           "odds": "8/15",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "D Skelton",
+          "jockey": "Harry Skelton"
         },
         {
+          "time": "14:03",
+          "meeting": "Punchestown",
+          "race": "Matchbook 50/50 Series Maiden Hurdle",
           "horse": "Bombay Pat",
           "odds": "5/1",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "R O'Sullivan",
+          "jockey": "Danny Gilligan"
         },
         {
+          "time": "15:35",
+          "meeting": "Carlisle",
+          "race": "Book Your Christmas Party Here Mares' Open Maiden NH Flat Race (GBB Race)",
           "horse": "Lady Jetfire",
           "odds": "5/6",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "Jamie Snowden",
+          "jockey": "G Sheehan"
         }
       ],
       "dec": 301.49,
@@ -1413,29 +2280,54 @@
       "size": 5,
       "legs": [
         {
+          "time": "12:00",
+          "meeting": "Punchestown",
+          "race": "Matchbook Betting Exchange Handicap Chase (0-100)",
           "horse": "Western Model",
           "odds": "9/2",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "A Kinirons",
+          "jockey": "Sean O'Keeffe"
         },
         {
+          "time": "13:00",
+          "meeting": "Punchestown",
+          "race": "Irish Stallion Farms EBF Fillies Academy Hurdle",
           "horse": "Smokin Aces",
           "odds": "9/4",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "W P Mullins",
+          "jockey": "Brian Hayes"
         },
         {
+          "time": "13:30",
+          "meeting": "Punchestown",
+          "race": "Matchbook 50/50 Series 3-Y-O Maiden Hurdle",
           "horse": "Coexist",
           "odds": "11/8",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "H De Bromhead",
+          "jockey": "Darragh O'Keeffe"
         },
         {
+          "time": "14:03",
+          "meeting": "Punchestown",
+          "race": "Matchbook 50/50 Series Maiden Hurdle",
           "horse": "Bombay Pat",
           "odds": "5/1",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "R O'Sullivan",
+          "jockey": "Danny Gilligan"
         },
         {
+          "time": "15:35",
+          "meeting": "Carlisle",
+          "race": "Book Your Christmas Party Here Mares' Open Maiden NH Flat Race (GBB Race)",
           "horse": "Lady Jetfire",
           "odds": "5/6",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "Jamie Snowden",
+          "jockey": "G Sheehan"
         }
       ],
       "dec": 466.98,
@@ -1446,29 +2338,54 @@
       "size": 5,
       "legs": [
         {
+          "time": "12:00",
+          "meeting": "Punchestown",
+          "race": "Matchbook Betting Exchange Handicap Chase (0-100)",
           "horse": "Western Model",
           "odds": "9/2",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "A Kinirons",
+          "jockey": "Sean O'Keeffe"
         },
         {
+          "time": "13:10",
+          "meeting": "Stratford",
+          "race": "Stratford Extra Raceday 'National Hunt' Maiden Hurdle (GBB Race)",
           "horse": "Eastern Fire",
           "odds": "8/15",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "D Skelton",
+          "jockey": "Harry Skelton"
         },
         {
+          "time": "13:30",
+          "meeting": "Punchestown",
+          "race": "Matchbook 50/50 Series 3-Y-O Maiden Hurdle",
           "horse": "Coexist",
           "odds": "11/8",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "H De Bromhead",
+          "jockey": "Darragh O'Keeffe"
         },
         {
+          "time": "14:03",
+          "meeting": "Punchestown",
+          "race": "Matchbook 50/50 Series Maiden Hurdle",
           "horse": "Bombay Pat",
           "odds": "5/1",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "R O'Sullivan",
+          "jockey": "Danny Gilligan"
         },
         {
+          "time": "15:35",
+          "meeting": "Carlisle",
+          "race": "Book Your Christmas Party Here Mares' Open Maiden NH Flat Race (GBB Race)",
           "horse": "Lady Jetfire",
           "odds": "5/6",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "Jamie Snowden",
+          "jockey": "G Sheehan"
         }
       ],
       "dec": 220.32,
@@ -1479,29 +2396,54 @@
       "size": 5,
       "legs": [
         {
+          "time": "13:00",
+          "meeting": "Punchestown",
+          "race": "Irish Stallion Farms EBF Fillies Academy Hurdle",
           "horse": "Smokin Aces",
           "odds": "9/4",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "W P Mullins",
+          "jockey": "Brian Hayes"
         },
         {
+          "time": "13:10",
+          "meeting": "Stratford",
+          "race": "Stratford Extra Raceday 'National Hunt' Maiden Hurdle (GBB Race)",
           "horse": "Eastern Fire",
           "odds": "8/15",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "D Skelton",
+          "jockey": "Harry Skelton"
         },
         {
+          "time": "13:30",
+          "meeting": "Punchestown",
+          "race": "Matchbook 50/50 Series 3-Y-O Maiden Hurdle",
           "horse": "Coexist",
           "odds": "11/8",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "H De Bromhead",
+          "jockey": "Darragh O'Keeffe"
         },
         {
+          "time": "14:03",
+          "meeting": "Punchestown",
+          "race": "Matchbook 50/50 Series Maiden Hurdle",
           "horse": "Bombay Pat",
           "odds": "5/1",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "R O'Sullivan",
+          "jockey": "Danny Gilligan"
         },
         {
+          "time": "15:35",
+          "meeting": "Carlisle",
+          "race": "Book Your Christmas Party Here Mares' Open Maiden NH Flat Race (GBB Race)",
           "horse": "Lady Jetfire",
           "odds": "5/6",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "Jamie Snowden",
+          "jockey": "G Sheehan"
         }
       ],
       "dec": 130.19,
@@ -1512,34 +2454,64 @@
       "size": 6,
       "legs": [
         {
+          "time": "12:00",
+          "meeting": "Punchestown",
+          "race": "Matchbook Betting Exchange Handicap Chase (0-100)",
           "horse": "Western Model",
           "odds": "9/2",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "A Kinirons",
+          "jockey": "Sean O'Keeffe"
         },
         {
+          "time": "13:00",
+          "meeting": "Punchestown",
+          "race": "Irish Stallion Farms EBF Fillies Academy Hurdle",
           "horse": "Smokin Aces",
           "odds": "9/4",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "W P Mullins",
+          "jockey": "Brian Hayes"
         },
         {
+          "time": "13:10",
+          "meeting": "Stratford",
+          "race": "Stratford Extra Raceday 'National Hunt' Maiden Hurdle (GBB Race)",
           "horse": "Eastern Fire",
           "odds": "8/15",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "D Skelton",
+          "jockey": "Harry Skelton"
         },
         {
+          "time": "13:30",
+          "meeting": "Punchestown",
+          "race": "Matchbook 50/50 Series 3-Y-O Maiden Hurdle",
           "horse": "Coexist",
           "odds": "11/8",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "H De Bromhead",
+          "jockey": "Darragh O'Keeffe"
         },
         {
+          "time": "14:03",
+          "meeting": "Punchestown",
+          "race": "Matchbook 50/50 Series Maiden Hurdle",
           "horse": "Bombay Pat",
           "odds": "5/1",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "R O'Sullivan",
+          "jockey": "Danny Gilligan"
         },
         {
+          "time": "15:35",
+          "meeting": "Carlisle",
+          "race": "Book Your Christmas Party Here Mares' Open Maiden NH Flat Race (GBB Race)",
           "horse": "Lady Jetfire",
           "odds": "5/6",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "Jamie Snowden",
+          "jockey": "G Sheehan"
         }
       ],
       "dec": 716.04,

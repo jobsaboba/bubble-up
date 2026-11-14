@@ -1,6 +1,6 @@
 {
   "date": "2026-08-07",
-  "generated": "2026-11-14T06:45:01+00:00",
+  "generated": "2026-11-14T06:56:20+00:00",
   "picks": [
     {
       "time": "14:20",
@@ -13,7 +13,9 @@
       "res": "LOSE",
       "pos": 7,
       "score1": 117.0,
-      "score2": 46
+      "score2": 46,
+      "trainer": "H Bethell",
+      "jockey": "S D Bowen"
     }
   ],
   "combos": [
@@ -21,9 +23,14 @@
       "size": 1,
       "legs": [
         {
+          "time": "14:20",
+          "meeting": "Musselburgh",
+          "race": "Champagne Pommery Cuvee Louise Gold Cup Handicap",
           "horse": "Eagle Bay",
           "odds": "3/1",
-          "res": "LOSE"
+          "res": "LOSE",
+          "trainer": "H Bethell",
+          "jockey": "S D Bowen"
         }
       ],
       "dec": 4.0,

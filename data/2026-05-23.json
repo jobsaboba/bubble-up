@@ -1,6 +1,6 @@
 {
   "date": "2026-05-23",
-  "generated": "2026-11-14T06:45:01+00:00",
+  "generated": "2026-11-14T06:56:20+00:00",
   "picks": [
     {
       "time": "12:50",
@@ -13,7 +13,9 @@
       "res": "WIN",
       "pos": 1,
       "score1": 60.69,
-      "score2": 21.34
+      "score2": 21.34,
+      "trainer": "T Ellis",
+      "jockey": "Jack Andrews"
     },
     {
       "time": "16:20",
@@ -26,7 +28,9 @@
       "res": "WIN",
       "pos": 1,
       "score1": 176.05,
-      "score2": 52.53
+      "score2": 52.53,
+      "trainer": "H D Daly",
+      "jockey": "Sam Twiston-Davies"
     }
   ],
   "combos": [
@@ -34,9 +38,14 @@
       "size": 1,
       "legs": [
         {
+          "time": "12:50",
+          "meeting": "Bangor-on-Dee",
+          "race": "Bangor-On-Dee Ladies Day Maiden Hurdle  (GBB Race)",
           "horse": "Ladies Day",
           "odds": "4/7",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "T Ellis",
+          "jockey": "Jack Andrews"
         }
       ],
       "dec": 1.57,
@@ -47,9 +56,14 @@
       "size": 1,
       "legs": [
         {
+          "time": "16:20",
+          "meeting": "Bangor-on-Dee",
+          "race": "Wrexham Evening On Friday 26th June Mares' Open NH Flat Race (GBB Race)",
           "horse": "Lady Coco",
           "odds": "15/8",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "H D Daly",
+          "jockey": "Sam Twiston-Davies"
         }
       ],
       "dec": 2.88,
@@ -60,14 +74,24 @@
       "size": 2,
       "legs": [
         {
+          "time": "12:50",
+          "meeting": "Bangor-on-Dee",
+          "race": "Bangor-On-Dee Ladies Day Maiden Hurdle  (GBB Race)",
           "horse": "Ladies Day",
           "odds": "4/7",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "T Ellis",
+          "jockey": "Jack Andrews"
         },
         {
+          "time": "16:20",
+          "meeting": "Bangor-on-Dee",
+          "race": "Wrexham Evening On Friday 26th June Mares' Open NH Flat Race (GBB Race)",
           "horse": "Lady Coco",
           "odds": "15/8",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "H D Daly",
+          "jockey": "Sam Twiston-Davies"
         }
       ],
       "dec": 4.52,

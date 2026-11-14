@@ -1,6 +1,6 @@
 {
   "date": "2026-03-16",
-  "generated": "2026-11-14T06:45:01+00:00",
+  "generated": "2026-11-14T06:56:20+00:00",
   "picks": [
     {
       "time": "16:30",
@@ -13,7 +13,9 @@
       "res": "PLACE",
       "pos": 3,
       "score1": 167.81,
-      "score2": 83.0
+      "score2": 83.0,
+      "trainer": "Jamie Snowden",
+      "jockey": "G Sheehan"
     }
   ],
   "combos": [
@@ -21,9 +23,14 @@
       "size": 1,
       "legs": [
         {
+          "time": "16:30",
+          "meeting": "Ffos Las",
+          "race": "Blackmores Handicap Hurdle",
           "horse": "Double Click",
           "odds": "11/1",
-          "res": "PLACE"
+          "res": "PLACE",
+          "trainer": "Jamie Snowden",
+          "jockey": "G Sheehan"
         }
       ],
       "dec": 12.0,

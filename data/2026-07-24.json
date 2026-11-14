@@ -1,6 +1,6 @@
 {
   "date": "2026-07-24",
-  "generated": "2026-11-14T06:45:01+00:00",
+  "generated": "2026-11-14T06:56:20+00:00",
   "picks": [
     {
       "time": "16:52",
@@ -13,7 +13,9 @@
       "res": "PLACE",
       "pos": 2,
       "score1": 53,
-      "score2": 25
+      "score2": 25,
+      "trainer": "Sir Mark Prescott",
+      "jockey": "Dylan Hogan"
     }
   ],
   "combos": [
@@ -21,9 +23,14 @@
       "size": 1,
       "legs": [
         {
+          "time": "16:52",
+          "meeting": "Chepstow",
+          "race": "Apex Transport Planning Summer Sunset / EBF Restricted Maiden Stakes (GBB Race)",
           "horse": "Forest Berry",
           "odds": "2/1",
-          "res": "PLACE"
+          "res": "PLACE",
+          "trainer": "Sir Mark Prescott",
+          "jockey": "Dylan Hogan"
         }
       ],
       "dec": 3.0,

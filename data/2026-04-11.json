@@ -1,6 +1,6 @@
 {
   "date": "2026-04-11",
-  "generated": "2026-11-14T06:45:01+00:00",
+  "generated": "2026-11-14T06:56:20+00:00",
   "picks": [
     {
       "time": "13:50",
@@ -13,7 +13,9 @@
       "res": "WIN",
       "pos": 1,
       "score1": 90.05,
-      "score2": 44.11
+      "score2": 44.11,
+      "trainer": "Miss R Curtis",
+      "jockey": "Paul O'Brien"
     }
   ],
   "combos": [
@@ -21,9 +23,14 @@
       "size": 1,
       "legs": [
         {
+          "time": "13:50",
+          "meeting": "Chepstow",
+          "race": "Tiptop Lavish Latrine Handicap Chase (GBB Race)",
           "horse": "The Boola Boss",
           "odds": "15/8",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "Miss R Curtis",
+          "jockey": "Paul O'Brien"
         }
       ],
       "dec": 2.88,

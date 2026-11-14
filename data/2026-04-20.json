@@ -1,6 +1,6 @@
 {
   "date": "2026-04-20",
-  "generated": "2026-11-14T06:45:01+00:00",
+  "generated": "2026-11-14T06:56:20+00:00",
   "picks": [
     {
       "time": "16:00",
@@ -13,7 +13,9 @@
       "res": "WIN",
       "pos": 1,
       "score1": 133,
-      "score2": 44
+      "score2": 44,
+      "trainer": "J J O'Shea",
+      "jockey": "Mr Henry Crow"
     }
   ],
   "combos": [
@@ -21,9 +23,14 @@
       "size": 1,
       "legs": [
         {
+          "time": "16:00",
+          "meeting": "Kelso",
+          "race": "Church House Investments Buccleuch Cup (Maiden Hunters' Chase)",
           "horse": "Boley Bob",
           "odds": "4/11",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "J J O'Shea",
+          "jockey": "Mr Henry Crow"
         }
       ],
       "dec": 1.36,

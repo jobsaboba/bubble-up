@@ -1,6 +1,6 @@
 {
   "date": "2026-05-20",
-  "generated": "2026-11-14T06:45:01+00:00",
+  "generated": "2026-11-14T06:56:20+00:00",
   "picks": [
     {
       "time": "13:12",
@@ -13,7 +13,9 @@
       "res": "PLACE",
       "pos": 3,
       "score1": 57,
-      "score2": 23
+      "score2": 23,
+      "trainer": "I Jardine",
+      "jockey": "Mohammed Tabti"
     }
   ],
   "combos": [
@@ -21,9 +23,14 @@
       "size": 1,
       "legs": [
         {
+          "time": "13:12",
+          "meeting": "Ayr",
+          "race": "Kronenbourg 1664 Handicap",
           "horse": "Classy Clarets",
           "odds": "2/1",
-          "res": "PLACE"
+          "res": "PLACE",
+          "trainer": "I Jardine",
+          "jockey": "Mohammed Tabti"
         }
       ],
       "dec": 3.0,

@@ -1,6 +1,6 @@
 {
   "date": "2026-08-24",
-  "generated": "2026-11-14T06:45:01+00:00",
+  "generated": "2026-11-14T06:56:20+00:00",
   "picks": [
     {
       "time": "14:15",
@@ -13,7 +13,9 @@
       "res": "WIN",
       "pos": 1,
       "score1": 82.0,
-      "score2": 31
+      "score2": 31,
+      "trainer": "T Davidson",
+      "jockey": "Jason Hart"
     }
   ],
   "combos": [
@@ -21,9 +23,14 @@
       "size": 1,
       "legs": [
         {
+          "time": "14:15",
+          "meeting": "Musselburgh",
+          "race": "'Celebrating Veteran Armed Forces' Selling Handicap",
           "horse": "Runninsonofagun",
           "odds": "9/4",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "T Davidson",
+          "jockey": "Jason Hart"
         }
       ],
       "dec": 3.25,

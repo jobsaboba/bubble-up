@@ -1,6 +1,6 @@
 {
   "date": "2026-09-20",
-  "generated": "2026-11-14T06:45:01+00:00",
+  "generated": "2026-11-14T06:56:20+00:00",
   "picks": [
     {
       "time": "14:00",
@@ -13,7 +13,9 @@
       "res": "WIN",
       "pos": 1,
       "score1": 54,
-      "score2": 24
+      "score2": 24,
+      "trainer": "Phillip Makin",
+      "jockey": "Connor Beasley"
     }
   ],
   "combos": [
@@ -21,9 +23,14 @@
       "size": 1,
       "legs": [
         {
+          "time": "14:00",
+          "meeting": "Hamilton",
+          "race": "Heineken Zero Drink Responsibly At Hamilton Park Handicap",
           "horse": "Impressor",
           "odds": "5/2",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "Phillip Makin",
+          "jockey": "Connor Beasley"
         }
       ],
       "dec": 3.5,

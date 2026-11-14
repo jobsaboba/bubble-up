@@ -1,6 +1,6 @@
 {
   "date": "2026-08-10",
-  "generated": "2026-11-14T06:45:01+00:00",
+  "generated": "2026-11-14T06:56:20+00:00",
   "picks": [
     {
       "time": "13:15",
@@ -13,7 +13,9 @@
       "res": "WIN",
       "pos": 1,
       "score1": 56,
-      "score2": 24
+      "score2": 24,
+      "trainer": "Mrs R Carr",
+      "jockey": "Joanna Mason"
     }
   ],
   "combos": [
@@ -21,9 +23,14 @@
       "size": 1,
       "legs": [
         {
+          "time": "13:15",
+          "meeting": "Ayr",
+          "race": "'Ladbrokes Get More With Racing Bet Builder' Classified Stakes",
           "horse": "Hostelry",
           "odds": "5/2",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "Mrs R Carr",
+          "jockey": "Joanna Mason"
         }
       ],
       "dec": 3.5,

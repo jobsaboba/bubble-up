@@ -1,6 +1,6 @@
 {
   "date": "2026-10-11",
-  "generated": "2026-11-14T06:45:01+00:00",
+  "generated": "2026-11-14T06:56:20+00:00",
   "picks": [
     {
       "time": "14:12",
@@ -13,7 +13,9 @@
       "res": "WIN",
       "pos": 1,
       "score1": 116.05,
-      "score2": 28
+      "score2": 28,
+      "trainer": "N & W Twiston-Davies",
+      "jockey": "Sam Twiston-Davies"
     }
   ],
   "combos": [
@@ -21,9 +23,14 @@
       "size": 1,
       "legs": [
         {
+          "time": "14:12",
+          "meeting": "Chepstow",
+          "race": "DragonBet Best Odds Guaranteed Handicap Hurdle",
           "horse": "Harbour Light",
           "odds": "2/1",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "N & W Twiston-Davies",
+          "jockey": "Sam Twiston-Davies"
         }
       ],
       "dec": 3.0,

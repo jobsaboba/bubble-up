@@ -1,6 +1,6 @@
 {
   "date": "2026-03-21",
-  "generated": "2026-11-14T06:45:01+00:00",
+  "generated": "2026-11-14T06:56:20+00:00",
   "picks": [
     {
       "time": "13:00",
@@ -13,7 +13,9 @@
       "res": "LOSE",
       "pos": 8,
       "score1": 226.81,
-      "score2": 98.07
+      "score2": 98.07,
+      "trainer": "Jamie Snowden",
+      "jockey": "G Sheehan"
     },
     {
       "time": "13:07",
@@ -26,7 +28,9 @@
       "res": "WIN",
       "pos": 1,
       "score1": 161.67,
-      "score2": 37
+      "score2": 37,
+      "trainer": "Jamie Snowden",
+      "jockey": "Joe Anderson"
     },
     {
       "time": "16:23",
@@ -39,7 +43,9 @@
       "res": "WIN",
       "pos": 1,
       "score1": 111.07,
-      "score2": 43.22
+      "score2": 43.22,
+      "trainer": "A M Thomson",
+      "jockey": "Danny McMenamin"
     }
   ],
   "combos": [
@@ -47,9 +53,14 @@
       "size": 1,
       "legs": [
         {
+          "time": "13:00",
+          "meeting": "Kelso",
+          "race": "BetWright Beeswing Mares' Hurdle (Listed) (GBB Race)",
           "horse": "Hollygrove Cha Cha",
           "odds": "13/8",
-          "res": "LOSE"
+          "res": "LOSE",
+          "trainer": "Jamie Snowden",
+          "jockey": "G Sheehan"
         }
       ],
       "dec": 2.62,
@@ -60,9 +71,14 @@
       "size": 1,
       "legs": [
         {
+          "time": "13:07",
+          "meeting": "Bangor-on-Dee",
+          "race": "Alfa Aggregates Products Maiden Hurdle (GBB Race)",
           "horse": "Tommy Pickles",
           "odds": "6/4",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "Jamie Snowden",
+          "jockey": "Joe Anderson"
         }
       ],
       "dec": 2.5,
@@ -73,9 +89,14 @@
       "size": 1,
       "legs": [
         {
+          "time": "16:23",
+          "meeting": "Kelso",
+          "race": "Racing Post+ Jodami Open NH Flat Race (GBB Race)",
           "horse": "King Kubala",
           "odds": "5/2",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "A M Thomson",
+          "jockey": "Danny McMenamin"
         }
       ],
       "dec": 3.5,
@@ -86,14 +107,24 @@
       "size": 2,
       "legs": [
         {
+          "time": "13:00",
+          "meeting": "Kelso",
+          "race": "BetWright Beeswing Mares' Hurdle (Listed) (GBB Race)",
           "horse": "Hollygrove Cha Cha",
           "odds": "13/8",
-          "res": "LOSE"
+          "res": "LOSE",
+          "trainer": "Jamie Snowden",
+          "jockey": "G Sheehan"
         },
         {
+          "time": "13:07",
+          "meeting": "Bangor-on-Dee",
+          "race": "Alfa Aggregates Products Maiden Hurdle (GBB Race)",
           "horse": "Tommy Pickles",
           "odds": "6/4",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "Jamie Snowden",
+          "jockey": "Joe Anderson"
         }
       ],
       "dec": 6.56,
@@ -104,14 +135,24 @@
       "size": 2,
       "legs": [
         {
+          "time": "13:00",
+          "meeting": "Kelso",
+          "race": "BetWright Beeswing Mares' Hurdle (Listed) (GBB Race)",
           "horse": "Hollygrove Cha Cha",
           "odds": "13/8",
-          "res": "LOSE"
+          "res": "LOSE",
+          "trainer": "Jamie Snowden",
+          "jockey": "G Sheehan"
         },
         {
+          "time": "16:23",
+          "meeting": "Kelso",
+          "race": "Racing Post+ Jodami Open NH Flat Race (GBB Race)",
           "horse": "King Kubala",
           "odds": "5/2",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "A M Thomson",
+          "jockey": "Danny McMenamin"
         }
       ],
       "dec": 9.19,
@@ -122,14 +163,24 @@
       "size": 2,
       "legs": [
         {
+          "time": "13:07",
+          "meeting": "Bangor-on-Dee",
+          "race": "Alfa Aggregates Products Maiden Hurdle (GBB Race)",
           "horse": "Tommy Pickles",
           "odds": "6/4",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "Jamie Snowden",
+          "jockey": "Joe Anderson"
         },
         {
+          "time": "16:23",
+          "meeting": "Kelso",
+          "race": "Racing Post+ Jodami Open NH Flat Race (GBB Race)",
           "horse": "King Kubala",
           "odds": "5/2",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "A M Thomson",
+          "jockey": "Danny McMenamin"
         }
       ],
       "dec": 8.75,
@@ -140,19 +191,34 @@
       "size": 3,
       "legs": [
         {
+          "time": "13:00",
+          "meeting": "Kelso",
+          "race": "BetWright Beeswing Mares' Hurdle (Listed) (GBB Race)",
           "horse": "Hollygrove Cha Cha",
           "odds": "13/8",
-          "res": "LOSE"
+          "res": "LOSE",
+          "trainer": "Jamie Snowden",
+          "jockey": "G Sheehan"
         },
         {
+          "time": "13:07",
+          "meeting": "Bangor-on-Dee",
+          "race": "Alfa Aggregates Products Maiden Hurdle (GBB Race)",
           "horse": "Tommy Pickles",
           "odds": "6/4",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "Jamie Snowden",
+          "jockey": "Joe Anderson"
         },
         {
+          "time": "16:23",
+          "meeting": "Kelso",
+          "race": "Racing Post+ Jodami Open NH Flat Race (GBB Race)",
           "horse": "King Kubala",
           "odds": "5/2",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "A M Thomson",
+          "jockey": "Danny McMenamin"
         }
       ],
       "dec": 22.97,

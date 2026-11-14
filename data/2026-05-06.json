@@ -1,6 +1,6 @@
 {
   "date": "2026-05-06",
-  "generated": "2026-11-14T06:45:01+00:00",
+  "generated": "2026-11-14T06:56:20+00:00",
   "picks": [
     {
       "time": "14:25",
@@ -13,7 +13,9 @@
       "res": "WIN",
       "pos": 1,
       "score1": 132.07,
-      "score2": 38.0
+      "score2": 38.0,
+      "trainer": "N G Richards",
+      "jockey": "Danny McMenamin"
     },
     {
       "time": "15:00",
@@ -26,7 +28,9 @@
       "res": "WIN",
       "pos": 1,
       "score1": 124.07,
-      "score2": 44.33
+      "score2": 44.33,
+      "trainer": "N G Richards",
+      "jockey": "Danny McMenamin"
     }
   ],
   "combos": [
@@ -34,9 +38,14 @@
       "size": 1,
       "legs": [
         {
+          "time": "14:25",
+          "meeting": "Kelso",
+          "race": "2000 Sacks Of Carrots Handicap Hurdle (Div 1)",
           "horse": "Abbey Scope",
           "odds": "3/1",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "N G Richards",
+          "jockey": "Danny McMenamin"
         }
       ],
       "dec": 4.0,
@@ -47,9 +56,14 @@
       "size": 1,
       "legs": [
         {
+          "time": "15:00",
+          "meeting": "Kelso",
+          "race": "2000 Sacks Of Carrots Handicap Hurdle (Div 2)",
           "horse": "Thorneylands",
           "odds": "2/1",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "N G Richards",
+          "jockey": "Danny McMenamin"
         }
       ],
       "dec": 3.0,
@@ -60,14 +74,24 @@
       "size": 2,
       "legs": [
         {
+          "time": "14:25",
+          "meeting": "Kelso",
+          "race": "2000 Sacks Of Carrots Handicap Hurdle (Div 1)",
           "horse": "Abbey Scope",
           "odds": "3/1",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "N G Richards",
+          "jockey": "Danny McMenamin"
         },
         {
+          "time": "15:00",
+          "meeting": "Kelso",
+          "race": "2000 Sacks Of Carrots Handicap Hurdle (Div 2)",
           "horse": "Thorneylands",
           "odds": "2/1",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "N G Richards",
+          "jockey": "Danny McMenamin"
         }
       ],
       "dec": 12.0,

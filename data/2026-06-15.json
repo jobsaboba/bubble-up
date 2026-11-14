@@ -1,6 +1,6 @@
 {
   "date": "2026-06-15",
-  "generated": "2026-11-14T06:45:01+00:00",
+  "generated": "2026-11-14T06:56:20+00:00",
   "picks": [
     {
       "time": "12:50",
@@ -13,7 +13,9 @@
       "res": "WIN",
       "pos": 1,
       "score1": 102.0,
-      "score2": 28
+      "score2": 28,
+      "trainer": "A W Carroll",
+      "jockey": "Miss S L Bowen"
     }
   ],
   "combos": [
@@ -21,9 +23,14 @@
       "size": 1,
       "legs": [
         {
+          "time": "12:50",
+          "meeting": "Chepstow",
+          "race": "BJ Llewellyn Racing In Memory Of Gwilym Llewellyn Amateur Jockeys' Handicap (Div 1)",
           "horse": "Pride Of Nepal",
           "odds": "2/1",
-          "res": "WIN"
+          "res": "WIN",
+          "trainer": "A W Carroll",
+          "jockey": "Miss S L Bowen"
         }
       ],
       "dec": 3.0,
