@@ -1,8 +1,8 @@
 {
-  "generated": "2026-11-13T22:30:32+00:00",
+  "generated": "2026-11-14T06:45:01+00:00",
   "unit": 0.1,
   "season": {
-    "days": 74,
+    "days": 75,
     "lines": 294,
     "won": 144,
     "lost": 150,
@@ -455,6 +455,11 @@
       "staked": 3,
       "returned": 1.73,
       "lines": 3
+    },
+    "2026-11-14": {
+      "staked": 0,
+      "returned": 0,
+      "lines": 7
     }
   }
 }

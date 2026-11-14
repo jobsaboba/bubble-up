@@ -1,0 +1,175 @@
+{
+  "date": "2026-11-14",
+  "generated": "2026-11-14T06:45:01+00:00",
+  "picks": [
+    {
+      "time": "12:20",
+      "meeting": "Windsor",
+      "race": "A1R Services Ltd Mares' Maiden Hurdle (GBB Race)",
+      "horse": "Ti'mamzel",
+      "stars": 5,
+      "odds": "10/11",
+      "dec": 1.9090909090909092,
+      "res": null,
+      "pos": 0,
+      "score1": 127.23,
+      "score2": 42.36
+    },
+    {
+      "time": "14:35",
+      "meeting": "Windsor",
+      "race": "Join Fitzdares For A Personal Service Handicap Chase (GBB Race)",
+      "horse": "King Califet",
+      "stars": 5,
+      "odds": "2/1",
+      "dec": 3.0,
+      "res": null,
+      "pos": 0,
+      "score1": 135.36,
+      "score2": 50.23
+    },
+    {
+      "time": "15:35",
+      "meeting": "Uttoxeter",
+      "race": "1664 Biere Open NH Flat Race (GBB Race)",
+      "horse": "Lady Coco",
+      "stars": 3,
+      "odds": "9/2",
+      "dec": 5.5,
+      "res": null,
+      "pos": 0,
+      "score1": 162.0,
+      "score2": 59.33
+    }
+  ],
+  "combos": [
+    {
+      "size": 1,
+      "legs": [
+        {
+          "horse": "Ti'mamzel",
+          "odds": "10/11",
+          "res": "?"
+        }
+      ],
+      "dec": 1.91,
+      "res": "PENDING",
+      "ret": null
+    },
+    {
+      "size": 1,
+      "legs": [
+        {
+          "horse": "King Califet",
+          "odds": "2/1",
+          "res": "?"
+        }
+      ],
+      "dec": 3.0,
+      "res": "PENDING",
+      "ret": null
+    },
+    {
+      "size": 1,
+      "legs": [
+        {
+          "horse": "Lady Coco",
+          "odds": "9/2",
+          "res": "?"
+        }
+      ],
+      "dec": 5.5,
+      "res": "PENDING",
+      "ret": null
+    },
+    {
+      "size": 2,
+      "legs": [
+        {
+          "horse": "Ti'mamzel",
+          "odds": "10/11",
+          "res": "?"
+        },
+        {
+          "horse": "King Califet",
+          "odds": "2/1",
+          "res": "?"
+        }
+      ],
+      "dec": 5.73,
+      "res": "PENDING",
+      "ret": null
+    },
+    {
+      "size": 2,
+      "legs": [
+        {
+          "horse": "Ti'mamzel",
+          "odds": "10/11",
+          "res": "?"
+        },
+        {
+          "horse": "Lady Coco",
+          "odds": "9/2",
+          "res": "?"
+        }
+      ],
+      "dec": 10.5,
+      "res": "PENDING",
+      "ret": null
+    },
+    {
+      "size": 2,
+      "legs": [
+        {
+          "horse": "King Califet",
+          "odds": "2/1",
+          "res": "?"
+        },
+        {
+          "horse": "Lady Coco",
+          "odds": "9/2",
+          "res": "?"
+        }
+      ],
+      "dec": 16.5,
+      "res": "PENDING",
+      "ret": null
+    },
+    {
+      "size": 3,
+      "legs": [
+        {
+          "horse": "Ti'mamzel",
+          "odds": "10/11",
+          "res": "?"
+        },
+        {
+          "horse": "King Califet",
+          "odds": "2/1",
+          "res": "?"
+        },
+        {
+          "horse": "Lady Coco",
+          "odds": "9/2",
+          "res": "?"
+        }
+      ],
+      "dec": 31.5,
+      "res": "PENDING",
+      "ret": null
+    }
+  ],
+  "score": {
+    "picks": 3,
+    "lines": 7,
+    "won": 0,
+    "lost": 0,
+    "pending": 7
+  },
+  "units": {
+    "staked": 0,
+    "returned": 0
+  },
+  "by_size": {}
+}
