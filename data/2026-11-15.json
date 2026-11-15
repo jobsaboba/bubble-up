@@ -1,0 +1,111 @@
+{
+  "date": "2026-11-15",
+  "generated": "2026-11-15T05:49:41+00:00",
+  "picks": [
+    {
+      "time": "12:10",
+      "meeting": "Navan",
+      "race": "Irish Stallion Farms EBF Mares Maiden Hurdle",
+      "horse": "La Valserine",
+      "stars": 5,
+      "odds": "5/2",
+      "dec": 3.5,
+      "res": null,
+      "pos": 0,
+      "score1": 219.6,
+      "score2": 70.55,
+      "trainer": "W P Mullins",
+      "jockey": "Paul Townend"
+    },
+    {
+      "time": "15:35",
+      "meeting": "Navan",
+      "race": "Coolmore N.H. Sires Hurricane Lane Irish EBF Mares Flat Race (Listed)",
+      "horse": "Silver Song",
+      "stars": 1,
+      "odds": "25/1",
+      "dec": 26.0,
+      "res": null,
+      "pos": 0,
+      "score1": 160.0,
+      "score2": 65.22,
+      "trainer": "Derek O'Connor",
+      "jockey": "Mr B M Coonan"
+    }
+  ],
+  "combos": [
+    {
+      "size": 1,
+      "legs": [
+        {
+          "time": "12:10",
+          "meeting": "Navan",
+          "horse": "La Valserine",
+          "odds": "5/2",
+          "res": "?",
+          "trainer": "W P Mullins",
+          "jockey": "Paul Townend"
+        }
+      ],
+      "dec": 3.5,
+      "res": "PENDING",
+      "ret": null
+    },
+    {
+      "size": 1,
+      "legs": [
+        {
+          "time": "15:35",
+          "meeting": "Navan",
+          "horse": "Silver Song",
+          "odds": "25/1",
+          "res": "?",
+          "trainer": "Derek O'Connor",
+          "jockey": "Mr B M Coonan"
+        }
+      ],
+      "dec": 26.0,
+      "res": "PENDING",
+      "ret": null
+    },
+    {
+      "size": 2,
+      "legs": [
+        {
+          "time": "12:10",
+          "meeting": "Navan",
+          "horse": "La Valserine",
+          "odds": "5/2",
+          "res": "?",
+          "trainer": "W P Mullins",
+          "jockey": "Paul Townend"
+        },
+        {
+          "time": "15:35",
+          "meeting": "Navan",
+          "horse": "Silver Song",
+          "odds": "25/1",
+          "res": "?",
+          "trainer": "Derek O'Connor",
+          "jockey": "Mr B M Coonan"
+        }
+      ],
+      "dec": 91.0,
+      "res": "PENDING",
+      "ret": null
+    }
+  ],
+  "score": {
+    "picks": 2,
+    "lines": 3,
+    "won": 0,
+    "lost": 0,
+    "pending": 3,
+    "nr": 0
+  },
+  "units": {
+    "staked": 0,
+    "returned": 0
+  },
+  "by_size": {}
+}

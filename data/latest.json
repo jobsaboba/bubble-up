@@ -1,21 +1,36 @@
 {
-  "date": "2026-11-14",
-  "generated": "2026-11-15T05:45:01+00:00",
+  "date": "2026-11-15",
+  "generated": "2026-11-15T05:49:41+00:00",
   "picks": [
     {
+      "time": "12:10",
+      "meeting": "Navan",
+      "race": "Irish Stallion Farms EBF Mares Maiden Hurdle",
+      "horse": "La Valserine",
+      "stars": 5,
+      "odds": "5/2",
+      "dec": 3.5,
+      "res": null,
+      "pos": 0,
+      "score1": 219.6,
+      "score2": 70.55,
+      "trainer": "W P Mullins",
+      "jockey": "Paul Townend"
+    },
+    {
       "time": "15:35",
-      "meeting": "Uttoxeter",
-      "race": "1664 Biere Open NH Flat Race (GBB Race)",
-      "horse": "Lady Coco",
-      "stars": 3,
-      "odds": "9/2",
-      "dec": 5.5,
-      "res": "LOSE",
-      "pos": 5,
-      "score1": 162.0,
-      "score2": 59.33,
-      "trainer": "H D Daly",
-      "jockey": "David Bass"
+      "meeting": "Navan",
+      "race": "Coolmore N.H. Sires Hurricane Lane Irish EBF Mares Flat Race (Listed)",
+      "horse": "Silver Song",
+      "stars": 1,
+      "odds": "25/1",
+      "dec": 26.0,
+      "res": null,
+      "pos": 0,
+      "score1": 160.0,
+      "score2": 65.22,
+      "trainer": "Derek O'Connor",
+      "jockey": "Mr B M Coonan"
     }
   ],
   "combos": [
@@ -23,38 +38,74 @@
       "size": 1,
       "legs": [
         {
-          "time": "15:35",
-          "meeting": "Uttoxeter",
-          "horse": "Lady Coco",
-          "odds": "9/2",
-          "res": "LOSE",
-          "trainer": "H D Daly",
-          "jockey": "David Bass"
+          "time": "12:10",
+          "meeting": "Navan",
+          "horse": "La Valserine",
+          "odds": "5/2",
+          "res": "?",
+          "trainer": "W P Mullins",
+          "jockey": "Paul Townend"
         }
       ],
-      "dec": 5.5,
-      "res": "LOSE",
-      "ret": 0.0
+      "dec": 3.5,
+      "res": "PENDING",
+      "ret": null
+    },
+    {
+      "size": 1,
+      "legs": [
+        {
+          "time": "15:35",
+          "meeting": "Navan",
+          "horse": "Silver Song",
+          "odds": "25/1",
+          "res": "?",
+          "trainer": "Derek O'Connor",
+          "jockey": "Mr B M Coonan"
+        }
+      ],
+      "dec": 26.0,
+      "res": "PENDING",
+      "ret": null
+    },
+    {
+      "size": 2,
+      "legs": [
+        {
+          "time": "12:10",
+          "meeting": "Navan",
+          "horse": "La Valserine",
+          "odds": "5/2",
+          "res": "?",
+          "trainer": "W P Mullins",
+          "jockey": "Paul Townend"
+        },
+        {
+          "time": "15:35",
+          "meeting": "Navan",
+          "horse": "Silver Song",
+          "odds": "25/1",
+          "res": "?",
+          "trainer": "Derek O'Connor",
+          "jockey": "Mr B M Coonan"
+        }
+      ],
+      "dec": 91.0,
+      "res": "PENDING",
+      "ret": null
     }
   ],
   "score": {
-    "picks": 1,
-    "lines": 1,
+    "picks": 2,
+    "lines": 3,
     "won": 0,
-    "lost": 1,
-    "pending": 0,
+    "lost": 0,
+    "pending": 3,
     "nr": 0
   },
   "units": {
-    "staked": 1,
-    "returned": 0.0
+    "staked": 0,
+    "returned": 0
   },
-  "by_size": {
-    "1": {
-      "n": 1,
-      "won": 0,
-      "lines": 1,
-      "returned": 0.0
-    }
-  }
+  "by_size": {}
 }
