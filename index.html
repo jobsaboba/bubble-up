@@ -76,6 +76,7 @@
   .badge.won{background:#0b2e21; color:var(--em)}
   .badge.lost{background:#331111; color:#fca5a5}
   .badge.pending{background:#2d2410; color:#fcd34d}
+  .badge.nr{background:#1c2233; color:#9fb3d1}
 
   table{width:100%; border-collapse:collapse; font-size:.72rem; margin:6px 0 4px}
   th{color:var(--dim); text-transform:uppercase; letter-spacing:.5px; font-size:.58rem; text-align:right; padding:4px; border-bottom:1px solid var(--line)}
@@ -284,6 +285,7 @@ function render(){
       let badge, amt;
       if(c.res === "WIN"){ badge = `<div class="badge won">WON</div>`; amt = `<span class="chip money">${money(c.ret)}</span>`; }
       else if(c.res === "LOSE"){ badge = `<div class="badge lost">LOST</div>`; amt = `<span class="chip">− ${money(1)}</span>`; }
+      else if(c.res === "NR"){ badge = `<div class="badge nr">REFUND</div>`; amt = `<span class="chip">stake returned</span>`; }
       else { badge = `<div class="badge pending">TO RUN</div>`; amt = `<span class="chip">stake ${money(1)}</span>`; }
       return `<div class="combo ${c.res==="PENDING"?"pending":""}">
         <div class="mid"><div class="legs">${legs}</div>
