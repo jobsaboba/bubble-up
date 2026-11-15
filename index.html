@@ -52,6 +52,7 @@
   .stat .label{margin-bottom:2px; white-space:nowrap; letter-spacing:1px}
   .stat .v{font-weight:800; font-size:1.02rem; margin-top:2px; white-space:nowrap}
   .stat .v.sky{color:var(--sky2)} .stat .v.pos{color:var(--em)} .stat .v.neg{color:var(--red)}
+  .v.em{color:var(--em)}
   .chip{background:#1c2a44; border:1px solid var(--line); border-radius:999px; padding:2px 8px; font-size:.68rem; color:var(--dim)}
   .chip.money{background:#0a2740; border-color:#1d4d7a; color:var(--sky2); font-weight:700}
   .chip.blue{background:#0a2740; border-color:#1d4d7a; color:var(--sky2); font-weight:800}
@@ -114,15 +115,15 @@
   <div class="days" id="days"></div>
   <div class="card">
     <div class="row" style="margin-bottom:8px">
-      <div class="label" style="margin:0">Stake per line — set it each day</div>
-      <div class="stakewrap">£<input id="stakeBox" type="number" step="0.05" min="0.05" inputmode="decimal"></div>
+      <div class="label" style="margin:0">The bank — the day's perm stakes 1% of it</div>
+      <span class="chip money" id="bankChip">—</span>
     </div>
     <div class="row" id="linesRow" style="margin:0 0 8px; display:none">
       <div class="label" style="margin:0">Today's perm</div>
       <span class="chip blue" id="linesChip"></span>
     </div>
     <div class="stats">
-      <div class="stat"><div class="label">Lines staked</div><div class="v sky" id="stakedV">—</div></div>
+      <div class="stat"><div class="label">Day staked</div><div class="v sky" id="stakedV">—</div></div>
       <div class="stat"><div class="label">Day return</div><div class="v" id="retV">—</div></div>
       <div class="stat"><div class="label">Day P/L</div><div class="v" id="plV">—</div></div>
     </div>
@@ -136,8 +137,8 @@
 <footer class="actions">
   <button class="btn ghost" id="fetchBtn" onclick="refreshDay(false)" style="background:var(--panel2); color:var(--dim); border:1px solid var(--line); border-radius:12px; padding:13px; font-weight:800; width:100%; cursor:pointer">⟳ Refresh this day</button>
   <div class="hint">Every day's <b>Double Bubble</b> selections run as a full perm — <b>n selections = n singles + every double + every treble + … + one n-fold</b>.<br>
-  Every line stakes the box — win-only at the published odds, a line pays only when <b>every leg wins</b>.<br>
-  © Dave Court · v1</div>
+  The day's perm stakes <b>1% of the bank</b>, split evenly across its lines — win-only at the combined price, a line pays only when <b>every leg wins</b>; a line with a non-runner is void.<br>
+  © Dave Court · v2</div>
 </footer>
 
 <div class="toast" id="toast"></div>
@@ -147,14 +148,14 @@
 /* Bubble Up v1 — pure viewer. The laptop publishes each day's picks and
    settled lines; the stake box scales every number here. */
 
-let DAYS = [], SEL = todayStr(), day = null, stats = null, VIEW = "day", STAKE = 0.10;
+let DAYS = [], SEL = todayStr(), day = null, stats = null, VIEW = "day";
 const loaded = new Map();
 let deferredPrompt = null, lastSeenDay = todayStr();
 
 function todayStr(){ const d=new Date(); return d.getFullYear()+"-"+String(d.getMonth()+1).padStart(2,"0")+"-"+String(d.getDate()).padStart(2,"0"); }
 function r2(n){ return Math.round(n*100)/100; }
-function money(units){ return "£" + (units * STAKE).toFixed(2); }
-function sgn(units){ const v = units * STAKE; return (v>=0?"+":"−") + "£" + Math.abs(v).toFixed(2); }
+function money(n){ return "£" + Math.abs(n).toFixed(2); }
+function sgn(n){ return (n>=0?"+":"−") + "£" + Math.abs(n).toFixed(2); }
 function esc(s){ return String(s ?? "").replace(/[&<>"']/g, c =>
   ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c])); }
 function sizeName(n){ return n===1?"Singles":n===2?"Doubles":n===3?"Trebles":n+"-folds"; }
@@ -178,18 +179,6 @@ function setView(v){
     (VIEW==="day" ? SEL + (SEL===todayStr() ? " · today" : "") : "the whole run");
   if(VIEW==="season") renderSeason();
   window.scrollTo(0,0);
-}
-
-/* ---- stake box ---- */
-function loadStake(){
-  const v = parseFloat(localStorage.getItem("bu-stake"));
-  STAKE = (v && v > 0) ? v : 0.10;
-  const box = document.getElementById("stakeBox");
-  box.value = STAKE.toFixed(2);
-  box.addEventListener("input", () => {
-    const v = parseFloat(box.value);
-    if(v && v > 0){ STAKE = v; localStorage.setItem("bu-stake", String(v)); render(); if(VIEW==="season") renderSeason(); }
-  });
 }
 
 async function loadDay(d, quiet){
@@ -252,14 +241,17 @@ function render(){
     lr.style.display = "";
     lc.textContent = `${sc.picks} selection${sc.picks===1?"":"s"} → ${sc.lines} lines · ${sc.pending||0} to run`;
   } else lr.style.display = "none";
+  const bankChip = document.getElementById("bankChip");
   const stakedV=document.getElementById("stakedV"), retV=document.getElementById("retV"), plV=document.getElementById("plV");
-  if(sc && day.units){
-    stakedV.textContent = money(day.units.staked);
-    retV.textContent = money(day.units.returned);
-    const pl = day.units.returned - day.units.staked;
+  if(day && day.bank){
+    bankChip.textContent = `£${r2(day.bank.start).toFixed(2)} → £${r2(day.bank.end).toFixed(2)}`;
+    stakedV.textContent = money(day.staked);
+    retV.textContent = money(day.returned);
+    const pl = day.profit != null ? day.profit : r2(day.returned - day.staked);
     plV.textContent = sgn(pl);
     plV.className = "v " + (pl>=0?"pos":"neg");
   } else {
+    bankChip.textContent = "—";
     stakedV.textContent="—"; retV.textContent="—"; plV.textContent="—"; plV.className="v";
   }
 
@@ -283,10 +275,14 @@ function render(){
         ${(l.trainer || l.jockey) ? `<br><small style="color:var(--dim)">${esc([l.trainer, l.jockey].filter(Boolean).join(" / "))}</small>` : ""}
       </div>`).join("");
       let badge, amt;
-      if(c.res === "WIN"){ badge = `<div class="badge won">WON</div>`; amt = `<span class="chip money">${money(c.ret)}</span>`; }
-      else if(c.res === "LOSE"){ badge = `<div class="badge lost">LOST</div>`; amt = `<span class="chip">− ${money(1)}</span>`; }
+      if(c.res === "WIN"){ badge = `<div class="badge won">WON</div>`;
+        amt = `<span class="chip money">${money(c.stake)} → ${money(c.pay)}</span>` +
+              (c.bank!=null ? `<span class="chip blue">bank £${r2(c.bank).toFixed(2)}</span>` : ""); }
+      else if(c.res === "LOSE"){ badge = `<div class="badge lost">LOST</div>`;
+        amt = `<span class="chip">− ${money(c.stake)}</span>` +
+              (c.bank!=null ? `<span class="chip blue">bank £${r2(c.bank).toFixed(2)}</span>` : ""); }
       else if(c.res === "NR"){ badge = `<div class="badge nr">REFUND</div>`; amt = `<span class="chip">stake returned</span>`; }
-      else { badge = `<div class="badge pending">TO RUN</div>`; amt = `<span class="chip">stake ${money(1)}</span>`; }
+      else { badge = `<div class="badge pending">TO RUN</div>`; amt = `<span class="chip">planned ${money(c.stake)}</span>`; }
       return `<div class="combo ${c.res==="PENDING"?"pending":""}">
         <div class="mid"><div class="legs">${legs}</div>
           <div class="r"><span class="chip blue">× ${c.dec ? esc(c.dec.toFixed(2)) : "—"}</span>${amt||""}</div></div>
@@ -299,8 +295,9 @@ function render(){
 function tbl(t, label){
   if(!t || !t.length) return "";
   return `<h4 class="sub">${esc(label)}</h4>
-  <table><tr><th></th><th>lines</th><th>won</th><th>returned</th><th>ROI</th></tr>` +
+  <table><tr><th></th><th>lines</th><th>won</th><th>staked</th><th>returned</th><th>ROI</th></tr>` +
     t.map(x=>`<tr><td>${esc(x.size||x.key)}</td><td>${x.lines??x.n??""}</td><td>${x.won??""}</td>
+      <td>${x.staked!=null?money(x.staked):""}</td>
       <td>${x.returned!=null?money(x.returned):""}</td>
       <td class="${x.roi>=0?"pos":"neg"}">${x.roi>=0?"+":""}${x.roi}%</td></tr>`).join("") + "</table>";
 }
@@ -312,12 +309,12 @@ function renderSeason(){
   const s = stats.season, bd = stats.best_day;
   document.getElementById("seasonView").innerHTML = `
   <div class="card">
-    <div class="label">The whole run — at ${money(1)} a line</div>
-    <div class="row"><div class="v sky" style="font-size:1.3rem;font-weight:900">${money(s.staked)} → ${money(s.returned)}</div>
+    <div class="label">The whole run — £10 bank · 1% of the bank a day</div>
+    <div class="row"><div class="v em" style="font-size:1.3rem;font-weight:900">£${r2(s.bank_start).toFixed(2)} → £${r2(s.bank_end).toFixed(2)}</div>
       <span class="chip blue">ROI ${s.roi>=0?"+":""}${s.roi}%</span></div>
     <div class="r" style="font-size:.72rem;color:var(--dim);margin-top:6px">
-      ${s.lines} lines over ${s.days} days · ${s.won} won · ${s.lost} lost</div>
-    ${bd?`<div class="r" style="font-size:.75rem;margin-top:8px">Best day: <b>${esc(bd.date)}</b> — ${bd.lines} lines → <span style="color:var(--em);font-weight:800">${money(bd.returned)}</span></div>`:""}
+      ${s.lines} lines over ${s.days} days · ${s.won} won · ${s.lost} lost · staked ${money(s.staked)} → ${money(s.returned)}</div>
+    ${bd?`<div class="r" style="font-size:.75rem;margin-top:8px">Best day: <b>${esc(bd.date)}</b> — ${bd.lines} lines → <span style="color:var(--em);font-weight:800">${sgn(bd.returned - bd.staked)}</span></div>`:""}
   </div>
   <div class="card">
     <div class="label">By fold size</div>
@@ -344,7 +341,6 @@ window.addEventListener("beforeinstallprompt", e=>{
 function doInstall(){ if(deferredPrompt){ deferredPrompt.prompt(); deferredPrompt=null; document.getElementById("instBtn").style.display="none"; } }
 
 async function init(quiet){
-  loadStake();
   jget("data/stats.json").then(j=>{ stats=j; if(VIEW==="season") renderSeason(); }).catch(()=>{});
   try{
     const idx = await jget("data/index.json");
