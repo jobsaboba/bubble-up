@@ -1,6 +1,6 @@
 {
   "date": "2026-11-06",
-  "generated": "2026-11-15T06:05:12+00:00",
+  "generated": "2026-11-15T08:25:43+00:00",
   "picks": [
     {
       "time": "12:50",
@@ -64,7 +64,9 @@
       ],
       "dec": 1.57,
       "res": "WIN",
-      "ret": 1.57
+      "stake": 0.02,
+      "pay": 0.03,
+      "bank": 15.61
     },
     {
       "size": 1,
@@ -81,7 +83,9 @@
       ],
       "dec": 3.25,
       "res": "WIN",
-      "ret": 3.25
+      "stake": 0.02,
+      "pay": 0.07,
+      "bank": 15.66
     },
     {
       "size": 1,
@@ -98,7 +102,9 @@
       ],
       "dec": 3.5,
       "res": "WIN",
-      "ret": 3.5
+      "stake": 0.02,
+      "pay": 0.07,
+      "bank": 15.79
     },
     {
       "size": 2,
@@ -124,7 +130,9 @@
       ],
       "dec": 5.11,
       "res": "WIN",
-      "ret": 5.11
+      "stake": 0.02,
+      "pay": 0.1,
+      "bank": 15.74
     },
     {
       "size": 2,
@@ -150,7 +158,9 @@
       ],
       "dec": 5.5,
       "res": "WIN",
-      "ret": 5.5
+      "stake": 0.02,
+      "pay": 0.11,
+      "bank": 15.88
     },
     {
       "size": 2,
@@ -176,7 +186,9 @@
       ],
       "dec": 11.38,
       "res": "WIN",
-      "ret": 11.38
+      "stake": 0.02,
+      "pay": 0.23,
+      "bank": 16.09
     },
     {
       "size": 3,
@@ -211,7 +223,9 @@
       ],
       "dec": 17.88,
       "res": "WIN",
-      "ret": 17.88
+      "stake": 0.02,
+      "pay": 0.36,
+      "bank": 16.43
     }
   ],
   "score": {
@@ -222,28 +236,37 @@
     "pending": 0,
     "nr": 0
   },
-  "units": {
-    "staked": 7,
-    "returned": 48.19
+  "staked": 0.14,
+  "returned": 0.97,
+  "profit": 0.83,
+  "bank": {
+    "start": 15.6,
+    "end": 16.43,
+    "next_stake": 0.16,
+    "season_start": 10.0,
+    "season_end": 62.6
   },
   "by_size": {
     "1": {
       "n": 3,
       "won": 3,
       "lines": 3,
-      "returned": 8.32
+      "staked": 0.06,
+      "returned": 0.17
     },
     "2": {
       "n": 3,
       "won": 3,
       "lines": 3,
-      "returned": 21.99
+      "staked": 0.06,
+      "returned": 0.44
     },
     "3": {
       "n": 1,
       "won": 1,
       "lines": 1,
-      "returned": 17.88
+      "staked": 0.02,
+      "returned": 0.36
     }
   }
 }

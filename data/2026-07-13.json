@@ -1,6 +1,6 @@
 {
   "date": "2026-07-13",
-  "generated": "2026-11-15T06:05:12+00:00",
+  "generated": "2026-11-15T08:25:43+00:00",
   "picks": [
     {
       "time": "14:00",
@@ -64,7 +64,9 @@
       ],
       "dec": 2.5,
       "res": "LOSE",
-      "ret": 0.0
+      "stake": 0.02,
+      "pay": 0.0,
+      "bank": 12.19
     },
     {
       "size": 1,
@@ -81,7 +83,9 @@
       ],
       "dec": 3.0,
       "res": "WIN",
-      "ret": 3.0
+      "stake": 0.02,
+      "pay": 0.06,
+      "bank": 12.23
     },
     {
       "size": 1,
@@ -98,7 +102,9 @@
       ],
       "dec": 2.5,
       "res": "LOSE",
-      "ret": 0.0
+      "stake": 0.02,
+      "pay": 0.0,
+      "bank": 12.19
     },
     {
       "size": 2,
@@ -124,7 +130,9 @@
       ],
       "dec": 7.5,
       "res": "LOSE",
-      "ret": 0.0
+      "stake": 0.02,
+      "pay": 0.0,
+      "bank": 12.21
     },
     {
       "size": 2,
@@ -150,7 +158,9 @@
       ],
       "dec": 6.25,
       "res": "LOSE",
-      "ret": 0.0
+      "stake": 0.02,
+      "pay": 0.0,
+      "bank": 12.17
     },
     {
       "size": 2,
@@ -176,7 +186,9 @@
       ],
       "dec": 7.5,
       "res": "LOSE",
-      "ret": 0.0
+      "stake": 0.02,
+      "pay": 0.0,
+      "bank": 12.15
     },
     {
       "size": 3,
@@ -211,7 +223,9 @@
       ],
       "dec": 18.75,
       "res": "LOSE",
-      "ret": 0.0
+      "stake": 0.02,
+      "pay": 0.0,
+      "bank": 12.13
     }
   ],
   "score": {
@@ -222,27 +236,36 @@
     "pending": 0,
     "nr": 0
   },
-  "units": {
-    "staked": 7,
-    "returned": 3.0
+  "staked": 0.14,
+  "returned": 0.06,
+  "profit": -0.08,
+  "bank": {
+    "start": 12.21,
+    "end": 12.13,
+    "next_stake": 0.12,
+    "season_start": 10.0,
+    "season_end": 62.6
   },
   "by_size": {
     "1": {
       "n": 3,
       "won": 1,
       "lines": 3,
-      "returned": 3.0
+      "staked": 0.06,
+      "returned": 0.06
     },
     "2": {
       "n": 3,
       "won": 0,
       "lines": 3,
+      "staked": 0.06,
       "returned": 0.0
     },
     "3": {
       "n": 1,
       "won": 0,
       "lines": 1,
+      "staked": 0.02,
       "returned": 0.0
     }
   }
