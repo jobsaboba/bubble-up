@@ -1,6 +1,6 @@
 {
   "date": "2026-03-06",
-  "generated": "2026-11-15T05:59:01+00:00",
+  "generated": "2026-11-15T06:05:12+00:00",
   "picks": [
     {
       "time": "16:20",
@@ -10,7 +10,7 @@
       "stars": 4,
       "odds": "17/2",
       "dec": 9.5,
-      "res": null,
+      "res": "NR",
       "pos": 0,
       "score1": 117.07,
       "score2": 57,
@@ -27,13 +27,13 @@
           "meeting": "Ayr",
           "horse": "Gege Ville",
           "odds": "17/2",
-          "res": "?",
+          "res": "NR",
           "trainer": "N G Richards",
           "jockey": "Danny McMenamin"
         }
       ],
       "dec": 9.5,
-      "res": "PENDING",
+      "res": "NR",
       "ret": null
     }
   ],
@@ -42,8 +42,8 @@
     "lines": 1,
     "won": 0,
     "lost": 0,
-    "pending": 1,
-    "nr": 0
+    "pending": 0,
+    "nr": 1
   },
   "units": {
     "staked": 0,

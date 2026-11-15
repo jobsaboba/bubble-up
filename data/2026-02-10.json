@@ -1,6 +1,6 @@
 {
   "date": "2026-02-10",
-  "generated": "2026-11-15T05:59:01+00:00",
+  "generated": "2026-11-15T06:05:12+00:00",
   "picks": [
     {
       "time": "15:40",
@@ -10,7 +10,7 @@
       "stars": 0,
       "odds": "",
       "dec": null,
-      "res": null,
+      "res": "NR",
       "pos": 0,
       "score1": 158.81,
       "score2": 37.11,
@@ -25,7 +25,7 @@
       "stars": 0,
       "odds": "",
       "dec": null,
-      "res": null,
+      "res": "NR",
       "pos": 0,
       "score1": 86.0,
       "score2": 37.54,
@@ -42,13 +42,13 @@
           "meeting": "Ffos Las",
           "horse": "Admiral Stewart",
           "odds": "",
-          "res": "?",
+          "res": "NR",
           "trainer": "Jamie Snowden",
           "jockey": "G Sheehan"
         }
       ],
       "dec": null,
-      "res": "PENDING",
+      "res": "NR",
       "ret": null
     },
     {
@@ -59,13 +59,13 @@
           "meeting": "Ffos Las",
           "horse": "Livingit Du Large",
           "odds": "",
-          "res": "?",
+          "res": "NR",
           "trainer": "Jamie Snowden",
           "jockey": ""
         }
       ],
       "dec": null,
-      "res": "PENDING",
+      "res": "NR",
       "ret": null
     },
     {
@@ -76,7 +76,7 @@
           "meeting": "Ffos Las",
           "horse": "Admiral Stewart",
           "odds": "",
-          "res": "?",
+          "res": "NR",
           "trainer": "Jamie Snowden",
           "jockey": "G Sheehan"
         },
@@ -85,13 +85,13 @@
           "meeting": "Ffos Las",
           "horse": "Livingit Du Large",
           "odds": "",
-          "res": "?",
+          "res": "NR",
           "trainer": "Jamie Snowden",
           "jockey": ""
         }
       ],
       "dec": null,
-      "res": "PENDING",
+      "res": "NR",
       "ret": null
     }
   ],
@@ -100,8 +100,8 @@
     "lines": 3,
     "won": 0,
     "lost": 0,
-    "pending": 3,
-    "nr": 0
+    "pending": 0,
+    "nr": 3
   },
   "units": {
     "staked": 0,

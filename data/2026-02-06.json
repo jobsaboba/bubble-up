@@ -1,6 +1,6 @@
 {
   "date": "2026-02-06",
-  "generated": "2026-11-15T05:59:01+00:00",
+  "generated": "2026-11-15T06:05:12+00:00",
   "picks": [
     {
       "time": "14:57",
@@ -10,7 +10,7 @@
       "stars": 5,
       "odds": "7/4",
       "dec": 2.75,
-      "res": null,
+      "res": "NR",
       "pos": 0,
       "score1": 140.78,
       "score2": 65.69,
@@ -27,13 +27,13 @@
           "meeting": "Bangor-on-Dee",
           "horse": "Big Cadillac",
           "odds": "7/4",
-          "res": "?",
+          "res": "NR",
           "trainer": "D Skelton",
           "jockey": "Harry Skelton"
         }
       ],
       "dec": 2.75,
-      "res": "PENDING",
+      "res": "NR",
       "ret": null
     }
   ],
@@ -42,8 +42,8 @@
     "lines": 1,
     "won": 0,
     "lost": 0,
-    "pending": 1,
-    "nr": 0
+    "pending": 0,
+    "nr": 1
   },
   "units": {
     "staked": 0,

@@ -1,6 +1,6 @@
 {
   "date": "2026-01-11",
-  "generated": "2026-11-15T05:59:01+00:00",
+  "generated": "2026-11-15T06:05:12+00:00",
   "picks": [
     {
       "time": "13:40",
@@ -10,7 +10,7 @@
       "stars": 0,
       "odds": "",
       "dec": null,
-      "res": null,
+      "res": "NR",
       "pos": 0,
       "score1": 105.0,
       "score2": 50,
@@ -25,7 +25,7 @@
       "stars": 0,
       "odds": "",
       "dec": null,
-      "res": null,
+      "res": "NR",
       "pos": 0,
       "score1": 56.0,
       "score2": 26,
@@ -40,7 +40,7 @@
       "stars": 0,
       "odds": "",
       "dec": null,
-      "res": null,
+      "res": "NR",
       "pos": 0,
       "score1": 135.0,
       "score2": 63,
@@ -57,13 +57,13 @@
           "meeting": "Kelso",
           "horse": "Legendary Luke",
           "odds": "",
-          "res": "?",
+          "res": "NR",
           "trainer": "Jamie Snowden",
           "jockey": ""
         }
       ],
       "dec": null,
-      "res": "PENDING",
+      "res": "NR",
       "ret": null
     },
     {
@@ -74,13 +74,13 @@
           "meeting": "Kelso",
           "horse": "Jehol De Thaix",
           "odds": "",
-          "res": "?",
+          "res": "NR",
           "trainer": "N G Richards",
           "jockey": "Sean Quinlan"
         }
       ],
       "dec": null,
-      "res": "PENDING",
+      "res": "NR",
       "ret": null
     },
     {
@@ -91,13 +91,13 @@
           "meeting": "Kelso",
           "horse": "Hollygrove Cha Cha",
           "odds": "",
-          "res": "?",
+          "res": "NR",
           "trainer": "Jamie Snowden",
           "jockey": ""
         }
       ],
       "dec": null,
-      "res": "PENDING",
+      "res": "NR",
       "ret": null
     },
     {
@@ -108,7 +108,7 @@
           "meeting": "Kelso",
           "horse": "Legendary Luke",
           "odds": "",
-          "res": "?",
+          "res": "NR",
           "trainer": "Jamie Snowden",
           "jockey": ""
         },
@@ -117,13 +117,13 @@
           "meeting": "Kelso",
           "horse": "Jehol De Thaix",
           "odds": "",
-          "res": "?",
+          "res": "NR",
           "trainer": "N G Richards",
           "jockey": "Sean Quinlan"
         }
       ],
       "dec": null,
-      "res": "PENDING",
+      "res": "NR",
       "ret": null
     },
     {
@@ -134,7 +134,7 @@
           "meeting": "Kelso",
           "horse": "Legendary Luke",
           "odds": "",
-          "res": "?",
+          "res": "NR",
           "trainer": "Jamie Snowden",
           "jockey": ""
         },
@@ -143,13 +143,13 @@
           "meeting": "Kelso",
           "horse": "Hollygrove Cha Cha",
           "odds": "",
-          "res": "?",
+          "res": "NR",
           "trainer": "Jamie Snowden",
           "jockey": ""
         }
       ],
       "dec": null,
-      "res": "PENDING",
+      "res": "NR",
       "ret": null
     },
     {
@@ -160,7 +160,7 @@
           "meeting": "Kelso",
           "horse": "Jehol De Thaix",
           "odds": "",
-          "res": "?",
+          "res": "NR",
           "trainer": "N G Richards",
           "jockey": "Sean Quinlan"
         },
@@ -169,13 +169,13 @@
           "meeting": "Kelso",
           "horse": "Hollygrove Cha Cha",
           "odds": "",
-          "res": "?",
+          "res": "NR",
           "trainer": "Jamie Snowden",
           "jockey": ""
         }
       ],
       "dec": null,
-      "res": "PENDING",
+      "res": "NR",
       "ret": null
     },
     {
@@ -186,7 +186,7 @@
           "meeting": "Kelso",
           "horse": "Legendary Luke",
           "odds": "",
-          "res": "?",
+          "res": "NR",
           "trainer": "Jamie Snowden",
           "jockey": ""
         },
@@ -195,7 +195,7 @@
           "meeting": "Kelso",
           "horse": "Jehol De Thaix",
           "odds": "",
-          "res": "?",
+          "res": "NR",
           "trainer": "N G Richards",
           "jockey": "Sean Quinlan"
         },
@@ -204,13 +204,13 @@
           "meeting": "Kelso",
           "horse": "Hollygrove Cha Cha",
           "odds": "",
-          "res": "?",
+          "res": "NR",
           "trainer": "Jamie Snowden",
           "jockey": ""
         }
       ],
       "dec": null,
-      "res": "PENDING",
+      "res": "NR",
       "ret": null
     }
   ],
@@ -219,8 +219,8 @@
     "lines": 7,
     "won": 0,
     "lost": 0,
-    "pending": 7,
-    "nr": 0
+    "pending": 0,
+    "nr": 7
   },
   "units": {
     "staked": 0,

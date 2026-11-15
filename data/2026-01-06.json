@@ -1,6 +1,6 @@
 {
   "date": "2026-01-06",
-  "generated": "2026-11-15T05:59:01+00:00",
+  "generated": "2026-11-15T06:05:12+00:00",
   "picks": [
     {
       "time": "15:30",
@@ -10,7 +10,7 @@
       "stars": 0,
       "odds": "",
       "dec": null,
-      "res": null,
+      "res": "NR",
       "pos": 0,
       "score1": 65.55,
       "score2": 29.0,
@@ -27,13 +27,13 @@
           "meeting": "Musselburgh",
           "horse": "Nightflyer",
           "odds": "",
-          "res": "?",
+          "res": "NR",
           "trainer": "A Keatley",
           "jockey": "B S Hughes"
         }
       ],
       "dec": null,
-      "res": "PENDING",
+      "res": "NR",
       "ret": null
     }
   ],
@@ -42,8 +42,8 @@
     "lines": 1,
     "won": 0,
     "lost": 0,
-    "pending": 1,
-    "nr": 0
+    "pending": 0,
+    "nr": 1
   },
   "units": {
     "staked": 0,
