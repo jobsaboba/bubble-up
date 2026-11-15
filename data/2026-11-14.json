@@ -1,22 +1,7 @@
 {
   "date": "2026-11-14",
-  "generated": "2026-11-14T22:30:38+00:00",
+  "generated": "2026-11-15T05:45:01+00:00",
   "picks": [
-    {
-      "time": "14:35",
-      "meeting": "Windsor",
-      "race": "Join Fitzdares For A Personal Service Handicap Chase (GBB Race)",
-      "horse": "King Califet",
-      "stars": 5,
-      "odds": "2/1",
-      "dec": 3.0,
-      "res": null,
-      "pos": 0,
-      "score1": 135.36,
-      "score2": 50.23,
-      "trainer": "Miss E C Lavelle",
-      "jockey": "Ben Jones"
-    },
     {
       "time": "15:35",
       "meeting": "Uttoxeter",
@@ -38,23 +23,6 @@
       "size": 1,
       "legs": [
         {
-          "time": "14:35",
-          "meeting": "Windsor",
-          "horse": "King Califet",
-          "odds": "2/1",
-          "res": "?",
-          "trainer": "Miss E C Lavelle",
-          "jockey": "Ben Jones"
-        }
-      ],
-      "dec": 3.0,
-      "res": "PENDING",
-      "ret": null
-    },
-    {
-      "size": 1,
-      "legs": [
-        {
           "time": "15:35",
           "meeting": "Uttoxeter",
           "horse": "Lady Coco",
@@ -67,53 +35,22 @@
       "dec": 5.5,
       "res": "LOSE",
       "ret": 0.0
-    },
-    {
-      "size": 2,
-      "legs": [
-        {
-          "time": "14:35",
-          "meeting": "Windsor",
-          "horse": "King Califet",
-          "odds": "2/1",
-          "res": "?",
-          "trainer": "Miss E C Lavelle",
-          "jockey": "Ben Jones"
-        },
-        {
-          "time": "15:35",
-          "meeting": "Uttoxeter",
-          "horse": "Lady Coco",
-          "odds": "9/2",
-          "res": "LOSE",
-          "trainer": "H D Daly",
-          "jockey": "David Bass"
-        }
-      ],
-      "dec": 16.5,
-      "res": "LOSE",
-      "ret": 0.0
     }
   ],
   "score": {
-    "picks": 2,
-    "lines": 3,
+    "picks": 1,
+    "lines": 1,
     "won": 0,
-    "lost": 2,
-    "pending": 1
+    "lost": 1,
+    "pending": 0,
+    "nr": 0
   },
   "units": {
-    "staked": 2,
+    "staked": 1,
     "returned": 0.0
   },
   "by_size": {
     "1": {
-      "n": 1,
-      "won": 0,
-      "lines": 1,
-      "returned": 0.0
-    },
-    "2": {
       "n": 1,
       "won": 0,
       "lines": 1,

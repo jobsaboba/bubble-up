@@ -1,6 +1,6 @@
 {
   "date": "2026-08-08",
-  "generated": "2026-11-14T22:30:38+00:00",
+  "generated": "2026-11-15T05:45:01+00:00",
   "picks": [
     {
       "time": "17:00",
@@ -100,7 +100,8 @@
     "lines": 3,
     "won": 0,
     "lost": 3,
-    "pending": 0
+    "pending": 0,
+    "nr": 0
   },
   "units": {
     "staked": 3,
