@@ -1,36 +1,21 @@
 {
-  "date": "2026-11-15",
-  "generated": "2026-11-15T16:00:46+00:00",
+  "date": "2026-11-16",
+  "generated": "2026-11-16T05:45:02+00:00",
   "picks": [
     {
-      "time": "12:10",
-      "meeting": "Navan",
-      "race": "Irish Stallion Farms EBF Mares Maiden Hurdle",
-      "horse": "La Valserine",
+      "time": "18:00",
+      "meeting": "Wolverhampton",
+      "race": "AWC Season 14 Has Begun EBF Novice Stakes (GBB/GBBPlus Race) (Div 2)",
+      "horse": "Al Lahbab",
       "stars": 5,
-      "odds": "5/2",
-      "dec": 3.5,
-      "res": "PLACE",
-      "pos": 3,
-      "score1": 219.6,
-      "score2": 70.55,
-      "trainer": "W P Mullins",
-      "jockey": "Paul Townend"
-    },
-    {
-      "time": "15:35",
-      "meeting": "Navan",
-      "race": "Coolmore N.H. Sires Hurricane Lane Irish EBF Mares Flat Race (Listed)",
-      "horse": "Silver Song",
-      "stars": 1,
-      "odds": "25/1",
-      "dec": 26.0,
-      "res": "LOSE",
-      "pos": 6,
-      "score1": 160.0,
-      "score2": 65.22,
-      "trainer": "Derek O'Connor",
-      "jockey": "Mr B M Coonan"
+      "odds": "10/11",
+      "dec": 1.9090909090909092,
+      "res": null,
+      "pos": 0,
+      "score1": 105.65,
+      "score2": 22.11,
+      "trainer": "C Appleby",
+      "jockey": "Connor Planas"
     }
   ],
   "combos": [
@@ -38,101 +23,39 @@
       "size": 1,
       "legs": [
         {
-          "time": "12:10",
-          "meeting": "Navan",
-          "horse": "La Valserine",
-          "odds": "5/2",
-          "res": "PLACE",
-          "trainer": "W P Mullins",
-          "jockey": "Paul Townend"
+          "time": "18:00",
+          "meeting": "Wolverhampton",
+          "horse": "Al Lahbab",
+          "odds": "10/11",
+          "res": "?",
+          "trainer": "C Appleby",
+          "jockey": "Connor Planas"
         }
       ],
-      "dec": 3.5,
-      "res": "LOSE",
-      "stake": 0.21,
-      "pay": 0.0,
-      "bank": 62.39
-    },
-    {
-      "size": 1,
-      "legs": [
-        {
-          "time": "15:35",
-          "meeting": "Navan",
-          "horse": "Silver Song",
-          "odds": "25/1",
-          "res": "LOSE",
-          "trainer": "Derek O'Connor",
-          "jockey": "Mr B M Coonan"
-        }
-      ],
-      "dec": 26.0,
-      "res": "LOSE",
-      "stake": 0.21,
-      "pay": 0.0,
-      "bank": 62.18
-    },
-    {
-      "size": 2,
-      "legs": [
-        {
-          "time": "12:10",
-          "meeting": "Navan",
-          "horse": "La Valserine",
-          "odds": "5/2",
-          "res": "PLACE",
-          "trainer": "W P Mullins",
-          "jockey": "Paul Townend"
-        },
-        {
-          "time": "15:35",
-          "meeting": "Navan",
-          "horse": "Silver Song",
-          "odds": "25/1",
-          "res": "LOSE",
-          "trainer": "Derek O'Connor",
-          "jockey": "Mr B M Coonan"
-        }
-      ],
-      "dec": 91.0,
-      "res": "LOSE",
-      "stake": 0.21,
-      "pay": 0.0,
-      "bank": 61.97
+      "dec": 1.91,
+      "res": "PENDING",
+      "stake": 0.62,
+      "pay": null,
+      "bank": null
     }
   ],
   "score": {
-    "picks": 2,
-    "lines": 3,
+    "picks": 1,
+    "lines": 1,
     "won": 0,
-    "lost": 3,
-    "pending": 0,
+    "lost": 0,
+    "pending": 1,
     "nr": 0
   },
-  "staked": 0.63,
-  "returned": 0.0,
-  "profit": -0.63,
+  "staked": 0,
+  "returned": 0,
+  "profit": 0,
   "bank": {
-    "start": 62.6,
+    "start": 61.97,
     "end": 61.97,
     "next_stake": 0.62,
     "season_start": 10.0,
     "season_end": 61.97
   },
-  "by_size": {
-    "1": {
-      "n": 2,
-      "won": 0,
-      "lines": 2,
-      "staked": 0.42,
-      "returned": 0.0
-    },
-    "2": {
-      "n": 1,
-      "won": 0,
-      "lines": 1,
-      "staked": 0.21,
-      "returned": 0.0
-    }
-  }
+  "by_size": {}
 }

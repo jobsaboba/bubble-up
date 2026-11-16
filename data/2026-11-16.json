@@ -1,0 +1,61 @@
+{
+  "date": "2026-11-16",
+  "generated": "2026-11-16T05:45:02+00:00",
+  "picks": [
+    {
+      "time": "18:00",
+      "meeting": "Wolverhampton",
+      "race": "AWC Season 14 Has Begun EBF Novice Stakes (GBB/GBBPlus Race) (Div 2)",
+      "horse": "Al Lahbab",
+      "stars": 5,
+      "odds": "10/11",
+      "dec": 1.9090909090909092,
+      "res": null,
+      "pos": 0,
+      "score1": 105.65,
+      "score2": 22.11,
+      "trainer": "C Appleby",
+      "jockey": "Connor Planas"
+    }
+  ],
+  "combos": [
+    {
+      "size": 1,
+      "legs": [
+        {
+          "time": "18:00",
+          "meeting": "Wolverhampton",
+          "horse": "Al Lahbab",
+          "odds": "10/11",
+          "res": "?",
+          "trainer": "C Appleby",
+          "jockey": "Connor Planas"
+        }
+      ],
+      "dec": 1.91,
+      "res": "PENDING",
+      "stake": 0.62,
+      "pay": null,
+      "bank": null
+    }
+  ],
+  "score": {
+    "picks": 1,
+    "lines": 1,
+    "won": 0,
+    "lost": 0,
+    "pending": 1,
+    "nr": 0
+  },
+  "staked": 0,
+  "returned": 0,
+  "profit": 0,
+  "bank": {
+    "start": 61.97,
+    "end": 61.97,
+    "next_stake": 0.62,
+    "season_start": 10.0,
+    "season_end": 61.97
+  },
+  "by_size": {}
+}
