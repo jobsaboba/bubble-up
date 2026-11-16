@@ -1,6 +1,6 @@
 {
   "date": "2026-11-16",
-  "generated": "2026-11-16T05:45:02+00:00",
+  "generated": "2026-11-16T18:30:47+00:00",
   "picks": [
     {
       "time": "18:00",
@@ -10,8 +10,8 @@
       "stars": 5,
       "odds": "10/11",
       "dec": 1.9090909090909092,
-      "res": null,
-      "pos": 0,
+      "res": "LOSE",
+      "pos": 4,
       "score1": 105.65,
       "score2": 22.11,
       "trainer": "C Appleby",
@@ -27,35 +27,43 @@
           "meeting": "Wolverhampton",
           "horse": "Al Lahbab",
           "odds": "10/11",
-          "res": "?",
+          "res": "LOSE",
           "trainer": "C Appleby",
           "jockey": "Connor Planas"
         }
       ],
       "dec": 1.91,
-      "res": "PENDING",
+      "res": "LOSE",
       "stake": 0.62,
-      "pay": null,
-      "bank": null
+      "pay": 0.0,
+      "bank": 61.35
     }
   ],
   "score": {
     "picks": 1,
     "lines": 1,
     "won": 0,
-    "lost": 0,
-    "pending": 1,
+    "lost": 1,
+    "pending": 0,
     "nr": 0
   },
-  "staked": 0,
-  "returned": 0,
-  "profit": 0,
+  "staked": 0.62,
+  "returned": 0.0,
+  "profit": -0.62,
   "bank": {
     "start": 61.97,
-    "end": 61.97,
-    "next_stake": 0.62,
+    "end": 61.35,
+    "next_stake": 0.61,
     "season_start": 10.0,
-    "season_end": 61.97
+    "season_end": 61.35
   },
-  "by_size": {}
+  "by_size": {
+    "1": {
+      "n": 1,
+      "won": 0,
+      "lines": 1,
+      "staked": 0.62,
+      "returned": 0.0
+    }
+  }
 }
