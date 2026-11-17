@@ -1,21 +1,21 @@
 {
-  "date": "2026-11-16",
-  "generated": "2026-11-16T18:30:47+00:00",
+  "date": "2026-11-17",
+  "generated": "2026-11-17T05:45:02+00:00",
   "picks": [
     {
       "time": "18:00",
-      "meeting": "Wolverhampton",
-      "race": "AWC Season 14 Has Begun EBF Novice Stakes (GBB/GBBPlus Race) (Div 2)",
-      "horse": "Al Lahbab",
-      "stars": 5,
-      "odds": "10/11",
-      "dec": 1.9090909090909092,
-      "res": "LOSE",
-      "pos": 4,
-      "score1": 105.65,
-      "score2": 22.11,
-      "trainer": "C Appleby",
-      "jockey": "Connor Planas"
+      "meeting": "Southwell",
+      "race": "AWC Season 14 Has Begun Fillies' Novice Stakes (GBB/GBBPlus Race)",
+      "horse": "Bintnaseefa",
+      "stars": 4,
+      "odds": "9/2",
+      "dec": 5.5,
+      "res": null,
+      "pos": 0,
+      "score1": 111.0,
+      "score2": 55.09,
+      "trainer": "Harry Charlton",
+      "jockey": "Millie Wonnacott"
     }
   ],
   "combos": [
@@ -24,46 +24,38 @@
       "legs": [
         {
           "time": "18:00",
-          "meeting": "Wolverhampton",
-          "horse": "Al Lahbab",
-          "odds": "10/11",
-          "res": "LOSE",
-          "trainer": "C Appleby",
-          "jockey": "Connor Planas"
+          "meeting": "Southwell",
+          "horse": "Bintnaseefa",
+          "odds": "9/2",
+          "res": "?",
+          "trainer": "Harry Charlton",
+          "jockey": "Millie Wonnacott"
         }
       ],
-      "dec": 1.91,
-      "res": "LOSE",
-      "stake": 0.62,
-      "pay": 0.0,
-      "bank": 61.35
+      "dec": 5.5,
+      "res": "PENDING",
+      "stake": 0.61,
+      "pay": null,
+      "bank": null
     }
   ],
   "score": {
     "picks": 1,
     "lines": 1,
     "won": 0,
-    "lost": 1,
-    "pending": 0,
+    "lost": 0,
+    "pending": 1,
     "nr": 0
   },
-  "staked": 0.62,
-  "returned": 0.0,
-  "profit": -0.62,
+  "staked": 0,
+  "returned": 0,
+  "profit": 0,
   "bank": {
-    "start": 61.97,
+    "start": 61.35,
     "end": 61.35,
     "next_stake": 0.61,
     "season_start": 10.0,
     "season_end": 61.35
   },
-  "by_size": {
-    "1": {
-      "n": 1,
-      "won": 0,
-      "lines": 1,
-      "staked": 0.62,
-      "returned": 0.0
-    }
-  }
+  "by_size": {}
 }

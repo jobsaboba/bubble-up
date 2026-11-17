@@ -1,0 +1,61 @@
+{
+  "date": "2026-11-17",
+  "generated": "2026-11-17T05:45:02+00:00",
+  "picks": [
+    {
+      "time": "18:00",
+      "meeting": "Southwell",
+      "race": "AWC Season 14 Has Begun Fillies' Novice Stakes (GBB/GBBPlus Race)",
+      "horse": "Bintnaseefa",
+      "stars": 4,
+      "odds": "9/2",
+      "dec": 5.5,
+      "res": null,
+      "pos": 0,
+      "score1": 111.0,
+      "score2": 55.09,
+      "trainer": "Harry Charlton",
+      "jockey": "Millie Wonnacott"
+    }
+  ],
+  "combos": [
+    {
+      "size": 1,
+      "legs": [
+        {
+          "time": "18:00",
+          "meeting": "Southwell",
+          "horse": "Bintnaseefa",
+          "odds": "9/2",
+          "res": "?",
+          "trainer": "Harry Charlton",
+          "jockey": "Millie Wonnacott"
+        }
+      ],
+      "dec": 5.5,
+      "res": "PENDING",
+      "stake": 0.61,
+      "pay": null,
+      "bank": null
+    }
+  ],
+  "score": {
+    "picks": 1,
+    "lines": 1,
+    "won": 0,
+    "lost": 0,
+    "pending": 1,
+    "nr": 0
+  },
+  "staked": 0,
+  "returned": 0,
+  "profit": 0,
+  "bank": {
+    "start": 61.35,
+    "end": 61.35,
+    "next_stake": 0.61,
+    "season_start": 10.0,
+    "season_end": 61.35
+  },
+  "by_size": {}
+}
