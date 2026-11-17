@@ -1,6 +1,6 @@
 {
   "date": "2026-11-17",
-  "generated": "2026-11-17T05:45:02+00:00",
+  "generated": "2026-11-17T13:00:49+00:00",
   "picks": [
     {
       "time": "18:00",
@@ -10,7 +10,7 @@
       "stars": 4,
       "odds": "9/2",
       "dec": 5.5,
-      "res": null,
+      "res": "NR",
       "pos": 0,
       "score1": 111.0,
       "score2": 55.09,
@@ -27,16 +27,16 @@
           "meeting": "Southwell",
           "horse": "Bintnaseefa",
           "odds": "9/2",
-          "res": "?",
+          "res": "NR",
           "trainer": "Harry Charlton",
           "jockey": "Millie Wonnacott"
         }
       ],
       "dec": 5.5,
-      "res": "PENDING",
-      "stake": 0.61,
+      "res": "NR",
+      "stake": 0.0,
       "pay": null,
-      "bank": null
+      "bank": 61.35
     }
   ],
   "score": {
@@ -44,8 +44,8 @@
     "lines": 1,
     "won": 0,
     "lost": 0,
-    "pending": 1,
-    "nr": 0
+    "pending": 0,
+    "nr": 1
   },
   "staked": 0,
   "returned": 0,
