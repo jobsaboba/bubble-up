@@ -1,6 +1,6 @@
 {
   "date": "2026-11-18",
-  "generated": "2026-11-18T05:45:02+00:00",
+  "generated": "2026-11-18T13:00:56+00:00",
   "picks": [
     {
       "time": "12:33",
@@ -10,8 +10,8 @@
       "stars": 5,
       "odds": "11/8",
       "dec": 2.375,
-      "res": null,
-      "pos": 0,
+      "res": "WIN",
+      "pos": 1,
       "score1": 162.54,
       "score2": 37.0,
       "trainer": "Jamie Snowden",
@@ -25,7 +25,7 @@
       "stars": 5,
       "odds": "5/4",
       "dec": 2.25,
-      "res": null,
+      "res": "NR",
       "pos": 0,
       "score1": 105.63,
       "score2": 48.26,
@@ -57,16 +57,16 @@
           "meeting": "Hexham",
           "horse": "Lord Du Gouet",
           "odds": "11/8",
-          "res": "?",
+          "res": "WIN",
           "trainer": "Jamie Snowden",
           "jockey": "G Sheehan"
         }
       ],
       "dec": 2.38,
-      "res": "PENDING",
+      "res": "WIN",
       "stake": 0.09,
-      "pay": null,
-      "bank": null
+      "pay": 0.21,
+      "bank": 61.47
     },
     {
       "size": 1,
@@ -76,16 +76,16 @@
           "meeting": "Ffos Las",
           "horse": "Diamond Street",
           "odds": "5/4",
-          "res": "?",
+          "res": "NR",
           "trainer": "D Skelton",
           "jockey": "Harry Skelton"
         }
       ],
       "dec": 2.25,
-      "res": "PENDING",
-      "stake": 0.09,
+      "res": "NR",
+      "stake": 0.0,
       "pay": null,
-      "bank": null
+      "bank": 61.47
     },
     {
       "size": 1,
@@ -114,7 +114,7 @@
           "meeting": "Hexham",
           "horse": "Lord Du Gouet",
           "odds": "11/8",
-          "res": "?",
+          "res": "WIN",
           "trainer": "Jamie Snowden",
           "jockey": "G Sheehan"
         },
@@ -123,16 +123,16 @@
           "meeting": "Ffos Las",
           "horse": "Diamond Street",
           "odds": "5/4",
-          "res": "?",
+          "res": "NR",
           "trainer": "D Skelton",
           "jockey": "Harry Skelton"
         }
       ],
       "dec": 5.34,
-      "res": "PENDING",
-      "stake": 0.09,
+      "res": "NR",
+      "stake": 0.0,
       "pay": null,
-      "bank": null
+      "bank": 61.47
     },
     {
       "size": 2,
@@ -142,7 +142,7 @@
           "meeting": "Hexham",
           "horse": "Lord Du Gouet",
           "odds": "11/8",
-          "res": "?",
+          "res": "WIN",
           "trainer": "Jamie Snowden",
           "jockey": "G Sheehan"
         },
@@ -170,7 +170,7 @@
           "meeting": "Ffos Las",
           "horse": "Diamond Street",
           "odds": "5/4",
-          "res": "?",
+          "res": "NR",
           "trainer": "D Skelton",
           "jockey": "Harry Skelton"
         },
@@ -198,7 +198,7 @@
           "meeting": "Hexham",
           "horse": "Lord Du Gouet",
           "odds": "11/8",
-          "res": "?",
+          "res": "WIN",
           "trainer": "Jamie Snowden",
           "jockey": "G Sheehan"
         },
@@ -207,7 +207,7 @@
           "meeting": "Ffos Las",
           "horse": "Diamond Street",
           "odds": "5/4",
-          "res": "?",
+          "res": "NR",
           "trainer": "D Skelton",
           "jockey": "Harry Skelton"
         },
@@ -231,20 +231,28 @@
   "score": {
     "picks": 3,
     "lines": 7,
-    "won": 0,
+    "won": 1,
     "lost": 0,
-    "pending": 7,
-    "nr": 0
+    "pending": 4,
+    "nr": 2
   },
-  "staked": 0,
-  "returned": 0,
-  "profit": 0,
+  "staked": 0.09,
+  "returned": 0.21,
+  "profit": 0.12,
   "bank": {
     "start": 61.35,
-    "end": 61.35,
+    "end": 61.47,
     "next_stake": 0.61,
     "season_start": 10.0,
-    "season_end": 61.35
+    "season_end": 61.47
   },
-  "by_size": {}
+  "by_size": {
+    "1": {
+      "n": 1,
+      "won": 1,
+      "lines": 1,
+      "staked": 0.09,
+      "returned": 0.21
+    }
+  }
 }
