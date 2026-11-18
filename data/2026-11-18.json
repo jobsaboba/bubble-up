@@ -1,0 +1,250 @@
+{
+  "date": "2026-11-18",
+  "generated": "2026-11-18T05:45:02+00:00",
+  "picks": [
+    {
+      "time": "12:33",
+      "meeting": "Hexham",
+      "race": "British Stallion Studs EBF 'National Hunt' Novices' Hurdle (GBB Race)",
+      "horse": "Lord Du Gouet",
+      "stars": 5,
+      "odds": "11/8",
+      "dec": 2.375,
+      "res": null,
+      "pos": 0,
+      "score1": 162.54,
+      "score2": 37.0,
+      "trainer": "Jamie Snowden",
+      "jockey": "G Sheehan"
+    },
+    {
+      "time": "13:18",
+      "meeting": "Ffos Las",
+      "race": "Dandara Maiden Hurdle (GBB Race) (Div 2)",
+      "horse": "Diamond Street",
+      "stars": 5,
+      "odds": "5/4",
+      "dec": 2.25,
+      "res": null,
+      "pos": 0,
+      "score1": 105.63,
+      "score2": 48.26,
+      "trainer": "D Skelton",
+      "jockey": "Harry Skelton"
+    },
+    {
+      "time": "15:18",
+      "meeting": "Ffos Las",
+      "race": "3A's Leisure Novices' Handicap Hurdle",
+      "horse": "Wispit Twob",
+      "stars": 4,
+      "odds": "9/4",
+      "dec": 3.25,
+      "res": null,
+      "pos": 0,
+      "score1": 100.36,
+      "score2": 44.14,
+      "trainer": "M Keighley",
+      "jockey": "S Bowen"
+    }
+  ],
+  "combos": [
+    {
+      "size": 1,
+      "legs": [
+        {
+          "time": "12:33",
+          "meeting": "Hexham",
+          "horse": "Lord Du Gouet",
+          "odds": "11/8",
+          "res": "?",
+          "trainer": "Jamie Snowden",
+          "jockey": "G Sheehan"
+        }
+      ],
+      "dec": 2.38,
+      "res": "PENDING",
+      "stake": 0.09,
+      "pay": null,
+      "bank": null
+    },
+    {
+      "size": 1,
+      "legs": [
+        {
+          "time": "13:18",
+          "meeting": "Ffos Las",
+          "horse": "Diamond Street",
+          "odds": "5/4",
+          "res": "?",
+          "trainer": "D Skelton",
+          "jockey": "Harry Skelton"
+        }
+      ],
+      "dec": 2.25,
+      "res": "PENDING",
+      "stake": 0.09,
+      "pay": null,
+      "bank": null
+    },
+    {
+      "size": 1,
+      "legs": [
+        {
+          "time": "15:18",
+          "meeting": "Ffos Las",
+          "horse": "Wispit Twob",
+          "odds": "9/4",
+          "res": "?",
+          "trainer": "M Keighley",
+          "jockey": "S Bowen"
+        }
+      ],
+      "dec": 3.25,
+      "res": "PENDING",
+      "stake": 0.09,
+      "pay": null,
+      "bank": null
+    },
+    {
+      "size": 2,
+      "legs": [
+        {
+          "time": "12:33",
+          "meeting": "Hexham",
+          "horse": "Lord Du Gouet",
+          "odds": "11/8",
+          "res": "?",
+          "trainer": "Jamie Snowden",
+          "jockey": "G Sheehan"
+        },
+        {
+          "time": "13:18",
+          "meeting": "Ffos Las",
+          "horse": "Diamond Street",
+          "odds": "5/4",
+          "res": "?",
+          "trainer": "D Skelton",
+          "jockey": "Harry Skelton"
+        }
+      ],
+      "dec": 5.34,
+      "res": "PENDING",
+      "stake": 0.09,
+      "pay": null,
+      "bank": null
+    },
+    {
+      "size": 2,
+      "legs": [
+        {
+          "time": "12:33",
+          "meeting": "Hexham",
+          "horse": "Lord Du Gouet",
+          "odds": "11/8",
+          "res": "?",
+          "trainer": "Jamie Snowden",
+          "jockey": "G Sheehan"
+        },
+        {
+          "time": "15:18",
+          "meeting": "Ffos Las",
+          "horse": "Wispit Twob",
+          "odds": "9/4",
+          "res": "?",
+          "trainer": "M Keighley",
+          "jockey": "S Bowen"
+        }
+      ],
+      "dec": 7.72,
+      "res": "PENDING",
+      "stake": 0.09,
+      "pay": null,
+      "bank": null
+    },
+    {
+      "size": 2,
+      "legs": [
+        {
+          "time": "13:18",
+          "meeting": "Ffos Las",
+          "horse": "Diamond Street",
+          "odds": "5/4",
+          "res": "?",
+          "trainer": "D Skelton",
+          "jockey": "Harry Skelton"
+        },
+        {
+          "time": "15:18",
+          "meeting": "Ffos Las",
+          "horse": "Wispit Twob",
+          "odds": "9/4",
+          "res": "?",
+          "trainer": "M Keighley",
+          "jockey": "S Bowen"
+        }
+      ],
+      "dec": 7.31,
+      "res": "PENDING",
+      "stake": 0.09,
+      "pay": null,
+      "bank": null
+    },
+    {
+      "size": 3,
+      "legs": [
+        {
+          "time": "12:33",
+          "meeting": "Hexham",
+          "horse": "Lord Du Gouet",
+          "odds": "11/8",
+          "res": "?",
+          "trainer": "Jamie Snowden",
+          "jockey": "G Sheehan"
+        },
+        {
+          "time": "13:18",
+          "meeting": "Ffos Las",
+          "horse": "Diamond Street",
+          "odds": "5/4",
+          "res": "?",
+          "trainer": "D Skelton",
+          "jockey": "Harry Skelton"
+        },
+        {
+          "time": "15:18",
+          "meeting": "Ffos Las",
+          "horse": "Wispit Twob",
+          "odds": "9/4",
+          "res": "?",
+          "trainer": "M Keighley",
+          "jockey": "S Bowen"
+        }
+      ],
+      "dec": 17.37,
+      "res": "PENDING",
+      "stake": 0.09,
+      "pay": null,
+      "bank": null
+    }
+  ],
+  "score": {
+    "picks": 3,
+    "lines": 7,
+    "won": 0,
+    "lost": 0,
+    "pending": 7,
+    "nr": 0
+  },
+  "staked": 0,
+  "returned": 0,
+  "profit": 0,
+  "bank": {
+    "start": 61.35,
+    "end": 61.35,
+    "next_stake": 0.61,
+    "season_start": 10.0,
+    "season_end": 61.35
+  },
+  "by_size": {}
+}
