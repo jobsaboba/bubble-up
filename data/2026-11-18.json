@@ -1,6 +1,6 @@
 {
   "date": "2026-11-18",
-  "generated": "2026-11-18T13:00:56+00:00",
+  "generated": "2026-11-18T13:30:57+00:00",
   "picks": [
     {
       "time": "12:33",
@@ -25,8 +25,8 @@
       "stars": 5,
       "odds": "5/4",
       "dec": 2.25,
-      "res": "NR",
-      "pos": 0,
+      "res": "WIN",
+      "pos": 1,
       "score1": 105.63,
       "score2": 48.26,
       "trainer": "D Skelton",
@@ -76,16 +76,16 @@
           "meeting": "Ffos Las",
           "horse": "Diamond Street",
           "odds": "5/4",
-          "res": "NR",
+          "res": "WIN",
           "trainer": "D Skelton",
           "jockey": "Harry Skelton"
         }
       ],
       "dec": 2.25,
-      "res": "NR",
-      "stake": 0.0,
-      "pay": null,
-      "bank": 61.47
+      "res": "WIN",
+      "stake": 0.09,
+      "pay": 0.2,
+      "bank": 61.58
     },
     {
       "size": 1,
@@ -123,16 +123,16 @@
           "meeting": "Ffos Las",
           "horse": "Diamond Street",
           "odds": "5/4",
-          "res": "NR",
+          "res": "WIN",
           "trainer": "D Skelton",
           "jockey": "Harry Skelton"
         }
       ],
       "dec": 5.34,
-      "res": "NR",
-      "stake": 0.0,
-      "pay": null,
-      "bank": 61.47
+      "res": "WIN",
+      "stake": 0.09,
+      "pay": 0.48,
+      "bank": 61.97
     },
     {
       "size": 2,
@@ -170,7 +170,7 @@
           "meeting": "Ffos Las",
           "horse": "Diamond Street",
           "odds": "5/4",
-          "res": "NR",
+          "res": "WIN",
           "trainer": "D Skelton",
           "jockey": "Harry Skelton"
         },
@@ -207,7 +207,7 @@
           "meeting": "Ffos Las",
           "horse": "Diamond Street",
           "odds": "5/4",
-          "res": "NR",
+          "res": "WIN",
           "trainer": "D Skelton",
           "jockey": "Harry Skelton"
         },
@@ -231,28 +231,35 @@
   "score": {
     "picks": 3,
     "lines": 7,
-    "won": 1,
+    "won": 3,
     "lost": 0,
     "pending": 4,
-    "nr": 2
+    "nr": 0
   },
-  "staked": 0.09,
-  "returned": 0.21,
-  "profit": 0.12,
+  "staked": 0.27,
+  "returned": 0.89,
+  "profit": 0.62,
   "bank": {
     "start": 61.35,
-    "end": 61.47,
-    "next_stake": 0.61,
+    "end": 61.97,
+    "next_stake": 0.62,
     "season_start": 10.0,
-    "season_end": 61.47
+    "season_end": 61.97
   },
   "by_size": {
     "1": {
+      "n": 2,
+      "won": 2,
+      "lines": 2,
+      "staked": 0.18,
+      "returned": 0.41
+    },
+    "2": {
       "n": 1,
       "won": 1,
       "lines": 1,
       "staked": 0.09,
-      "returned": 0.21
+      "returned": 0.48
     }
   }
 }
