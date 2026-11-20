@@ -1,6 +1,6 @@
 {
   "date": "2026-11-20",
-  "generated": "2026-11-20T05:45:01+00:00",
+  "generated": "2026-11-20T13:01:04+00:00",
   "picks": [
     {
       "time": "16:30",
@@ -25,7 +25,7 @@
       "stars": 5,
       "odds": "9/4",
       "dec": 3.25,
-      "res": null,
+      "res": "NR",
       "pos": 0,
       "score1": 81.33,
       "score2": 28.57,
@@ -61,16 +61,16 @@
           "meeting": "Dundalk",
           "horse": "Castilian Queen",
           "odds": "9/4",
-          "res": "?",
+          "res": "NR",
           "trainer": "G M Lyons",
           "jockey": "Colin Keane"
         }
       ],
       "dec": 3.25,
-      "res": "PENDING",
-      "stake": 0.21,
+      "res": "NR",
+      "stake": 0.0,
       "pay": null,
-      "bank": null
+      "bank": 61.61
     },
     {
       "size": 2,
@@ -89,7 +89,7 @@
           "meeting": "Dundalk",
           "horse": "Castilian Queen",
           "odds": "9/4",
-          "res": "?",
+          "res": "NR",
           "trainer": "G M Lyons",
           "jockey": "Colin Keane"
         }
@@ -106,8 +106,8 @@
     "lines": 3,
     "won": 0,
     "lost": 0,
-    "pending": 3,
-    "nr": 0
+    "pending": 2,
+    "nr": 1
   },
   "staked": 0,
   "returned": 0,
