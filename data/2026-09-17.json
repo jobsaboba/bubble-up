@@ -1,6 +1,6 @@
 {
   "date": "2026-09-17",
-  "generated": "2026-11-18T15:32:13+00:00",
+  "generated": "2026-11-20T17:02:18+00:00",
   "picks": [
     {
       "time": "13:00",
@@ -117,7 +117,7 @@
     "end": 13.38,
     "next_stake": 0.13,
     "season_start": 10.0,
-    "season_end": 61.61
+    "season_end": 61.4
   },
   "by_size": {
     "1": {
