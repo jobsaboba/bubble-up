@@ -1,0 +1,123 @@
+{
+  "date": "2026-11-20",
+  "generated": "2026-11-20T05:45:01+00:00",
+  "picks": [
+    {
+      "time": "16:30",
+      "meeting": "Wolverhampton",
+      "race": "All Weather Championship Is Back Amateur Jockeys' Handicap",
+      "horse": "Port Noir",
+      "stars": 1,
+      "odds": "50/1",
+      "dec": 51.0,
+      "res": null,
+      "pos": 0,
+      "score1": 249.0,
+      "score2": 108.0,
+      "trainer": "R Stephens",
+      "jockey": "Mr Louis Burke"
+    },
+    {
+      "time": "19:15",
+      "meeting": "Dundalk",
+      "race": "Irish Stallion Farms EBF Fillies Maiden",
+      "horse": "Castilian Queen",
+      "stars": 5,
+      "odds": "9/4",
+      "dec": 3.25,
+      "res": null,
+      "pos": 0,
+      "score1": 81.33,
+      "score2": 28.57,
+      "trainer": "G M Lyons",
+      "jockey": "Colin Keane"
+    }
+  ],
+  "combos": [
+    {
+      "size": 1,
+      "legs": [
+        {
+          "time": "16:30",
+          "meeting": "Wolverhampton",
+          "horse": "Port Noir",
+          "odds": "50/1",
+          "res": "?",
+          "trainer": "R Stephens",
+          "jockey": "Mr Louis Burke"
+        }
+      ],
+      "dec": 51.0,
+      "res": "PENDING",
+      "stake": 0.21,
+      "pay": null,
+      "bank": null
+    },
+    {
+      "size": 1,
+      "legs": [
+        {
+          "time": "19:15",
+          "meeting": "Dundalk",
+          "horse": "Castilian Queen",
+          "odds": "9/4",
+          "res": "?",
+          "trainer": "G M Lyons",
+          "jockey": "Colin Keane"
+        }
+      ],
+      "dec": 3.25,
+      "res": "PENDING",
+      "stake": 0.21,
+      "pay": null,
+      "bank": null
+    },
+    {
+      "size": 2,
+      "legs": [
+        {
+          "time": "16:30",
+          "meeting": "Wolverhampton",
+          "horse": "Port Noir",
+          "odds": "50/1",
+          "res": "?",
+          "trainer": "R Stephens",
+          "jockey": "Mr Louis Burke"
+        },
+        {
+          "time": "19:15",
+          "meeting": "Dundalk",
+          "horse": "Castilian Queen",
+          "odds": "9/4",
+          "res": "?",
+          "trainer": "G M Lyons",
+          "jockey": "Colin Keane"
+        }
+      ],
+      "dec": 165.75,
+      "res": "PENDING",
+      "stake": 0.21,
+      "pay": null,
+      "bank": null
+    }
+  ],
+  "score": {
+    "picks": 2,
+    "lines": 3,
+    "won": 0,
+    "lost": 0,
+    "pending": 3,
+    "nr": 0
+  },
+  "staked": 0,
+  "returned": 0,
+  "profit": 0,
+  "bank": {
+    "start": 61.61,
+    "end": 61.61,
+    "next_stake": 0.62,
+    "season_start": 10.0,
+    "season_end": 61.61
+  },
+  "by_size": {}
+}

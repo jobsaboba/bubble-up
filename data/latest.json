@@ -1,51 +1,36 @@
 {
-  "date": "2026-11-18",
-  "generated": "2026-11-18T15:32:13+00:00",
+  "date": "2026-11-20",
+  "generated": "2026-11-20T05:45:01+00:00",
   "picks": [
     {
-      "time": "12:33",
-      "meeting": "Hexham",
-      "race": "British Stallion Studs EBF 'National Hunt' Novices' Hurdle (GBB Race)",
-      "horse": "Lord Du Gouet",
-      "stars": 5,
-      "odds": "11/8",
-      "dec": 2.375,
-      "res": "WIN",
-      "pos": 1,
-      "score1": 162.54,
-      "score2": 37.0,
-      "trainer": "Jamie Snowden",
-      "jockey": "G Sheehan"
+      "time": "16:30",
+      "meeting": "Wolverhampton",
+      "race": "All Weather Championship Is Back Amateur Jockeys' Handicap",
+      "horse": "Port Noir",
+      "stars": 1,
+      "odds": "50/1",
+      "dec": 51.0,
+      "res": null,
+      "pos": 0,
+      "score1": 249.0,
+      "score2": 108.0,
+      "trainer": "R Stephens",
+      "jockey": "Mr Louis Burke"
     },
     {
-      "time": "13:18",
-      "meeting": "Ffos Las",
-      "race": "Dandara Maiden Hurdle (GBB Race) (Div 2)",
-      "horse": "Diamond Street",
+      "time": "19:15",
+      "meeting": "Dundalk",
+      "race": "Irish Stallion Farms EBF Fillies Maiden",
+      "horse": "Castilian Queen",
       "stars": 5,
-      "odds": "5/4",
-      "dec": 2.25,
-      "res": "WIN",
-      "pos": 1,
-      "score1": 105.63,
-      "score2": 48.26,
-      "trainer": "D Skelton",
-      "jockey": "Harry Skelton"
-    },
-    {
-      "time": "15:18",
-      "meeting": "Ffos Las",
-      "race": "3A's Leisure Novices' Handicap Hurdle",
-      "horse": "Wispit Twob",
-      "stars": 4,
       "odds": "9/4",
       "dec": 3.25,
-      "res": "LOSE",
-      "pos": 6,
-      "score1": 100.36,
-      "score2": 44.14,
-      "trainer": "M Keighley",
-      "jockey": "S Bowen"
+      "res": null,
+      "pos": 0,
+      "score1": 81.33,
+      "score2": 28.57,
+      "trainer": "G M Lyons",
+      "jockey": "Colin Keane"
     }
   ],
   "combos": [
@@ -53,220 +38,86 @@
       "size": 1,
       "legs": [
         {
-          "time": "12:33",
-          "meeting": "Hexham",
-          "horse": "Lord Du Gouet",
-          "odds": "11/8",
-          "res": "WIN",
-          "trainer": "Jamie Snowden",
-          "jockey": "G Sheehan"
+          "time": "16:30",
+          "meeting": "Wolverhampton",
+          "horse": "Port Noir",
+          "odds": "50/1",
+          "res": "?",
+          "trainer": "R Stephens",
+          "jockey": "Mr Louis Burke"
         }
       ],
-      "dec": 2.38,
-      "res": "WIN",
-      "stake": 0.09,
-      "pay": 0.21,
-      "bank": 61.47
+      "dec": 51.0,
+      "res": "PENDING",
+      "stake": 0.21,
+      "pay": null,
+      "bank": null
     },
     {
       "size": 1,
       "legs": [
         {
-          "time": "13:18",
-          "meeting": "Ffos Las",
-          "horse": "Diamond Street",
-          "odds": "5/4",
-          "res": "WIN",
-          "trainer": "D Skelton",
-          "jockey": "Harry Skelton"
-        }
-      ],
-      "dec": 2.25,
-      "res": "WIN",
-      "stake": 0.09,
-      "pay": 0.2,
-      "bank": 61.58
-    },
-    {
-      "size": 1,
-      "legs": [
-        {
-          "time": "15:18",
-          "meeting": "Ffos Las",
-          "horse": "Wispit Twob",
+          "time": "19:15",
+          "meeting": "Dundalk",
+          "horse": "Castilian Queen",
           "odds": "9/4",
-          "res": "LOSE",
-          "trainer": "M Keighley",
-          "jockey": "S Bowen"
+          "res": "?",
+          "trainer": "G M Lyons",
+          "jockey": "Colin Keane"
         }
       ],
       "dec": 3.25,
-      "res": "LOSE",
-      "stake": 0.09,
-      "pay": 0.0,
-      "bank": 61.88
+      "res": "PENDING",
+      "stake": 0.21,
+      "pay": null,
+      "bank": null
     },
     {
       "size": 2,
       "legs": [
         {
-          "time": "12:33",
-          "meeting": "Hexham",
-          "horse": "Lord Du Gouet",
-          "odds": "11/8",
-          "res": "WIN",
-          "trainer": "Jamie Snowden",
-          "jockey": "G Sheehan"
+          "time": "16:30",
+          "meeting": "Wolverhampton",
+          "horse": "Port Noir",
+          "odds": "50/1",
+          "res": "?",
+          "trainer": "R Stephens",
+          "jockey": "Mr Louis Burke"
         },
         {
-          "time": "13:18",
-          "meeting": "Ffos Las",
-          "horse": "Diamond Street",
-          "odds": "5/4",
-          "res": "WIN",
-          "trainer": "D Skelton",
-          "jockey": "Harry Skelton"
-        }
-      ],
-      "dec": 5.34,
-      "res": "WIN",
-      "stake": 0.09,
-      "pay": 0.48,
-      "bank": 61.97
-    },
-    {
-      "size": 2,
-      "legs": [
-        {
-          "time": "12:33",
-          "meeting": "Hexham",
-          "horse": "Lord Du Gouet",
-          "odds": "11/8",
-          "res": "WIN",
-          "trainer": "Jamie Snowden",
-          "jockey": "G Sheehan"
-        },
-        {
-          "time": "15:18",
-          "meeting": "Ffos Las",
-          "horse": "Wispit Twob",
+          "time": "19:15",
+          "meeting": "Dundalk",
+          "horse": "Castilian Queen",
           "odds": "9/4",
-          "res": "LOSE",
-          "trainer": "M Keighley",
-          "jockey": "S Bowen"
+          "res": "?",
+          "trainer": "G M Lyons",
+          "jockey": "Colin Keane"
         }
       ],
-      "dec": 7.72,
-      "res": "LOSE",
-      "stake": 0.09,
-      "pay": 0.0,
-      "bank": 61.79
-    },
-    {
-      "size": 2,
-      "legs": [
-        {
-          "time": "13:18",
-          "meeting": "Ffos Las",
-          "horse": "Diamond Street",
-          "odds": "5/4",
-          "res": "WIN",
-          "trainer": "D Skelton",
-          "jockey": "Harry Skelton"
-        },
-        {
-          "time": "15:18",
-          "meeting": "Ffos Las",
-          "horse": "Wispit Twob",
-          "odds": "9/4",
-          "res": "LOSE",
-          "trainer": "M Keighley",
-          "jockey": "S Bowen"
-        }
-      ],
-      "dec": 7.31,
-      "res": "LOSE",
-      "stake": 0.09,
-      "pay": 0.0,
-      "bank": 61.7
-    },
-    {
-      "size": 3,
-      "legs": [
-        {
-          "time": "12:33",
-          "meeting": "Hexham",
-          "horse": "Lord Du Gouet",
-          "odds": "11/8",
-          "res": "WIN",
-          "trainer": "Jamie Snowden",
-          "jockey": "G Sheehan"
-        },
-        {
-          "time": "13:18",
-          "meeting": "Ffos Las",
-          "horse": "Diamond Street",
-          "odds": "5/4",
-          "res": "WIN",
-          "trainer": "D Skelton",
-          "jockey": "Harry Skelton"
-        },
-        {
-          "time": "15:18",
-          "meeting": "Ffos Las",
-          "horse": "Wispit Twob",
-          "odds": "9/4",
-          "res": "LOSE",
-          "trainer": "M Keighley",
-          "jockey": "S Bowen"
-        }
-      ],
-      "dec": 17.37,
-      "res": "LOSE",
-      "stake": 0.09,
-      "pay": 0.0,
-      "bank": 61.61
+      "dec": 165.75,
+      "res": "PENDING",
+      "stake": 0.21,
+      "pay": null,
+      "bank": null
     }
   ],
   "score": {
-    "picks": 3,
-    "lines": 7,
-    "won": 3,
-    "lost": 4,
-    "pending": 0,
+    "picks": 2,
+    "lines": 3,
+    "won": 0,
+    "lost": 0,
+    "pending": 3,
     "nr": 0
   },
-  "staked": 0.63,
-  "returned": 0.89,
-  "profit": 0.26,
+  "staked": 0,
+  "returned": 0,
+  "profit": 0,
   "bank": {
-    "start": 61.35,
+    "start": 61.61,
     "end": 61.61,
     "next_stake": 0.62,
     "season_start": 10.0,
     "season_end": 61.61
   },
-  "by_size": {
-    "1": {
-      "n": 3,
-      "won": 2,
-      "lines": 3,
-      "staked": 0.27,
-      "returned": 0.41
-    },
-    "2": {
-      "n": 3,
-      "won": 1,
-      "lines": 3,
-      "staked": 0.27,
-      "returned": 0.48
-    },
-    "3": {
-      "n": 1,
-      "won": 0,
-      "lines": 1,
-      "staked": 0.09,
-      "returned": 0.0
-    }
-  }
+  "by_size": {}
 }
