@@ -1,36 +1,36 @@
 {
-  "date": "2026-11-20",
-  "generated": "2026-11-20T19:31:29+00:00",
+  "date": "2026-11-21",
+  "generated": "2026-11-21T05:45:01+00:00",
   "picks": [
     {
-      "time": "16:30",
-      "meeting": "Wolverhampton",
-      "race": "All Weather Championship Is Back Amateur Jockeys' Handicap",
-      "horse": "Port Noir",
-      "stars": 1,
-      "odds": "50/1",
-      "dec": 51.0,
-      "res": "LOSE",
-      "pos": 7,
-      "score1": 249.0,
-      "score2": 108.0,
-      "trainer": "R Stephens",
-      "jockey": "Mr Louis Burke"
+      "time": "11:53",
+      "meeting": "Punchestown",
+      "race": "Sebden Steel Maiden Hurdle",
+      "horse": "Delamotte",
+      "stars": 5,
+      "odds": "3/1",
+      "dec": 4.0,
+      "res": null,
+      "pos": 0,
+      "score1": 209.1,
+      "score2": 62.71,
+      "trainer": "W P Mullins",
+      "jockey": "Paul Townend"
     },
     {
-      "time": "19:15",
-      "meeting": "Dundalk",
-      "race": "Irish Stallion Farms EBF Fillies Maiden",
-      "horse": "Castilian Queen",
+      "time": "14:45",
+      "meeting": "Punchestown",
+      "race": "Total Event Rental 3-Y-O Hurdle",
+      "horse": "Momentum Of Love",
       "stars": 5,
-      "odds": "9/4",
-      "dec": 3.25,
-      "res": "LOSE",
-      "pos": 4,
-      "score1": 81.33,
-      "score2": 28.57,
-      "trainer": "G M Lyons",
-      "jockey": "Colin Keane"
+      "odds": "7/4",
+      "dec": 2.75,
+      "res": null,
+      "pos": 0,
+      "score1": 206.1,
+      "score2": 41.35,
+      "trainer": "W P Mullins",
+      "jockey": "Paul Townend"
     }
   ],
   "combos": [
@@ -38,101 +38,86 @@
       "size": 1,
       "legs": [
         {
-          "time": "16:30",
-          "meeting": "Wolverhampton",
-          "horse": "Port Noir",
-          "odds": "50/1",
-          "res": "LOSE",
-          "trainer": "R Stephens",
-          "jockey": "Mr Louis Burke"
+          "time": "11:53",
+          "meeting": "Punchestown",
+          "horse": "Delamotte",
+          "odds": "3/1",
+          "res": "?",
+          "trainer": "W P Mullins",
+          "jockey": "Paul Townend"
         }
       ],
-      "dec": 51.0,
-      "res": "LOSE",
-      "stake": 0.21,
-      "pay": 0.0,
-      "bank": 61.4
+      "dec": 4.0,
+      "res": "PENDING",
+      "stake": 0.2,
+      "pay": null,
+      "bank": null
     },
     {
       "size": 1,
       "legs": [
         {
-          "time": "19:15",
-          "meeting": "Dundalk",
-          "horse": "Castilian Queen",
-          "odds": "9/4",
-          "res": "LOSE",
-          "trainer": "G M Lyons",
-          "jockey": "Colin Keane"
+          "time": "14:45",
+          "meeting": "Punchestown",
+          "horse": "Momentum Of Love",
+          "odds": "7/4",
+          "res": "?",
+          "trainer": "W P Mullins",
+          "jockey": "Paul Townend"
         }
       ],
-      "dec": 3.25,
-      "res": "LOSE",
-      "stake": 0.21,
-      "pay": 0.0,
-      "bank": 61.19
+      "dec": 2.75,
+      "res": "PENDING",
+      "stake": 0.2,
+      "pay": null,
+      "bank": null
     },
     {
       "size": 2,
       "legs": [
         {
-          "time": "16:30",
-          "meeting": "Wolverhampton",
-          "horse": "Port Noir",
-          "odds": "50/1",
-          "res": "LOSE",
-          "trainer": "R Stephens",
-          "jockey": "Mr Louis Burke"
+          "time": "11:53",
+          "meeting": "Punchestown",
+          "horse": "Delamotte",
+          "odds": "3/1",
+          "res": "?",
+          "trainer": "W P Mullins",
+          "jockey": "Paul Townend"
         },
         {
-          "time": "19:15",
-          "meeting": "Dundalk",
-          "horse": "Castilian Queen",
-          "odds": "9/4",
-          "res": "LOSE",
-          "trainer": "G M Lyons",
-          "jockey": "Colin Keane"
+          "time": "14:45",
+          "meeting": "Punchestown",
+          "horse": "Momentum Of Love",
+          "odds": "7/4",
+          "res": "?",
+          "trainer": "W P Mullins",
+          "jockey": "Paul Townend"
         }
       ],
-      "dec": 165.75,
-      "res": "LOSE",
-      "stake": 0.21,
-      "pay": 0.0,
-      "bank": 60.98
+      "dec": 11.0,
+      "res": "PENDING",
+      "stake": 0.2,
+      "pay": null,
+      "bank": null
     }
   ],
   "score": {
     "picks": 2,
     "lines": 3,
     "won": 0,
-    "lost": 3,
-    "pending": 0,
+    "lost": 0,
+    "pending": 3,
     "nr": 0
   },
-  "staked": 0.63,
-  "returned": 0.0,
-  "profit": -0.63,
+  "staked": 0,
+  "returned": 0,
+  "profit": 0,
   "bank": {
-    "start": 61.61,
+    "start": 60.98,
     "end": 60.98,
     "next_stake": 0.61,
     "season_start": 10.0,
     "season_end": 60.98
   },
-  "by_size": {
-    "1": {
-      "n": 2,
-      "won": 0,
-      "lines": 2,
-      "staked": 0.42,
-      "returned": 0.0
-    },
-    "2": {
-      "n": 1,
-      "won": 0,
-      "lines": 1,
-      "staked": 0.21,
-      "returned": 0.0
-    }
-  }
+  "by_size": {}
 }

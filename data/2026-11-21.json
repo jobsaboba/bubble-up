@@ -1,0 +1,123 @@
+{
+  "date": "2026-11-21",
+  "generated": "2026-11-21T05:45:01+00:00",
+  "picks": [
+    {
+      "time": "11:53",
+      "meeting": "Punchestown",
+      "race": "Sebden Steel Maiden Hurdle",
+      "horse": "Delamotte",
+      "stars": 5,
+      "odds": "3/1",
+      "dec": 4.0,
+      "res": null,
+      "pos": 0,
+      "score1": 209.1,
+      "score2": 62.71,
+      "trainer": "W P Mullins",
+      "jockey": "Paul Townend"
+    },
+    {
+      "time": "14:45",
+      "meeting": "Punchestown",
+      "race": "Total Event Rental 3-Y-O Hurdle",
+      "horse": "Momentum Of Love",
+      "stars": 5,
+      "odds": "7/4",
+      "dec": 2.75,
+      "res": null,
+      "pos": 0,
+      "score1": 206.1,
+      "score2": 41.35,
+      "trainer": "W P Mullins",
+      "jockey": "Paul Townend"
+    }
+  ],
+  "combos": [
+    {
+      "size": 1,
+      "legs": [
+        {
+          "time": "11:53",
+          "meeting": "Punchestown",
+          "horse": "Delamotte",
+          "odds": "3/1",
+          "res": "?",
+          "trainer": "W P Mullins",
+          "jockey": "Paul Townend"
+        }
+      ],
+      "dec": 4.0,
+      "res": "PENDING",
+      "stake": 0.2,
+      "pay": null,
+      "bank": null
+    },
+    {
+      "size": 1,
+      "legs": [
+        {
+          "time": "14:45",
+          "meeting": "Punchestown",
+          "horse": "Momentum Of Love",
+          "odds": "7/4",
+          "res": "?",
+          "trainer": "W P Mullins",
+          "jockey": "Paul Townend"
+        }
+      ],
+      "dec": 2.75,
+      "res": "PENDING",
+      "stake": 0.2,
+      "pay": null,
+      "bank": null
+    },
+    {
+      "size": 2,
+      "legs": [
+        {
+          "time": "11:53",
+          "meeting": "Punchestown",
+          "horse": "Delamotte",
+          "odds": "3/1",
+          "res": "?",
+          "trainer": "W P Mullins",
+          "jockey": "Paul Townend"
+        },
+        {
+          "time": "14:45",
+          "meeting": "Punchestown",
+          "horse": "Momentum Of Love",
+          "odds": "7/4",
+          "res": "?",
+          "trainer": "W P Mullins",
+          "jockey": "Paul Townend"
+        }
+      ],
+      "dec": 11.0,
+      "res": "PENDING",
+      "stake": 0.2,
+      "pay": null,
+      "bank": null
+    }
+  ],
+  "score": {
+    "picks": 2,
+    "lines": 3,
+    "won": 0,
+    "lost": 0,
+    "pending": 3,
+    "nr": 0
+  },
+  "staked": 0,
+  "returned": 0,
+  "profit": 0,
+  "bank": {
+    "start": 60.98,
+    "end": 60.98,
+    "next_stake": 0.61,
+    "season_start": 10.0,
+    "season_end": 60.98
+  },
+  "by_size": {}
+}
