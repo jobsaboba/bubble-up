@@ -1,6 +1,6 @@
 {
   "date": "2026-11-21",
-  "generated": "2026-11-21T05:45:01+00:00",
+  "generated": "2026-11-21T13:02:27+00:00",
   "picks": [
     {
       "time": "11:53",
@@ -10,8 +10,8 @@
       "stars": 5,
       "odds": "3/1",
       "dec": 4.0,
-      "res": null,
-      "pos": 0,
+      "res": "LOSE",
+      "pos": 7,
       "score1": 209.1,
       "score2": 62.71,
       "trainer": "W P Mullins",
@@ -42,16 +42,16 @@
           "meeting": "Punchestown",
           "horse": "Delamotte",
           "odds": "3/1",
-          "res": "?",
+          "res": "LOSE",
           "trainer": "W P Mullins",
           "jockey": "Paul Townend"
         }
       ],
       "dec": 4.0,
-      "res": "PENDING",
+      "res": "LOSE",
       "stake": 0.2,
-      "pay": null,
-      "bank": null
+      "pay": 0.0,
+      "bank": 60.78
     },
     {
       "size": 1,
@@ -80,7 +80,7 @@
           "meeting": "Punchestown",
           "horse": "Delamotte",
           "odds": "3/1",
-          "res": "?",
+          "res": "LOSE",
           "trainer": "W P Mullins",
           "jockey": "Paul Townend"
         },
@@ -105,19 +105,27 @@
     "picks": 2,
     "lines": 3,
     "won": 0,
-    "lost": 0,
-    "pending": 3,
+    "lost": 1,
+    "pending": 2,
     "nr": 0
   },
-  "staked": 0,
-  "returned": 0,
-  "profit": 0,
+  "staked": 0.2,
+  "returned": 0.0,
+  "profit": -0.2,
   "bank": {
     "start": 60.98,
-    "end": 60.98,
+    "end": 60.78,
     "next_stake": 0.61,
     "season_start": 10.0,
-    "season_end": 60.98
+    "season_end": 60.78
   },
-  "by_size": {}
+  "by_size": {
+    "1": {
+      "n": 1,
+      "won": 0,
+      "lines": 1,
+      "staked": 0.2,
+      "returned": 0.0
+    }
+  }
 }
