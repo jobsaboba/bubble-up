@@ -1,6 +1,6 @@
 {
   "date": "2026-11-22",
-  "generated": "2026-11-22T14:02:52+00:00",
+  "generated": "2026-11-22T16:01:41+00:00",
   "picks": [
     {
       "time": "12:19",
@@ -70,8 +70,8 @@
       "stars": 5,
       "odds": "6/5",
       "dec": 2.2,
-      "res": null,
-      "pos": 0,
+      "res": "WIN",
+      "pos": 1,
       "score1": 120.6,
       "score2": 56.0,
       "trainer": "W P Mullins",
@@ -163,16 +163,16 @@
           "meeting": "Punchestown",
           "horse": "Ceasar's Ball",
           "odds": "6/5",
-          "res": "?",
+          "res": "WIN",
           "trainer": "W P Mullins",
           "jockey": "Mr P W Mullins"
         }
       ],
       "dec": 2.2,
-      "res": "PENDING",
+      "res": "WIN",
       "stake": 0.02,
-      "pay": null,
-      "bank": null
+      "pay": 0.04,
+      "bank": 60.16
     },
     {
       "size": 2,
@@ -275,16 +275,16 @@
           "meeting": "Punchestown",
           "horse": "Ceasar's Ball",
           "odds": "6/5",
-          "res": "?",
+          "res": "WIN",
           "trainer": "W P Mullins",
           "jockey": "Mr P W Mullins"
         }
       ],
       "dec": 4.62,
-      "res": "PENDING",
+      "res": "LOSE",
       "stake": 0.02,
-      "pay": null,
-      "bank": null
+      "pay": 0.0,
+      "bank": 60.14
     },
     {
       "size": 2,
@@ -359,16 +359,16 @@
           "meeting": "Punchestown",
           "horse": "Ceasar's Ball",
           "odds": "6/5",
-          "res": "?",
+          "res": "WIN",
           "trainer": "W P Mullins",
           "jockey": "Mr P W Mullins"
         }
       ],
       "dec": 7.15,
-      "res": "PENDING",
+      "res": "LOSE",
       "stake": 0.02,
-      "pay": null,
-      "bank": null
+      "pay": 0.0,
+      "bank": 60.12
     },
     {
       "size": 2,
@@ -415,16 +415,16 @@
           "meeting": "Punchestown",
           "horse": "Ceasar's Ball",
           "odds": "6/5",
-          "res": "?",
+          "res": "WIN",
           "trainer": "W P Mullins",
           "jockey": "Mr P W Mullins"
         }
       ],
       "dec": 6.6,
-      "res": "PENDING",
+      "res": "WIN",
       "stake": 0.02,
-      "pay": null,
-      "bank": null
+      "pay": 0.13,
+      "bank": 60.23
     },
     {
       "size": 2,
@@ -443,16 +443,16 @@
           "meeting": "Punchestown",
           "horse": "Ceasar's Ball",
           "odds": "6/5",
-          "res": "?",
+          "res": "WIN",
           "trainer": "W P Mullins",
           "jockey": "Mr P W Mullins"
         }
       ],
       "dec": 8.25,
-      "res": "PENDING",
+      "res": "LOSE",
       "stake": 0.02,
-      "pay": null,
-      "bank": null
+      "pay": 0.0,
+      "bank": 60.21
     },
     {
       "size": 3,
@@ -554,16 +554,16 @@
           "meeting": "Punchestown",
           "horse": "Ceasar's Ball",
           "odds": "6/5",
-          "res": "?",
+          "res": "WIN",
           "trainer": "W P Mullins",
           "jockey": "Mr P W Mullins"
         }
       ],
       "dec": 15.02,
-      "res": "PENDING",
+      "res": "LOSE",
       "stake": 0.02,
-      "pay": null,
-      "bank": null
+      "pay": 0.0,
+      "bank": 60.19
     },
     {
       "size": 3,
@@ -628,16 +628,16 @@
           "meeting": "Punchestown",
           "horse": "Ceasar's Ball",
           "odds": "6/5",
-          "res": "?",
+          "res": "WIN",
           "trainer": "W P Mullins",
           "jockey": "Mr P W Mullins"
         }
       ],
       "dec": 13.86,
-      "res": "PENDING",
+      "res": "LOSE",
       "stake": 0.02,
-      "pay": null,
-      "bank": null
+      "pay": 0.0,
+      "bank": 60.17
     },
     {
       "size": 3,
@@ -665,16 +665,16 @@
           "meeting": "Punchestown",
           "horse": "Ceasar's Ball",
           "odds": "6/5",
-          "res": "?",
+          "res": "WIN",
           "trainer": "W P Mullins",
           "jockey": "Mr P W Mullins"
         }
       ],
       "dec": 17.33,
-      "res": "PENDING",
+      "res": "LOSE",
       "stake": 0.02,
-      "pay": null,
-      "bank": null
+      "pay": 0.0,
+      "bank": 60.15
     },
     {
       "size": 3,
@@ -739,16 +739,16 @@
           "meeting": "Punchestown",
           "horse": "Ceasar's Ball",
           "odds": "6/5",
-          "res": "?",
+          "res": "WIN",
           "trainer": "W P Mullins",
           "jockey": "Mr P W Mullins"
         }
       ],
       "dec": 21.45,
-      "res": "PENDING",
+      "res": "LOSE",
       "stake": 0.02,
-      "pay": null,
-      "bank": null
+      "pay": 0.0,
+      "bank": 60.13
     },
     {
       "size": 3,
@@ -776,16 +776,16 @@
           "meeting": "Punchestown",
           "horse": "Ceasar's Ball",
           "odds": "6/5",
-          "res": "?",
+          "res": "WIN",
           "trainer": "W P Mullins",
           "jockey": "Mr P W Mullins"
         }
       ],
       "dec": 26.81,
-      "res": "PENDING",
+      "res": "LOSE",
       "stake": 0.02,
-      "pay": null,
-      "bank": null
+      "pay": 0.0,
+      "bank": 60.11
     },
     {
       "size": 3,
@@ -813,16 +813,16 @@
           "meeting": "Punchestown",
           "horse": "Ceasar's Ball",
           "odds": "6/5",
-          "res": "?",
+          "res": "WIN",
           "trainer": "W P Mullins",
           "jockey": "Mr P W Mullins"
         }
       ],
       "dec": 24.75,
-      "res": "PENDING",
+      "res": "LOSE",
       "stake": 0.02,
-      "pay": null,
-      "bank": null
+      "pay": 0.0,
+      "bank": 60.09
     },
     {
       "size": 4,
@@ -905,16 +905,16 @@
           "meeting": "Punchestown",
           "horse": "Ceasar's Ball",
           "odds": "6/5",
-          "res": "?",
+          "res": "WIN",
           "trainer": "W P Mullins",
           "jockey": "Mr P W Mullins"
         }
       ],
       "dec": 45.05,
-      "res": "PENDING",
+      "res": "LOSE",
       "stake": 0.02,
-      "pay": null,
-      "bank": null
+      "pay": 0.0,
+      "bank": 60.07
     },
     {
       "size": 4,
@@ -951,16 +951,16 @@
           "meeting": "Punchestown",
           "horse": "Ceasar's Ball",
           "odds": "6/5",
-          "res": "?",
+          "res": "WIN",
           "trainer": "W P Mullins",
           "jockey": "Mr P W Mullins"
         }
       ],
       "dec": 56.31,
-      "res": "PENDING",
+      "res": "LOSE",
       "stake": 0.02,
-      "pay": null,
-      "bank": null
+      "pay": 0.0,
+      "bank": 60.05
     },
     {
       "size": 4,
@@ -997,16 +997,16 @@
           "meeting": "Punchestown",
           "horse": "Ceasar's Ball",
           "odds": "6/5",
-          "res": "?",
+          "res": "WIN",
           "trainer": "W P Mullins",
           "jockey": "Mr P W Mullins"
         }
       ],
       "dec": 51.98,
-      "res": "PENDING",
+      "res": "LOSE",
       "stake": 0.02,
-      "pay": null,
-      "bank": null
+      "pay": 0.0,
+      "bank": 60.03
     },
     {
       "size": 4,
@@ -1043,16 +1043,16 @@
           "meeting": "Punchestown",
           "horse": "Ceasar's Ball",
           "odds": "6/5",
-          "res": "?",
+          "res": "WIN",
           "trainer": "W P Mullins",
           "jockey": "Mr P W Mullins"
         }
       ],
       "dec": 80.44,
-      "res": "PENDING",
+      "res": "LOSE",
       "stake": 0.02,
-      "pay": null,
-      "bank": null
+      "pay": 0.0,
+      "bank": 60.01
     },
     {
       "size": 5,
@@ -1098,59 +1098,66 @@
           "meeting": "Punchestown",
           "horse": "Ceasar's Ball",
           "odds": "6/5",
-          "res": "?",
+          "res": "WIN",
           "trainer": "W P Mullins",
           "jockey": "Mr P W Mullins"
         }
       ],
       "dec": 168.92,
-      "res": "PENDING",
+      "res": "LOSE",
       "stake": 0.02,
-      "pay": null,
-      "bank": null
+      "pay": 0.0,
+      "bank": 59.99
     }
   ],
   "score": {
     "picks": 5,
     "lines": 31,
-    "won": 1,
-    "lost": 14,
-    "pending": 16,
+    "won": 3,
+    "lost": 28,
+    "pending": 0,
     "nr": 0
   },
-  "staked": 0.3,
-  "returned": 0.06,
-  "profit": -0.24,
+  "staked": 0.62,
+  "returned": 0.23,
+  "profit": -0.39,
   "bank": {
     "start": 60.38,
-    "end": 60.14,
+    "end": 59.99,
     "next_stake": 0.6,
     "season_start": 10.0,
-    "season_end": 60.14
+    "season_end": 59.99
   },
   "by_size": {
     "1": {
-      "n": 4,
-      "won": 1,
-      "lines": 4,
-      "staked": 0.08,
-      "returned": 0.06
+      "n": 5,
+      "won": 2,
+      "lines": 5,
+      "staked": 0.1,
+      "returned": 0.1
     },
     "2": {
-      "n": 6,
-      "won": 0,
-      "lines": 6,
-      "staked": 0.12,
-      "returned": 0.0
+      "n": 10,
+      "won": 1,
+      "lines": 10,
+      "staked": 0.2,
+      "returned": 0.13
     },
     "3": {
-      "n": 4,
+      "n": 10,
       "won": 0,
-      "lines": 4,
-      "staked": 0.08,
+      "lines": 10,
+      "staked": 0.2,
       "returned": 0.0
     },
     "4": {
+      "n": 5,
+      "won": 0,
+      "lines": 5,
+      "staked": 0.1,
+      "returned": 0.0
+    },
+    "5": {
       "n": 1,
       "won": 0,
       "lines": 1,
