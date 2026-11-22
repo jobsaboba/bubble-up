@@ -1,6 +1,6 @@
 {
   "date": "2026-11-22",
-  "generated": "2026-11-22T13:31:13+00:00",
+  "generated": "2026-11-22T14:02:52+00:00",
   "picks": [
     {
       "time": "12:19",
@@ -55,8 +55,8 @@
       "stars": 3,
       "odds": "11/4",
       "dec": 3.75,
-      "res": "NR",
-      "pos": 0,
+      "res": "PLACE",
+      "pos": 2,
       "score1": 166.77,
       "score2": 68.64,
       "trainer": "W P Mullins",
@@ -144,16 +144,16 @@
           "meeting": "Punchestown",
           "horse": "World As One",
           "odds": "11/4",
-          "res": "NR",
+          "res": "PLACE",
           "trainer": "W P Mullins",
           "jockey": "Paul Townend"
         }
       ],
       "dec": 3.75,
-      "res": "NR",
-      "stake": 0.0,
-      "pay": null,
-      "bank": 60.3
+      "res": "LOSE",
+      "stake": 0.02,
+      "pay": 0.0,
+      "bank": 60.28
     },
     {
       "size": 1,
@@ -247,16 +247,16 @@
           "meeting": "Punchestown",
           "horse": "World As One",
           "odds": "11/4",
-          "res": "NR",
+          "res": "PLACE",
           "trainer": "W P Mullins",
           "jockey": "Paul Townend"
         }
       ],
       "dec": 7.88,
-      "res": "NR",
-      "stake": 0.0,
-      "pay": null,
-      "bank": 60.3
+      "res": "LOSE",
+      "stake": 0.02,
+      "pay": 0.0,
+      "bank": 60.26
     },
     {
       "size": 2,
@@ -331,16 +331,16 @@
           "meeting": "Punchestown",
           "horse": "World As One",
           "odds": "11/4",
-          "res": "NR",
+          "res": "PLACE",
           "trainer": "W P Mullins",
           "jockey": "Paul Townend"
         }
       ],
       "dec": 12.19,
-      "res": "NR",
-      "stake": 0.0,
-      "pay": null,
-      "bank": 60.3
+      "res": "LOSE",
+      "stake": 0.02,
+      "pay": 0.0,
+      "bank": 60.24
     },
     {
       "size": 2,
@@ -387,16 +387,16 @@
           "meeting": "Punchestown",
           "horse": "World As One",
           "odds": "11/4",
-          "res": "NR",
+          "res": "PLACE",
           "trainer": "W P Mullins",
           "jockey": "Paul Townend"
         }
       ],
       "dec": 11.25,
-      "res": "NR",
-      "stake": 0.0,
-      "pay": null,
-      "bank": 60.3
+      "res": "LOSE",
+      "stake": 0.02,
+      "pay": 0.0,
+      "bank": 60.22
     },
     {
       "size": 2,
@@ -434,7 +434,7 @@
           "meeting": "Punchestown",
           "horse": "World As One",
           "odds": "11/4",
-          "res": "NR",
+          "res": "PLACE",
           "trainer": "W P Mullins",
           "jockey": "Paul Townend"
         },
@@ -517,16 +517,16 @@
           "meeting": "Punchestown",
           "horse": "World As One",
           "odds": "11/4",
-          "res": "NR",
+          "res": "PLACE",
           "trainer": "W P Mullins",
           "jockey": "Paul Townend"
         }
       ],
       "dec": 25.59,
-      "res": "NR",
-      "stake": 0.0,
-      "pay": null,
-      "bank": 60.3
+      "res": "LOSE",
+      "stake": 0.02,
+      "pay": 0.0,
+      "bank": 60.2
     },
     {
       "size": 3,
@@ -591,16 +591,16 @@
           "meeting": "Punchestown",
           "horse": "World As One",
           "odds": "11/4",
-          "res": "NR",
+          "res": "PLACE",
           "trainer": "W P Mullins",
           "jockey": "Paul Townend"
         }
       ],
       "dec": 23.63,
-      "res": "NR",
-      "stake": 0.0,
-      "pay": null,
-      "bank": 60.3
+      "res": "LOSE",
+      "stake": 0.02,
+      "pay": 0.0,
+      "bank": 60.18
     },
     {
       "size": 3,
@@ -656,7 +656,7 @@
           "meeting": "Punchestown",
           "horse": "World As One",
           "odds": "11/4",
-          "res": "NR",
+          "res": "PLACE",
           "trainer": "W P Mullins",
           "jockey": "Paul Townend"
         },
@@ -702,16 +702,16 @@
           "meeting": "Punchestown",
           "horse": "World As One",
           "odds": "11/4",
-          "res": "NR",
+          "res": "PLACE",
           "trainer": "W P Mullins",
           "jockey": "Paul Townend"
         }
       ],
       "dec": 36.56,
-      "res": "NR",
-      "stake": 0.0,
-      "pay": null,
-      "bank": 60.3
+      "res": "LOSE",
+      "stake": 0.02,
+      "pay": 0.0,
+      "bank": 60.16
     },
     {
       "size": 3,
@@ -767,7 +767,7 @@
           "meeting": "Punchestown",
           "horse": "World As One",
           "odds": "11/4",
-          "res": "NR",
+          "res": "PLACE",
           "trainer": "W P Mullins",
           "jockey": "Paul Townend"
         },
@@ -804,7 +804,7 @@
           "meeting": "Punchestown",
           "horse": "World As One",
           "odds": "11/4",
-          "res": "NR",
+          "res": "PLACE",
           "trainer": "W P Mullins",
           "jockey": "Paul Townend"
         },
@@ -859,16 +859,16 @@
           "meeting": "Punchestown",
           "horse": "World As One",
           "odds": "11/4",
-          "res": "NR",
+          "res": "PLACE",
           "trainer": "W P Mullins",
           "jockey": "Paul Townend"
         }
       ],
       "dec": 76.78,
-      "res": "NR",
-      "stake": 0.0,
-      "pay": null,
-      "bank": 60.3
+      "res": "LOSE",
+      "stake": 0.02,
+      "pay": 0.0,
+      "bank": 60.14
     },
     {
       "size": 4,
@@ -942,7 +942,7 @@
           "meeting": "Punchestown",
           "horse": "World As One",
           "odds": "11/4",
-          "res": "NR",
+          "res": "PLACE",
           "trainer": "W P Mullins",
           "jockey": "Paul Townend"
         },
@@ -988,7 +988,7 @@
           "meeting": "Punchestown",
           "horse": "World As One",
           "odds": "11/4",
-          "res": "NR",
+          "res": "PLACE",
           "trainer": "W P Mullins",
           "jockey": "Paul Townend"
         },
@@ -1034,7 +1034,7 @@
           "meeting": "Punchestown",
           "horse": "World As One",
           "odds": "11/4",
-          "res": "NR",
+          "res": "PLACE",
           "trainer": "W P Mullins",
           "jockey": "Paul Townend"
         },
@@ -1089,7 +1089,7 @@
           "meeting": "Punchestown",
           "horse": "World As One",
           "odds": "11/4",
-          "res": "NR",
+          "res": "PLACE",
           "trainer": "W P Mullins",
           "jockey": "Paul Townend"
         },
@@ -1114,36 +1114,43 @@
     "picks": 5,
     "lines": 31,
     "won": 1,
-    "lost": 6,
+    "lost": 14,
     "pending": 16,
-    "nr": 8
+    "nr": 0
   },
-  "staked": 0.14,
+  "staked": 0.3,
   "returned": 0.06,
-  "profit": -0.08,
+  "profit": -0.24,
   "bank": {
     "start": 60.38,
-    "end": 60.3,
+    "end": 60.14,
     "next_stake": 0.6,
     "season_start": 10.0,
-    "season_end": 60.3
+    "season_end": 60.14
   },
   "by_size": {
     "1": {
-      "n": 3,
+      "n": 4,
       "won": 1,
-      "lines": 3,
-      "staked": 0.06,
+      "lines": 4,
+      "staked": 0.08,
       "returned": 0.06
     },
     "2": {
-      "n": 3,
+      "n": 6,
       "won": 0,
-      "lines": 3,
-      "staked": 0.06,
+      "lines": 6,
+      "staked": 0.12,
       "returned": 0.0
     },
     "3": {
+      "n": 4,
+      "won": 0,
+      "lines": 4,
+      "staked": 0.08,
+      "returned": 0.0
+    },
+    "4": {
       "n": 1,
       "won": 0,
       "lines": 1,
