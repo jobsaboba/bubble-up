@@ -1,39 +1,39 @@
 {
-  "generated": "2026-11-22T05:45:02+00:00",
+  "generated": "2026-11-22T13:01:24+00:00",
   "season": {
     "days": 82,
     "lines": 364,
     "won": 147,
-    "lost": 165,
-    "nr": 21,
-    "pending": 31,
-    "staked": 12.82,
+    "lost": 168,
+    "nr": 25,
+    "pending": 24,
+    "staked": 12.88,
     "returned": 63.2,
-    "profit": 50.38,
-    "roi": 393.0,
+    "profit": 50.32,
+    "roi": 390.7,
     "bank_start": 10.0,
-    "bank_end": 60.38
+    "bank_end": 60.32
   },
   "by_size": [
     {
       "size": "Singles",
       "key": 1,
-      "n": 122,
+      "n": 124,
       "won": 68,
-      "lines": 122,
-      "staked": 9.25,
+      "lines": 124,
+      "staked": 9.29,
       "returned": 12.19,
-      "roi": 31.8
+      "roi": 31.2
     },
     {
       "size": "Doubles",
       "key": 2,
-      "n": 82,
+      "n": 83,
       "won": 33,
-      "lines": 82,
-      "staked": 2.36,
+      "lines": 83,
+      "staked": 2.38,
       "returned": 4.77,
-      "roi": 102.1
+      "roi": 100.4
     },
     {
       "size": "Trebles",
@@ -87,7 +87,7 @@
     "2026-08": 0.74,
     "2026-09": 0.26,
     "2026-10": 0.88,
-    "2026-11": 45.89
+    "2026-11": 45.83
   },
   "best_day": {
     "date": "2026-11-09",
@@ -583,10 +583,10 @@
       "bank_end": 60.38
     },
     "2026-11-22": {
-      "staked": 0,
-      "returned": 0,
+      "staked": 0.06,
+      "returned": 0.0,
       "lines": 31,
-      "bank_end": 60.38
+      "bank_end": 60.32
     }
   }
 }

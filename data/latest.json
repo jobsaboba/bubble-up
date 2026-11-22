@@ -1,6 +1,6 @@
 {
   "date": "2026-11-22",
-  "generated": "2026-11-22T05:45:02+00:00",
+  "generated": "2026-11-22T13:01:24+00:00",
   "picks": [
     {
       "time": "12:19",
@@ -10,8 +10,8 @@
       "stars": 4,
       "odds": "11/10",
       "dec": 2.1,
-      "res": null,
-      "pos": 0,
+      "res": "PLACE",
+      "pos": 2,
       "score1": 93.0,
       "score2": 28.29,
       "trainer": "E Mullins",
@@ -25,8 +25,8 @@
       "stars": 5,
       "odds": "9/4",
       "dec": 3.25,
-      "res": null,
-      "pos": 0,
+      "res": "PLACE",
+      "pos": 2,
       "score1": 118.75,
       "score2": 45.29,
       "trainer": "W P Mullins",
@@ -55,7 +55,7 @@
       "stars": 3,
       "odds": "11/4",
       "dec": 3.75,
-      "res": null,
+      "res": "NR",
       "pos": 0,
       "score1": 166.77,
       "score2": 68.64,
@@ -87,16 +87,16 @@
           "meeting": "Cork",
           "horse": "Noon Blu Dodville",
           "odds": "11/10",
-          "res": "?",
+          "res": "PLACE",
           "trainer": "E Mullins",
           "jockey": "Donagh Meyler"
         }
       ],
       "dec": 2.1,
-      "res": "PENDING",
+      "res": "LOSE",
       "stake": 0.02,
-      "pay": null,
-      "bank": null
+      "pay": 0.0,
+      "bank": 60.36
     },
     {
       "size": 1,
@@ -106,16 +106,16 @@
           "meeting": "Cork",
           "horse": "Maestro Des Pins",
           "odds": "9/4",
-          "res": "?",
+          "res": "PLACE",
           "trainer": "W P Mullins",
           "jockey": "Danny Mullins"
         }
       ],
       "dec": 3.25,
-      "res": "PENDING",
+      "res": "LOSE",
       "stake": 0.02,
-      "pay": null,
-      "bank": null
+      "pay": 0.0,
+      "bank": 60.34
     },
     {
       "size": 1,
@@ -144,16 +144,16 @@
           "meeting": "Punchestown",
           "horse": "World As One",
           "odds": "11/4",
-          "res": "?",
+          "res": "NR",
           "trainer": "W P Mullins",
           "jockey": "Paul Townend"
         }
       ],
       "dec": 3.75,
-      "res": "PENDING",
-      "stake": 0.02,
+      "res": "NR",
+      "stake": 0.0,
       "pay": null,
-      "bank": null
+      "bank": 60.32
     },
     {
       "size": 1,
@@ -182,7 +182,7 @@
           "meeting": "Cork",
           "horse": "Noon Blu Dodville",
           "odds": "11/10",
-          "res": "?",
+          "res": "PLACE",
           "trainer": "E Mullins",
           "jockey": "Donagh Meyler"
         },
@@ -191,16 +191,16 @@
           "meeting": "Cork",
           "horse": "Maestro Des Pins",
           "odds": "9/4",
-          "res": "?",
+          "res": "PLACE",
           "trainer": "W P Mullins",
           "jockey": "Danny Mullins"
         }
       ],
       "dec": 6.83,
-      "res": "PENDING",
+      "res": "LOSE",
       "stake": 0.02,
-      "pay": null,
-      "bank": null
+      "pay": 0.0,
+      "bank": 60.32
     },
     {
       "size": 2,
@@ -210,7 +210,7 @@
           "meeting": "Cork",
           "horse": "Noon Blu Dodville",
           "odds": "11/10",
-          "res": "?",
+          "res": "PLACE",
           "trainer": "E Mullins",
           "jockey": "Donagh Meyler"
         },
@@ -238,7 +238,7 @@
           "meeting": "Cork",
           "horse": "Noon Blu Dodville",
           "odds": "11/10",
-          "res": "?",
+          "res": "PLACE",
           "trainer": "E Mullins",
           "jockey": "Donagh Meyler"
         },
@@ -247,16 +247,16 @@
           "meeting": "Punchestown",
           "horse": "World As One",
           "odds": "11/4",
-          "res": "?",
+          "res": "NR",
           "trainer": "W P Mullins",
           "jockey": "Paul Townend"
         }
       ],
       "dec": 7.88,
-      "res": "PENDING",
-      "stake": 0.02,
+      "res": "NR",
+      "stake": 0.0,
       "pay": null,
-      "bank": null
+      "bank": 60.32
     },
     {
       "size": 2,
@@ -266,7 +266,7 @@
           "meeting": "Cork",
           "horse": "Noon Blu Dodville",
           "odds": "11/10",
-          "res": "?",
+          "res": "PLACE",
           "trainer": "E Mullins",
           "jockey": "Donagh Meyler"
         },
@@ -294,7 +294,7 @@
           "meeting": "Cork",
           "horse": "Maestro Des Pins",
           "odds": "9/4",
-          "res": "?",
+          "res": "PLACE",
           "trainer": "W P Mullins",
           "jockey": "Danny Mullins"
         },
@@ -322,7 +322,7 @@
           "meeting": "Cork",
           "horse": "Maestro Des Pins",
           "odds": "9/4",
-          "res": "?",
+          "res": "PLACE",
           "trainer": "W P Mullins",
           "jockey": "Danny Mullins"
         },
@@ -331,16 +331,16 @@
           "meeting": "Punchestown",
           "horse": "World As One",
           "odds": "11/4",
-          "res": "?",
+          "res": "NR",
           "trainer": "W P Mullins",
           "jockey": "Paul Townend"
         }
       ],
       "dec": 12.19,
-      "res": "PENDING",
-      "stake": 0.02,
+      "res": "NR",
+      "stake": 0.0,
       "pay": null,
-      "bank": null
+      "bank": 60.32
     },
     {
       "size": 2,
@@ -350,7 +350,7 @@
           "meeting": "Cork",
           "horse": "Maestro Des Pins",
           "odds": "9/4",
-          "res": "?",
+          "res": "PLACE",
           "trainer": "W P Mullins",
           "jockey": "Danny Mullins"
         },
@@ -387,7 +387,7 @@
           "meeting": "Punchestown",
           "horse": "World As One",
           "odds": "11/4",
-          "res": "?",
+          "res": "NR",
           "trainer": "W P Mullins",
           "jockey": "Paul Townend"
         }
@@ -434,7 +434,7 @@
           "meeting": "Punchestown",
           "horse": "World As One",
           "odds": "11/4",
-          "res": "?",
+          "res": "NR",
           "trainer": "W P Mullins",
           "jockey": "Paul Townend"
         },
@@ -462,7 +462,7 @@
           "meeting": "Cork",
           "horse": "Noon Blu Dodville",
           "odds": "11/10",
-          "res": "?",
+          "res": "PLACE",
           "trainer": "E Mullins",
           "jockey": "Donagh Meyler"
         },
@@ -471,7 +471,7 @@
           "meeting": "Cork",
           "horse": "Maestro Des Pins",
           "odds": "9/4",
-          "res": "?",
+          "res": "PLACE",
           "trainer": "W P Mullins",
           "jockey": "Danny Mullins"
         },
@@ -499,7 +499,7 @@
           "meeting": "Cork",
           "horse": "Noon Blu Dodville",
           "odds": "11/10",
-          "res": "?",
+          "res": "PLACE",
           "trainer": "E Mullins",
           "jockey": "Donagh Meyler"
         },
@@ -508,7 +508,7 @@
           "meeting": "Cork",
           "horse": "Maestro Des Pins",
           "odds": "9/4",
-          "res": "?",
+          "res": "PLACE",
           "trainer": "W P Mullins",
           "jockey": "Danny Mullins"
         },
@@ -517,16 +517,16 @@
           "meeting": "Punchestown",
           "horse": "World As One",
           "odds": "11/4",
-          "res": "?",
+          "res": "NR",
           "trainer": "W P Mullins",
           "jockey": "Paul Townend"
         }
       ],
       "dec": 25.59,
-      "res": "PENDING",
-      "stake": 0.02,
+      "res": "NR",
+      "stake": 0.0,
       "pay": null,
-      "bank": null
+      "bank": 60.32
     },
     {
       "size": 3,
@@ -536,7 +536,7 @@
           "meeting": "Cork",
           "horse": "Noon Blu Dodville",
           "odds": "11/10",
-          "res": "?",
+          "res": "PLACE",
           "trainer": "E Mullins",
           "jockey": "Donagh Meyler"
         },
@@ -545,7 +545,7 @@
           "meeting": "Cork",
           "horse": "Maestro Des Pins",
           "odds": "9/4",
-          "res": "?",
+          "res": "PLACE",
           "trainer": "W P Mullins",
           "jockey": "Danny Mullins"
         },
@@ -573,7 +573,7 @@
           "meeting": "Cork",
           "horse": "Noon Blu Dodville",
           "odds": "11/10",
-          "res": "?",
+          "res": "PLACE",
           "trainer": "E Mullins",
           "jockey": "Donagh Meyler"
         },
@@ -591,7 +591,7 @@
           "meeting": "Punchestown",
           "horse": "World As One",
           "odds": "11/4",
-          "res": "?",
+          "res": "NR",
           "trainer": "W P Mullins",
           "jockey": "Paul Townend"
         }
@@ -610,7 +610,7 @@
           "meeting": "Cork",
           "horse": "Noon Blu Dodville",
           "odds": "11/10",
-          "res": "?",
+          "res": "PLACE",
           "trainer": "E Mullins",
           "jockey": "Donagh Meyler"
         },
@@ -647,7 +647,7 @@
           "meeting": "Cork",
           "horse": "Noon Blu Dodville",
           "odds": "11/10",
-          "res": "?",
+          "res": "PLACE",
           "trainer": "E Mullins",
           "jockey": "Donagh Meyler"
         },
@@ -656,7 +656,7 @@
           "meeting": "Punchestown",
           "horse": "World As One",
           "odds": "11/4",
-          "res": "?",
+          "res": "NR",
           "trainer": "W P Mullins",
           "jockey": "Paul Townend"
         },
@@ -684,7 +684,7 @@
           "meeting": "Cork",
           "horse": "Maestro Des Pins",
           "odds": "9/4",
-          "res": "?",
+          "res": "PLACE",
           "trainer": "W P Mullins",
           "jockey": "Danny Mullins"
         },
@@ -702,7 +702,7 @@
           "meeting": "Punchestown",
           "horse": "World As One",
           "odds": "11/4",
-          "res": "?",
+          "res": "NR",
           "trainer": "W P Mullins",
           "jockey": "Paul Townend"
         }
@@ -721,7 +721,7 @@
           "meeting": "Cork",
           "horse": "Maestro Des Pins",
           "odds": "9/4",
-          "res": "?",
+          "res": "PLACE",
           "trainer": "W P Mullins",
           "jockey": "Danny Mullins"
         },
@@ -758,7 +758,7 @@
           "meeting": "Cork",
           "horse": "Maestro Des Pins",
           "odds": "9/4",
-          "res": "?",
+          "res": "PLACE",
           "trainer": "W P Mullins",
           "jockey": "Danny Mullins"
         },
@@ -767,7 +767,7 @@
           "meeting": "Punchestown",
           "horse": "World As One",
           "odds": "11/4",
-          "res": "?",
+          "res": "NR",
           "trainer": "W P Mullins",
           "jockey": "Paul Townend"
         },
@@ -804,7 +804,7 @@
           "meeting": "Punchestown",
           "horse": "World As One",
           "odds": "11/4",
-          "res": "?",
+          "res": "NR",
           "trainer": "W P Mullins",
           "jockey": "Paul Townend"
         },
@@ -832,7 +832,7 @@
           "meeting": "Cork",
           "horse": "Noon Blu Dodville",
           "odds": "11/10",
-          "res": "?",
+          "res": "PLACE",
           "trainer": "E Mullins",
           "jockey": "Donagh Meyler"
         },
@@ -841,7 +841,7 @@
           "meeting": "Cork",
           "horse": "Maestro Des Pins",
           "odds": "9/4",
-          "res": "?",
+          "res": "PLACE",
           "trainer": "W P Mullins",
           "jockey": "Danny Mullins"
         },
@@ -859,7 +859,7 @@
           "meeting": "Punchestown",
           "horse": "World As One",
           "odds": "11/4",
-          "res": "?",
+          "res": "NR",
           "trainer": "W P Mullins",
           "jockey": "Paul Townend"
         }
@@ -878,7 +878,7 @@
           "meeting": "Cork",
           "horse": "Noon Blu Dodville",
           "odds": "11/10",
-          "res": "?",
+          "res": "PLACE",
           "trainer": "E Mullins",
           "jockey": "Donagh Meyler"
         },
@@ -887,7 +887,7 @@
           "meeting": "Cork",
           "horse": "Maestro Des Pins",
           "odds": "9/4",
-          "res": "?",
+          "res": "PLACE",
           "trainer": "W P Mullins",
           "jockey": "Danny Mullins"
         },
@@ -924,7 +924,7 @@
           "meeting": "Cork",
           "horse": "Noon Blu Dodville",
           "odds": "11/10",
-          "res": "?",
+          "res": "PLACE",
           "trainer": "E Mullins",
           "jockey": "Donagh Meyler"
         },
@@ -933,7 +933,7 @@
           "meeting": "Cork",
           "horse": "Maestro Des Pins",
           "odds": "9/4",
-          "res": "?",
+          "res": "PLACE",
           "trainer": "W P Mullins",
           "jockey": "Danny Mullins"
         },
@@ -942,7 +942,7 @@
           "meeting": "Punchestown",
           "horse": "World As One",
           "odds": "11/4",
-          "res": "?",
+          "res": "NR",
           "trainer": "W P Mullins",
           "jockey": "Paul Townend"
         },
@@ -970,7 +970,7 @@
           "meeting": "Cork",
           "horse": "Noon Blu Dodville",
           "odds": "11/10",
-          "res": "?",
+          "res": "PLACE",
           "trainer": "E Mullins",
           "jockey": "Donagh Meyler"
         },
@@ -988,7 +988,7 @@
           "meeting": "Punchestown",
           "horse": "World As One",
           "odds": "11/4",
-          "res": "?",
+          "res": "NR",
           "trainer": "W P Mullins",
           "jockey": "Paul Townend"
         },
@@ -1016,7 +1016,7 @@
           "meeting": "Cork",
           "horse": "Maestro Des Pins",
           "odds": "9/4",
-          "res": "?",
+          "res": "PLACE",
           "trainer": "W P Mullins",
           "jockey": "Danny Mullins"
         },
@@ -1034,7 +1034,7 @@
           "meeting": "Punchestown",
           "horse": "World As One",
           "odds": "11/4",
-          "res": "?",
+          "res": "NR",
           "trainer": "W P Mullins",
           "jockey": "Paul Townend"
         },
@@ -1062,7 +1062,7 @@
           "meeting": "Cork",
           "horse": "Noon Blu Dodville",
           "odds": "11/10",
-          "res": "?",
+          "res": "PLACE",
           "trainer": "E Mullins",
           "jockey": "Donagh Meyler"
         },
@@ -1071,7 +1071,7 @@
           "meeting": "Cork",
           "horse": "Maestro Des Pins",
           "odds": "9/4",
-          "res": "?",
+          "res": "PLACE",
           "trainer": "W P Mullins",
           "jockey": "Danny Mullins"
         },
@@ -1089,7 +1089,7 @@
           "meeting": "Punchestown",
           "horse": "World As One",
           "odds": "11/4",
-          "res": "?",
+          "res": "NR",
           "trainer": "W P Mullins",
           "jockey": "Paul Townend"
         },
@@ -1114,19 +1114,34 @@
     "picks": 5,
     "lines": 31,
     "won": 0,
-    "lost": 0,
-    "pending": 31,
-    "nr": 0
+    "lost": 3,
+    "pending": 24,
+    "nr": 4
   },
-  "staked": 0,
-  "returned": 0,
-  "profit": 0,
+  "staked": 0.06,
+  "returned": 0.0,
+  "profit": -0.06,
   "bank": {
     "start": 60.38,
-    "end": 60.38,
+    "end": 60.32,
     "next_stake": 0.6,
     "season_start": 10.0,
-    "season_end": 60.38
+    "season_end": 60.32
   },
-  "by_size": {}
+  "by_size": {
+    "1": {
+      "n": 2,
+      "won": 0,
+      "lines": 2,
+      "staked": 0.04,
+      "returned": 0.0
+    },
+    "2": {
+      "n": 1,
+      "won": 0,
+      "lines": 1,
+      "staked": 0.02,
+      "returned": 0.0
+    }
+  }
 }
