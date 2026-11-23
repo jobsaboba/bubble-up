@@ -1,6 +1,6 @@
 {
   "date": "2026-07-13",
-  "generated": "2026-11-22T16:01:41+00:00",
+  "generated": "2026-11-23T14:14:56+00:00",
   "picks": [
     {
       "time": "14:00",
@@ -66,7 +66,7 @@
       "res": "LOSE",
       "stake": 0.02,
       "pay": 0.0,
-      "bank": 12.19
+      "bank": 11.97
     },
     {
       "size": 1,
@@ -85,7 +85,7 @@
       "res": "WIN",
       "stake": 0.02,
       "pay": 0.06,
-      "bank": 12.23
+      "bank": 12.01
     },
     {
       "size": 1,
@@ -104,7 +104,7 @@
       "res": "LOSE",
       "stake": 0.02,
       "pay": 0.0,
-      "bank": 12.19
+      "bank": 11.97
     },
     {
       "size": 2,
@@ -132,7 +132,7 @@
       "res": "LOSE",
       "stake": 0.02,
       "pay": 0.0,
-      "bank": 12.21
+      "bank": 11.99
     },
     {
       "size": 2,
@@ -160,7 +160,7 @@
       "res": "LOSE",
       "stake": 0.02,
       "pay": 0.0,
-      "bank": 12.17
+      "bank": 11.95
     },
     {
       "size": 2,
@@ -188,7 +188,7 @@
       "res": "LOSE",
       "stake": 0.02,
       "pay": 0.0,
-      "bank": 12.15
+      "bank": 11.93
     },
     {
       "size": 3,
@@ -225,7 +225,7 @@
       "res": "LOSE",
       "stake": 0.02,
       "pay": 0.0,
-      "bank": 12.13
+      "bank": 11.91
     }
   ],
   "score": {
@@ -240,11 +240,11 @@
   "returned": 0.06,
   "profit": -0.08,
   "bank": {
-    "start": 12.21,
-    "end": 12.13,
+    "start": 11.99,
+    "end": 11.91,
     "next_stake": 0.12,
     "season_start": 10.0,
-    "season_end": 59.99
+    "season_end": 59.74
   },
   "by_size": {
     "1": {

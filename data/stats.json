@@ -1,29 +1,29 @@
 {
-  "generated": "2026-11-22T16:01:41+00:00",
+  "generated": "2026-11-23T14:14:56+00:00",
   "season": {
     "days": 82,
     "lines": 364,
     "won": 150,
-    "lost": 193,
-    "nr": 21,
+    "lost": 195,
+    "nr": 19,
     "pending": 0,
-    "staked": 13.44,
-    "returned": 63.43,
-    "profit": 49.99,
-    "roi": 371.9,
+    "staked": 13.51,
+    "returned": 63.25,
+    "profit": 49.74,
+    "roi": 368.2,
     "bank_start": 10.0,
-    "bank_end": 59.99
+    "bank_end": 59.74
   },
   "by_size": [
     {
       "size": "Singles",
       "key": 1,
-      "n": 127,
+      "n": 129,
       "won": 70,
-      "lines": 127,
-      "staked": 9.35,
-      "returned": 12.29,
-      "roi": 31.4
+      "lines": 129,
+      "staked": 9.43,
+      "returned": 12.11,
+      "roi": 28.4
     },
     {
       "size": "Doubles",
@@ -31,9 +31,9 @@
       "n": 92,
       "won": 34,
       "lines": 92,
-      "staked": 2.56,
+      "staked": 2.55,
       "returned": 4.9,
-      "roi": 91.4
+      "roi": 92.2
     },
     {
       "size": "Trebles",
@@ -79,15 +79,15 @@
   "monthly": {
     "2026-01": -0.21,
     "2026-02": -0.0,
-    "2026-03": 0.18,
+    "2026-03": -0.02,
     "2026-04": 0.64,
-    "2026-05": 0.46,
-    "2026-06": 0.92,
+    "2026-05": 0.47,
+    "2026-06": 0.89,
     "2026-07": 0.62,
-    "2026-08": 0.74,
-    "2026-09": 0.26,
-    "2026-10": 0.88,
-    "2026-11": 45.5
+    "2026-08": 0.71,
+    "2026-09": 0.25,
+    "2026-10": 0.86,
+    "2026-11": 45.53
   },
   "best_day": {
     "date": "2026-11-09",
@@ -169,424 +169,424 @@
       "bank_end": 9.79
     },
     "2026-03-06": {
-      "staked": 0,
-      "returned": 0,
+      "staked": 0.1,
+      "returned": 0.0,
       "lines": 1,
-      "bank_end": 9.79
+      "bank_end": 9.69
     },
     "2026-03-16": {
       "staked": 0.1,
       "returned": 0.0,
       "lines": 1,
-      "bank_end": 9.69
+      "bank_end": 9.59
     },
     "2026-03-20": {
-      "staked": 0,
-      "returned": 0,
+      "staked": 0.1,
+      "returned": 0.0,
       "lines": 1,
-      "bank_end": 9.69
+      "bank_end": 9.49
     },
     "2026-03-21": {
       "staked": 0.07,
       "returned": 0.16,
       "lines": 7,
-      "bank_end": 9.78
+      "bank_end": 9.58
     },
     "2026-03-31": {
       "staked": 0.1,
       "returned": 0.29,
       "lines": 1,
-      "bank_end": 9.97
+      "bank_end": 9.77
     },
     "2026-04-02": {
       "staked": 0.09,
       "returned": 0.07,
       "lines": 3,
-      "bank_end": 9.95
+      "bank_end": 9.75
     },
     "2026-04-11": {
       "staked": 0.1,
       "returned": 0.29,
       "lines": 1,
-      "bank_end": 10.14
+      "bank_end": 9.94
     },
     "2026-04-12": {
       "staked": 0.1,
       "returned": 0.14,
       "lines": 1,
-      "bank_end": 10.18
+      "bank_end": 9.98
     },
     "2026-04-18": {
       "staked": 0.07,
       "returned": 0.0,
       "lines": 7,
-      "bank_end": 10.11
+      "bank_end": 9.91
     },
     "2026-04-20": {
       "staked": 0.1,
       "returned": 0.14,
       "lines": 1,
-      "bank_end": 10.15
+      "bank_end": 9.95
     },
     "2026-04-22": {
       "staked": 0.1,
       "returned": 0.0,
       "lines": 1,
-      "bank_end": 10.05
+      "bank_end": 9.85
     },
     "2026-04-24": {
       "staked": 0.09,
       "returned": 0.59,
       "lines": 3,
-      "bank_end": 10.55
+      "bank_end": 10.35
     },
     "2026-04-29": {
-      "staked": 0.11,
-      "returned": 0.17,
+      "staked": 0.1,
+      "returned": 0.16,
       "lines": 1,
-      "bank_end": 10.61
+      "bank_end": 10.41
     },
     "2026-05-03": {
-      "staked": 0.11,
+      "staked": 0.1,
       "returned": 0.0,
       "lines": 1,
-      "bank_end": 10.5
+      "bank_end": 10.31
     },
     "2026-05-05": {
       "staked": 0.1,
       "returned": 0.0,
       "lines": 1,
-      "bank_end": 10.4
+      "bank_end": 10.21
     },
     "2026-05-06": {
       "staked": 0.09,
       "returned": 0.57,
       "lines": 3,
-      "bank_end": 10.88
+      "bank_end": 10.69
     },
     "2026-05-16": {
       "staked": 0.11,
       "returned": 0.39,
       "lines": 1,
-      "bank_end": 11.16
+      "bank_end": 10.97
     },
     "2026-05-20": {
       "staked": 0.11,
       "returned": 0.0,
       "lines": 1,
-      "bank_end": 11.05
+      "bank_end": 10.86
     },
     "2026-05-21": {
       "staked": 0.11,
       "returned": 0.0,
       "lines": 1,
-      "bank_end": 10.94
+      "bank_end": 10.75
     },
     "2026-05-23": {
       "staked": 0.12,
       "returned": 0.36,
       "lines": 3,
-      "bank_end": 11.18
+      "bank_end": 10.99
     },
     "2026-05-24": {
       "staked": 0.11,
       "returned": 0.0,
       "lines": 1,
-      "bank_end": 11.07
+      "bank_end": 10.88
     },
     "2026-06-04": {
       "staked": 0.11,
       "returned": 0.46,
       "lines": 1,
-      "bank_end": 11.42
+      "bank_end": 11.23
     },
     "2026-06-06": {
       "staked": 0.12,
       "returned": 0.13,
       "lines": 3,
-      "bank_end": 11.43
+      "bank_end": 11.24
     },
     "2026-06-15": {
       "staked": 0.11,
       "returned": 0.33,
       "lines": 1,
-      "bank_end": 11.65
+      "bank_end": 11.46
     },
     "2026-06-23": {
       "staked": 0.12,
       "returned": 0.07,
       "lines": 3,
-      "bank_end": 11.6
+      "bank_end": 11.41
     },
     "2026-06-26": {
-      "staked": 0.12,
-      "returned": 0.52,
+      "staked": 0.11,
+      "returned": 0.48,
       "lines": 1,
-      "bank_end": 12.0
+      "bank_end": 11.78
     },
     "2026-06-30": {
       "staked": 0.12,
       "returned": 0.11,
       "lines": 3,
-      "bank_end": 11.99
+      "bank_end": 11.77
     },
     "2026-07-06": {
       "staked": 0.12,
       "returned": 0.2,
       "lines": 3,
-      "bank_end": 12.07
+      "bank_end": 11.85
     },
     "2026-07-08": {
       "staked": 0.12,
       "returned": 0.26,
       "lines": 1,
-      "bank_end": 12.21
+      "bank_end": 11.99
     },
     "2026-07-13": {
       "staked": 0.14,
       "returned": 0.06,
       "lines": 7,
-      "bank_end": 12.13
+      "bank_end": 11.91
     },
     "2026-07-14": {
       "staked": 0.12,
       "returned": 0.36,
       "lines": 1,
-      "bank_end": 12.37
+      "bank_end": 12.15
     },
     "2026-07-16": {
       "staked": 0.12,
       "returned": 0.24,
       "lines": 1,
-      "bank_end": 12.49
+      "bank_end": 12.27
     },
     "2026-07-20": {
       "staked": 0.12,
       "returned": 0.0,
       "lines": 1,
-      "bank_end": 12.37
+      "bank_end": 12.15
     },
     "2026-07-24": {
       "staked": 0.12,
       "returned": 0.0,
       "lines": 1,
-      "bank_end": 12.25
+      "bank_end": 12.03
     },
     "2026-07-27": {
       "staked": 0.12,
       "returned": 0.0,
       "lines": 1,
-      "bank_end": 12.13
+      "bank_end": 11.91
     },
     "2026-07-28": {
       "staked": 0.12,
       "returned": 0.6,
       "lines": 1,
-      "bank_end": 12.61
+      "bank_end": 12.39
     },
     "2026-08-04": {
       "staked": 0.12,
       "returned": 0.08,
       "lines": 3,
-      "bank_end": 12.57
+      "bank_end": 12.35
     },
     "2026-08-07": {
-      "staked": 0.13,
+      "staked": 0.12,
       "returned": 0.0,
       "lines": 1,
-      "bank_end": 12.44
+      "bank_end": 12.23
     },
     "2026-08-08": {
       "staked": 0.12,
       "returned": 0.0,
       "lines": 3,
-      "bank_end": 12.32
+      "bank_end": 12.11
     },
     "2026-08-10": {
       "staked": 0.12,
       "returned": 0.42,
       "lines": 1,
-      "bank_end": 12.62
+      "bank_end": 12.41
     },
     "2026-08-11": {
-      "staked": 0.13,
-      "returned": 0.84,
+      "staked": 0.12,
+      "returned": 0.78,
       "lines": 1,
-      "bank_end": 13.33
+      "bank_end": 13.07
     },
     "2026-08-24": {
       "staked": 0.13,
       "returned": 0.42,
       "lines": 1,
-      "bank_end": 13.62
+      "bank_end": 13.36
     },
     "2026-08-25": {
-      "staked": 0.14,
+      "staked": 0.13,
       "returned": 0.0,
       "lines": 1,
-      "bank_end": 13.48
+      "bank_end": 13.23
     },
     "2026-08-29": {
       "staked": 0.13,
       "returned": 0.0,
       "lines": 1,
-      "bank_end": 13.35
+      "bank_end": 13.1
     },
     "2026-09-17": {
       "staked": 0.12,
       "returned": 0.15,
       "lines": 3,
-      "bank_end": 13.38
+      "bank_end": 13.13
     },
     "2026-09-20": {
       "staked": 0.13,
       "returned": 0.46,
       "lines": 1,
-      "bank_end": 13.71
+      "bank_end": 13.46
     },
     "2026-09-23": {
-      "staked": 0.14,
-      "returned": 0.32,
+      "staked": 0.13,
+      "returned": 0.29,
       "lines": 1,
-      "bank_end": 13.89
+      "bank_end": 13.62
     },
     "2026-09-24": {
       "staked": 0.14,
       "returned": 0.0,
       "lines": 1,
-      "bank_end": 13.75
+      "bank_end": 13.48
     },
     "2026-09-28": {
-      "staked": 0.14,
+      "staked": 0.13,
       "returned": 0.0,
       "lines": 1,
-      "bank_end": 13.61
+      "bank_end": 13.35
     },
     "2026-10-08": {
-      "staked": 0.14,
-      "returned": 0.42,
+      "staked": 0.13,
+      "returned": 0.39,
       "lines": 1,
-      "bank_end": 13.89
+      "bank_end": 13.61
     },
     "2026-10-09": {
       "staked": 0.14,
       "returned": 0.28,
       "lines": 1,
-      "bank_end": 14.03
+      "bank_end": 13.75
     },
     "2026-10-10": {
       "staked": 0.14,
       "returned": 0.39,
       "lines": 1,
-      "bank_end": 14.28
+      "bank_end": 14.0
     },
     "2026-10-11": {
       "staked": 0.14,
       "returned": 0.42,
       "lines": 1,
-      "bank_end": 14.56
+      "bank_end": 14.28
     },
     "2026-10-22": {
-      "staked": 0.15,
-      "returned": 0.19,
+      "staked": 0.14,
+      "returned": 0.18,
       "lines": 1,
-      "bank_end": 14.6
+      "bank_end": 14.32
     },
     "2026-10-27": {
       "staked": 0.14,
       "returned": 0.03,
       "lines": 7,
-      "bank_end": 14.49
+      "bank_end": 14.21
     },
     "2026-11-04": {
       "staked": 0.14,
       "returned": 1.25,
       "lines": 7,
-      "bank_end": 15.6
+      "bank_end": 15.32
     },
     "2026-11-06": {
       "staked": 0.14,
       "returned": 0.97,
       "lines": 7,
-      "bank_end": 16.43
+      "bank_end": 16.15
     },
     "2026-11-07": {
       "staked": 0.31,
       "returned": 0.4,
       "lines": 31,
-      "bank_end": 16.52
+      "bank_end": 16.24
     },
     "2026-11-08": {
       "staked": 0.14,
       "returned": 0.8,
       "lines": 7,
-      "bank_end": 17.18
+      "bank_end": 16.9
     },
     "2026-11-09": {
       "staked": 0.63,
       "returned": 46.83,
       "lines": 63,
-      "bank_end": 63.38
+      "bank_end": 63.1
     },
     "2026-11-11": {
       "staked": 0.63,
       "returned": 0.21,
       "lines": 63,
-      "bank_end": 62.96
+      "bank_end": 62.68
     },
     "2026-11-13": {
       "staked": 0.63,
       "returned": 0.36,
       "lines": 3,
-      "bank_end": 62.69
+      "bank_end": 62.41
     },
     "2026-11-14": {
       "staked": 0.09,
       "returned": 0.0,
       "lines": 7,
-      "bank_end": 62.6
+      "bank_end": 62.32
     },
     "2026-11-15": {
       "staked": 0.63,
       "returned": 0.0,
       "lines": 3,
-      "bank_end": 61.97
+      "bank_end": 61.69
     },
     "2026-11-16": {
       "staked": 0.62,
       "returned": 0.0,
       "lines": 1,
-      "bank_end": 61.35
+      "bank_end": 61.07
     },
     "2026-11-17": {
       "staked": 0,
       "returned": 0,
       "lines": 1,
-      "bank_end": 61.35
+      "bank_end": 61.07
     },
     "2026-11-18": {
       "staked": 0.63,
       "returned": 0.89,
       "lines": 7,
-      "bank_end": 61.61
+      "bank_end": 61.33
     },
     "2026-11-20": {
-      "staked": 0.63,
+      "staked": 0.6,
       "returned": 0.0,
       "lines": 3,
-      "bank_end": 60.98
+      "bank_end": 60.73
     },
     "2026-11-21": {
       "staked": 0.6,
       "returned": 0.0,
       "lines": 3,
-      "bank_end": 60.38
+      "bank_end": 60.13
     },
     "2026-11-22": {
       "staked": 0.62,
       "returned": 0.23,
       "lines": 31,
-      "bank_end": 59.99
+      "bank_end": 59.74
     }
   }
 }

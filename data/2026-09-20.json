@@ -1,6 +1,6 @@
 {
   "date": "2026-09-20",
-  "generated": "2026-11-22T16:01:41+00:00",
+  "generated": "2026-11-23T14:14:56+00:00",
   "picks": [
     {
       "time": "14:00",
@@ -36,7 +36,7 @@
       "res": "WIN",
       "stake": 0.13,
       "pay": 0.46,
-      "bank": 13.71
+      "bank": 13.46
     }
   ],
   "score": {
@@ -51,11 +51,11 @@
   "returned": 0.46,
   "profit": 0.33,
   "bank": {
-    "start": 13.38,
-    "end": 13.71,
-    "next_stake": 0.14,
+    "start": 13.13,
+    "end": 13.46,
+    "next_stake": 0.13,
     "season_start": 10.0,
-    "season_end": 59.99
+    "season_end": 59.74
   },
   "by_size": {
     "1": {
