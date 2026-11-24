@@ -1,69 +1,69 @@
 {
-  "generated": "2026-11-24T14:31:25+00:00",
+  "generated": "2026-11-24T15:32:55+00:00",
   "season": {
     "days": 83,
     "lines": 4459,
     "won": 153,
-    "lost": 207,
-    "nr": 515,
-    "pending": 3584,
-    "staked": 13.66,
+    "lost": 223,
+    "nr": 1011,
+    "pending": 3072,
+    "staked": 13.82,
     "returned": 63.31,
-    "profit": 49.65,
-    "roi": 363.5,
+    "profit": 49.49,
+    "roi": 358.1,
     "bank_start": 10.0,
-    "bank_end": 59.65
+    "bank_end": 59.49
   },
   "by_size": [
     {
       "size": "Singles",
       "key": 1,
-      "n": 133,
+      "n": 134,
       "won": 72,
-      "lines": 133,
-      "staked": 9.47,
+      "lines": 134,
+      "staked": 9.48,
       "returned": 12.14,
-      "roi": 28.2
+      "roi": 28.1
     },
     {
       "size": "Doubles",
       "key": 2,
-      "n": 98,
+      "n": 102,
       "won": 35,
-      "lines": 98,
-      "staked": 2.61,
+      "lines": 102,
+      "staked": 2.65,
       "returned": 4.93,
-      "roi": 88.9
+      "roi": 86.0
     },
     {
       "size": "Trebles",
       "key": 3,
-      "n": 72,
+      "n": 78,
       "won": 24,
-      "lines": 72,
-      "staked": 0.95,
+      "lines": 78,
+      "staked": 1.01,
       "returned": 8.04,
-      "roi": 746.3
+      "roi": 696.0
     },
     {
       "size": "4-folds",
       "key": 4,
-      "n": 41,
+      "n": 45,
       "won": 15,
-      "lines": 41,
-      "staked": 0.46,
+      "lines": 45,
+      "staked": 0.5,
       "returned": 14.76,
-      "roi": 3108.7
+      "roi": 2852.0
     },
     {
       "size": "5-folds",
       "key": 5,
-      "n": 14,
+      "n": 15,
       "won": 6,
-      "lines": 14,
-      "staked": 0.15,
+      "lines": 15,
+      "staked": 0.16,
       "returned": 16.28,
-      "roi": 10753.3
+      "roi": 10075.0
     },
     {
       "size": "6-folds",
@@ -87,7 +87,7 @@
     "2026-08": 0.71,
     "2026-09": 0.25,
     "2026-10": 0.86,
-    "2026-11": 45.44
+    "2026-11": 45.28
   },
   "best_day": {
     "date": "2026-11-09",
@@ -589,10 +589,10 @@
       "bank_end": 59.74
     },
     "2026-11-24": {
-      "staked": 0.15,
+      "staked": 0.31,
       "returned": 0.06,
       "lines": 4095,
-      "bank_end": 59.65
+      "bank_end": 59.49
     }
   }
 }
