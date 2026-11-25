@@ -1,0 +1,525 @@
+{
+  "date": "2026-11-25",
+  "generated": "2026-11-25T05:45:02+00:00",
+  "picks": [
+    {
+      "time": "12:46",
+      "meeting": "Wetherby",
+      "race": "wetherbyracing.co.uk Handicap Hurdle",
+      "horse": "I Heard A Rumour",
+      "stars": 5,
+      "odds": "13/8",
+      "dec": 2.625,
+      "res": null,
+      "pos": 0,
+      "score1": 165.53,
+      "score2": 79.27,
+      "trainer": "D Skelton",
+      "jockey": "Harry Skelton"
+    },
+    {
+      "time": "14:46",
+      "meeting": "Wetherby",
+      "race": "Watch Racing TV In HD Novices' Handicap Chase (GBB Race)",
+      "horse": "Albie Littlewood",
+      "stars": 5,
+      "odds": "5/2",
+      "dec": 3.5,
+      "res": null,
+      "pos": 0,
+      "score1": 185.53,
+      "score2": 91.29,
+      "trainer": "D Skelton",
+      "jockey": "Harry Skelton"
+    },
+    {
+      "time": "16:20",
+      "meeting": "Kempton",
+      "race": "Racing TV EBF Fillies' Restricted Novice Stakes (GBB Race) (Div 1)",
+      "horse": "Bet You Can't",
+      "stars": 5,
+      "odds": "6/5",
+      "dec": 2.2,
+      "res": null,
+      "pos": 0,
+      "score1": 110.26,
+      "score2": 24.69,
+      "trainer": "G Boughey",
+      "jockey": "Billy Loughnane"
+    },
+    {
+      "time": "17:20",
+      "meeting": "Kempton",
+      "race": "Unibet/British Stallion Studs EBF Novice Stakes (GBB Race)",
+      "horse": "Highest Peak",
+      "stars": 5,
+      "odds": "5/4",
+      "dec": 2.25,
+      "res": null,
+      "pos": 0,
+      "score1": 192.26,
+      "score2": 39.36,
+      "trainer": "C Appleby",
+      "jockey": "Billy Loughnane"
+    }
+  ],
+  "combos": [
+    {
+      "size": 1,
+      "legs": [
+        {
+          "time": "12:46",
+          "meeting": "Wetherby",
+          "horse": "I Heard A Rumour",
+          "odds": "13/8",
+          "res": "?",
+          "trainer": "D Skelton",
+          "jockey": "Harry Skelton"
+        }
+      ],
+      "dec": 2.62,
+      "res": "PENDING",
+      "stake": 0.04,
+      "pay": null,
+      "bank": null
+    },
+    {
+      "size": 1,
+      "legs": [
+        {
+          "time": "14:46",
+          "meeting": "Wetherby",
+          "horse": "Albie Littlewood",
+          "odds": "5/2",
+          "res": "?",
+          "trainer": "D Skelton",
+          "jockey": "Harry Skelton"
+        }
+      ],
+      "dec": 3.5,
+      "res": "PENDING",
+      "stake": 0.04,
+      "pay": null,
+      "bank": null
+    },
+    {
+      "size": 1,
+      "legs": [
+        {
+          "time": "16:20",
+          "meeting": "Kempton",
+          "horse": "Bet You Can't",
+          "odds": "6/5",
+          "res": "?",
+          "trainer": "G Boughey",
+          "jockey": "Billy Loughnane"
+        }
+      ],
+      "dec": 2.2,
+      "res": "PENDING",
+      "stake": 0.04,
+      "pay": null,
+      "bank": null
+    },
+    {
+      "size": 1,
+      "legs": [
+        {
+          "time": "17:20",
+          "meeting": "Kempton",
+          "horse": "Highest Peak",
+          "odds": "5/4",
+          "res": "?",
+          "trainer": "C Appleby",
+          "jockey": "Billy Loughnane"
+        }
+      ],
+      "dec": 2.25,
+      "res": "PENDING",
+      "stake": 0.04,
+      "pay": null,
+      "bank": null
+    },
+    {
+      "size": 2,
+      "legs": [
+        {
+          "time": "12:46",
+          "meeting": "Wetherby",
+          "horse": "I Heard A Rumour",
+          "odds": "13/8",
+          "res": "?",
+          "trainer": "D Skelton",
+          "jockey": "Harry Skelton"
+        },
+        {
+          "time": "14:46",
+          "meeting": "Wetherby",
+          "horse": "Albie Littlewood",
+          "odds": "5/2",
+          "res": "?",
+          "trainer": "D Skelton",
+          "jockey": "Harry Skelton"
+        }
+      ],
+      "dec": 9.19,
+      "res": "PENDING",
+      "stake": 0.04,
+      "pay": null,
+      "bank": null
+    },
+    {
+      "size": 2,
+      "legs": [
+        {
+          "time": "12:46",
+          "meeting": "Wetherby",
+          "horse": "I Heard A Rumour",
+          "odds": "13/8",
+          "res": "?",
+          "trainer": "D Skelton",
+          "jockey": "Harry Skelton"
+        },
+        {
+          "time": "16:20",
+          "meeting": "Kempton",
+          "horse": "Bet You Can't",
+          "odds": "6/5",
+          "res": "?",
+          "trainer": "G Boughey",
+          "jockey": "Billy Loughnane"
+        }
+      ],
+      "dec": 5.78,
+      "res": "PENDING",
+      "stake": 0.04,
+      "pay": null,
+      "bank": null
+    },
+    {
+      "size": 2,
+      "legs": [
+        {
+          "time": "12:46",
+          "meeting": "Wetherby",
+          "horse": "I Heard A Rumour",
+          "odds": "13/8",
+          "res": "?",
+          "trainer": "D Skelton",
+          "jockey": "Harry Skelton"
+        },
+        {
+          "time": "17:20",
+          "meeting": "Kempton",
+          "horse": "Highest Peak",
+          "odds": "5/4",
+          "res": "?",
+          "trainer": "C Appleby",
+          "jockey": "Billy Loughnane"
+        }
+      ],
+      "dec": 5.91,
+      "res": "PENDING",
+      "stake": 0.04,
+      "pay": null,
+      "bank": null
+    },
+    {
+      "size": 2,
+      "legs": [
+        {
+          "time": "14:46",
+          "meeting": "Wetherby",
+          "horse": "Albie Littlewood",
+          "odds": "5/2",
+          "res": "?",
+          "trainer": "D Skelton",
+          "jockey": "Harry Skelton"
+        },
+        {
+          "time": "16:20",
+          "meeting": "Kempton",
+          "horse": "Bet You Can't",
+          "odds": "6/5",
+          "res": "?",
+          "trainer": "G Boughey",
+          "jockey": "Billy Loughnane"
+        }
+      ],
+      "dec": 7.7,
+      "res": "PENDING",
+      "stake": 0.04,
+      "pay": null,
+      "bank": null
+    },
+    {
+      "size": 2,
+      "legs": [
+        {
+          "time": "14:46",
+          "meeting": "Wetherby",
+          "horse": "Albie Littlewood",
+          "odds": "5/2",
+          "res": "?",
+          "trainer": "D Skelton",
+          "jockey": "Harry Skelton"
+        },
+        {
+          "time": "17:20",
+          "meeting": "Kempton",
+          "horse": "Highest Peak",
+          "odds": "5/4",
+          "res": "?",
+          "trainer": "C Appleby",
+          "jockey": "Billy Loughnane"
+        }
+      ],
+      "dec": 7.88,
+      "res": "PENDING",
+      "stake": 0.04,
+      "pay": null,
+      "bank": null
+    },
+    {
+      "size": 2,
+      "legs": [
+        {
+          "time": "16:20",
+          "meeting": "Kempton",
+          "horse": "Bet You Can't",
+          "odds": "6/5",
+          "res": "?",
+          "trainer": "G Boughey",
+          "jockey": "Billy Loughnane"
+        },
+        {
+          "time": "17:20",
+          "meeting": "Kempton",
+          "horse": "Highest Peak",
+          "odds": "5/4",
+          "res": "?",
+          "trainer": "C Appleby",
+          "jockey": "Billy Loughnane"
+        }
+      ],
+      "dec": 4.95,
+      "res": "PENDING",
+      "stake": 0.04,
+      "pay": null,
+      "bank": null
+    },
+    {
+      "size": 3,
+      "legs": [
+        {
+          "time": "12:46",
+          "meeting": "Wetherby",
+          "horse": "I Heard A Rumour",
+          "odds": "13/8",
+          "res": "?",
+          "trainer": "D Skelton",
+          "jockey": "Harry Skelton"
+        },
+        {
+          "time": "14:46",
+          "meeting": "Wetherby",
+          "horse": "Albie Littlewood",
+          "odds": "5/2",
+          "res": "?",
+          "trainer": "D Skelton",
+          "jockey": "Harry Skelton"
+        },
+        {
+          "time": "16:20",
+          "meeting": "Kempton",
+          "horse": "Bet You Can't",
+          "odds": "6/5",
+          "res": "?",
+          "trainer": "G Boughey",
+          "jockey": "Billy Loughnane"
+        }
+      ],
+      "dec": 20.21,
+      "res": "PENDING",
+      "stake": 0.04,
+      "pay": null,
+      "bank": null
+    },
+    {
+      "size": 3,
+      "legs": [
+        {
+          "time": "12:46",
+          "meeting": "Wetherby",
+          "horse": "I Heard A Rumour",
+          "odds": "13/8",
+          "res": "?",
+          "trainer": "D Skelton",
+          "jockey": "Harry Skelton"
+        },
+        {
+          "time": "14:46",
+          "meeting": "Wetherby",
+          "horse": "Albie Littlewood",
+          "odds": "5/2",
+          "res": "?",
+          "trainer": "D Skelton",
+          "jockey": "Harry Skelton"
+        },
+        {
+          "time": "17:20",
+          "meeting": "Kempton",
+          "horse": "Highest Peak",
+          "odds": "5/4",
+          "res": "?",
+          "trainer": "C Appleby",
+          "jockey": "Billy Loughnane"
+        }
+      ],
+      "dec": 20.67,
+      "res": "PENDING",
+      "stake": 0.04,
+      "pay": null,
+      "bank": null
+    },
+    {
+      "size": 3,
+      "legs": [
+        {
+          "time": "12:46",
+          "meeting": "Wetherby",
+          "horse": "I Heard A Rumour",
+          "odds": "13/8",
+          "res": "?",
+          "trainer": "D Skelton",
+          "jockey": "Harry Skelton"
+        },
+        {
+          "time": "16:20",
+          "meeting": "Kempton",
+          "horse": "Bet You Can't",
+          "odds": "6/5",
+          "res": "?",
+          "trainer": "G Boughey",
+          "jockey": "Billy Loughnane"
+        },
+        {
+          "time": "17:20",
+          "meeting": "Kempton",
+          "horse": "Highest Peak",
+          "odds": "5/4",
+          "res": "?",
+          "trainer": "C Appleby",
+          "jockey": "Billy Loughnane"
+        }
+      ],
+      "dec": 12.99,
+      "res": "PENDING",
+      "stake": 0.04,
+      "pay": null,
+      "bank": null
+    },
+    {
+      "size": 3,
+      "legs": [
+        {
+          "time": "14:46",
+          "meeting": "Wetherby",
+          "horse": "Albie Littlewood",
+          "odds": "5/2",
+          "res": "?",
+          "trainer": "D Skelton",
+          "jockey": "Harry Skelton"
+        },
+        {
+          "time": "16:20",
+          "meeting": "Kempton",
+          "horse": "Bet You Can't",
+          "odds": "6/5",
+          "res": "?",
+          "trainer": "G Boughey",
+          "jockey": "Billy Loughnane"
+        },
+        {
+          "time": "17:20",
+          "meeting": "Kempton",
+          "horse": "Highest Peak",
+          "odds": "5/4",
+          "res": "?",
+          "trainer": "C Appleby",
+          "jockey": "Billy Loughnane"
+        }
+      ],
+      "dec": 17.33,
+      "res": "PENDING",
+      "stake": 0.04,
+      "pay": null,
+      "bank": null
+    },
+    {
+      "size": 4,
+      "legs": [
+        {
+          "time": "12:46",
+          "meeting": "Wetherby",
+          "horse": "I Heard A Rumour",
+          "odds": "13/8",
+          "res": "?",
+          "trainer": "D Skelton",
+          "jockey": "Harry Skelton"
+        },
+        {
+          "time": "14:46",
+          "meeting": "Wetherby",
+          "horse": "Albie Littlewood",
+          "odds": "5/2",
+          "res": "?",
+          "trainer": "D Skelton",
+          "jockey": "Harry Skelton"
+        },
+        {
+          "time": "16:20",
+          "meeting": "Kempton",
+          "horse": "Bet You Can't",
+          "odds": "6/5",
+          "res": "?",
+          "trainer": "G Boughey",
+          "jockey": "Billy Loughnane"
+        },
+        {
+          "time": "17:20",
+          "meeting": "Kempton",
+          "horse": "Highest Peak",
+          "odds": "5/4",
+          "res": "?",
+          "trainer": "C Appleby",
+          "jockey": "Billy Loughnane"
+        }
+      ],
+      "dec": 45.48,
+      "res": "PENDING",
+      "stake": 0.04,
+      "pay": null,
+      "bank": null
+    }
+  ],
+  "score": {
+    "picks": 4,
+    "lines": 15,
+    "won": 0,
+    "lost": 0,
+    "pending": 15,
+    "nr": 0
+  },
+  "staked": 0,
+  "returned": 0,
+  "profit": 0,
+  "bank": {
+    "start": 57.4,
+    "end": 57.4,
+    "next_stake": 0.57,
+    "season_start": 10.0,
+    "season_end": 57.4
+  },
+  "by_size": {}
+}
