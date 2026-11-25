@@ -1,6 +1,6 @@
 {
   "date": "2026-11-25",
-  "generated": "2026-11-25T05:45:02+00:00",
+  "generated": "2026-11-25T13:01:52+00:00",
   "picks": [
     {
       "time": "12:46",
@@ -10,8 +10,8 @@
       "stars": 5,
       "odds": "13/8",
       "dec": 2.625,
-      "res": null,
-      "pos": 0,
+      "res": "WIN",
+      "pos": 1,
       "score1": 165.53,
       "score2": 79.27,
       "trainer": "D Skelton",
@@ -55,7 +55,7 @@
       "stars": 5,
       "odds": "5/4",
       "dec": 2.25,
-      "res": null,
+      "res": "NR",
       "pos": 0,
       "score1": 192.26,
       "score2": 39.36,
@@ -72,16 +72,16 @@
           "meeting": "Wetherby",
           "horse": "I Heard A Rumour",
           "odds": "13/8",
-          "res": "?",
+          "res": "WIN",
           "trainer": "D Skelton",
           "jockey": "Harry Skelton"
         }
       ],
       "dec": 2.62,
-      "res": "PENDING",
+      "res": "WIN",
       "stake": 0.04,
-      "pay": null,
-      "bank": null
+      "pay": 0.1,
+      "bank": 57.46
     },
     {
       "size": 1,
@@ -129,16 +129,16 @@
           "meeting": "Kempton",
           "horse": "Highest Peak",
           "odds": "5/4",
-          "res": "?",
+          "res": "NR",
           "trainer": "C Appleby",
           "jockey": "Billy Loughnane"
         }
       ],
       "dec": 2.25,
-      "res": "PENDING",
-      "stake": 0.04,
+      "res": "NR",
+      "stake": 0.0,
       "pay": null,
-      "bank": null
+      "bank": 57.46
     },
     {
       "size": 2,
@@ -148,7 +148,7 @@
           "meeting": "Wetherby",
           "horse": "I Heard A Rumour",
           "odds": "13/8",
-          "res": "?",
+          "res": "WIN",
           "trainer": "D Skelton",
           "jockey": "Harry Skelton"
         },
@@ -176,7 +176,7 @@
           "meeting": "Wetherby",
           "horse": "I Heard A Rumour",
           "odds": "13/8",
-          "res": "?",
+          "res": "WIN",
           "trainer": "D Skelton",
           "jockey": "Harry Skelton"
         },
@@ -204,7 +204,7 @@
           "meeting": "Wetherby",
           "horse": "I Heard A Rumour",
           "odds": "13/8",
-          "res": "?",
+          "res": "WIN",
           "trainer": "D Skelton",
           "jockey": "Harry Skelton"
         },
@@ -213,16 +213,16 @@
           "meeting": "Kempton",
           "horse": "Highest Peak",
           "odds": "5/4",
-          "res": "?",
+          "res": "NR",
           "trainer": "C Appleby",
           "jockey": "Billy Loughnane"
         }
       ],
       "dec": 5.91,
-      "res": "PENDING",
-      "stake": 0.04,
+      "res": "NR",
+      "stake": 0.0,
       "pay": null,
-      "bank": null
+      "bank": 57.46
     },
     {
       "size": 2,
@@ -269,7 +269,7 @@
           "meeting": "Kempton",
           "horse": "Highest Peak",
           "odds": "5/4",
-          "res": "?",
+          "res": "NR",
           "trainer": "C Appleby",
           "jockey": "Billy Loughnane"
         }
@@ -297,7 +297,7 @@
           "meeting": "Kempton",
           "horse": "Highest Peak",
           "odds": "5/4",
-          "res": "?",
+          "res": "NR",
           "trainer": "C Appleby",
           "jockey": "Billy Loughnane"
         }
@@ -316,7 +316,7 @@
           "meeting": "Wetherby",
           "horse": "I Heard A Rumour",
           "odds": "13/8",
-          "res": "?",
+          "res": "WIN",
           "trainer": "D Skelton",
           "jockey": "Harry Skelton"
         },
@@ -353,7 +353,7 @@
           "meeting": "Wetherby",
           "horse": "I Heard A Rumour",
           "odds": "13/8",
-          "res": "?",
+          "res": "WIN",
           "trainer": "D Skelton",
           "jockey": "Harry Skelton"
         },
@@ -371,7 +371,7 @@
           "meeting": "Kempton",
           "horse": "Highest Peak",
           "odds": "5/4",
-          "res": "?",
+          "res": "NR",
           "trainer": "C Appleby",
           "jockey": "Billy Loughnane"
         }
@@ -390,7 +390,7 @@
           "meeting": "Wetherby",
           "horse": "I Heard A Rumour",
           "odds": "13/8",
-          "res": "?",
+          "res": "WIN",
           "trainer": "D Skelton",
           "jockey": "Harry Skelton"
         },
@@ -408,7 +408,7 @@
           "meeting": "Kempton",
           "horse": "Highest Peak",
           "odds": "5/4",
-          "res": "?",
+          "res": "NR",
           "trainer": "C Appleby",
           "jockey": "Billy Loughnane"
         }
@@ -445,7 +445,7 @@
           "meeting": "Kempton",
           "horse": "Highest Peak",
           "odds": "5/4",
-          "res": "?",
+          "res": "NR",
           "trainer": "C Appleby",
           "jockey": "Billy Loughnane"
         }
@@ -464,7 +464,7 @@
           "meeting": "Wetherby",
           "horse": "I Heard A Rumour",
           "odds": "13/8",
-          "res": "?",
+          "res": "WIN",
           "trainer": "D Skelton",
           "jockey": "Harry Skelton"
         },
@@ -491,7 +491,7 @@
           "meeting": "Kempton",
           "horse": "Highest Peak",
           "odds": "5/4",
-          "res": "?",
+          "res": "NR",
           "trainer": "C Appleby",
           "jockey": "Billy Loughnane"
         }
@@ -506,20 +506,28 @@
   "score": {
     "picks": 4,
     "lines": 15,
-    "won": 0,
+    "won": 1,
     "lost": 0,
-    "pending": 15,
-    "nr": 0
+    "pending": 12,
+    "nr": 2
   },
-  "staked": 0,
-  "returned": 0,
-  "profit": 0,
+  "staked": 0.04,
+  "returned": 0.1,
+  "profit": 0.06,
   "bank": {
     "start": 57.4,
-    "end": 57.4,
+    "end": 57.46,
     "next_stake": 0.57,
     "season_start": 10.0,
-    "season_end": 57.4
+    "season_end": 57.46
   },
-  "by_size": {}
+  "by_size": {
+    "1": {
+      "n": 1,
+      "won": 1,
+      "lines": 1,
+      "staked": 0.04,
+      "returned": 0.1
+    }
+  }
 }

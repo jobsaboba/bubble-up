@@ -1,29 +1,29 @@
 {
-  "generated": "2026-11-25T05:45:03+00:00",
+  "generated": "2026-11-25T13:01:53+00:00",
   "season": {
     "days": 84,
     "lines": 4474,
-    "won": 157,
+    "won": 158,
     "lost": 443,
-    "nr": 3859,
-    "pending": 15,
-    "staked": 16.06,
-    "returned": 63.46,
-    "profit": 47.4,
-    "roi": 295.1,
+    "nr": 3861,
+    "pending": 12,
+    "staked": 16.1,
+    "returned": 63.56,
+    "profit": 47.46,
+    "roi": 294.8,
     "bank_start": 10.0,
-    "bank_end": 57.4
+    "bank_end": 57.46
   },
   "by_size": [
     {
       "size": "Singles",
       "key": 1,
-      "n": 137,
-      "won": 73,
-      "lines": 137,
-      "staked": 9.51,
-      "returned": 12.16,
-      "roi": 27.9
+      "n": 138,
+      "won": 74,
+      "lines": 138,
+      "staked": 9.55,
+      "returned": 12.26,
+      "roi": 28.4
     },
     {
       "size": "Doubles",
@@ -107,7 +107,7 @@
     "2026-08": 0.71,
     "2026-09": 0.25,
     "2026-10": 0.86,
-    "2026-11": 43.19
+    "2026-11": 43.25
   },
   "best_day": {
     "date": "2026-11-09",
@@ -615,10 +615,10 @@
       "bank_end": 57.4
     },
     "2026-11-25": {
-      "staked": 0,
-      "returned": 0,
+      "staked": 0.04,
+      "returned": 0.1,
       "lines": 15,
-      "bank_end": 57.4
+      "bank_end": 57.46
     }
   }
 }
