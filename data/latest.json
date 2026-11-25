@@ -1,6 +1,6 @@
 {
   "date": "2026-11-25",
-  "generated": "2026-11-25T14:02:07+00:00",
+  "generated": "2026-11-25T16:32:49+00:00",
   "picks": [
     {
       "time": "12:46",
@@ -40,7 +40,7 @@
       "stars": 5,
       "odds": "6/5",
       "dec": 2.2,
-      "res": null,
+      "res": "LOSE",
       "pos": 0,
       "score1": 110.26,
       "score2": 24.69,
@@ -110,16 +110,16 @@
           "meeting": "Kempton",
           "horse": "Bet You Can't",
           "odds": "6/5",
-          "res": "?",
+          "res": "LOSE",
           "trainer": "G Boughey",
           "jockey": "Billy Loughnane"
         }
       ],
       "dec": 2.2,
-      "res": "PENDING",
+      "res": "LOSE",
       "stake": 0.04,
-      "pay": null,
-      "bank": null
+      "pay": 0.0,
+      "bank": 57.42
     },
     {
       "size": 1,
@@ -138,7 +138,7 @@
       "res": "NR",
       "stake": 0.0,
       "pay": null,
-      "bank": 57.46
+      "bank": 57.38
     },
     {
       "size": 2,
@@ -185,16 +185,16 @@
           "meeting": "Kempton",
           "horse": "Bet You Can't",
           "odds": "6/5",
-          "res": "?",
+          "res": "LOSE",
           "trainer": "G Boughey",
           "jockey": "Billy Loughnane"
         }
       ],
       "dec": 5.78,
-      "res": "PENDING",
+      "res": "LOSE",
       "stake": 0.04,
-      "pay": null,
-      "bank": null
+      "pay": 0.0,
+      "bank": 57.38
     },
     {
       "size": 2,
@@ -222,7 +222,7 @@
       "res": "NR",
       "stake": 0.0,
       "pay": null,
-      "bank": 57.46
+      "bank": 57.38
     },
     {
       "size": 2,
@@ -241,16 +241,16 @@
           "meeting": "Kempton",
           "horse": "Bet You Can't",
           "odds": "6/5",
-          "res": "?",
+          "res": "LOSE",
           "trainer": "G Boughey",
           "jockey": "Billy Loughnane"
         }
       ],
       "dec": 7.7,
-      "res": "PENDING",
-      "stake": 0.04,
+      "res": "NR",
+      "stake": 0.0,
       "pay": null,
-      "bank": null
+      "bank": 57.38
     },
     {
       "size": 2,
@@ -278,7 +278,7 @@
       "res": "NR",
       "stake": 0.0,
       "pay": null,
-      "bank": 57.46
+      "bank": 57.38
     },
     {
       "size": 2,
@@ -288,7 +288,7 @@
           "meeting": "Kempton",
           "horse": "Bet You Can't",
           "odds": "6/5",
-          "res": "?",
+          "res": "LOSE",
           "trainer": "G Boughey",
           "jockey": "Billy Loughnane"
         },
@@ -303,10 +303,10 @@
         }
       ],
       "dec": 4.95,
-      "res": "PENDING",
-      "stake": 0.04,
+      "res": "NR",
+      "stake": 0.0,
       "pay": null,
-      "bank": null
+      "bank": 57.38
     },
     {
       "size": 3,
@@ -334,16 +334,16 @@
           "meeting": "Kempton",
           "horse": "Bet You Can't",
           "odds": "6/5",
-          "res": "?",
+          "res": "LOSE",
           "trainer": "G Boughey",
           "jockey": "Billy Loughnane"
         }
       ],
       "dec": 20.21,
-      "res": "PENDING",
-      "stake": 0.04,
+      "res": "NR",
+      "stake": 0.0,
       "pay": null,
-      "bank": null
+      "bank": 57.38
     },
     {
       "size": 3,
@@ -380,7 +380,7 @@
       "res": "NR",
       "stake": 0.0,
       "pay": null,
-      "bank": 57.46
+      "bank": 57.38
     },
     {
       "size": 3,
@@ -399,7 +399,7 @@
           "meeting": "Kempton",
           "horse": "Bet You Can't",
           "odds": "6/5",
-          "res": "?",
+          "res": "LOSE",
           "trainer": "G Boughey",
           "jockey": "Billy Loughnane"
         },
@@ -414,10 +414,10 @@
         }
       ],
       "dec": 12.99,
-      "res": "PENDING",
-      "stake": 0.04,
+      "res": "NR",
+      "stake": 0.0,
       "pay": null,
-      "bank": null
+      "bank": 57.38
     },
     {
       "size": 3,
@@ -436,7 +436,7 @@
           "meeting": "Kempton",
           "horse": "Bet You Can't",
           "odds": "6/5",
-          "res": "?",
+          "res": "LOSE",
           "trainer": "G Boughey",
           "jockey": "Billy Loughnane"
         },
@@ -451,10 +451,10 @@
         }
       ],
       "dec": 17.33,
-      "res": "PENDING",
-      "stake": 0.04,
+      "res": "NR",
+      "stake": 0.0,
       "pay": null,
-      "bank": null
+      "bank": 57.38
     },
     {
       "size": 4,
@@ -482,7 +482,7 @@
           "meeting": "Kempton",
           "horse": "Bet You Can't",
           "odds": "6/5",
-          "res": "?",
+          "res": "LOSE",
           "trainer": "G Boughey",
           "jockey": "Billy Loughnane"
         },
@@ -497,37 +497,44 @@
         }
       ],
       "dec": 45.48,
-      "res": "PENDING",
-      "stake": 0.04,
+      "res": "NR",
+      "stake": 0.0,
       "pay": null,
-      "bank": null
+      "bank": 57.38
     }
   ],
   "score": {
     "picks": 4,
     "lines": 15,
     "won": 1,
-    "lost": 0,
-    "pending": 8,
-    "nr": 6
+    "lost": 2,
+    "pending": 0,
+    "nr": 12
   },
-  "staked": 0.04,
+  "staked": 0.12,
   "returned": 0.1,
-  "profit": 0.06,
+  "profit": -0.02,
   "bank": {
     "start": 57.4,
-    "end": 57.46,
+    "end": 57.38,
     "next_stake": 0.57,
     "season_start": 10.0,
-    "season_end": 57.46
+    "season_end": 57.38
   },
   "by_size": {
     "1": {
-      "n": 1,
+      "n": 2,
       "won": 1,
+      "lines": 2,
+      "staked": 0.08,
+      "returned": 0.1
+    },
+    "2": {
+      "n": 1,
+      "won": 0,
       "lines": 1,
       "staked": 0.04,
-      "returned": 0.1
+      "returned": 0.0
     }
   }
 }
