@@ -1,6 +1,6 @@
 {
   "date": "2026-11-26",
-  "generated": "2026-11-26T14:31:32+00:00",
+  "generated": "2026-11-26T15:01:22+00:00",
   "picks": [
     {
       "time": "12:55",
@@ -40,8 +40,8 @@
       "stars": 5,
       "odds": "6/4",
       "dec": 2.5,
-      "res": "NR",
-      "pos": 0,
+      "res": "WIN",
+      "pos": 1,
       "score1": 178.36,
       "score2": 82.56,
       "trainer": "W P Mullins",
@@ -110,16 +110,16 @@
           "meeting": "Thurles",
           "horse": "Mahollia",
           "odds": "6/4",
-          "res": "NR",
+          "res": "WIN",
           "trainer": "W P Mullins",
           "jockey": "Mr P W Mullins"
         }
       ],
       "dec": 2.5,
-      "res": "NR",
-      "stake": 0.0,
-      "pay": null,
-      "bank": 57.53
+      "res": "WIN",
+      "stake": 0.04,
+      "pay": 0.1,
+      "bank": 57.59
     },
     {
       "size": 1,
@@ -138,7 +138,7 @@
       "res": "NR",
       "stake": 0.0,
       "pay": null,
-      "bank": 57.53
+      "bank": 57.73
     },
     {
       "size": 2,
@@ -185,16 +185,16 @@
           "meeting": "Thurles",
           "horse": "Mahollia",
           "odds": "6/4",
-          "res": "NR",
+          "res": "WIN",
           "trainer": "W P Mullins",
           "jockey": "Mr P W Mullins"
         }
       ],
       "dec": 8.75,
-      "res": "NR",
-      "stake": 0.0,
-      "pay": null,
-      "bank": 57.53
+      "res": "LOSE",
+      "stake": 0.04,
+      "pay": 0.0,
+      "bank": 57.55
     },
     {
       "size": 2,
@@ -222,7 +222,7 @@
       "res": "NR",
       "stake": 0.0,
       "pay": null,
-      "bank": 57.53
+      "bank": 57.73
     },
     {
       "size": 2,
@@ -241,16 +241,16 @@
           "meeting": "Thurles",
           "horse": "Mahollia",
           "odds": "6/4",
-          "res": "NR",
+          "res": "WIN",
           "trainer": "W P Mullins",
           "jockey": "Mr P W Mullins"
         }
       ],
       "dec": 6.56,
-      "res": "NR",
-      "stake": 0.0,
-      "pay": null,
-      "bank": 57.53
+      "res": "WIN",
+      "stake": 0.04,
+      "pay": 0.26,
+      "bank": 57.77
     },
     {
       "size": 2,
@@ -278,7 +278,7 @@
       "res": "NR",
       "stake": 0.0,
       "pay": null,
-      "bank": 57.53
+      "bank": 57.73
     },
     {
       "size": 2,
@@ -288,7 +288,7 @@
           "meeting": "Thurles",
           "horse": "Mahollia",
           "odds": "6/4",
-          "res": "NR",
+          "res": "WIN",
           "trainer": "W P Mullins",
           "jockey": "Mr P W Mullins"
         },
@@ -306,7 +306,7 @@
       "res": "NR",
       "stake": 0.0,
       "pay": null,
-      "bank": 57.53
+      "bank": 57.73
     },
     {
       "size": 3,
@@ -334,16 +334,16 @@
           "meeting": "Thurles",
           "horse": "Mahollia",
           "odds": "6/4",
-          "res": "NR",
+          "res": "WIN",
           "trainer": "W P Mullins",
           "jockey": "Mr P W Mullins"
         }
       ],
       "dec": 22.97,
-      "res": "NR",
-      "stake": 0.0,
-      "pay": null,
-      "bank": 57.53
+      "res": "LOSE",
+      "stake": 0.04,
+      "pay": 0.0,
+      "bank": 57.73
     },
     {
       "size": 3,
@@ -380,7 +380,7 @@
       "res": "NR",
       "stake": 0.0,
       "pay": null,
-      "bank": 57.53
+      "bank": 57.73
     },
     {
       "size": 3,
@@ -399,7 +399,7 @@
           "meeting": "Thurles",
           "horse": "Mahollia",
           "odds": "6/4",
-          "res": "NR",
+          "res": "WIN",
           "trainer": "W P Mullins",
           "jockey": "Mr P W Mullins"
         },
@@ -417,7 +417,7 @@
       "res": "NR",
       "stake": 0.0,
       "pay": null,
-      "bank": 57.53
+      "bank": 57.73
     },
     {
       "size": 3,
@@ -436,7 +436,7 @@
           "meeting": "Thurles",
           "horse": "Mahollia",
           "odds": "6/4",
-          "res": "NR",
+          "res": "WIN",
           "trainer": "W P Mullins",
           "jockey": "Mr P W Mullins"
         },
@@ -454,7 +454,7 @@
       "res": "NR",
       "stake": 0.0,
       "pay": null,
-      "bank": 57.53
+      "bank": 57.73
     },
     {
       "size": 4,
@@ -482,7 +482,7 @@
           "meeting": "Thurles",
           "horse": "Mahollia",
           "odds": "6/4",
-          "res": "NR",
+          "res": "WIN",
           "trainer": "W P Mullins",
           "jockey": "Mr P W Mullins"
         },
@@ -500,36 +500,43 @@
       "res": "NR",
       "stake": 0.0,
       "pay": null,
-      "bank": 57.53
+      "bank": 57.73
     }
   ],
   "score": {
     "picks": 4,
     "lines": 15,
-    "won": 1,
-    "lost": 2,
+    "won": 3,
+    "lost": 4,
     "pending": 0,
-    "nr": 12
+    "nr": 8
   },
-  "staked": 0.12,
-  "returned": 0.1,
-  "profit": -0.02,
+  "staked": 0.28,
+  "returned": 0.46,
+  "profit": 0.18,
   "bank": {
     "start": 57.55,
-    "end": 57.53,
+    "end": 57.73,
     "next_stake": 0.58,
     "season_start": 10.0,
-    "season_end": 57.53
+    "season_end": 57.73
   },
   "by_size": {
     "1": {
-      "n": 2,
-      "won": 1,
-      "lines": 2,
-      "staked": 0.08,
-      "returned": 0.1
+      "n": 3,
+      "won": 2,
+      "lines": 3,
+      "staked": 0.12,
+      "returned": 0.2
     },
     "2": {
+      "n": 3,
+      "won": 1,
+      "lines": 3,
+      "staked": 0.12,
+      "returned": 0.26
+    },
+    "3": {
       "n": 1,
       "won": 0,
       "lines": 1,
