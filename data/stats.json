@@ -1,12 +1,12 @@
 {
-  "generated": "2026-11-26T05:45:02+00:00",
+  "generated": "2026-11-26T13:01:22+00:00",
   "season": {
     "days": 85,
     "lines": 4489,
     "won": 160,
     "lost": 447,
-    "nr": 3867,
-    "pending": 15,
+    "nr": 3874,
+    "pending": 8,
     "staked": 16.34,
     "returned": 63.89,
     "profit": 47.55,

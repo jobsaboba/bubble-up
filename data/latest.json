@@ -1,6 +1,6 @@
 {
   "date": "2026-11-26",
-  "generated": "2026-11-26T05:45:01+00:00",
+  "generated": "2026-11-26T13:01:20+00:00",
   "picks": [
     {
       "time": "12:55",
@@ -25,7 +25,7 @@
       "stars": 5,
       "odds": "13/8",
       "dec": 2.625,
-      "res": null,
+      "res": "NR",
       "pos": 0,
       "score1": 183.24,
       "score2": 61.22,
@@ -40,7 +40,7 @@
       "stars": 5,
       "odds": "6/4",
       "dec": 2.5,
-      "res": null,
+      "res": "NR",
       "pos": 0,
       "score1": 178.36,
       "score2": 82.56,
@@ -55,7 +55,7 @@
       "stars": 4,
       "odds": "12/1",
       "dec": 13.0,
-      "res": null,
+      "res": "NR",
       "pos": 0,
       "score1": 306.84,
       "score2": 149.88,
@@ -91,16 +91,16 @@
           "meeting": "Thurles",
           "horse": "Neria",
           "odds": "13/8",
-          "res": "?",
+          "res": "NR",
           "trainer": "W P Mullins",
           "jockey": "Paul Townend"
         }
       ],
       "dec": 2.62,
-      "res": "PENDING",
-      "stake": 0.04,
+      "res": "NR",
+      "stake": 0.0,
       "pay": null,
-      "bank": null
+      "bank": 57.55
     },
     {
       "size": 1,
@@ -110,16 +110,16 @@
           "meeting": "Thurles",
           "horse": "Mahollia",
           "odds": "6/4",
-          "res": "?",
+          "res": "NR",
           "trainer": "W P Mullins",
           "jockey": "Mr P W Mullins"
         }
       ],
       "dec": 2.5,
-      "res": "PENDING",
-      "stake": 0.04,
+      "res": "NR",
+      "stake": 0.0,
       "pay": null,
-      "bank": null
+      "bank": 57.55
     },
     {
       "size": 1,
@@ -129,16 +129,16 @@
           "meeting": "Chelmsford City",
           "horse": "Sir Rodneyredblood",
           "odds": "12/1",
-          "res": "?",
+          "res": "NR",
           "trainer": "J R Jenkins",
           "jockey": "Marco Ghiani"
         }
       ],
       "dec": 13.0,
-      "res": "PENDING",
-      "stake": 0.04,
+      "res": "NR",
+      "stake": 0.0,
       "pay": null,
-      "bank": null
+      "bank": 57.55
     },
     {
       "size": 2,
@@ -157,7 +157,7 @@
           "meeting": "Thurles",
           "horse": "Neria",
           "odds": "13/8",
-          "res": "?",
+          "res": "NR",
           "trainer": "W P Mullins",
           "jockey": "Paul Townend"
         }
@@ -185,7 +185,7 @@
           "meeting": "Thurles",
           "horse": "Mahollia",
           "odds": "6/4",
-          "res": "?",
+          "res": "NR",
           "trainer": "W P Mullins",
           "jockey": "Mr P W Mullins"
         }
@@ -213,7 +213,7 @@
           "meeting": "Chelmsford City",
           "horse": "Sir Rodneyredblood",
           "odds": "12/1",
-          "res": "?",
+          "res": "NR",
           "trainer": "J R Jenkins",
           "jockey": "Marco Ghiani"
         }
@@ -232,7 +232,7 @@
           "meeting": "Thurles",
           "horse": "Neria",
           "odds": "13/8",
-          "res": "?",
+          "res": "NR",
           "trainer": "W P Mullins",
           "jockey": "Paul Townend"
         },
@@ -241,16 +241,16 @@
           "meeting": "Thurles",
           "horse": "Mahollia",
           "odds": "6/4",
-          "res": "?",
+          "res": "NR",
           "trainer": "W P Mullins",
           "jockey": "Mr P W Mullins"
         }
       ],
       "dec": 6.56,
-      "res": "PENDING",
-      "stake": 0.04,
+      "res": "NR",
+      "stake": 0.0,
       "pay": null,
-      "bank": null
+      "bank": 57.55
     },
     {
       "size": 2,
@@ -260,7 +260,7 @@
           "meeting": "Thurles",
           "horse": "Neria",
           "odds": "13/8",
-          "res": "?",
+          "res": "NR",
           "trainer": "W P Mullins",
           "jockey": "Paul Townend"
         },
@@ -269,16 +269,16 @@
           "meeting": "Chelmsford City",
           "horse": "Sir Rodneyredblood",
           "odds": "12/1",
-          "res": "?",
+          "res": "NR",
           "trainer": "J R Jenkins",
           "jockey": "Marco Ghiani"
         }
       ],
       "dec": 34.12,
-      "res": "PENDING",
-      "stake": 0.04,
+      "res": "NR",
+      "stake": 0.0,
       "pay": null,
-      "bank": null
+      "bank": 57.55
     },
     {
       "size": 2,
@@ -288,7 +288,7 @@
           "meeting": "Thurles",
           "horse": "Mahollia",
           "odds": "6/4",
-          "res": "?",
+          "res": "NR",
           "trainer": "W P Mullins",
           "jockey": "Mr P W Mullins"
         },
@@ -297,16 +297,16 @@
           "meeting": "Chelmsford City",
           "horse": "Sir Rodneyredblood",
           "odds": "12/1",
-          "res": "?",
+          "res": "NR",
           "trainer": "J R Jenkins",
           "jockey": "Marco Ghiani"
         }
       ],
       "dec": 32.5,
-      "res": "PENDING",
-      "stake": 0.04,
+      "res": "NR",
+      "stake": 0.0,
       "pay": null,
-      "bank": null
+      "bank": 57.55
     },
     {
       "size": 3,
@@ -325,7 +325,7 @@
           "meeting": "Thurles",
           "horse": "Neria",
           "odds": "13/8",
-          "res": "?",
+          "res": "NR",
           "trainer": "W P Mullins",
           "jockey": "Paul Townend"
         },
@@ -334,7 +334,7 @@
           "meeting": "Thurles",
           "horse": "Mahollia",
           "odds": "6/4",
-          "res": "?",
+          "res": "NR",
           "trainer": "W P Mullins",
           "jockey": "Mr P W Mullins"
         }
@@ -362,7 +362,7 @@
           "meeting": "Thurles",
           "horse": "Neria",
           "odds": "13/8",
-          "res": "?",
+          "res": "NR",
           "trainer": "W P Mullins",
           "jockey": "Paul Townend"
         },
@@ -371,7 +371,7 @@
           "meeting": "Chelmsford City",
           "horse": "Sir Rodneyredblood",
           "odds": "12/1",
-          "res": "?",
+          "res": "NR",
           "trainer": "J R Jenkins",
           "jockey": "Marco Ghiani"
         }
@@ -399,7 +399,7 @@
           "meeting": "Thurles",
           "horse": "Mahollia",
           "odds": "6/4",
-          "res": "?",
+          "res": "NR",
           "trainer": "W P Mullins",
           "jockey": "Mr P W Mullins"
         },
@@ -408,7 +408,7 @@
           "meeting": "Chelmsford City",
           "horse": "Sir Rodneyredblood",
           "odds": "12/1",
-          "res": "?",
+          "res": "NR",
           "trainer": "J R Jenkins",
           "jockey": "Marco Ghiani"
         }
@@ -427,7 +427,7 @@
           "meeting": "Thurles",
           "horse": "Neria",
           "odds": "13/8",
-          "res": "?",
+          "res": "NR",
           "trainer": "W P Mullins",
           "jockey": "Paul Townend"
         },
@@ -436,7 +436,7 @@
           "meeting": "Thurles",
           "horse": "Mahollia",
           "odds": "6/4",
-          "res": "?",
+          "res": "NR",
           "trainer": "W P Mullins",
           "jockey": "Mr P W Mullins"
         },
@@ -445,16 +445,16 @@
           "meeting": "Chelmsford City",
           "horse": "Sir Rodneyredblood",
           "odds": "12/1",
-          "res": "?",
+          "res": "NR",
           "trainer": "J R Jenkins",
           "jockey": "Marco Ghiani"
         }
       ],
       "dec": 85.31,
-      "res": "PENDING",
-      "stake": 0.04,
+      "res": "NR",
+      "stake": 0.0,
       "pay": null,
-      "bank": null
+      "bank": 57.55
     },
     {
       "size": 4,
@@ -473,7 +473,7 @@
           "meeting": "Thurles",
           "horse": "Neria",
           "odds": "13/8",
-          "res": "?",
+          "res": "NR",
           "trainer": "W P Mullins",
           "jockey": "Paul Townend"
         },
@@ -482,7 +482,7 @@
           "meeting": "Thurles",
           "horse": "Mahollia",
           "odds": "6/4",
-          "res": "?",
+          "res": "NR",
           "trainer": "W P Mullins",
           "jockey": "Mr P W Mullins"
         },
@@ -491,7 +491,7 @@
           "meeting": "Chelmsford City",
           "horse": "Sir Rodneyredblood",
           "odds": "12/1",
-          "res": "?",
+          "res": "NR",
           "trainer": "J R Jenkins",
           "jockey": "Marco Ghiani"
         }
@@ -508,8 +508,8 @@
     "lines": 15,
     "won": 0,
     "lost": 0,
-    "pending": 15,
-    "nr": 0
+    "pending": 8,
+    "nr": 7
   },
   "staked": 0,
   "returned": 0,
