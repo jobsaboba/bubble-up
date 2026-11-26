@@ -1,66 +1,66 @@
 {
-  "date": "2026-11-25",
-  "generated": "2026-11-25T17:32:49+00:00",
+  "date": "2026-11-26",
+  "generated": "2026-11-26T05:45:01+00:00",
   "picks": [
     {
-      "time": "12:46",
-      "meeting": "Wetherby",
-      "race": "wetherbyracing.co.uk Handicap Hurdle",
-      "horse": "I Heard A Rumour",
+      "time": "12:55",
+      "meeting": "Taunton",
+      "race": "Denise Smith Memorial Novices' Limited Handicap Hurdle",
+      "horse": "Anothermanicmonday",
+      "stars": 3,
+      "odds": "5/2",
+      "dec": 3.5,
+      "res": null,
+      "pos": 0,
+      "score1": 132.0,
+      "score2": 52.67,
+      "trainer": "Mrs S Gardner",
+      "jockey": "Lucy Gardner"
+    },
+    {
+      "time": "13:56",
+      "meeting": "Thurles",
+      "race": "Horse And Jockey 3-Y-O Maiden Hurdle",
+      "horse": "Neria",
       "stars": 5,
       "odds": "13/8",
       "dec": 2.625,
-      "res": "WIN",
-      "pos": 1,
-      "score1": 165.53,
-      "score2": 79.27,
-      "trainer": "D Skelton",
-      "jockey": "Harry Skelton"
-    },
-    {
-      "time": "14:46",
-      "meeting": "Wetherby",
-      "race": "Watch Racing TV In HD Novices' Handicap Chase (GBB Race)",
-      "horse": "Albie Littlewood",
-      "stars": 5,
-      "odds": "5/2",
-      "dec": 3.5,
-      "res": "NR",
+      "res": null,
       "pos": 0,
-      "score1": 185.53,
-      "score2": 91.29,
-      "trainer": "D Skelton",
-      "jockey": "Harry Skelton"
+      "score1": 183.24,
+      "score2": 61.22,
+      "trainer": "W P Mullins",
+      "jockey": "Paul Townend"
     },
     {
-      "time": "16:20",
-      "meeting": "Kempton",
-      "race": "Racing TV EBF Fillies' Restricted Novice Stakes (GBB Race) (Div 1)",
-      "horse": "Bet You Can't",
+      "time": "14:31",
+      "meeting": "Thurles",
+      "race": "Irish Stallion Farms EBF Mares Maiden Hurdle",
+      "horse": "Mahollia",
       "stars": 5,
-      "odds": "6/5",
-      "dec": 2.2,
-      "res": "LOSE",
+      "odds": "6/4",
+      "dec": 2.5,
+      "res": null,
       "pos": 0,
-      "score1": 110.26,
-      "score2": 24.69,
-      "trainer": "G Boughey",
-      "jockey": "Billy Loughnane"
+      "score1": 178.36,
+      "score2": 82.56,
+      "trainer": "W P Mullins",
+      "jockey": "Mr P W Mullins"
     },
     {
-      "time": "17:20",
-      "meeting": "Kempton",
-      "race": "Unibet/British Stallion Studs EBF Novice Stakes (GBB Race)",
-      "horse": "Highest Peak",
-      "stars": 5,
-      "odds": "5/4",
-      "dec": 2.25,
-      "res": "WIN",
-      "pos": 1,
-      "score1": 192.26,
-      "score2": 39.36,
-      "trainer": "C Appleby",
-      "jockey": "Billy Loughnane"
+      "time": "17:00",
+      "meeting": "Chelmsford City",
+      "race": "Midnite Built Different Handicap (Div 1)",
+      "horse": "Sir Rodneyredblood",
+      "stars": 4,
+      "odds": "12/1",
+      "dec": 13.0,
+      "res": null,
+      "pos": 0,
+      "score1": 306.84,
+      "score2": 149.88,
+      "trainer": "J R Jenkins",
+      "jockey": "Marco Ghiani"
     }
   ],
   "combos": [
@@ -68,480 +68,458 @@
       "size": 1,
       "legs": [
         {
-          "time": "12:46",
-          "meeting": "Wetherby",
-          "horse": "I Heard A Rumour",
-          "odds": "13/8",
-          "res": "WIN",
-          "trainer": "D Skelton",
-          "jockey": "Harry Skelton"
-        }
-      ],
-      "dec": 2.62,
-      "res": "WIN",
-      "stake": 0.04,
-      "pay": 0.1,
-      "bank": 57.46
-    },
-    {
-      "size": 1,
-      "legs": [
-        {
-          "time": "14:46",
-          "meeting": "Wetherby",
-          "horse": "Albie Littlewood",
+          "time": "12:55",
+          "meeting": "Taunton",
+          "horse": "Anothermanicmonday",
           "odds": "5/2",
-          "res": "NR",
-          "trainer": "D Skelton",
-          "jockey": "Harry Skelton"
+          "res": "?",
+          "trainer": "Mrs S Gardner",
+          "jockey": "Lucy Gardner"
         }
       ],
       "dec": 3.5,
-      "res": "NR",
-      "stake": 0.0,
+      "res": "PENDING",
+      "stake": 0.04,
       "pay": null,
-      "bank": 57.46
+      "bank": null
     },
     {
       "size": 1,
       "legs": [
         {
-          "time": "16:20",
-          "meeting": "Kempton",
-          "horse": "Bet You Can't",
-          "odds": "6/5",
-          "res": "LOSE",
-          "trainer": "G Boughey",
-          "jockey": "Billy Loughnane"
+          "time": "13:56",
+          "meeting": "Thurles",
+          "horse": "Neria",
+          "odds": "13/8",
+          "res": "?",
+          "trainer": "W P Mullins",
+          "jockey": "Paul Townend"
         }
       ],
-      "dec": 2.2,
-      "res": "LOSE",
+      "dec": 2.62,
+      "res": "PENDING",
       "stake": 0.04,
-      "pay": 0.0,
-      "bank": 57.42
+      "pay": null,
+      "bank": null
     },
     {
       "size": 1,
       "legs": [
         {
-          "time": "17:20",
-          "meeting": "Kempton",
-          "horse": "Highest Peak",
-          "odds": "5/4",
-          "res": "WIN",
-          "trainer": "C Appleby",
-          "jockey": "Billy Loughnane"
+          "time": "14:31",
+          "meeting": "Thurles",
+          "horse": "Mahollia",
+          "odds": "6/4",
+          "res": "?",
+          "trainer": "W P Mullins",
+          "jockey": "Mr P W Mullins"
         }
       ],
-      "dec": 2.25,
-      "res": "WIN",
+      "dec": 2.5,
+      "res": "PENDING",
       "stake": 0.04,
-      "pay": 0.09,
-      "bank": 57.43
+      "pay": null,
+      "bank": null
+    },
+    {
+      "size": 1,
+      "legs": [
+        {
+          "time": "17:00",
+          "meeting": "Chelmsford City",
+          "horse": "Sir Rodneyredblood",
+          "odds": "12/1",
+          "res": "?",
+          "trainer": "J R Jenkins",
+          "jockey": "Marco Ghiani"
+        }
+      ],
+      "dec": 13.0,
+      "res": "PENDING",
+      "stake": 0.04,
+      "pay": null,
+      "bank": null
     },
     {
       "size": 2,
       "legs": [
         {
-          "time": "12:46",
-          "meeting": "Wetherby",
-          "horse": "I Heard A Rumour",
-          "odds": "13/8",
-          "res": "WIN",
-          "trainer": "D Skelton",
-          "jockey": "Harry Skelton"
+          "time": "12:55",
+          "meeting": "Taunton",
+          "horse": "Anothermanicmonday",
+          "odds": "5/2",
+          "res": "?",
+          "trainer": "Mrs S Gardner",
+          "jockey": "Lucy Gardner"
         },
         {
-          "time": "14:46",
-          "meeting": "Wetherby",
-          "horse": "Albie Littlewood",
-          "odds": "5/2",
-          "res": "NR",
-          "trainer": "D Skelton",
-          "jockey": "Harry Skelton"
+          "time": "13:56",
+          "meeting": "Thurles",
+          "horse": "Neria",
+          "odds": "13/8",
+          "res": "?",
+          "trainer": "W P Mullins",
+          "jockey": "Paul Townend"
         }
       ],
       "dec": 9.19,
-      "res": "NR",
-      "stake": 0.0,
+      "res": "PENDING",
+      "stake": 0.04,
       "pay": null,
-      "bank": 57.46
+      "bank": null
     },
     {
       "size": 2,
       "legs": [
         {
-          "time": "12:46",
-          "meeting": "Wetherby",
-          "horse": "I Heard A Rumour",
-          "odds": "13/8",
-          "res": "WIN",
-          "trainer": "D Skelton",
-          "jockey": "Harry Skelton"
-        },
-        {
-          "time": "16:20",
-          "meeting": "Kempton",
-          "horse": "Bet You Can't",
-          "odds": "6/5",
-          "res": "LOSE",
-          "trainer": "G Boughey",
-          "jockey": "Billy Loughnane"
-        }
-      ],
-      "dec": 5.78,
-      "res": "LOSE",
-      "stake": 0.04,
-      "pay": 0.0,
-      "bank": 57.38
-    },
-    {
-      "size": 2,
-      "legs": [
-        {
-          "time": "12:46",
-          "meeting": "Wetherby",
-          "horse": "I Heard A Rumour",
-          "odds": "13/8",
-          "res": "WIN",
-          "trainer": "D Skelton",
-          "jockey": "Harry Skelton"
-        },
-        {
-          "time": "17:20",
-          "meeting": "Kempton",
-          "horse": "Highest Peak",
-          "odds": "5/4",
-          "res": "WIN",
-          "trainer": "C Appleby",
-          "jockey": "Billy Loughnane"
-        }
-      ],
-      "dec": 5.91,
-      "res": "WIN",
-      "stake": 0.04,
-      "pay": 0.24,
-      "bank": 57.63
-    },
-    {
-      "size": 2,
-      "legs": [
-        {
-          "time": "14:46",
-          "meeting": "Wetherby",
-          "horse": "Albie Littlewood",
+          "time": "12:55",
+          "meeting": "Taunton",
+          "horse": "Anothermanicmonday",
           "odds": "5/2",
-          "res": "NR",
-          "trainer": "D Skelton",
-          "jockey": "Harry Skelton"
+          "res": "?",
+          "trainer": "Mrs S Gardner",
+          "jockey": "Lucy Gardner"
         },
         {
-          "time": "16:20",
-          "meeting": "Kempton",
-          "horse": "Bet You Can't",
-          "odds": "6/5",
-          "res": "LOSE",
-          "trainer": "G Boughey",
-          "jockey": "Billy Loughnane"
+          "time": "14:31",
+          "meeting": "Thurles",
+          "horse": "Mahollia",
+          "odds": "6/4",
+          "res": "?",
+          "trainer": "W P Mullins",
+          "jockey": "Mr P W Mullins"
         }
       ],
-      "dec": 7.7,
-      "res": "NR",
-      "stake": 0.0,
-      "pay": null,
-      "bank": 57.38
-    },
-    {
-      "size": 2,
-      "legs": [
-        {
-          "time": "14:46",
-          "meeting": "Wetherby",
-          "horse": "Albie Littlewood",
-          "odds": "5/2",
-          "res": "NR",
-          "trainer": "D Skelton",
-          "jockey": "Harry Skelton"
-        },
-        {
-          "time": "17:20",
-          "meeting": "Kempton",
-          "horse": "Highest Peak",
-          "odds": "5/4",
-          "res": "WIN",
-          "trainer": "C Appleby",
-          "jockey": "Billy Loughnane"
-        }
-      ],
-      "dec": 7.88,
-      "res": "NR",
-      "stake": 0.0,
-      "pay": null,
-      "bank": 57.63
-    },
-    {
-      "size": 2,
-      "legs": [
-        {
-          "time": "16:20",
-          "meeting": "Kempton",
-          "horse": "Bet You Can't",
-          "odds": "6/5",
-          "res": "LOSE",
-          "trainer": "G Boughey",
-          "jockey": "Billy Loughnane"
-        },
-        {
-          "time": "17:20",
-          "meeting": "Kempton",
-          "horse": "Highest Peak",
-          "odds": "5/4",
-          "res": "WIN",
-          "trainer": "C Appleby",
-          "jockey": "Billy Loughnane"
-        }
-      ],
-      "dec": 4.95,
-      "res": "LOSE",
+      "dec": 8.75,
+      "res": "PENDING",
       "stake": 0.04,
-      "pay": 0.0,
-      "bank": 57.59
+      "pay": null,
+      "bank": null
+    },
+    {
+      "size": 2,
+      "legs": [
+        {
+          "time": "12:55",
+          "meeting": "Taunton",
+          "horse": "Anothermanicmonday",
+          "odds": "5/2",
+          "res": "?",
+          "trainer": "Mrs S Gardner",
+          "jockey": "Lucy Gardner"
+        },
+        {
+          "time": "17:00",
+          "meeting": "Chelmsford City",
+          "horse": "Sir Rodneyredblood",
+          "odds": "12/1",
+          "res": "?",
+          "trainer": "J R Jenkins",
+          "jockey": "Marco Ghiani"
+        }
+      ],
+      "dec": 45.5,
+      "res": "PENDING",
+      "stake": 0.04,
+      "pay": null,
+      "bank": null
+    },
+    {
+      "size": 2,
+      "legs": [
+        {
+          "time": "13:56",
+          "meeting": "Thurles",
+          "horse": "Neria",
+          "odds": "13/8",
+          "res": "?",
+          "trainer": "W P Mullins",
+          "jockey": "Paul Townend"
+        },
+        {
+          "time": "14:31",
+          "meeting": "Thurles",
+          "horse": "Mahollia",
+          "odds": "6/4",
+          "res": "?",
+          "trainer": "W P Mullins",
+          "jockey": "Mr P W Mullins"
+        }
+      ],
+      "dec": 6.56,
+      "res": "PENDING",
+      "stake": 0.04,
+      "pay": null,
+      "bank": null
+    },
+    {
+      "size": 2,
+      "legs": [
+        {
+          "time": "13:56",
+          "meeting": "Thurles",
+          "horse": "Neria",
+          "odds": "13/8",
+          "res": "?",
+          "trainer": "W P Mullins",
+          "jockey": "Paul Townend"
+        },
+        {
+          "time": "17:00",
+          "meeting": "Chelmsford City",
+          "horse": "Sir Rodneyredblood",
+          "odds": "12/1",
+          "res": "?",
+          "trainer": "J R Jenkins",
+          "jockey": "Marco Ghiani"
+        }
+      ],
+      "dec": 34.12,
+      "res": "PENDING",
+      "stake": 0.04,
+      "pay": null,
+      "bank": null
+    },
+    {
+      "size": 2,
+      "legs": [
+        {
+          "time": "14:31",
+          "meeting": "Thurles",
+          "horse": "Mahollia",
+          "odds": "6/4",
+          "res": "?",
+          "trainer": "W P Mullins",
+          "jockey": "Mr P W Mullins"
+        },
+        {
+          "time": "17:00",
+          "meeting": "Chelmsford City",
+          "horse": "Sir Rodneyredblood",
+          "odds": "12/1",
+          "res": "?",
+          "trainer": "J R Jenkins",
+          "jockey": "Marco Ghiani"
+        }
+      ],
+      "dec": 32.5,
+      "res": "PENDING",
+      "stake": 0.04,
+      "pay": null,
+      "bank": null
     },
     {
       "size": 3,
       "legs": [
         {
-          "time": "12:46",
-          "meeting": "Wetherby",
-          "horse": "I Heard A Rumour",
-          "odds": "13/8",
-          "res": "WIN",
-          "trainer": "D Skelton",
-          "jockey": "Harry Skelton"
-        },
-        {
-          "time": "14:46",
-          "meeting": "Wetherby",
-          "horse": "Albie Littlewood",
+          "time": "12:55",
+          "meeting": "Taunton",
+          "horse": "Anothermanicmonday",
           "odds": "5/2",
-          "res": "NR",
-          "trainer": "D Skelton",
-          "jockey": "Harry Skelton"
+          "res": "?",
+          "trainer": "Mrs S Gardner",
+          "jockey": "Lucy Gardner"
         },
         {
-          "time": "16:20",
-          "meeting": "Kempton",
-          "horse": "Bet You Can't",
-          "odds": "6/5",
-          "res": "LOSE",
-          "trainer": "G Boughey",
-          "jockey": "Billy Loughnane"
-        }
-      ],
-      "dec": 20.21,
-      "res": "NR",
-      "stake": 0.0,
-      "pay": null,
-      "bank": 57.38
-    },
-    {
-      "size": 3,
-      "legs": [
-        {
-          "time": "12:46",
-          "meeting": "Wetherby",
-          "horse": "I Heard A Rumour",
+          "time": "13:56",
+          "meeting": "Thurles",
+          "horse": "Neria",
           "odds": "13/8",
-          "res": "WIN",
-          "trainer": "D Skelton",
-          "jockey": "Harry Skelton"
+          "res": "?",
+          "trainer": "W P Mullins",
+          "jockey": "Paul Townend"
         },
         {
-          "time": "14:46",
-          "meeting": "Wetherby",
-          "horse": "Albie Littlewood",
-          "odds": "5/2",
-          "res": "NR",
-          "trainer": "D Skelton",
-          "jockey": "Harry Skelton"
-        },
-        {
-          "time": "17:20",
-          "meeting": "Kempton",
-          "horse": "Highest Peak",
-          "odds": "5/4",
-          "res": "WIN",
-          "trainer": "C Appleby",
-          "jockey": "Billy Loughnane"
+          "time": "14:31",
+          "meeting": "Thurles",
+          "horse": "Mahollia",
+          "odds": "6/4",
+          "res": "?",
+          "trainer": "W P Mullins",
+          "jockey": "Mr P W Mullins"
         }
       ],
-      "dec": 20.67,
-      "res": "NR",
-      "stake": 0.0,
-      "pay": null,
-      "bank": 57.59
-    },
-    {
-      "size": 3,
-      "legs": [
-        {
-          "time": "12:46",
-          "meeting": "Wetherby",
-          "horse": "I Heard A Rumour",
-          "odds": "13/8",
-          "res": "WIN",
-          "trainer": "D Skelton",
-          "jockey": "Harry Skelton"
-        },
-        {
-          "time": "16:20",
-          "meeting": "Kempton",
-          "horse": "Bet You Can't",
-          "odds": "6/5",
-          "res": "LOSE",
-          "trainer": "G Boughey",
-          "jockey": "Billy Loughnane"
-        },
-        {
-          "time": "17:20",
-          "meeting": "Kempton",
-          "horse": "Highest Peak",
-          "odds": "5/4",
-          "res": "WIN",
-          "trainer": "C Appleby",
-          "jockey": "Billy Loughnane"
-        }
-      ],
-      "dec": 12.99,
-      "res": "LOSE",
+      "dec": 22.97,
+      "res": "PENDING",
       "stake": 0.04,
-      "pay": 0.0,
-      "bank": 57.55
+      "pay": null,
+      "bank": null
     },
     {
       "size": 3,
       "legs": [
         {
-          "time": "14:46",
-          "meeting": "Wetherby",
-          "horse": "Albie Littlewood",
+          "time": "12:55",
+          "meeting": "Taunton",
+          "horse": "Anothermanicmonday",
           "odds": "5/2",
-          "res": "NR",
-          "trainer": "D Skelton",
-          "jockey": "Harry Skelton"
+          "res": "?",
+          "trainer": "Mrs S Gardner",
+          "jockey": "Lucy Gardner"
         },
         {
-          "time": "16:20",
-          "meeting": "Kempton",
-          "horse": "Bet You Can't",
-          "odds": "6/5",
-          "res": "LOSE",
-          "trainer": "G Boughey",
-          "jockey": "Billy Loughnane"
+          "time": "13:56",
+          "meeting": "Thurles",
+          "horse": "Neria",
+          "odds": "13/8",
+          "res": "?",
+          "trainer": "W P Mullins",
+          "jockey": "Paul Townend"
         },
         {
-          "time": "17:20",
-          "meeting": "Kempton",
-          "horse": "Highest Peak",
-          "odds": "5/4",
-          "res": "WIN",
-          "trainer": "C Appleby",
-          "jockey": "Billy Loughnane"
+          "time": "17:00",
+          "meeting": "Chelmsford City",
+          "horse": "Sir Rodneyredblood",
+          "odds": "12/1",
+          "res": "?",
+          "trainer": "J R Jenkins",
+          "jockey": "Marco Ghiani"
         }
       ],
-      "dec": 17.33,
-      "res": "NR",
-      "stake": 0.0,
+      "dec": 119.44,
+      "res": "PENDING",
+      "stake": 0.04,
       "pay": null,
-      "bank": 57.55
+      "bank": null
+    },
+    {
+      "size": 3,
+      "legs": [
+        {
+          "time": "12:55",
+          "meeting": "Taunton",
+          "horse": "Anothermanicmonday",
+          "odds": "5/2",
+          "res": "?",
+          "trainer": "Mrs S Gardner",
+          "jockey": "Lucy Gardner"
+        },
+        {
+          "time": "14:31",
+          "meeting": "Thurles",
+          "horse": "Mahollia",
+          "odds": "6/4",
+          "res": "?",
+          "trainer": "W P Mullins",
+          "jockey": "Mr P W Mullins"
+        },
+        {
+          "time": "17:00",
+          "meeting": "Chelmsford City",
+          "horse": "Sir Rodneyredblood",
+          "odds": "12/1",
+          "res": "?",
+          "trainer": "J R Jenkins",
+          "jockey": "Marco Ghiani"
+        }
+      ],
+      "dec": 113.75,
+      "res": "PENDING",
+      "stake": 0.04,
+      "pay": null,
+      "bank": null
+    },
+    {
+      "size": 3,
+      "legs": [
+        {
+          "time": "13:56",
+          "meeting": "Thurles",
+          "horse": "Neria",
+          "odds": "13/8",
+          "res": "?",
+          "trainer": "W P Mullins",
+          "jockey": "Paul Townend"
+        },
+        {
+          "time": "14:31",
+          "meeting": "Thurles",
+          "horse": "Mahollia",
+          "odds": "6/4",
+          "res": "?",
+          "trainer": "W P Mullins",
+          "jockey": "Mr P W Mullins"
+        },
+        {
+          "time": "17:00",
+          "meeting": "Chelmsford City",
+          "horse": "Sir Rodneyredblood",
+          "odds": "12/1",
+          "res": "?",
+          "trainer": "J R Jenkins",
+          "jockey": "Marco Ghiani"
+        }
+      ],
+      "dec": 85.31,
+      "res": "PENDING",
+      "stake": 0.04,
+      "pay": null,
+      "bank": null
     },
     {
       "size": 4,
       "legs": [
         {
-          "time": "12:46",
-          "meeting": "Wetherby",
-          "horse": "I Heard A Rumour",
-          "odds": "13/8",
-          "res": "WIN",
-          "trainer": "D Skelton",
-          "jockey": "Harry Skelton"
-        },
-        {
-          "time": "14:46",
-          "meeting": "Wetherby",
-          "horse": "Albie Littlewood",
+          "time": "12:55",
+          "meeting": "Taunton",
+          "horse": "Anothermanicmonday",
           "odds": "5/2",
-          "res": "NR",
-          "trainer": "D Skelton",
-          "jockey": "Harry Skelton"
+          "res": "?",
+          "trainer": "Mrs S Gardner",
+          "jockey": "Lucy Gardner"
         },
         {
-          "time": "16:20",
-          "meeting": "Kempton",
-          "horse": "Bet You Can't",
-          "odds": "6/5",
-          "res": "LOSE",
-          "trainer": "G Boughey",
-          "jockey": "Billy Loughnane"
+          "time": "13:56",
+          "meeting": "Thurles",
+          "horse": "Neria",
+          "odds": "13/8",
+          "res": "?",
+          "trainer": "W P Mullins",
+          "jockey": "Paul Townend"
         },
         {
-          "time": "17:20",
-          "meeting": "Kempton",
-          "horse": "Highest Peak",
-          "odds": "5/4",
-          "res": "WIN",
-          "trainer": "C Appleby",
-          "jockey": "Billy Loughnane"
+          "time": "14:31",
+          "meeting": "Thurles",
+          "horse": "Mahollia",
+          "odds": "6/4",
+          "res": "?",
+          "trainer": "W P Mullins",
+          "jockey": "Mr P W Mullins"
+        },
+        {
+          "time": "17:00",
+          "meeting": "Chelmsford City",
+          "horse": "Sir Rodneyredblood",
+          "odds": "12/1",
+          "res": "?",
+          "trainer": "J R Jenkins",
+          "jockey": "Marco Ghiani"
         }
       ],
-      "dec": 45.48,
-      "res": "NR",
-      "stake": 0.0,
+      "dec": 298.59,
+      "res": "PENDING",
+      "stake": 0.04,
       "pay": null,
-      "bank": 57.55
+      "bank": null
     }
   ],
   "score": {
     "picks": 4,
     "lines": 15,
-    "won": 3,
-    "lost": 4,
-    "pending": 0,
-    "nr": 8
+    "won": 0,
+    "lost": 0,
+    "pending": 15,
+    "nr": 0
   },
-  "staked": 0.28,
-  "returned": 0.43,
-  "profit": 0.15,
+  "staked": 0,
+  "returned": 0,
+  "profit": 0,
   "bank": {
-    "start": 57.4,
+    "start": 57.55,
     "end": 57.55,
     "next_stake": 0.58,
     "season_start": 10.0,
     "season_end": 57.55
   },
-  "by_size": {
-    "1": {
-      "n": 3,
-      "won": 2,
-      "lines": 3,
-      "staked": 0.12,
-      "returned": 0.19
-    },
-    "2": {
-      "n": 3,
-      "won": 1,
-      "lines": 3,
-      "staked": 0.12,
-      "returned": 0.24
-    },
-    "3": {
-      "n": 1,
-      "won": 0,
-      "lines": 1,
-      "staked": 0.04,
-      "returned": 0.0
-    }
-  }
+  "by_size": {}
 }

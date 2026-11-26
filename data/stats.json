@@ -1,12 +1,12 @@
 {
-  "generated": "2026-11-25T17:32:50+00:00",
+  "generated": "2026-11-26T05:45:02+00:00",
   "season": {
-    "days": 84,
-    "lines": 4474,
+    "days": 85,
+    "lines": 4489,
     "won": 160,
     "lost": 447,
     "nr": 3867,
-    "pending": 0,
+    "pending": 15,
     "staked": 16.34,
     "returned": 63.89,
     "profit": 47.55,
@@ -617,6 +617,12 @@
     "2026-11-25": {
       "staked": 0.28,
       "returned": 0.43,
+      "lines": 15,
+      "bank_end": 57.55
+    },
+    "2026-11-26": {
+      "staked": 0,
+      "returned": 0,
       "lines": 15,
       "bank_end": 57.55
     }
