@@ -1,6 +1,6 @@
 {
   "date": "2026-11-26",
-  "generated": "2026-11-26T13:01:20+00:00",
+  "generated": "2026-11-26T13:31:27+00:00",
   "picks": [
     {
       "time": "12:55",
@@ -10,8 +10,8 @@
       "stars": 3,
       "odds": "5/2",
       "dec": 3.5,
-      "res": null,
-      "pos": 0,
+      "res": "PLACE",
+      "pos": 3,
       "score1": 132.0,
       "score2": 52.67,
       "trainer": "Mrs S Gardner",
@@ -72,16 +72,16 @@
           "meeting": "Taunton",
           "horse": "Anothermanicmonday",
           "odds": "5/2",
-          "res": "?",
+          "res": "PLACE",
           "trainer": "Mrs S Gardner",
           "jockey": "Lucy Gardner"
         }
       ],
       "dec": 3.5,
-      "res": "PENDING",
+      "res": "LOSE",
       "stake": 0.04,
-      "pay": null,
-      "bank": null
+      "pay": 0.0,
+      "bank": 57.51
     },
     {
       "size": 1,
@@ -100,7 +100,7 @@
       "res": "NR",
       "stake": 0.0,
       "pay": null,
-      "bank": 57.55
+      "bank": 57.51
     },
     {
       "size": 1,
@@ -119,7 +119,7 @@
       "res": "NR",
       "stake": 0.0,
       "pay": null,
-      "bank": 57.55
+      "bank": 57.51
     },
     {
       "size": 1,
@@ -138,7 +138,7 @@
       "res": "NR",
       "stake": 0.0,
       "pay": null,
-      "bank": 57.55
+      "bank": 57.51
     },
     {
       "size": 2,
@@ -148,7 +148,7 @@
           "meeting": "Taunton",
           "horse": "Anothermanicmonday",
           "odds": "5/2",
-          "res": "?",
+          "res": "PLACE",
           "trainer": "Mrs S Gardner",
           "jockey": "Lucy Gardner"
         },
@@ -163,10 +163,10 @@
         }
       ],
       "dec": 9.19,
-      "res": "PENDING",
-      "stake": 0.04,
+      "res": "NR",
+      "stake": 0.0,
       "pay": null,
-      "bank": null
+      "bank": 57.51
     },
     {
       "size": 2,
@@ -176,7 +176,7 @@
           "meeting": "Taunton",
           "horse": "Anothermanicmonday",
           "odds": "5/2",
-          "res": "?",
+          "res": "PLACE",
           "trainer": "Mrs S Gardner",
           "jockey": "Lucy Gardner"
         },
@@ -191,10 +191,10 @@
         }
       ],
       "dec": 8.75,
-      "res": "PENDING",
-      "stake": 0.04,
+      "res": "NR",
+      "stake": 0.0,
       "pay": null,
-      "bank": null
+      "bank": 57.51
     },
     {
       "size": 2,
@@ -204,7 +204,7 @@
           "meeting": "Taunton",
           "horse": "Anothermanicmonday",
           "odds": "5/2",
-          "res": "?",
+          "res": "PLACE",
           "trainer": "Mrs S Gardner",
           "jockey": "Lucy Gardner"
         },
@@ -219,10 +219,10 @@
         }
       ],
       "dec": 45.5,
-      "res": "PENDING",
-      "stake": 0.04,
+      "res": "NR",
+      "stake": 0.0,
       "pay": null,
-      "bank": null
+      "bank": 57.51
     },
     {
       "size": 2,
@@ -250,7 +250,7 @@
       "res": "NR",
       "stake": 0.0,
       "pay": null,
-      "bank": 57.55
+      "bank": 57.51
     },
     {
       "size": 2,
@@ -278,7 +278,7 @@
       "res": "NR",
       "stake": 0.0,
       "pay": null,
-      "bank": 57.55
+      "bank": 57.51
     },
     {
       "size": 2,
@@ -306,7 +306,7 @@
       "res": "NR",
       "stake": 0.0,
       "pay": null,
-      "bank": 57.55
+      "bank": 57.51
     },
     {
       "size": 3,
@@ -316,7 +316,7 @@
           "meeting": "Taunton",
           "horse": "Anothermanicmonday",
           "odds": "5/2",
-          "res": "?",
+          "res": "PLACE",
           "trainer": "Mrs S Gardner",
           "jockey": "Lucy Gardner"
         },
@@ -340,10 +340,10 @@
         }
       ],
       "dec": 22.97,
-      "res": "PENDING",
-      "stake": 0.04,
+      "res": "NR",
+      "stake": 0.0,
       "pay": null,
-      "bank": null
+      "bank": 57.51
     },
     {
       "size": 3,
@@ -353,7 +353,7 @@
           "meeting": "Taunton",
           "horse": "Anothermanicmonday",
           "odds": "5/2",
-          "res": "?",
+          "res": "PLACE",
           "trainer": "Mrs S Gardner",
           "jockey": "Lucy Gardner"
         },
@@ -377,10 +377,10 @@
         }
       ],
       "dec": 119.44,
-      "res": "PENDING",
-      "stake": 0.04,
+      "res": "NR",
+      "stake": 0.0,
       "pay": null,
-      "bank": null
+      "bank": 57.51
     },
     {
       "size": 3,
@@ -390,7 +390,7 @@
           "meeting": "Taunton",
           "horse": "Anothermanicmonday",
           "odds": "5/2",
-          "res": "?",
+          "res": "PLACE",
           "trainer": "Mrs S Gardner",
           "jockey": "Lucy Gardner"
         },
@@ -414,10 +414,10 @@
         }
       ],
       "dec": 113.75,
-      "res": "PENDING",
-      "stake": 0.04,
+      "res": "NR",
+      "stake": 0.0,
       "pay": null,
-      "bank": null
+      "bank": 57.51
     },
     {
       "size": 3,
@@ -454,7 +454,7 @@
       "res": "NR",
       "stake": 0.0,
       "pay": null,
-      "bank": 57.55
+      "bank": 57.51
     },
     {
       "size": 4,
@@ -464,7 +464,7 @@
           "meeting": "Taunton",
           "horse": "Anothermanicmonday",
           "odds": "5/2",
-          "res": "?",
+          "res": "PLACE",
           "trainer": "Mrs S Gardner",
           "jockey": "Lucy Gardner"
         },
@@ -497,29 +497,37 @@
         }
       ],
       "dec": 298.59,
-      "res": "PENDING",
-      "stake": 0.04,
+      "res": "NR",
+      "stake": 0.0,
       "pay": null,
-      "bank": null
+      "bank": 57.51
     }
   ],
   "score": {
     "picks": 4,
     "lines": 15,
     "won": 0,
-    "lost": 0,
-    "pending": 8,
-    "nr": 7
+    "lost": 1,
+    "pending": 0,
+    "nr": 14
   },
-  "staked": 0,
-  "returned": 0,
-  "profit": 0,
+  "staked": 0.04,
+  "returned": 0.0,
+  "profit": -0.04,
   "bank": {
     "start": 57.55,
-    "end": 57.55,
+    "end": 57.51,
     "next_stake": 0.58,
     "season_start": 10.0,
-    "season_end": 57.55
+    "season_end": 57.51
   },
-  "by_size": {}
+  "by_size": {
+    "1": {
+      "n": 1,
+      "won": 0,
+      "lines": 1,
+      "staked": 0.04,
+      "returned": 0.0
+    }
+  }
 }
