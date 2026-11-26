@@ -1,6 +1,6 @@
 {
   "date": "2026-11-26",
-  "generated": "2026-11-26T15:01:22+00:00",
+  "generated": "2026-11-26T17:31:42+00:00",
   "picks": [
     {
       "time": "12:55",
@@ -55,8 +55,8 @@
       "stars": 4,
       "odds": "12/1",
       "dec": 13.0,
-      "res": "NR",
-      "pos": 0,
+      "res": "LOSE",
+      "pos": 9,
       "score1": 306.84,
       "score2": 149.88,
       "trainer": "J R Jenkins",
@@ -129,16 +129,16 @@
           "meeting": "Chelmsford City",
           "horse": "Sir Rodneyredblood",
           "odds": "12/1",
-          "res": "NR",
+          "res": "LOSE",
           "trainer": "J R Jenkins",
           "jockey": "Marco Ghiani"
         }
       ],
       "dec": 13.0,
-      "res": "NR",
-      "stake": 0.0,
-      "pay": null,
-      "bank": 57.73
+      "res": "LOSE",
+      "stake": 0.04,
+      "pay": 0.0,
+      "bank": 57.69
     },
     {
       "size": 2,
@@ -213,16 +213,16 @@
           "meeting": "Chelmsford City",
           "horse": "Sir Rodneyredblood",
           "odds": "12/1",
-          "res": "NR",
+          "res": "LOSE",
           "trainer": "J R Jenkins",
           "jockey": "Marco Ghiani"
         }
       ],
       "dec": 45.5,
-      "res": "NR",
-      "stake": 0.0,
-      "pay": null,
-      "bank": 57.73
+      "res": "LOSE",
+      "stake": 0.04,
+      "pay": 0.0,
+      "bank": 57.65
     },
     {
       "size": 2,
@@ -269,16 +269,16 @@
           "meeting": "Chelmsford City",
           "horse": "Sir Rodneyredblood",
           "odds": "12/1",
-          "res": "NR",
+          "res": "LOSE",
           "trainer": "J R Jenkins",
           "jockey": "Marco Ghiani"
         }
       ],
       "dec": 34.12,
-      "res": "NR",
-      "stake": 0.0,
-      "pay": null,
-      "bank": 57.73
+      "res": "LOSE",
+      "stake": 0.04,
+      "pay": 0.0,
+      "bank": 57.61
     },
     {
       "size": 2,
@@ -297,16 +297,16 @@
           "meeting": "Chelmsford City",
           "horse": "Sir Rodneyredblood",
           "odds": "12/1",
-          "res": "NR",
+          "res": "LOSE",
           "trainer": "J R Jenkins",
           "jockey": "Marco Ghiani"
         }
       ],
       "dec": 32.5,
-      "res": "NR",
-      "stake": 0.0,
-      "pay": null,
-      "bank": 57.73
+      "res": "LOSE",
+      "stake": 0.04,
+      "pay": 0.0,
+      "bank": 57.57
     },
     {
       "size": 3,
@@ -371,16 +371,16 @@
           "meeting": "Chelmsford City",
           "horse": "Sir Rodneyredblood",
           "odds": "12/1",
-          "res": "NR",
+          "res": "LOSE",
           "trainer": "J R Jenkins",
           "jockey": "Marco Ghiani"
         }
       ],
       "dec": 119.44,
-      "res": "NR",
-      "stake": 0.0,
-      "pay": null,
-      "bank": 57.73
+      "res": "LOSE",
+      "stake": 0.04,
+      "pay": 0.0,
+      "bank": 57.53
     },
     {
       "size": 3,
@@ -408,16 +408,16 @@
           "meeting": "Chelmsford City",
           "horse": "Sir Rodneyredblood",
           "odds": "12/1",
-          "res": "NR",
+          "res": "LOSE",
           "trainer": "J R Jenkins",
           "jockey": "Marco Ghiani"
         }
       ],
       "dec": 113.75,
-      "res": "NR",
-      "stake": 0.0,
-      "pay": null,
-      "bank": 57.73
+      "res": "LOSE",
+      "stake": 0.04,
+      "pay": 0.0,
+      "bank": 57.49
     },
     {
       "size": 3,
@@ -445,16 +445,16 @@
           "meeting": "Chelmsford City",
           "horse": "Sir Rodneyredblood",
           "odds": "12/1",
-          "res": "NR",
+          "res": "LOSE",
           "trainer": "J R Jenkins",
           "jockey": "Marco Ghiani"
         }
       ],
       "dec": 85.31,
-      "res": "NR",
-      "stake": 0.0,
-      "pay": null,
-      "bank": 57.73
+      "res": "LOSE",
+      "stake": 0.04,
+      "pay": 0.0,
+      "bank": 57.45
     },
     {
       "size": 4,
@@ -491,52 +491,59 @@
           "meeting": "Chelmsford City",
           "horse": "Sir Rodneyredblood",
           "odds": "12/1",
-          "res": "NR",
+          "res": "LOSE",
           "trainer": "J R Jenkins",
           "jockey": "Marco Ghiani"
         }
       ],
       "dec": 298.59,
-      "res": "NR",
-      "stake": 0.0,
-      "pay": null,
-      "bank": 57.73
+      "res": "LOSE",
+      "stake": 0.04,
+      "pay": 0.0,
+      "bank": 57.41
     }
   ],
   "score": {
     "picks": 4,
     "lines": 15,
     "won": 3,
-    "lost": 4,
+    "lost": 12,
     "pending": 0,
-    "nr": 8
+    "nr": 0
   },
-  "staked": 0.28,
+  "staked": 0.6,
   "returned": 0.46,
-  "profit": 0.18,
+  "profit": -0.14,
   "bank": {
     "start": 57.55,
-    "end": 57.73,
-    "next_stake": 0.58,
+    "end": 57.41,
+    "next_stake": 0.57,
     "season_start": 10.0,
-    "season_end": 57.73
+    "season_end": 57.41
   },
   "by_size": {
     "1": {
-      "n": 3,
+      "n": 4,
       "won": 2,
-      "lines": 3,
-      "staked": 0.12,
+      "lines": 4,
+      "staked": 0.16,
       "returned": 0.2
     },
     "2": {
-      "n": 3,
+      "n": 6,
       "won": 1,
-      "lines": 3,
-      "staked": 0.12,
+      "lines": 6,
+      "staked": 0.24,
       "returned": 0.26
     },
     "3": {
+      "n": 4,
+      "won": 0,
+      "lines": 4,
+      "staked": 0.16,
+      "returned": 0.0
+    },
+    "4": {
       "n": 1,
       "won": 0,
       "lines": 1,
