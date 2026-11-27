@@ -1,6 +1,6 @@
 {
   "date": "2026-11-27",
-  "generated": "2026-11-27T05:45:02+00:00",
+  "generated": "2026-11-27T13:01:15+00:00",
   "picks": [
     {
       "time": "11:40",
@@ -10,8 +10,8 @@
       "stars": 5,
       "odds": "2/1",
       "dec": 3.0,
-      "res": null,
-      "pos": 0,
+      "res": "PLACE",
+      "pos": 3,
       "score1": 130.0,
       "score2": 57.67,
       "trainer": "N J Henderson",
@@ -42,16 +42,16 @@
           "meeting": "Newbury",
           "horse": "Prince Rupert",
           "odds": "2/1",
-          "res": "?",
+          "res": "PLACE",
           "trainer": "N J Henderson",
           "jockey": "N de Boinville"
         }
       ],
       "dec": 3.0,
-      "res": "PENDING",
+      "res": "LOSE",
       "stake": 0.19,
-      "pay": null,
-      "bank": null
+      "pay": 0.0,
+      "bank": 57.22
     },
     {
       "size": 1,
@@ -80,7 +80,7 @@
           "meeting": "Newbury",
           "horse": "Prince Rupert",
           "odds": "2/1",
-          "res": "?",
+          "res": "PLACE",
           "trainer": "N J Henderson",
           "jockey": "N de Boinville"
         },
@@ -105,19 +105,27 @@
     "picks": 2,
     "lines": 3,
     "won": 0,
-    "lost": 0,
-    "pending": 3,
+    "lost": 1,
+    "pending": 2,
     "nr": 0
   },
-  "staked": 0,
-  "returned": 0,
-  "profit": 0,
+  "staked": 0.19,
+  "returned": 0.0,
+  "profit": -0.19,
   "bank": {
     "start": 57.41,
-    "end": 57.41,
+    "end": 57.22,
     "next_stake": 0.57,
     "season_start": 10.0,
-    "season_end": 57.41
+    "season_end": 57.22
   },
-  "by_size": {}
+  "by_size": {
+    "1": {
+      "n": 1,
+      "won": 0,
+      "lines": 1,
+      "staked": 0.19,
+      "returned": 0.0
+    }
+  }
 }
