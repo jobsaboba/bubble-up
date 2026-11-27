@@ -1,66 +1,36 @@
 {
-  "date": "2026-11-26",
-  "generated": "2026-11-26T17:31:42+00:00",
+  "date": "2026-11-27",
+  "generated": "2026-11-27T05:45:02+00:00",
   "picks": [
     {
-      "time": "12:55",
-      "meeting": "Taunton",
-      "race": "Denise Smith Memorial Novices' Limited Handicap Hurdle",
-      "horse": "Anothermanicmonday",
-      "stars": 3,
-      "odds": "5/2",
-      "dec": 3.5,
-      "res": "PLACE",
-      "pos": 3,
-      "score1": 132.0,
-      "score2": 52.67,
-      "trainer": "Mrs S Gardner",
-      "jockey": "Lucy Gardner"
-    },
-    {
-      "time": "13:56",
-      "meeting": "Thurles",
-      "race": "Horse And Jockey 3-Y-O Maiden Hurdle",
-      "horse": "Neria",
+      "time": "11:40",
+      "meeting": "Newbury",
+      "race": "Coral 'Black Friday Price Boosts' 'National Hunt' Maiden Hurdle (GBB Race) (Div 1)",
+      "horse": "Prince Rupert",
       "stars": 5,
-      "odds": "13/8",
-      "dec": 2.625,
-      "res": "WIN",
-      "pos": 1,
-      "score1": 183.24,
-      "score2": 61.22,
-      "trainer": "W P Mullins",
-      "jockey": "Paul Townend"
+      "odds": "2/1",
+      "dec": 3.0,
+      "res": null,
+      "pos": 0,
+      "score1": 130.0,
+      "score2": 57.67,
+      "trainer": "N J Henderson",
+      "jockey": "N de Boinville"
     },
     {
-      "time": "14:31",
-      "meeting": "Thurles",
-      "race": "Irish Stallion Farms EBF Mares Maiden Hurdle",
-      "horse": "Mahollia",
+      "time": "18:30",
+      "meeting": "Dundalk",
+      "race": "Campbell & Haughey Solicitors Nursery Handicap (0-60)",
+      "horse": "Invincible Irish",
       "stars": 5,
-      "odds": "6/4",
-      "dec": 2.5,
-      "res": "WIN",
-      "pos": 1,
-      "score1": 178.36,
-      "score2": 82.56,
-      "trainer": "W P Mullins",
-      "jockey": "Mr P W Mullins"
-    },
-    {
-      "time": "17:00",
-      "meeting": "Chelmsford City",
-      "race": "Midnite Built Different Handicap (Div 1)",
-      "horse": "Sir Rodneyredblood",
-      "stars": 4,
-      "odds": "12/1",
-      "dec": 13.0,
-      "res": "LOSE",
-      "pos": 9,
-      "score1": 306.84,
-      "score2": 149.88,
-      "trainer": "J R Jenkins",
-      "jockey": "Marco Ghiani"
+      "odds": "11/8",
+      "dec": 2.375,
+      "res": null,
+      "pos": 0,
+      "score1": 62.28,
+      "score2": 27.67,
+      "trainer": "Daniel McLoughlin",
+      "jockey": "Ben Coen"
     }
   ],
   "combos": [
@@ -68,487 +38,86 @@
       "size": 1,
       "legs": [
         {
-          "time": "12:55",
-          "meeting": "Taunton",
-          "horse": "Anothermanicmonday",
-          "odds": "5/2",
-          "res": "PLACE",
-          "trainer": "Mrs S Gardner",
-          "jockey": "Lucy Gardner"
+          "time": "11:40",
+          "meeting": "Newbury",
+          "horse": "Prince Rupert",
+          "odds": "2/1",
+          "res": "?",
+          "trainer": "N J Henderson",
+          "jockey": "N de Boinville"
         }
       ],
-      "dec": 3.5,
-      "res": "LOSE",
-      "stake": 0.04,
-      "pay": 0.0,
-      "bank": 57.51
+      "dec": 3.0,
+      "res": "PENDING",
+      "stake": 0.19,
+      "pay": null,
+      "bank": null
     },
     {
       "size": 1,
       "legs": [
         {
-          "time": "13:56",
-          "meeting": "Thurles",
-          "horse": "Neria",
-          "odds": "13/8",
-          "res": "WIN",
-          "trainer": "W P Mullins",
-          "jockey": "Paul Townend"
+          "time": "18:30",
+          "meeting": "Dundalk",
+          "horse": "Invincible Irish",
+          "odds": "11/8",
+          "res": "?",
+          "trainer": "Daniel McLoughlin",
+          "jockey": "Ben Coen"
         }
       ],
-      "dec": 2.62,
-      "res": "WIN",
-      "stake": 0.04,
-      "pay": 0.1,
-      "bank": 57.57
-    },
-    {
-      "size": 1,
-      "legs": [
-        {
-          "time": "14:31",
-          "meeting": "Thurles",
-          "horse": "Mahollia",
-          "odds": "6/4",
-          "res": "WIN",
-          "trainer": "W P Mullins",
-          "jockey": "Mr P W Mullins"
-        }
-      ],
-      "dec": 2.5,
-      "res": "WIN",
-      "stake": 0.04,
-      "pay": 0.1,
-      "bank": 57.59
-    },
-    {
-      "size": 1,
-      "legs": [
-        {
-          "time": "17:00",
-          "meeting": "Chelmsford City",
-          "horse": "Sir Rodneyredblood",
-          "odds": "12/1",
-          "res": "LOSE",
-          "trainer": "J R Jenkins",
-          "jockey": "Marco Ghiani"
-        }
-      ],
-      "dec": 13.0,
-      "res": "LOSE",
-      "stake": 0.04,
-      "pay": 0.0,
-      "bank": 57.69
+      "dec": 2.38,
+      "res": "PENDING",
+      "stake": 0.19,
+      "pay": null,
+      "bank": null
     },
     {
       "size": 2,
       "legs": [
         {
-          "time": "12:55",
-          "meeting": "Taunton",
-          "horse": "Anothermanicmonday",
-          "odds": "5/2",
-          "res": "PLACE",
-          "trainer": "Mrs S Gardner",
-          "jockey": "Lucy Gardner"
+          "time": "11:40",
+          "meeting": "Newbury",
+          "horse": "Prince Rupert",
+          "odds": "2/1",
+          "res": "?",
+          "trainer": "N J Henderson",
+          "jockey": "N de Boinville"
         },
         {
-          "time": "13:56",
-          "meeting": "Thurles",
-          "horse": "Neria",
-          "odds": "13/8",
-          "res": "WIN",
-          "trainer": "W P Mullins",
-          "jockey": "Paul Townend"
+          "time": "18:30",
+          "meeting": "Dundalk",
+          "horse": "Invincible Irish",
+          "odds": "11/8",
+          "res": "?",
+          "trainer": "Daniel McLoughlin",
+          "jockey": "Ben Coen"
         }
       ],
-      "dec": 9.19,
-      "res": "LOSE",
-      "stake": 0.04,
-      "pay": 0.0,
-      "bank": 57.53
-    },
-    {
-      "size": 2,
-      "legs": [
-        {
-          "time": "12:55",
-          "meeting": "Taunton",
-          "horse": "Anothermanicmonday",
-          "odds": "5/2",
-          "res": "PLACE",
-          "trainer": "Mrs S Gardner",
-          "jockey": "Lucy Gardner"
-        },
-        {
-          "time": "14:31",
-          "meeting": "Thurles",
-          "horse": "Mahollia",
-          "odds": "6/4",
-          "res": "WIN",
-          "trainer": "W P Mullins",
-          "jockey": "Mr P W Mullins"
-        }
-      ],
-      "dec": 8.75,
-      "res": "LOSE",
-      "stake": 0.04,
-      "pay": 0.0,
-      "bank": 57.55
-    },
-    {
-      "size": 2,
-      "legs": [
-        {
-          "time": "12:55",
-          "meeting": "Taunton",
-          "horse": "Anothermanicmonday",
-          "odds": "5/2",
-          "res": "PLACE",
-          "trainer": "Mrs S Gardner",
-          "jockey": "Lucy Gardner"
-        },
-        {
-          "time": "17:00",
-          "meeting": "Chelmsford City",
-          "horse": "Sir Rodneyredblood",
-          "odds": "12/1",
-          "res": "LOSE",
-          "trainer": "J R Jenkins",
-          "jockey": "Marco Ghiani"
-        }
-      ],
-      "dec": 45.5,
-      "res": "LOSE",
-      "stake": 0.04,
-      "pay": 0.0,
-      "bank": 57.65
-    },
-    {
-      "size": 2,
-      "legs": [
-        {
-          "time": "13:56",
-          "meeting": "Thurles",
-          "horse": "Neria",
-          "odds": "13/8",
-          "res": "WIN",
-          "trainer": "W P Mullins",
-          "jockey": "Paul Townend"
-        },
-        {
-          "time": "14:31",
-          "meeting": "Thurles",
-          "horse": "Mahollia",
-          "odds": "6/4",
-          "res": "WIN",
-          "trainer": "W P Mullins",
-          "jockey": "Mr P W Mullins"
-        }
-      ],
-      "dec": 6.56,
-      "res": "WIN",
-      "stake": 0.04,
-      "pay": 0.26,
-      "bank": 57.77
-    },
-    {
-      "size": 2,
-      "legs": [
-        {
-          "time": "13:56",
-          "meeting": "Thurles",
-          "horse": "Neria",
-          "odds": "13/8",
-          "res": "WIN",
-          "trainer": "W P Mullins",
-          "jockey": "Paul Townend"
-        },
-        {
-          "time": "17:00",
-          "meeting": "Chelmsford City",
-          "horse": "Sir Rodneyredblood",
-          "odds": "12/1",
-          "res": "LOSE",
-          "trainer": "J R Jenkins",
-          "jockey": "Marco Ghiani"
-        }
-      ],
-      "dec": 34.12,
-      "res": "LOSE",
-      "stake": 0.04,
-      "pay": 0.0,
-      "bank": 57.61
-    },
-    {
-      "size": 2,
-      "legs": [
-        {
-          "time": "14:31",
-          "meeting": "Thurles",
-          "horse": "Mahollia",
-          "odds": "6/4",
-          "res": "WIN",
-          "trainer": "W P Mullins",
-          "jockey": "Mr P W Mullins"
-        },
-        {
-          "time": "17:00",
-          "meeting": "Chelmsford City",
-          "horse": "Sir Rodneyredblood",
-          "odds": "12/1",
-          "res": "LOSE",
-          "trainer": "J R Jenkins",
-          "jockey": "Marco Ghiani"
-        }
-      ],
-      "dec": 32.5,
-      "res": "LOSE",
-      "stake": 0.04,
-      "pay": 0.0,
-      "bank": 57.57
-    },
-    {
-      "size": 3,
-      "legs": [
-        {
-          "time": "12:55",
-          "meeting": "Taunton",
-          "horse": "Anothermanicmonday",
-          "odds": "5/2",
-          "res": "PLACE",
-          "trainer": "Mrs S Gardner",
-          "jockey": "Lucy Gardner"
-        },
-        {
-          "time": "13:56",
-          "meeting": "Thurles",
-          "horse": "Neria",
-          "odds": "13/8",
-          "res": "WIN",
-          "trainer": "W P Mullins",
-          "jockey": "Paul Townend"
-        },
-        {
-          "time": "14:31",
-          "meeting": "Thurles",
-          "horse": "Mahollia",
-          "odds": "6/4",
-          "res": "WIN",
-          "trainer": "W P Mullins",
-          "jockey": "Mr P W Mullins"
-        }
-      ],
-      "dec": 22.97,
-      "res": "LOSE",
-      "stake": 0.04,
-      "pay": 0.0,
-      "bank": 57.73
-    },
-    {
-      "size": 3,
-      "legs": [
-        {
-          "time": "12:55",
-          "meeting": "Taunton",
-          "horse": "Anothermanicmonday",
-          "odds": "5/2",
-          "res": "PLACE",
-          "trainer": "Mrs S Gardner",
-          "jockey": "Lucy Gardner"
-        },
-        {
-          "time": "13:56",
-          "meeting": "Thurles",
-          "horse": "Neria",
-          "odds": "13/8",
-          "res": "WIN",
-          "trainer": "W P Mullins",
-          "jockey": "Paul Townend"
-        },
-        {
-          "time": "17:00",
-          "meeting": "Chelmsford City",
-          "horse": "Sir Rodneyredblood",
-          "odds": "12/1",
-          "res": "LOSE",
-          "trainer": "J R Jenkins",
-          "jockey": "Marco Ghiani"
-        }
-      ],
-      "dec": 119.44,
-      "res": "LOSE",
-      "stake": 0.04,
-      "pay": 0.0,
-      "bank": 57.53
-    },
-    {
-      "size": 3,
-      "legs": [
-        {
-          "time": "12:55",
-          "meeting": "Taunton",
-          "horse": "Anothermanicmonday",
-          "odds": "5/2",
-          "res": "PLACE",
-          "trainer": "Mrs S Gardner",
-          "jockey": "Lucy Gardner"
-        },
-        {
-          "time": "14:31",
-          "meeting": "Thurles",
-          "horse": "Mahollia",
-          "odds": "6/4",
-          "res": "WIN",
-          "trainer": "W P Mullins",
-          "jockey": "Mr P W Mullins"
-        },
-        {
-          "time": "17:00",
-          "meeting": "Chelmsford City",
-          "horse": "Sir Rodneyredblood",
-          "odds": "12/1",
-          "res": "LOSE",
-          "trainer": "J R Jenkins",
-          "jockey": "Marco Ghiani"
-        }
-      ],
-      "dec": 113.75,
-      "res": "LOSE",
-      "stake": 0.04,
-      "pay": 0.0,
-      "bank": 57.49
-    },
-    {
-      "size": 3,
-      "legs": [
-        {
-          "time": "13:56",
-          "meeting": "Thurles",
-          "horse": "Neria",
-          "odds": "13/8",
-          "res": "WIN",
-          "trainer": "W P Mullins",
-          "jockey": "Paul Townend"
-        },
-        {
-          "time": "14:31",
-          "meeting": "Thurles",
-          "horse": "Mahollia",
-          "odds": "6/4",
-          "res": "WIN",
-          "trainer": "W P Mullins",
-          "jockey": "Mr P W Mullins"
-        },
-        {
-          "time": "17:00",
-          "meeting": "Chelmsford City",
-          "horse": "Sir Rodneyredblood",
-          "odds": "12/1",
-          "res": "LOSE",
-          "trainer": "J R Jenkins",
-          "jockey": "Marco Ghiani"
-        }
-      ],
-      "dec": 85.31,
-      "res": "LOSE",
-      "stake": 0.04,
-      "pay": 0.0,
-      "bank": 57.45
-    },
-    {
-      "size": 4,
-      "legs": [
-        {
-          "time": "12:55",
-          "meeting": "Taunton",
-          "horse": "Anothermanicmonday",
-          "odds": "5/2",
-          "res": "PLACE",
-          "trainer": "Mrs S Gardner",
-          "jockey": "Lucy Gardner"
-        },
-        {
-          "time": "13:56",
-          "meeting": "Thurles",
-          "horse": "Neria",
-          "odds": "13/8",
-          "res": "WIN",
-          "trainer": "W P Mullins",
-          "jockey": "Paul Townend"
-        },
-        {
-          "time": "14:31",
-          "meeting": "Thurles",
-          "horse": "Mahollia",
-          "odds": "6/4",
-          "res": "WIN",
-          "trainer": "W P Mullins",
-          "jockey": "Mr P W Mullins"
-        },
-        {
-          "time": "17:00",
-          "meeting": "Chelmsford City",
-          "horse": "Sir Rodneyredblood",
-          "odds": "12/1",
-          "res": "LOSE",
-          "trainer": "J R Jenkins",
-          "jockey": "Marco Ghiani"
-        }
-      ],
-      "dec": 298.59,
-      "res": "LOSE",
-      "stake": 0.04,
-      "pay": 0.0,
-      "bank": 57.41
+      "dec": 7.12,
+      "res": "PENDING",
+      "stake": 0.19,
+      "pay": null,
+      "bank": null
     }
   ],
   "score": {
-    "picks": 4,
-    "lines": 15,
-    "won": 3,
-    "lost": 12,
-    "pending": 0,
+    "picks": 2,
+    "lines": 3,
+    "won": 0,
+    "lost": 0,
+    "pending": 3,
     "nr": 0
   },
-  "staked": 0.6,
-  "returned": 0.46,
-  "profit": -0.14,
+  "staked": 0,
+  "returned": 0,
+  "profit": 0,
   "bank": {
-    "start": 57.55,
+    "start": 57.41,
     "end": 57.41,
     "next_stake": 0.57,
     "season_start": 10.0,
     "season_end": 57.41
   },
-  "by_size": {
-    "1": {
-      "n": 4,
-      "won": 2,
-      "lines": 4,
-      "staked": 0.16,
-      "returned": 0.2
-    },
-    "2": {
-      "n": 6,
-      "won": 1,
-      "lines": 6,
-      "staked": 0.24,
-      "returned": 0.26
-    },
-    "3": {
-      "n": 4,
-      "won": 0,
-      "lines": 4,
-      "staked": 0.16,
-      "returned": 0.0
-    },
-    "4": {
-      "n": 1,
-      "won": 0,
-      "lines": 1,
-      "staked": 0.04,
-      "returned": 0.0
-    }
-  }
+  "by_size": {}
 }
