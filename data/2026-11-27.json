@@ -1,6 +1,6 @@
 {
   "date": "2026-11-27",
-  "generated": "2026-11-27T13:01:15+00:00",
+  "generated": "2026-11-27T19:01:08+00:00",
   "picks": [
     {
       "time": "11:40",
@@ -25,8 +25,8 @@
       "stars": 5,
       "odds": "11/8",
       "dec": 2.375,
-      "res": null,
-      "pos": 0,
+      "res": "PLACE",
+      "pos": 2,
       "score1": 62.28,
       "score2": 27.67,
       "trainer": "Daniel McLoughlin",
@@ -61,16 +61,16 @@
           "meeting": "Dundalk",
           "horse": "Invincible Irish",
           "odds": "11/8",
-          "res": "?",
+          "res": "PLACE",
           "trainer": "Daniel McLoughlin",
           "jockey": "Ben Coen"
         }
       ],
       "dec": 2.38,
-      "res": "PENDING",
+      "res": "LOSE",
       "stake": 0.19,
-      "pay": null,
-      "bank": null
+      "pay": 0.0,
+      "bank": 57.03
     },
     {
       "size": 2,
@@ -89,38 +89,45 @@
           "meeting": "Dundalk",
           "horse": "Invincible Irish",
           "odds": "11/8",
-          "res": "?",
+          "res": "PLACE",
           "trainer": "Daniel McLoughlin",
           "jockey": "Ben Coen"
         }
       ],
       "dec": 7.12,
-      "res": "PENDING",
+      "res": "LOSE",
       "stake": 0.19,
-      "pay": null,
-      "bank": null
+      "pay": 0.0,
+      "bank": 56.84
     }
   ],
   "score": {
     "picks": 2,
     "lines": 3,
     "won": 0,
-    "lost": 1,
-    "pending": 2,
+    "lost": 3,
+    "pending": 0,
     "nr": 0
   },
-  "staked": 0.19,
+  "staked": 0.57,
   "returned": 0.0,
-  "profit": -0.19,
+  "profit": -0.57,
   "bank": {
     "start": 57.41,
-    "end": 57.22,
+    "end": 56.84,
     "next_stake": 0.57,
     "season_start": 10.0,
-    "season_end": 57.22
+    "season_end": 56.84
   },
   "by_size": {
     "1": {
+      "n": 2,
+      "won": 0,
+      "lines": 2,
+      "staked": 0.38,
+      "returned": 0.0
+    },
+    "2": {
       "n": 1,
       "won": 0,
       "lines": 1,
