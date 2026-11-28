@@ -1,0 +1,250 @@
+{
+  "date": "2026-11-28",
+  "generated": "2026-11-28T05:45:01+00:00",
+  "picks": [
+    {
+      "time": "13:25",
+      "meeting": "Newcastle",
+      "race": "SES Engineering Powering Past The Rehearsal Handicap Chase (Premier Handicap) (GBB Race)",
+      "horse": "Il Est Francais",
+      "stars": 4,
+      "odds": "11/2",
+      "dec": 6.5,
+      "res": null,
+      "pos": 0,
+      "score1": 286.05,
+      "score2": 124.22,
+      "trainer": "D Skelton",
+      "jockey": "Harry Skelton"
+    },
+    {
+      "time": "13:33",
+      "meeting": "Bangor-on-Dee",
+      "race": "Paul Ferguson Jumpers To Follow Novices' Hurdle (GBB Race) (Div 1)",
+      "horse": "Scott's Legacy",
+      "stars": 5,
+      "odds": "4/5",
+      "dec": 1.8,
+      "res": null,
+      "pos": 0,
+      "score1": 65.14,
+      "score2": 24.41,
+      "trainer": "N & W Twiston-Davies",
+      "jockey": "Toby McCain-Mitchell"
+    },
+    {
+      "time": "15:43",
+      "meeting": "Fairyhouse",
+      "race": "Willie Elliott Memorial (Pro/Am) Flat Race",
+      "horse": "Uncle Pad",
+      "stars": 5,
+      "odds": "11/10",
+      "dec": 2.1,
+      "res": null,
+      "pos": 0,
+      "score1": 79.22,
+      "score2": 36.33,
+      "trainer": "G Elliott",
+      "jockey": "Mr H C Swan"
+    }
+  ],
+  "combos": [
+    {
+      "size": 1,
+      "legs": [
+        {
+          "time": "13:25",
+          "meeting": "Newcastle",
+          "horse": "Il Est Francais",
+          "odds": "11/2",
+          "res": "?",
+          "trainer": "D Skelton",
+          "jockey": "Harry Skelton"
+        }
+      ],
+      "dec": 6.5,
+      "res": "PENDING",
+      "stake": 0.08,
+      "pay": null,
+      "bank": null
+    },
+    {
+      "size": 1,
+      "legs": [
+        {
+          "time": "13:33",
+          "meeting": "Bangor-on-Dee",
+          "horse": "Scott's Legacy",
+          "odds": "4/5",
+          "res": "?",
+          "trainer": "N & W Twiston-Davies",
+          "jockey": "Toby McCain-Mitchell"
+        }
+      ],
+      "dec": 1.8,
+      "res": "PENDING",
+      "stake": 0.08,
+      "pay": null,
+      "bank": null
+    },
+    {
+      "size": 1,
+      "legs": [
+        {
+          "time": "15:43",
+          "meeting": "Fairyhouse",
+          "horse": "Uncle Pad",
+          "odds": "11/10",
+          "res": "?",
+          "trainer": "G Elliott",
+          "jockey": "Mr H C Swan"
+        }
+      ],
+      "dec": 2.1,
+      "res": "PENDING",
+      "stake": 0.08,
+      "pay": null,
+      "bank": null
+    },
+    {
+      "size": 2,
+      "legs": [
+        {
+          "time": "13:25",
+          "meeting": "Newcastle",
+          "horse": "Il Est Francais",
+          "odds": "11/2",
+          "res": "?",
+          "trainer": "D Skelton",
+          "jockey": "Harry Skelton"
+        },
+        {
+          "time": "13:33",
+          "meeting": "Bangor-on-Dee",
+          "horse": "Scott's Legacy",
+          "odds": "4/5",
+          "res": "?",
+          "trainer": "N & W Twiston-Davies",
+          "jockey": "Toby McCain-Mitchell"
+        }
+      ],
+      "dec": 11.7,
+      "res": "PENDING",
+      "stake": 0.08,
+      "pay": null,
+      "bank": null
+    },
+    {
+      "size": 2,
+      "legs": [
+        {
+          "time": "13:25",
+          "meeting": "Newcastle",
+          "horse": "Il Est Francais",
+          "odds": "11/2",
+          "res": "?",
+          "trainer": "D Skelton",
+          "jockey": "Harry Skelton"
+        },
+        {
+          "time": "15:43",
+          "meeting": "Fairyhouse",
+          "horse": "Uncle Pad",
+          "odds": "11/10",
+          "res": "?",
+          "trainer": "G Elliott",
+          "jockey": "Mr H C Swan"
+        }
+      ],
+      "dec": 13.65,
+      "res": "PENDING",
+      "stake": 0.08,
+      "pay": null,
+      "bank": null
+    },
+    {
+      "size": 2,
+      "legs": [
+        {
+          "time": "13:33",
+          "meeting": "Bangor-on-Dee",
+          "horse": "Scott's Legacy",
+          "odds": "4/5",
+          "res": "?",
+          "trainer": "N & W Twiston-Davies",
+          "jockey": "Toby McCain-Mitchell"
+        },
+        {
+          "time": "15:43",
+          "meeting": "Fairyhouse",
+          "horse": "Uncle Pad",
+          "odds": "11/10",
+          "res": "?",
+          "trainer": "G Elliott",
+          "jockey": "Mr H C Swan"
+        }
+      ],
+      "dec": 3.78,
+      "res": "PENDING",
+      "stake": 0.08,
+      "pay": null,
+      "bank": null
+    },
+    {
+      "size": 3,
+      "legs": [
+        {
+          "time": "13:25",
+          "meeting": "Newcastle",
+          "horse": "Il Est Francais",
+          "odds": "11/2",
+          "res": "?",
+          "trainer": "D Skelton",
+          "jockey": "Harry Skelton"
+        },
+        {
+          "time": "13:33",
+          "meeting": "Bangor-on-Dee",
+          "horse": "Scott's Legacy",
+          "odds": "4/5",
+          "res": "?",
+          "trainer": "N & W Twiston-Davies",
+          "jockey": "Toby McCain-Mitchell"
+        },
+        {
+          "time": "15:43",
+          "meeting": "Fairyhouse",
+          "horse": "Uncle Pad",
+          "odds": "11/10",
+          "res": "?",
+          "trainer": "G Elliott",
+          "jockey": "Mr H C Swan"
+        }
+      ],
+      "dec": 24.57,
+      "res": "PENDING",
+      "stake": 0.08,
+      "pay": null,
+      "bank": null
+    }
+  ],
+  "score": {
+    "picks": 3,
+    "lines": 7,
+    "won": 0,
+    "lost": 0,
+    "pending": 7,
+    "nr": 0
+  },
+  "staked": 0,
+  "returned": 0,
+  "profit": 0,
+  "bank": {
+    "start": 56.84,
+    "end": 56.84,
+    "next_stake": 0.57,
+    "season_start": 10.0,
+    "season_end": 56.84
+  },
+  "by_size": {}
+}
